@@ -8,6 +8,10 @@ const withSerwist = withSerwistInit({
   disable: process.env.NODE_ENV === "development",
 });
 
-const nextConfig: NextConfig = {};
+const nextConfig: NextConfig = {
+  // Dev runs Turbopack and ignores Serwist's injected webpack config (the SW
+  // is disabled in dev anyway); production builds use `next build --webpack`.
+  turbopack: {},
+};
 
 export default withSerwist(nextConfig);

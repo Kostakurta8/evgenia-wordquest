@@ -92,6 +92,48 @@ function withChoices(tasks: Task[], words: Word[], pool: Word[]): Task[] {
   });
 }
 
+/** rAF count-up for the summary XP number. */
+function useCountUp(target: number, ms = 900): number {
+  const [value, setValue] = useState(0);
+  useEffect(() => {
+    let raf = 0;
+    const start = performance.now();
+    const tick = (now: number) => {
+      const p = Math.min(1, (now - start) / ms);
+      setValue(Math.round(target * (1 - Math.pow(1 - p, 3))));
+      if (p < 1) raf = requestAnimationFrame(tick);
+    };
+    raf = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(raf);
+  }, [target, ms]);
+  return value;
+}
+
+function SummaryXp({ gained }: { gained: number }) {
+  const shown = useCountUp(gained);
+  return <p className="text-2xl font-extrabold">+{shown}</p>;
+}
+
+function SummaryStars({ accuracy }: { accuracy: number }) {
+  const stars = accuracy >= 95 ? 3 : accuracy >= 75 ? 2 : 1;
+  return (
+    <div className="flex gap-2" aria-label={`${stars}/3`}>
+      {[0, 1, 2].map((i) => (
+        <motion.span
+          key={i}
+          initial={{ scale: 0, rotate: -30 }}
+          animate={{ scale: 1, rotate: 0 }}
+          transition={{ delay: 0.25 + i * 0.18, type: "spring", stiffness: 380, damping: 16 }}
+          className={`text-4xl ${i < stars ? "" : "grayscale opacity-35"}`}
+          aria-hidden
+        >
+          ⭐
+        </motion.span>
+      ))}
+    </div>
+  );
+}
+
 interface Loaded {
   ref: LessonRef;
   journey: Journey;
@@ -326,6 +368,7 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
         <h1 className="font-heading text-3xl font-bold text-center">
           {summary.perfect ? t("perfectLesson") : t("lessonComplete")}
         </h1>
+        <SummaryStars accuracy={accuracy} />
         <p className="text-ink-muted text-center -mt-2">{t("mascotLessonDone")}</p>
 
         {summary.levelUp && (
@@ -350,7 +393,7 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
 
         <div className="grid grid-cols-3 gap-3 w-full max-w-sm">
           <div className="rounded-2xl bg-gold-soft border border-gold/40 p-3 text-center">
-            <p className="text-2xl font-extrabold">+{gained}</p>
+            <SummaryXp gained={gained} />
             <p className="text-xs font-bold text-ink-muted">{t("xpEarned")}</p>
           </div>
           <div className="rounded-2xl bg-emerald-soft p-3 text-center">
@@ -455,12 +498,14 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
         <TypeIt
           key={`typeit-${task.wordId}-${task.attempt}-${pos}`}
           word={word}
+          firstTry={task.attempt === 0}
           onContinue={(c) => advance(c)}
         />
       ) : task.kind === "cloze" && word ? (
         <Cloze
           key={`cloze-${task.wordId}-${task.attempt}-${pos}`}
           word={word}
+          firstTry={task.attempt === 0}
           onContinue={(c) => advance(c)}
         />
       ) : word ? (
@@ -512,6 +557,7 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
           correctId={options.correctId}
           correctLabel={options.correctLabel}
           speakOnMount={task.kind === "listening" ? word.word : undefined}
+          firstTry={task.attempt === 0}
           onContinue={(correct) => advance(correct)}
         />
       ) : null}

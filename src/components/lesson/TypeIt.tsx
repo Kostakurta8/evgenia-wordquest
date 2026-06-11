@@ -11,9 +11,11 @@ import { FeedbackFooter } from "@/components/lesson/Exercise";
 export default function TypeIt({
   word,
   onContinue,
+  firstTry,
 }: {
   word: Word;
   onContinue: (correct: boolean) => void;
+  firstTry?: boolean;
 }) {
   const t = useT();
   const sound = useApp((s) => s.sound);
@@ -76,6 +78,7 @@ export default function TypeIt({
         <FeedbackFooter
           correct={result}
           correctLabel={headwordBase(word.word)}
+          firstTry={firstTry}
           onContinue={() => onContinue(result)}
         />
       )}

@@ -80,6 +80,12 @@
   --font-ui: var(--font-manrope), system-ui, sans-serif;
 }
 
+/* Subtle parchment grain (SVG turbulence) — layer at low opacity */
+@utility texture-parchment {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='0.55'/%3E%3C/svg%3E");
+  background-size: 180px 180px;
+}
+
 /* Thumb-friendly safe-area helpers (notches, home indicator) */
 @utility pt-safe {
   padding-top: env(safe-area-inset-top);

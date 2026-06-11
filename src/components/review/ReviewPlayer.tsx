@@ -47,8 +47,17 @@ function rollChoices(kind: Kind, word: Word, pool: Word[]) {
   return { list, correctId: word.id, correctLabel: labelOf(word) };
 }
 
-/** Runs exactly the due SRS items (capped), one rotating task per word. */
-export default function ReviewPlayer({ onExit }: { onExit: () => void }) {
+/**
+ * Runs exactly the due SRS items (capped), one rotating task per word.
+ * Pass `wordIds` to practice an explicit set instead (e.g. the hard-words deck).
+ */
+export default function ReviewPlayer({
+  onExit,
+  wordIds,
+}: {
+  onExit: () => void;
+  wordIds?: number[];
+}) {
   const t = useT();
   const reduced = useReducedMotion();
   const { sound, gradeWord, addBonusXp, bumpCounter, awardAchievements } = useApp();
@@ -69,11 +78,15 @@ export default function ReviewPlayer({ onExit }: { onExit: () => void }) {
     void (async () => {
       const wordMap = await loadWordMap();
       const s = useApp.getState();
-      const due = Object.values(s.progress)
-        .filter((p) => isDue(p))
-        .sort((a, b) => (a.dueAt ?? "").localeCompare(b.dueAt ?? ""))
-        .slice(0, SESSION_CAP)
-        .map((p) => wordMap.get(p.wordId))
+      const due = (
+        wordIds ??
+        Object.values(s.progress)
+          .filter((p) => isDue(p))
+          .sort((a, b) => (a.dueAt ?? "").localeCompare(b.dueAt ?? ""))
+          .slice(0, SESSION_CAP)
+          .map((p) => p.wordId)
+      )
+        .map((id) => wordMap.get(id))
         .filter((w): w is Word => Boolean(w));
       if (!alive) return;
       if (due.length === 0) {

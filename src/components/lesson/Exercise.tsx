@@ -4,6 +4,7 @@ import { useEffect, useState, type ReactNode } from "react";
 import { motion } from "framer-motion";
 import { useApp, useT } from "@/lib/store/app";
 import { buzz, playSfx, speak } from "@/lib/audio";
+import Mascot from "@/components/Mascot";
 
 export interface Option {
   id: number;
@@ -15,11 +16,14 @@ export function FeedbackFooter({
   correct,
   correctLabel,
   onContinue,
+  firstTry,
 }: {
   correct: boolean;
   /** shown after a miss; omit to hide the "correct answer was" line */
   correctLabel?: string;
   onContinue: () => void;
+  /** when set, a correct answer floats its XP gain (+2 first try, +1 retry) */
+  firstTry?: boolean;
 }) {
   const t = useT();
   return (
@@ -27,13 +31,22 @@ export function FeedbackFooter({
       initial={{ y: 80, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
       transition={{ type: "spring", stiffness: 500, damping: 38 }}
-      className={`-mx-5 px-5 pt-4 pb-safe ${correct ? "bg-success-soft" : "bg-danger-soft"}`}
+      className={`relative -mx-5 px-5 pt-4 pb-safe ${correct ? "bg-success-soft" : "bg-danger-soft"}`}
     >
+      {correct && firstTry !== undefined && (
+        <motion.span
+          initial={{ y: 0, opacity: 0, scale: 0.6 }}
+          animate={{ y: -34, opacity: [0, 1, 1, 0], scale: 1.1 }}
+          transition={{ duration: 1.1, ease: "easeOut" }}
+          className="absolute -top-2 right-8 font-extrabold text-gold text-xl drop-shadow"
+          aria-hidden
+        >
+          +{firstTry ? 2 : 1} ✨
+        </motion.span>
+      )}
       <div className="pb-4 flex flex-col gap-3">
-        <div className="flex items-center gap-2">
-          <span className="text-2xl" aria-hidden>
-            {correct ? "✅" : "💪"}
-          </span>
+        <div className="flex items-center gap-3">
+          <Mascot state={correct ? "happy" : "encourage"} size={46} />
           <div>
             <p className={`font-extrabold ${correct ? "text-success" : "text-danger"}`}>
               {correct ? t("correct") : t("wrong")}
@@ -43,6 +56,9 @@ export function FeedbackFooter({
                 {t("correctAnswerWas")} <strong>{correctLabel}</strong>
               </p>
             )}
+            <p className="text-xs text-ink-muted">
+              {correct ? t("mascotCorrect") : t("mascotWrong")}
+            </p>
           </div>
         </div>
         <button
@@ -72,6 +88,7 @@ export default function Exercise({
   onContinue,
   speakOnMount,
   onPicked,
+  firstTry,
 }: {
   prompt: ReactNode;
   options: Option[];
@@ -82,6 +99,8 @@ export default function Exercise({
   speakOnMount?: string;
   /** fires the moment an option is tapped (e.g. to stop a challenge timer) */
   onPicked?: (correct: boolean) => void;
+  /** forwarded to the feedback footer's XP float */
+  firstTry?: boolean;
 }) {
   const sound = useApp((s) => s.sound);
   const [picked, setPicked] = useState<number | null>(null);
@@ -136,6 +155,7 @@ export default function Exercise({
         <FeedbackFooter
           correct={correct}
           correctLabel={correctLabel}
+          firstTry={firstTry}
           onContinue={() => onContinue(correct)}
         />
       )}

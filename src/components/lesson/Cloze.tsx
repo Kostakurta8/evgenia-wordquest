@@ -14,9 +14,11 @@ import { FeedbackFooter } from "@/components/lesson/Exercise";
 export default function Cloze({
   word,
   onContinue,
+  firstTry,
 }: {
   word: Word;
   onContinue: (correct: boolean) => void;
+  firstTry?: boolean;
 }) {
   const t = useT();
   const sound = useApp((s) => s.sound);
@@ -89,6 +91,7 @@ export default function Cloze({
         <FeedbackFooter
           correct={result}
           correctLabel={surface}
+          firstTry={firstTry}
           onContinue={() => onContinue(result)}
         />
       )}

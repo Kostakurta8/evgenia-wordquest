@@ -5,19 +5,26 @@ import Link from "next/link";
 import Mascot from "@/components/Mascot";
 import ReviewPlayer from "@/components/review/ReviewPlayer";
 import { dueCount } from "@/lib/srs";
+import { hardWordIds } from "@/lib/hardWords";
 import { useApp, useT } from "@/lib/store/app";
 
 export default function ReviewPage() {
   const t = useT();
   const due = useApp((s) => dueCount(Object.values(s.progress)));
+  const hardIds = useApp((s) => hardWordIds(s.progress));
   const learned = useApp(
     (s) =>
       Object.values(s.progress).filter((p) => p.timesSeen > 0 || p.status !== "new").length,
   );
-  const [playing, setPlaying] = useState(false);
+  const [playing, setPlaying] = useState<"due" | "hard" | null>(null);
 
   if (playing) {
-    return <ReviewPlayer onExit={() => setPlaying(false)} />;
+    return (
+      <ReviewPlayer
+        onExit={() => setPlaying(null)}
+        wordIds={playing === "hard" ? hardIds : undefined}
+      />
+    );
   }
 
   return (
@@ -32,7 +39,7 @@ export default function ReviewPage() {
             </p>
             <button
               type="button"
-              onClick={() => setPlaying(true)}
+              onClick={() => setPlaying("due")}
               className="w-full max-w-sm min-h-14 rounded-2xl bg-emerald text-emerald-fg text-lg font-extrabold shadow-[0_4px_0_0_rgba(0,0,0,0.18)] active:translate-y-0.5 active:shadow-none transition-all"
             >
               {t("reviewNow")} 🔁
@@ -40,6 +47,22 @@ export default function ReviewPage() {
           </>
         ) : (
           <p className="text-ink-muted max-w-[280px]">{t("reviewEmpty")}</p>
+        )}
+
+        {hardIds.length >= 3 && (
+          <div className="w-full max-w-sm rounded-3xl bg-surface border border-line p-4 flex flex-col gap-2.5 text-left">
+            <p className="font-extrabold">
+              🎯 {t("hardWordsTitle")} ({hardIds.length})
+            </p>
+            <p className="text-sm text-ink-muted">{t("hardWordsBody")}</p>
+            <button
+              type="button"
+              onClick={() => setPlaying("hard")}
+              className="min-h-12 rounded-2xl bg-accent text-white font-extrabold shadow-[0_4px_0_0_rgba(0,0,0,0.18)] active:translate-y-0.5 active:shadow-none transition-all"
+            >
+              {t("hardWordsCta")} 💪
+            </button>
+          </div>
         )}
 
         {learned >= 10 && (

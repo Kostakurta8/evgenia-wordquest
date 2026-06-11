@@ -165,6 +165,39 @@ export const STRINGS = {
   lives: { bg: "живота", en: "lives" },
   tryAgain: { bg: "Опитай пак", en: "Try again" },
 
+  // Loading / errors
+  loadError: {
+    bg: "Нещо се обърка при зареждането. Провери връзката и опитай пак.",
+    en: "Something went wrong while loading. Check your connection and try again.",
+  },
+  retry: { bg: "Опитай пак", en: "Try again" },
+  loading: { bg: "Зарежда се…", en: "Loading…" },
+
+  // Lexicon v2
+  showMore: { bg: "Покажи още", en: "Show more" },
+  filterAll: { bg: "Всички", en: "All" },
+  filterLearned: { bg: "Научени", en: "Learned" },
+  filterHard: { bg: "Трудни", en: "Tricky" },
+  filterDue: { bg: "За преговор", en: "Due" },
+  shown: { bg: "показани", en: "shown" },
+
+  // Hard words deck
+  hardWordsTitle: { bg: "Трудни думи", en: "Tricky words" },
+  hardWordsCta: { bg: "Упражни ги", en: "Practice them" },
+  hardWordsBody: {
+    bg: "Думите, които най-често те затрудняват — победи ги с кратка тренировка!",
+    en: "The words that trip you up most — beat them with a quick practice!",
+  },
+
+  // Chapter recap
+  recapTitle: { bg: "За тази глава", en: "About this chapter" },
+  recapLocked: {
+    bg: "Завърши първия урок от главата, за да отключиш разказа.",
+    en: "Finish the chapter's first lesson to unlock the story.",
+  },
+  wordsInChapter: { bg: "Думи от главата", en: "Words from this chapter" },
+  close: { bg: "Затвори", en: "Close" },
+
   // PWA
   installNudge: {
     bg: "Добави WordQuest на началния екран!",
