@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import Link from "next/link";
 import Mascot from "@/components/Mascot";
 import ReviewPlayer from "@/components/review/ReviewPlayer";
@@ -10,11 +10,16 @@ import { useApp, useT } from "@/lib/store/app";
 
 export default function ReviewPage() {
   const t = useT();
-  const due = useApp((s) => dueCount(Object.values(s.progress)));
-  const hardIds = useApp((s) => hardWordIds(s.progress));
-  const learned = useApp(
-    (s) =>
-      Object.values(s.progress).filter((p) => p.timesSeen > 0 || p.status !== "new").length,
+  // Select only the stable `progress` reference; derive with useMemo.
+  // A selector that builds a new array each call (e.g. hardWordIds inline)
+  // makes zustand's snapshot comparison fail forever → infinite re-render.
+  const progress = useApp((s) => s.progress);
+  const due = useMemo(() => dueCount(Object.values(progress)), [progress]);
+  const hardIds = useMemo(() => hardWordIds(progress), [progress]);
+  const learned = useMemo(
+    () =>
+      Object.values(progress).filter((p) => p.timesSeen > 0 || p.status !== "new").length,
+    [progress],
   );
   const [playing, setPlaying] = useState<"due" | "hard" | null>(null);
 
