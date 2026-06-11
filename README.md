@@ -1,5 +1,7 @@
 # WordQuest: Задругата на думите
 
+**Live: https://evgenia-wordquest.vercel.app** (Vercel, project `evgenia-wordquest`, team kstamboldziev-6898).
+
 Mobile-first PWA for learning 1177 advanced English words from *The Fellowship
 of the Ring* — built for Evgenia. Duolingo-style journey map, real book
 sentences, SM-2 spaced repetition, Bulgarian UI.
@@ -50,5 +52,10 @@ npm run enrich     # rebuild data/words.json
   Supabase auth + progress
 - **P3** exercises 4–7, SM-2 review hub, full dopamine layer, Lexicon,
   Challenge mode
-- **P4** artwork, PWA, i18n toggle, a11y, Lighthouse ≥90, Playwright smoke,
-  deploy to Vercel
+- **P4** ✅ Serwist PWA (manifest + icons + offline SW; build uses `next build --webpack` — @serwist/next needs webpack), install nudge, art manifest (public/art/MANIFEST.md, 40 prompts), deployed to Vercel.
+
+## Remaining
+
+- Supabase Dashboard → Auth → URL Configuration: set Site URL to the live domain and add `https://evgenia-wordquest.vercel.app/auth/confirm` to Redirect URLs (one-time, needed for magic links from the phone).
+- Real region artwork (prompts ready in `public/art/MANIFEST.md`).
+- Playwright e2e spec + Lighthouse pass.

@@ -20,6 +20,14 @@ export const metadata: Metadata = {
   description:
     "Научи 1177 думи от „Задругата на пръстена“ — пътешествие през Средната земя на английския език.",
   applicationName: "WordQuest",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "WordQuest",
+  },
+  icons: {
+    apple: "/icons/apple-touch-icon.png",
+  },
 };
 
 export const viewport: Viewport = {

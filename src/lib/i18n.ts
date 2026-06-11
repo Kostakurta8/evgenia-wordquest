@@ -165,6 +165,13 @@ export const STRINGS = {
   lives: { bg: "живота", en: "lives" },
   tryAgain: { bg: "Опитай пак", en: "Try again" },
 
+  // PWA
+  installNudge: {
+    bg: "Добави WordQuest на началния екран!",
+    en: "Add WordQuest to your home screen!",
+  },
+  installYes: { bg: "Добави", en: "Add" },
+
   // Mascot lines
   mascotIntro: {
     bg: "Аз съм Искра! Ще светя по пътя ти. ✨",
