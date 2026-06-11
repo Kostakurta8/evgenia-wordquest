@@ -1,0 +1,662 @@
+[
+ {
+  "id": 401,
+  "page": 129,
+  "word": "starling",
+  "definition": "A small to medium-sized songbird with dark glossy plumage.",
+  "synonyms": "songbird",
+  "antonyms": null,
+  "translation": "скорец (птица)"
+ },
+ {
+  "id": 402,
+  "page": 129,
+  "word": "beans on poles",
+  "definition": "Climbing bean plants trained to grow up vertical sticks or poles.",
+  "synonyms": [
+   "pole-beans",
+   "climbing beans"
+  ],
+  "antonyms": null,
+  "translation": "фасул на колчета"
+ },
+ {
+  "id": 403,
+  "page": 129,
+  "word": "billows",
+  "definition": "Large undulating masses of cloud, smoke, or steam; great waves.",
+  "synonyms": [
+   "waves",
+   "swells",
+   "surges"
+  ],
+  "antonyms": null,
+  "translation": "кълба, вълни (на дим)"
+ },
+ {
+  "id": 404,
+  "page": 129,
+  "word": "plumes",
+  "definition": "Long, soft feathers or feather-like formations.",
+  "synonyms": [
+   "feathers",
+   "crests",
+   "tufts"
+  ],
+  "antonyms": null,
+  "translation": "пера, перушина, пишман"
+ },
+ {
+  "id": 405,
+  "page": 129,
+  "word": "dew drops",
+  "definition": "Small drops of dew formed on cool surfaces.",
+  "synonyms": [
+   "dewdrops",
+   "beads of dew"
+  ],
+  "antonyms": null,
+  "translation": "росни капки"
+ },
+ {
+  "id": 406,
+  "page": 130,
+  "word": "dillo",
+  "definition": "A nonsense word in a Tom Bombadil song; not a real word.",
+  "synonyms": null,
+  "antonyms": null,
+  "translation": "безсмислица в песен на Том Бомбадил"
+ },
+ {
+  "id": 407,
+  "page": 131,
+  "word": "pebbles",
+  "definition": "Small stones made smooth and round by the action of water or sand.",
+  "synonyms": [
+   "stones",
+   "gravel"
+  ],
+  "antonyms": "boulders",
+  "translation": "камъчета, чакъл"
+ },
+ {
+  "id": 408,
+  "page": 131,
+  "word": "close grass",
+  "definition": "Grass that is short and grows densely together.",
+  "synonyms": [
+   "dense turf",
+   "thick lawn"
+  ],
+  "antonyms": "sparse grass",
+  "translation": "гъста, ниска трева"
+ },
+ {
+  "id": 409,
+  "page": 131,
+  "word": "wet crannies",
+  "definition": "Small narrow openings or cracks that hold moisture.",
+  "synonyms": [
+   "damp crevices",
+   "moist nooks"
+  ],
+  "antonyms": "dry openings",
+  "translation": "мокри цепнатини"
+ },
+ {
+  "id": 410,
+  "page": 131,
+  "word": "green mounds",
+  "definition": "Small grass-covered hills or heaps.",
+  "synonyms": [
+   "grassy hills",
+   "knolls"
+  ],
+  "antonyms": null,
+  "translation": "зелени могилки"
+ },
+ {
+  "id": 411,
+  "page": 131,
+  "word": "stone-rings",
+  "definition": "Rings made of standing stones, often of ancient or ceremonial significance.",
+  "synonyms": [
+   "stone circles",
+   "megaliths"
+  ],
+  "antonyms": null,
+  "translation": "каменни кръгове"
+ },
+ {
+  "id": 412,
+  "page": 131,
+  "word": "bleating in flocks",
+  "definition": "Sheep or goats making their typical wavering cries while gathered in groups.",
+  "synonyms": "baaing in herds",
+  "antonyms": null,
+  "translation": "блеене на стада"
+ },
+ {
+  "id": 413,
+  "page": 131,
+  "word": "Barrow-wights",
+  "definition": "Evil undead spirits inhabiting the burial mounds of the Barrow-downs (Tolkien).",
+  "synonyms": [
+   "barrow ghosts",
+   "undead spirits"
+  ],
+  "antonyms": null,
+  "translation": "Могилни призраци"
+ },
+ {
+  "id": 414,
+  "page": 131,
+  "word": "Barro-downs",
+  "definition": "The Barrow-downs: a region of low hills containing ancient burial mounds.",
+  "synonyms": [
+   "burial mounds",
+   "downs"
+  ],
+  "antonyms": null,
+  "translation": "Могилни хълмове"
+ },
+ {
+  "id": 415,
+  "page": 132,
+  "word": "acorn",
+  "definition": "The fruit of the oak, a smooth oval nut in a cup-shaped base.",
+  "synonyms": "oak-nut",
+  "antonyms": null,
+  "translation": "жълъд"
+ },
+ {
+  "id": 416,
+  "page": 133,
+  "word": "caperings",
+  "definition": "Skipping or dancing about in a lively or playful way.",
+  "synonyms": [
+   "leaps",
+   "frolics",
+   "capers"
+  ],
+  "antonyms": null,
+  "translation": "подскоци, лудории"
+ },
+ {
+  "id": 417,
+  "page": 133,
+  "word": "mirth",
+  "definition": "Amusement, especially as expressed in laughter.",
+  "synonyms": [
+   "merriment",
+   "gaiety",
+   "laughter"
+  ],
+  "antonyms": [
+   "sorrow",
+   "gloom"
+  ],
+  "translation": "веселие, смях"
+ },
+ {
+  "id": 418,
+  "page": 134,
+  "word": "trinket",
+  "definition": "A small ornament or item of jewellery of little value.",
+  "synonyms": [
+   "bauble",
+   "knick-knack",
+   "ornament"
+  ],
+  "antonyms": null,
+  "translation": "дрънкулка, накит без стойност"
+ },
+ {
+  "id": 419,
+  "page": 134,
+  "word": "juggler",
+  "definition": "A person skilled in juggling objects in the air for entertainment.",
+  "synonyms": [
+   "entertainer",
+   "performer"
+  ],
+  "antonyms": null,
+  "translation": "жонгльор"
+ },
+ {
+  "id": 420,
+  "page": 134,
+  "word": "perilously",
+  "definition": "In a very dangerous way.",
+  "synonyms": [
+   "dangerously",
+   "hazardously",
+   "riskily"
+  ],
+  "antonyms": [
+   "safely",
+   "securely"
+  ],
+  "translation": "опасно, рисковано"
+ },
+ {
+  "id": 421,
+  "page": 134,
+  "word": "trifle",
+  "definition": "A thing of little value or importance; a small amount.",
+  "synonyms": [
+   "small matter",
+   "triviality",
+   "bagatelle"
+  ],
+  "antonyms": "big deal",
+  "translation": "дреболия, нещо незначително"
+ },
+ {
+  "id": 422,
+  "page": 134,
+  "word": "badgers",
+  "definition": "Heavily built nocturnal mammals with grey fur and black-and-white striped faces.",
+  "synonyms": null,
+  "antonyms": null,
+  "translation": "язовци"
+ },
+ {
+  "id": 423,
+  "page": 134,
+  "word": "aught",
+  "definition": "(Archaic) anything at all.",
+  "synonyms": [
+   "anything",
+   "something"
+  ],
+  "antonyms": [
+   "naught",
+   "nothing"
+  ],
+  "translation": "нещо (архаично)"
+ },
+ {
+  "id": 424,
+  "page": 136,
+  "word": "frisky",
+  "definition": "Playful and full of energy.",
+  "synonyms": [
+   "lively",
+   "spirited",
+   "playful"
+  ],
+  "antonyms": [
+   "sluggish",
+   "lethargic"
+  ],
+  "translation": "игрив, жив"
+ },
+ {
+  "id": 425,
+  "page": 136,
+  "word": "rippling down",
+  "definition": "Flowing down in small waves or undulating movements.",
+  "synonyms": [
+   "cascading",
+   "flowing wavily"
+  ],
+  "antonyms": null,
+  "translation": "спускащ се на вълни"
+ },
+ {
+  "id": 426,
+  "page": 136,
+  "word": "hill-brow",
+  "definition": "The upper edge or crest of a hill.",
+  "synonyms": [
+   "crest",
+   "brow",
+   "ridge"
+  ],
+  "antonyms": "foot of hill",
+  "translation": "хълмист гребен, чело на хълм"
+ },
+ {
+  "id": 427,
+  "page": 136,
+  "word": "beckoning",
+  "definition": "Making a gesture to encourage someone to come nearer or follow.",
+  "synonyms": [
+   "gesturing",
+   "signalling",
+   "summoning"
+  ],
+  "antonyms": "dismissing",
+  "translation": "махам да дойде, приканвам"
+ },
+ {
+  "id": 428,
+  "page": 136,
+  "word": "dewy",
+  "definition": "Wet with dew or like dew.",
+  "synonyms": [
+   "moist",
+   "damp",
+   "fresh"
+  ],
+  "antonyms": [
+   "dry",
+   "parched"
+  ],
+  "translation": "росен, мокър от роса"
+ },
+ {
+  "id": 429,
+  "page": 137,
+  "word": "ridge",
+  "definition": "A long, narrow hilltop, mountain range, or watershed.",
+  "synonyms": [
+   "crest",
+   "summit",
+   "spine"
+  ],
+  "antonyms": "valley",
+  "translation": "било, рид"
+ },
+ {
+  "id": 430,
+  "page": 137,
+  "word": "crumpled",
+  "definition": "Crushed or pressed into wrinkles or folds.",
+  "synonyms": [
+   "wrinkled",
+   "creased",
+   "rumpled"
+  ],
+  "antonyms": [
+   "smooth",
+   "flat"
+  ],
+  "translation": "смачкан, набръчкан"
+ },
+ {
+  "id": 431,
+  "page": 138,
+  "word": "springy",
+  "definition": "Able to spring back quickly into shape; resilient and elastic.",
+  "synonyms": [
+   "elastic",
+   "bouncy",
+   "resilient"
+  ],
+  "antonyms": [
+   "rigid",
+   "stiff"
+  ],
+  "translation": "еластичен, пружиниращ"
+ },
+ {
+  "id": 432,
+  "page": 138,
+  "word": "leagues",
+  "definition": "Former units of distance, usually about three miles or five kilometres.",
+  "synonyms": [
+   "distances",
+   "miles"
+  ],
+  "antonyms": null,
+  "translation": "левги (мярка за разстояние)"
+ },
+ {
+  "id": 433,
+  "page": 139,
+  "word": "fill",
+  "definition": "A complete amount; as much as something can hold (used as a noun: \"had his fill\").",
+  "synonyms": [
+   "plenty",
+   "abundance",
+   "satiation"
+  ],
+  "antonyms": [
+   "want",
+   "scarcity"
+  ],
+  "translation": "насита; колкото поема"
+ },
+ {
+  "id": 434,
+  "page": 139,
+  "word": "lank",
+  "definition": "(Of hair) long, limp, and straight; ungracefully thin.",
+  "synonyms": [
+   "limp",
+   "straight",
+   "lifeless"
+  ],
+  "antonyms": [
+   "curly",
+   "full"
+  ],
+  "translation": "провиснал, прав и мазен (за коса)"
+ },
+ {
+  "id": 435,
+  "page": 139,
+  "word": "bedewed",
+  "definition": "Wet with or as if with dew; sprinkled with moisture.",
+  "synonyms": [
+   "dewy",
+   "moistened",
+   "sprinkled"
+  ],
+  "antonyms": "dry",
+  "translation": "оросен, покрит с роса"
+ },
+ {
+  "id": 436,
+  "page": 140,
+  "word": "headless door",
+  "definition": "A doorway with no top frame, or open at the head.",
+  "synonyms": "topless doorway",
+  "antonyms": null,
+  "translation": "врата без горна греда"
+ },
+ {
+  "id": 437,
+  "page": 140,
+  "word": "frantically",
+  "definition": "In a hurried, excited, or disorganised way; wildly.",
+  "synonyms": [
+   "wildly",
+   "desperately",
+   "hurriedly"
+  ],
+  "antonyms": [
+   "calmly",
+   "leisurely"
+  ],
+  "translation": "неистово, припряно"
+ },
+ {
+  "id": 438,
+  "page": 141,
+  "word": "dread",
+  "definition": "Great fear or apprehension; anticipated with great fear.",
+  "synonyms": [
+   "fear",
+   "terror",
+   "fright"
+  ],
+  "antonyms": [
+   "courage",
+   "calm"
+  ],
+  "translation": "ужас, страх"
+ },
+ {
+  "id": 439,
+  "page": 141,
+  "word": "barrow",
+  "definition": "An ancient burial mound; also a wheelbarrow.",
+  "synonyms": [
+   "tumulus",
+   "mound"
+  ],
+  "antonyms": null,
+  "translation": "надгробна могила; ръчна количка"
+ },
+ {
+  "id": 440,
+  "page": 141,
+  "word": "limp",
+  "definition": "Lacking internal strength or structure; not firm or stiff.",
+  "synonyms": [
+   "floppy",
+   "flaccid",
+   "soft"
+  ],
+  "antonyms": [
+   "stiff",
+   "firm"
+  ],
+  "translation": "отпуснат, безсилен"
+ },
+ {
+  "id": 441,
+  "page": 141,
+  "word": "stiffening",
+  "definition": "Becoming or making stiff or rigid.",
+  "synonyms": [
+   "hardening",
+   "tensing",
+   "rigidifying"
+  ],
+  "antonyms": [
+   "softening",
+   "relaxing"
+  ],
+  "translation": "втвърдяване, изпъване"
+ },
+ {
+  "id": 442,
+  "page": 142,
+  "word": "circlets",
+  "definition": "Small circular bands, especially of precious metal, worn on the head.",
+  "synonyms": [
+   "coronets",
+   "diadems",
+   "bands"
+  ],
+  "antonyms": null,
+  "translation": "кръгчета, малки венци (на главата)"
+ },
+ {
+  "id": 443,
+  "page": 142,
+  "word": "immeasurably",
+  "definition": "To an extent or degree that cannot be measured.",
+  "synonyms": [
+   "infinitely",
+   "vastly",
+   "hugely"
+  ],
+  "antonyms": [
+   "slightly",
+   "marginally"
+  ],
+  "translation": "неизмеримо, безкрайно"
+ },
+ {
+  "id": 444,
+  "page": 142,
+  "word": "dreary",
+  "definition": "Depressingly dull and bleak or repetitive.",
+  "synonyms": [
+   "dull",
+   "bleak",
+   "gloomy"
+  ],
+  "antonyms": [
+   "cheerful",
+   "bright"
+  ],
+  "translation": "унил, мрачен, безрадостен"
+ },
+ {
+  "id": 445,
+  "page": 142,
+  "word": "resolve",
+  "definition": "Firm determination to do something; the act of deciding.",
+  "synonyms": [
+   "determination",
+   "firmness",
+   "resolution"
+  ],
+  "antonyms": [
+   "indecision",
+   "hesitation"
+  ],
+  "translation": "решителност, твърдост"
+ },
+ {
+  "id": 446,
+  "page": 143,
+  "word": "hew (verb)",
+  "definition": "To chop or cut with an axe, sword, or other tool.",
+  "synonyms": [
+   "chop",
+   "cut",
+   "hack"
+  ],
+  "antonyms": null,
+  "translation": "сека, отсичам"
+ },
+ {
+  "id": 447,
+  "page": 143,
+  "word": "splinter up (verb)",
+  "definition": "To break into thin, sharp pieces.",
+  "synonyms": [
+   "shatter",
+   "fragment",
+   "break up"
+  ],
+  "antonyms": null,
+  "translation": "натрошавам на трески"
+ },
+ {
+  "id": 448,
+  "page": 144,
+  "word": "amazement",
+  "definition": "A feeling of great surprise or wonder.",
+  "synonyms": [
+   "astonishment",
+   "wonder",
+   "surprise"
+  ],
+  "antonyms": "indifference",
+  "translation": "учудване, изумление"
+ },
+ {
+  "id": 449,
+  "page": 144,
+  "word": "rags",
+  "definition": "Pieces of old, torn, or worn-out cloth.",
+  "synonyms": [
+   "tatters",
+   "shreds",
+   "scraps"
+  ],
+  "antonyms": null,
+  "translation": "парцали"
+ },
+ {
+  "id": 450,
+  "page": 144,
+  "word": "circlet",
+  "definition": "A circular ornament, especially one worn on the head.",
+  "synonyms": [
+   "coronet",
+   "diadem",
+   "band"
+  ],
+  "antonyms": null,
+  "translation": "кръгло украшение, диадема"
+ }
+]

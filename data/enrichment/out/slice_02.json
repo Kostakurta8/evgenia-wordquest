@@ -1,0 +1,452 @@
+[
+ {
+  "id": 51,
+  "word": "assail (verb)",
+  "explanationBg": "Да се нахвърлиш върху някого или нещо — със сила или с упорит натиск, за да го победиш или сломиш. Може да е и с думи, не само с юмруци — например да те „нападнат“ с въпроси.",
+  "explanationEn": "To attack someone or something with force or great energy.",
+  "exampleEn": "As soon as I walked in, my little brother assailed me with questions about the match.",
+  "mnemonicBg": "Assail звучи като „сейл“ (разпродажба) — представи си как тълпата щурмува магазина в секундата, в която почне сейлът.",
+  "ipa": "/əˈseɪl/"
+ },
+ {
+  "id": 52,
+  "word": "grope (verb)",
+  "explanationBg": "Да търсиш нещо пипнешком — протягаш ръце и опипваш наоколо, защото не виждаш къде е.",
+  "explanationEn": "To search for something with your hands because you cannot see.",
+  "exampleEn": "When the lights went out, I had to grope along the wall to find the switch.",
+  "mnemonicBg": "Grope звучи като „гроб“ — в тъмна като гроб стая опипваш стената, за да намериш ключа на лампата.",
+  "ipa": "/ɡrəʊp/"
+ },
+ {
+  "id": 53,
+  "word": "stumped",
+  "explanationBg": "Когато въпросът е толкова труден, че умът ти блокира — гледаш задачата и просто нямаш никаква идея за отговора.",
+  "explanationEn": "Completely confused and unable to find the answer.",
+  "exampleEn": "The last question on the maths test completely stumped me.",
+  "mnemonicBg": "Stump на английски е „пън“ — когато си stumped, стоиш като пън пред задачата и нищо не ти идва наум.",
+  "ipa": "/stʌmpt/"
+ },
+ {
+  "id": 54,
+  "word": "slimy",
+  "explanationBg": "Покрит с лепкава слуз — мокър, хлъзгав и неприятен на пипане.",
+  "explanationEn": "Covered in slime; wet and unpleasantly slippery.",
+  "exampleEn": "The fish slipped right out of my hands because it was so slimy.",
+  "mnemonicBg": "Slimy идва от slime — онзи лепкав слайм за мачкане: хлъзгав, лигав и леко гаден.",
+  "ipa": "/ˈslaɪmi/"
+ },
+ {
+  "id": 55,
+  "word": "peril",
+  "explanationBg": "Сериозна опасност, която е съвсем наблизо и заплашва да ти се случи всеки момент.",
+  "explanationEn": "Serious danger that is very close.",
+  "exampleEn": "The lifeguard warned us that swimming past the buoys puts you in real peril.",
+  "mnemonicBg": "Peril звучи като „перило“ — счупено перило на стълбите е чиста опасност.",
+  "ipa": "/ˈperəl/"
+ },
+ {
+  "id": 56,
+  "word": "lest",
+  "explanationBg": "Книжна думичка, която значи „да не би да“ или „за да не“ — правиш нещо, за да предотвратиш друго, или от страх то да не се случи.",
+  "explanationEn": "A formal word meaning 'so that something bad does not happen'.",
+  "exampleEn": "I wrote the homework in my planner at once, lest I forget it by the evening.",
+  "mnemonicBg": "Представи си баба с вдигнат пръст: „Облечи се, lest настинеш!“ — „да не би да настинеш“.",
+  "ipa": "/lest/"
+ },
+ {
+  "id": 57,
+  "word": "halt (verb)",
+  "explanationBg": "Да спреш рязко или да накараш нещо да спре — движение, игра, разговор: стоп, дотук.",
+  "explanationEn": "To stop suddenly, or to make something stop.",
+  "exampleEn": "The referee halted the match when the rain turned into a storm.",
+  "mnemonicBg": "Halt е като командата „Халт!“ от старите военни филми — всички замръзват на място.",
+  "ipa": "/hɔːlt/"
+ },
+ {
+  "id": 58,
+  "word": "chiefly",
+  "explanationBg": "Главно, преди всичко — когато нещо се дължи най-вече на една причина или важи най-вече за едно нещо.",
+  "explanationEn": "Mainly; more than anything else.",
+  "exampleEn": "We won chiefly because our goalkeeper made three incredible saves.",
+  "mnemonicBg": "Chief значи „шеф“ — chiefly е „главно“: каквото каже шефът, това е главното.",
+  "ipa": "/ˈtʃiːfli/"
+ },
+ {
+  "id": 59,
+  "word": "annex (verb)",
+  "explanationBg": "Да присъединиш нещо към друго като допълнение — например приложение към документ. Казва се и когато държава си присвои чужда територия.",
+  "explanationEn": "To add something to a bigger thing, or to take control of land.",
+  "exampleEn": "The older kids tried to annex our half of the pitch during the break.",
+  "mnemonicBg": "Сети се за „анекс“ към договор или сграда — допълнение, което се присъединява към основното.",
+  "ipa": "/əˈneks/"
+ },
+ {
+  "id": 60,
+  "word": "omit (verb)",
+  "explanationBg": "Да пропуснеш или изпуснеш нещо — нарочно или по разсеяност — така че то да липсва.",
+  "explanationEn": "To leave something out, on purpose or by accident.",
+  "exampleEn": "I omitted my name from the test paper, and the teacher almost didn't mark it.",
+  "mnemonicBg": "Omit звучи като „омитам се“ — думата се омита от изречението и я няма: пропусната!",
+  "ipa": "/əˈmɪt/"
+ },
+ {
+  "id": 61,
+  "word": "treatise",
+  "explanationBg": "Сериозен писмен труд, който разглежда една тема подробно, изчерпателно и по всички правила на науката.",
+  "explanationEn": "A long, serious piece of writing about one subject.",
+  "exampleEn": "My essay on gaming got so long and serious that the teacher called it a treatise.",
+  "mnemonicBg": "Treatise звучи като „три тези“ — научен труд, в който защитаваш цели три тези.",
+  "ipa": "/ˈtriːtɪs/"
+ },
+ {
+  "id": 62,
+  "word": "kinship",
+  "explanationBg": "Роднинска връзка по кръв — или онова топло усещане за близост, когато с някого си приличате по характер или произход.",
+  "explanationEn": "A family connection, or a feeling of being similar and close to someone.",
+  "exampleEn": "I felt an instant kinship with the new girl because we love the same band.",
+  "mnemonicBg": "Представи си кораб (ship), пълен само с роднини (kin) — цялото родословно дърво на една палуба.",
+  "ipa": "/ˈkɪnʃɪp/"
+ },
+ {
+  "id": 63,
+  "word": "conjectura",
+  "explanationBg": "Извод, който си правиш при непълна информация — предположение или догадка, а не доказан факт.",
+  "explanationEn": "A guess based on incomplete information.",
+  "exampleEn": "Nobody knows why the band split up — everything online is pure conjecture.",
+  "mnemonicBg": "Чува се „кон“ в началото — представи си кон-гадател, който тегли късметчета: чисто предположение, не факт.",
+  "ipa": "/kənˈdʒektʃə/"
+ },
+ {
+  "id": 64,
+  "word": "prolonged",
+  "explanationBg": "Който продължава дълго — по-дълго от обичайното — и сякаш не иска да свърши.",
+  "explanationEn": "Lasting a long time, or longer than usual.",
+  "exampleEn": "After the prolonged summer holidays, waking up at seven felt impossible.",
+  "mnemonicBg": "Вътре се крие long (дълъг) — като мач, отишъл в безкрайни продължения.",
+  "ipa": "/prəˈlɒŋd/"
+ },
+ {
+  "id": 65,
+  "word": "vigour",
+  "explanationBg": "Телесна сила и свежест — енергията и жарта, с които се захващаш за нещо.",
+  "explanationEn": "Physical strength and energy.",
+  "exampleEn": "She attacked the drum solo with such vigour that the whole hall shook.",
+  "mnemonicBg": "Vigour звучи като „вихър“ — енергия, която връхлита като вихрушка.",
+  "ipa": "/ˈvɪɡə/"
+ },
+ {
+  "id": 66,
+  "word": "perpetual",
+  "explanationBg": "Вечен и нескончаем — който не спира и не се променя, или се повтаря отново и отново.",
+  "explanationEn": "Never ending, or happening again and again.",
+  "exampleEn": "My phone lives in a perpetual state of low battery.",
+  "mnemonicBg": "Сети се за „перпетуум мобиле“ — вечния двигател, който никога не спира: perpetual.",
+  "ipa": "/pəˈpetʃuəl/"
+ },
+ {
+  "id": 67,
+  "word": "reputedly",
+  "explanationBg": "Според онова, което се говори — хората смятат, че е така, но никой не го е доказал със сигурност.",
+  "explanationEn": "According to what people say, but not proved.",
+  "exampleEn": "The empty house at the end of our street is reputedly haunted.",
+  "mnemonicBg": "Идва от „репутация“ — каквото мълвата говори: уж, според слуховете.",
+  "ipa": "/rɪˈpjuːtɪdli/"
+ },
+ {
+  "id": 68,
+  "word": "dashed",
+  "explanationBg": "Старомодна думичка, с която англичаните изпускат яда си — нещо като нашето „проклет“ или „пуст опустял“. Може да значи и „хукнал, втурнал се“.",
+  "explanationEn": "An old-fashioned word used to show annoyance; it can also mean 'ran quickly'.",
+  "exampleEn": "Grandpa spilled his tea and muttered 'dashed nuisance!' before dashing after the cat.",
+  "mnemonicBg": "Представи си дядо, който разлива чая и виква „Dashed!“ („Проклетия!“), а после хуква (dash) подир котката.",
+  "ipa": "/dæʃt/"
+ },
+ {
+  "id": 69,
+  "word": "wag",
+  "explanationBg": "Човек, който обича да пуска шеги и да разсмива всички — роден майтапчия.",
+  "explanationEn": "A person who loves making jokes.",
+  "exampleEn": "Marko is the class wag — he can turn the most boring lesson into a comedy show.",
+  "mnemonicBg": "Wag значи и „махам с опашка“ — шегаджията е като весело куче: влезе ли, настроението скача.",
+  "ipa": "/wæɡ/"
+ },
+ {
+  "id": 70,
+  "word": "gaffer",
+  "explanationBg": "Стар човек, дядка — особено възрастен мъж от село, който е видял много и обича да разказва.",
+  "explanationEn": "An old man, especially one from the countryside.",
+  "exampleEn": "The old gaffer next door tells us fishing stories every summer.",
+  "mnemonicBg": "Gaffer звучи като „гаф“ — дядка, който все прави смешни гафове и сам им се смее.",
+  "ipa": "/ˈɡæfə/"
+ },
+ {
+  "id": 71,
+  "word": "joints",
+  "explanationBg": "Местата, където частите на тялото или на една конструкция се свързват — стави и сглобки. Така се казват и големите парчета месо за печене.",
+  "explanationEn": "The places where parts of a body or structure connect; also large pieces of meat for roasting.",
+  "exampleEn": "After the long hike, my knee joints ached for two days.",
+  "mnemonicBg": "Joint звучи като „джойстик“ — ставата е джойстикът на тялото: върти се, за да движи ръката или крака.",
+  "ipa": "/dʒɔɪnts/"
+ },
+ {
+  "id": 72,
+  "word": "vittles",
+  "explanationBg": "Простичка, селска думичка за храна и провизии — каквото има за хапване.",
+  "explanationEn": "An informal old word for food.",
+  "exampleEn": "Gran packed our rucksacks with enough vittles for the whole camping weekend.",
+  "mnemonicBg": "Звучи почти като „витамини“ — бабината дума за ядене: „Сядай, виж какви vittles съм наготвила!“.",
+  "ipa": "/ˈvɪtəlz/"
+ },
+ {
+  "id": 73,
+  "word": "stranded",
+  "explanationBg": "Останал някъде без начин да се прибереш — закъсал, зарязан без превоз и без помощ.",
+  "explanationEn": "Stuck somewhere with no way to leave.",
+  "exampleEn": "We missed the last bus and were stranded at the mall until Mum rescued us.",
+  "mnemonicBg": "Вътре е strand (бряг) — корабокрушенец, изхвърлен на брега: заседнал, без лодка и без обхват.",
+  "ipa": "/ˈstrændɪd/"
+ },
+ {
+  "id": 74,
+  "word": "warren",
+  "explanationBg": "Мрежа от заешки дупки и тунели под земята. Така наричат и място, заплетено като лабиринт — тесни улички, коридори и проходи.",
+  "explanationEn": "A network of rabbit tunnels, or a place with many confusing passages.",
+  "exampleEn": "The old school building is a warren of corridors where new students always get lost.",
+  "mnemonicBg": "Представи си заек на име Уорън, който копае тунел след тунел, докато дворът стане лабиринт.",
+  "ipa": "/ˈwɒrən/"
+ },
+ {
+  "id": 75,
+  "word": "trample",
+  "explanationBg": "Да тъпчеш нещо с крака и да го мачкаш — да го изпогазиш.",
+  "explanationEn": "To step on something heavily and crush it.",
+  "exampleEn": "The fans rushed the field and nearly trampled the flower beds by the gate.",
+  "mnemonicBg": "Trample звучи като „трамбовам“ — тъпчеш и мачкаш с крака, все едно трамбоваш пръст.",
+  "ipa": "/ˈtræmpəl/"
+ },
+ {
+  "id": 76,
+  "word": "traipse (verb)",
+  "explanationBg": "Да се влачиш дълго пеша — уморено и без капка желание, а краката ти се тътрят сами.",
+  "explanationEn": "To walk somewhere slowly and tiredly, without wanting to.",
+  "exampleEn": "We traipsed around the shopping centre for hours looking for one pair of trainers.",
+  "mnemonicBg": "Чуй звука „трррейпс“ — чехли, които се влачат по пода: тътрене без капчица желание.",
+  "ipa": "/treɪps/"
+ },
+ {
+  "id": 77,
+  "word": "outlandish",
+  "explanationBg": "Толкова странен и необичаен на вид или на звучене, че изглежда дошъл от друг свят — чудат.",
+  "explanationEn": "Very strange and unusual.",
+  "exampleEn": "He showed up with such an outlandish haircut that the whole class went silent.",
+  "mnemonicBg": "Буквално „извън земята“ (out + land) — толкова чудато, сякаш е паднало от друга планета.",
+  "ipa": "/aʊtˈlændɪʃ/"
+ },
+ {
+  "id": 78,
+  "word": "conjuror",
+  "explanationBg": "Фокусник — артист, който прави фокуси и магически трикове пред публика.",
+  "explanationEn": "A person who performs magic tricks.",
+  "exampleEn": "The conjuror at my cousin's party pulled a coin from behind my ear.",
+  "mnemonicBg": "Звучи почти като „жонгльор“ — само че вместо да жонглира, вади зайци от шапката: фокусник.",
+  "ipa": "/ˈkʌndʒərə/"
+ },
+ {
+  "id": 79,
+  "word": "nasturtium",
+  "explanationBg": "Градинско цвете с кръгли листа и ярки оранжеви, жълти или червени цветове — на български му казваме латинка.",
+  "explanationEn": "A garden plant with round leaves and bright orange, yellow, or red flowers.",
+  "exampleEn": "We planted nasturtiums along the fence, and by July the yard glowed orange.",
+  "mnemonicBg": "Чува се „нас тършува“ — баба тършува из лехата с латинки и кичи салатата с оранжевите им (ядливи!) цветчета.",
+  "ipa": "/nəˈstɜːʃəm/"
+ },
+ {
+  "id": 80,
+  "word": "snapdragon",
+  "explanationBg": "Цвете, чиито цветчета имат две „устни“ — стиснеш ли ги леко, отварят се и се затварят като устичка. На български: лъвска уста.",
+  "explanationEn": "A flower that opens and shuts like a small mouth when you squeeze it.",
+  "exampleEn": "Grandma showed me how to squeeze a snapdragon so it opens like a tiny mouth.",
+  "mnemonicBg": "Буквално „щракащ дракон“ (snap + dragon) — стиснеш ли цветчето, то отваря уста като малко змейче.",
+  "ipa": "/ˈsnæpdræɡən/"
+ },
+ {
+  "id": 81,
+  "word": "commodity",
+  "explanationBg": "Стока — суровина или земеделски продукт, които се купуват и продават: жито, кафе, памук, петрол.",
+  "explanationEn": "A product or raw material that people buy and sell.",
+  "exampleEn": "In economics class we learned that coffee is one of the world's most traded commodities.",
+  "mnemonicBg": "Звучи като „комод“ — представи си пазар, където се търгуват комоди, жито и кафе: все стоки.",
+  "ipa": "/kəˈmɒdəti/"
+ },
+ {
+  "id": 82,
+  "word": "supplement",
+  "explanationBg": "Добавка — нещо, което слагаш към друго, за да го допълни или подобри.",
+  "explanationEn": "Something added to another thing to complete or improve it.",
+  "exampleEn": "Coach says protein bars are a supplement, not a replacement for real meals.",
+  "mnemonicBg": "Сети се за „суплементите“ на фитнес маниаците — добавка към храненето, не замяна.",
+  "ipa": "/ˈsʌplɪmənt/"
+ },
+ {
+  "id": 83,
+  "word": "sundry",
+  "explanationBg": "Разни и всякакви — сбирщина от различни неща, всяко от своя порода.",
+  "explanationEn": "Of various different kinds.",
+  "exampleEn": "My backpack holds sundry treasures: chargers, gum, three pens and one mystery sock.",
+  "mnemonicBg": "Звучи като sundae — сладолед с „всичко отгоре“: разни и всякакви неща наведнъж.",
+  "ipa": "/ˈsʌndri/"
+ },
+ {
+  "id": 84,
+  "word": "elevenses",
+  "explanationBg": "Кратка почивка за похапване около единайсет сутринта — чай, бисквитки, нещо дребно. Много британски навик!",
+  "explanationEn": "A small snack break at about eleven in the morning.",
+  "exampleEn": "At summer camp we always stopped for elevenses — juice and biscuits before the big hike.",
+  "mnemonicBg": "Eleven е 11 — в единайсет коремът звъни като звънец за междучасие: време за чай и бисквитки.",
+  "ipa": "/ɪˈlevənzɪz/"
+ },
+ {
+  "id": 85,
+  "word": "squibs",
+  "explanationBg": "Малки фойерверки, които съскат и свистят, преди да изпукат.",
+  "explanationEn": "Small fireworks that hiss before they bang.",
+  "exampleEn": "On New Year's Eve we heard squibs hissing and popping all over the park.",
+  "mnemonicBg": "Чуй „с-с-скуиб!“ — съскането на малка пиратка, която свисти, пуква и угасва.",
+  "ipa": "/skwɪbz/"
+ },
+ {
+  "id": 86,
+  "word": "crackers",
+  "explanationBg": "Картонени тръбички с мъничък заряд, които гръмват, когато двама ги дръпнат от двете страни — английска коледна традиция. Може да значи и малки пиратки.",
+  "explanationEn": "Cardboard tubes that bang when two people pull them; also small fireworks.",
+  "exampleEn": "We pulled crackers at Christmas dinner and everyone wore the silly paper crowns.",
+  "mnemonicBg": "Звучи като „крекери“, но тези не се ядат — дръпваш тръбичката и БУМ: отвътре пада хартиена коронка.",
+  "ipa": "/ˈkrækəz/"
+ },
+ {
+  "id": 87,
+  "word": "backrapers",
+  "explanationBg": "Рядка старовремска дума за дребни шумни пиратки, които гърмят с пукот една след друга — ще я срещнеш почти само в книгата.",
+  "explanationEn": "Small noisy firecrackers.",
+  "exampleEn": "The neighbours set off backrapers after the final, and our dog hid under the bed.",
+  "mnemonicBg": "Пиратка, която гръмва зад гърба (back) ти — и ти подскачаш до тавана.",
+  "ipa": "/ˈbækˌræpəz/"
+ },
+ {
+  "id": 88,
+  "word": "thunderclap",
+  "explanationBg": "Трясъкът на гръмотевица — или внезапен оглушителен звук, който прилича на гръм.",
+  "explanationEn": "The loud crash of thunder, or a sudden noise like it.",
+  "exampleEn": "A sudden thunderclap made the whole class jump in the middle of the test.",
+  "mnemonicBg": "Буквално thunder + clap: небето „плясва с ръце“ — и всички подскачат.",
+  "ipa": "/ˈθʌndəklæp/"
+ },
+ {
+  "id": 89,
+  "word": "scintillating",
+  "explanationBg": "Който искри и блести ярко. За разговор или изпълнение — блестящ, остроумен и увлекателен.",
+  "explanationEn": "Sparkling brightly; also brilliantly clever and exciting.",
+  "exampleEn": "Lunch with her is never boring — the conversation is always scintillating.",
+  "mnemonicBg": "Чува се „синтезатор“ — клавиши, от които при всяко докосване изхвърчат искри.",
+  "ipa": "/ˈsɪntɪleɪtɪŋ/"
+ },
+ {
+  "id": 90,
+  "word": "superb",
+  "explanationBg": "Превъзходен, великолепен — от най-впечатляващия, най-добрия вид.",
+  "explanationEn": "Extremely good; excellent.",
+  "exampleEn": "Her free kick in the final was absolutely superb.",
+  "mnemonicBg": "Това е „супер“ с бонус „б“ накрая — супер с черешка отгоре: великолепно.",
+  "ipa": "/suːˈpɜːb/"
+ },
+ {
+  "id": 91,
+  "word": "phalanx",
+  "explanationBg": "Плътен строй от войници или полицаи, наредени рамо до рамо — група хора, застанали като стена.",
+  "explanationEn": "A group of people standing close together in a tight formation.",
+  "exampleEn": "A phalanx of security guards stood between the fans and the stage.",
+  "mnemonicBg": "На български също е „фаланга“ — спартанци, залепени щит до щит като жива стена.",
+  "ipa": "/ˈfælæŋks/"
+ },
+ {
+  "id": 92,
+  "word": "embattled",
+  "explanationBg": "Който е в битка или е готов за бой. В по-широк смисъл — притиснат отвсякъде от проблеми и трудности.",
+  "explanationEn": "Fighting in a battle, or surrounded by many problems.",
+  "exampleEn": "Our embattled goalkeeper faced shot after shot but never gave up.",
+  "mnemonicBg": "Вътре се крие battle (битка) — играч, срещу когото тича целият противников отбор.",
+  "ipa": "/ɪmˈbætəld/"
+ },
+ {
+  "id": 93,
+  "word": "exceedingly",
+  "explanationBg": "Извънредно, страшно много — в най-висока степен.",
+  "explanationEn": "Very much; extremely.",
+  "exampleEn": "The new level is exceedingly hard — nobody at school has beaten it yet.",
+  "mnemonicBg": "Вътре е exceed („надхвърлям“) — стрелка, която минава червената черта на скоростомера.",
+  "ipa": "/ɪkˈsiːdɪŋli/"
+ },
+ {
+  "id": 94,
+  "word": "summit",
+  "explanationBg": "Най-високата точка на хълм или планина — самият връх.",
+  "explanationEn": "The very top of a mountain or hill.",
+  "exampleEn": "We reached the summit just before sunrise, and the view was unreal.",
+  "mnemonicBg": "Сещаш се за „самит“ — срещата „на върха“: summit е буквално върхът, най-високата точка.",
+  "ipa": "/ˈsʌmɪt/"
+ },
+ {
+  "id": 95,
+  "word": "somersault",
+  "explanationBg": "Акробатично премятане през глава — салто или кълбо напред или назад.",
+  "explanationEn": "A movement in which you roll head over heels.",
+  "exampleEn": "She landed a perfect somersault off the diving board and everyone cheered.",
+  "mnemonicBg": "Чуваш ли „салто“ накрая (somer-SAULT)? — лятно салто на батута.",
+  "ipa": "/ˈsʌməsɔːlt/"
+ },
+ {
+  "id": 96,
+  "word": "prostrate",
+  "explanationBg": "Проснат на земята по очи, изпънат в цял ръст. Казва се и за човек, напълно сломен и безпомощен.",
+  "explanationEn": "Lying flat on the ground face down; completely exhausted or helpless.",
+  "exampleEn": "After the cross-country race he lay prostrate on the grass, too tired to speak.",
+  "mnemonicBg": "Почти като нашето „прострян“ — проснат на тревата като пране след тежка тренировка.",
+  "ipa": "/ˈprɒstreɪt/"
+ },
+ {
+  "id": 97,
+  "word": "provender",
+  "explanationBg": "Храна и провизии — най-вече сухата храна за животните: зоб, сено, фураж.",
+  "explanationEn": "Food supplies, especially dry food for animals.",
+  "exampleEn": "Before visiting the stables we loaded the car with provender for the horses.",
+  "mnemonicBg": "Чува се „провизии“ — чували със зоб и сено: храна за из път, главно за животните.",
+  "ipa": "/ˈprɒvɪndə/"
+ },
+ {
+  "id": 98,
+  "word": "connexions",
+  "explanationBg": "Старовремският британски правопис на думата за „връзки“ — отношения между хора, най-вече роднински или полезни познанства.",
+  "explanationEn": "An old British spelling of 'connections' — links between people, especially family ties.",
+  "exampleEn": "In the Austen novel we're reading for class, the heroine's rich connexions arrange everything.",
+  "mnemonicBg": "Същото като connections, но със старовремско „x“ — стара карта, на която роднинските връзки са отбелязани с Х.",
+  "ipa": "/kəˈnekʃənz/"
+ },
+ {
+  "id": 99,
+  "word": "liable",
+  "explanationBg": "Склонен към нещо — има голяма вероятност да го направи или то да му се случи. В правото значи и „носещ отговорност“.",
+  "explanationEn": "Likely to do something or to have it happen; also legally responsible.",
+  "exampleEn": "If you leave your bike unlocked at school, it's liable to disappear.",
+  "mnemonicBg": "Вътре е able („способен“) — способен всеки момент да направи беля: склонен е.",
+  "ipa": "/ˈlaɪəbəl/"
+ },
+ {
+  "id": 100,
+  "word": "allude (verb)",
+  "explanationBg": "Да намекнеш за нещо, без да го кажеш направо — само го докосваш с думи, заобиколно.",
+  "explanationEn": "To mention something indirectly; to hint at it.",
+  "exampleEn": "She never said who broke the window, but she kept alluding to someone in our class.",
+  "mnemonicBg": "Роднина на думата „алюзия“ — намек със заобикалки: „Хм, някой е изял шоколада…“.",
+  "ipa": "/əˈluːd/"
+ }
+]

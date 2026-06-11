@@ -1,0 +1,687 @@
+[
+ {
+  "id": 651,
+  "page": 212,
+  "word": "heather",
+  "definition": "A purple-flowered evergreen shrub that grows on moors and heaths.",
+  "synonyms": [
+   "ling",
+   "erica"
+  ],
+  "antonyms": null,
+  "translation": "пирен (растение)"
+ },
+ {
+  "id": 652,
+  "page": 212,
+  "word": "sag",
+  "definition": "To sink, subside, or droop downwards in the middle.",
+  "synonyms": [
+   "droop",
+   "sink",
+   "slump"
+  ],
+  "antonyms": [
+   "rise",
+   "lift"
+  ],
+  "translation": "провисвам, отпускам се"
+ },
+ {
+  "id": 653,
+  "page": 214,
+  "word": "receded",
+  "definition": "Went or moved back or further away from a previous position.",
+  "synonyms": [
+   "withdrew",
+   "retreated",
+   "ebbed"
+  ],
+  "antonyms": [
+   "advanced",
+   "approached"
+  ],
+  "translation": "отдръпна се, отстъпи"
+ },
+ {
+  "id": 654,
+  "page": 215,
+  "word": "spurt",
+  "definition": "A sudden gush or burst of liquid; a sudden brief burst of activity or speed.",
+  "synonyms": [
+   "jet",
+   "gush",
+   "burst"
+  ],
+  "antonyms": "trickle",
+  "translation": "избликване, кратък изблик"
+ },
+ {
+  "id": 655,
+  "page": 215,
+  "word": "quail (verb)",
+  "definition": "To feel or show fear or apprehension.",
+  "synonyms": [
+   "cower",
+   "flinch",
+   "recoil"
+  ],
+  "antonyms": "stand firm",
+  "translation": "трепвам от страх, плаша се"
+ },
+ {
+  "id": 656,
+  "page": 215,
+  "word": "uplifted",
+  "definition": "Raised up; elevated emotionally or spiritually.",
+  "synonyms": [
+   "raised",
+   "lifted",
+   "elevated"
+  ],
+  "antonyms": [
+   "lowered",
+   "dispirited"
+  ],
+  "translation": "вдигнат, повдигнат"
+ },
+ {
+  "id": 657,
+  "page": 216,
+  "word": "plumed cavalry",
+  "definition": "Mounted soldiers wearing helmets decorated with plumes (feathers).",
+  "synonyms": [
+   "feathered cavalry",
+   "mounted soldiers"
+  ],
+  "antonyms": null,
+  "translation": "конница с пера на шлемовете"
+ },
+ {
+  "id": 658,
+  "page": 216,
+  "word": "engulfed",
+  "definition": "(Of a natural force) swept over and surrounded so as to cover completely.",
+  "synonyms": [
+   "swamped",
+   "swallowed",
+   "overwhelmed"
+  ],
+  "antonyms": null,
+  "translation": "погълнат, обзет"
+ },
+ {
+  "id": 659,
+  "page": 220,
+  "word": "ruin",
+  "definition": "The physical destruction or disintegration of something; a remnant of a destroyed structure.",
+  "synonyms": [
+   "destruction",
+   "devastation",
+   "wreck"
+  ],
+  "antonyms": "restoration",
+  "translation": "разруха, развалини"
+ },
+ {
+  "id": 660,
+  "page": 221,
+  "word": "grim",
+  "definition": "Forbidding or uninviting; very serious or gloomy.",
+  "synonyms": [
+   "stern",
+   "harsh",
+   "dismal"
+  ],
+  "antonyms": [
+   "cheerful",
+   "pleasant"
+  ],
+  "translation": "мрачен, суров"
+ },
+ {
+  "id": 661,
+  "page": 221,
+  "word": "reckon (verb)",
+  "definition": "To establish by calculation; to consider or believe.",
+  "synonyms": [
+   "calculate",
+   "consider",
+   "think"
+  ],
+  "antonyms": null,
+  "translation": "смятам, преценявам"
+ },
+ {
+  "id": 662,
+  "page": 222,
+  "word": "notched",
+  "definition": "Having a V-shaped cut or indentation.",
+  "synonyms": [
+   "nicked",
+   "scored",
+   "indented"
+  ],
+  "antonyms": "smooth",
+  "translation": "нащърбен, насечен"
+ },
+ {
+  "id": 663,
+  "page": 222,
+  "word": "reluctantly",
+  "definition": "In an unwilling and hesitant way.",
+  "synonyms": [
+   "unwillingly",
+   "hesitantly",
+   "grudgingly"
+  ],
+  "antonyms": [
+   "willingly",
+   "eagerly"
+  ],
+  "translation": "неохотно, с нежелание"
+ },
+ {
+  "id": 664,
+  "page": 222,
+  "word": "wraith",
+  "definition": "A ghost or ghostlike image, especially of a person seen shortly before death.",
+  "synonyms": [
+   "ghost",
+   "spectre",
+   "phantom"
+  ],
+  "antonyms": null,
+  "translation": "призрак, привидение"
+ },
+ {
+  "id": 665,
+  "page": 222,
+  "word": "shave",
+  "definition": "A narrow miss or escape; or a close cut of hair.",
+  "synonyms": "close call; cut",
+  "antonyms": null,
+  "translation": "бръснене; на косъм"
+ },
+ {
+  "id": 666,
+  "page": 222,
+  "word": "behold",
+  "definition": "(Literary) to see or observe (someone or something).",
+  "synonyms": [
+   "see",
+   "observe",
+   "view"
+  ],
+  "antonyms": "overlook",
+  "translation": "виждам, съзирам (книжно)"
+ },
+ {
+  "id": 667,
+  "page": 222,
+  "word": "chattels",
+  "definition": "Personal possessions (apart from land or buildings).",
+  "synonyms": [
+   "belongings",
+   "goods",
+   "possessions"
+  ],
+  "antonyms": null,
+  "translation": "имущество, движими вещи"
+ },
+ {
+  "id": 668,
+  "page": 223,
+  "word": "wargs",
+  "definition": "Great evil wolves used as mounts by orcs (Tolkien).",
+  "synonyms": [
+   "evil wolves",
+   "monstrous wolves"
+  ],
+  "antonyms": null,
+  "translation": "варги, зли вълци"
+ },
+ {
+  "id": 669,
+  "page": 223,
+  "word": "sway",
+  "definition": "To move slowly or rhythmically backwards and forwards or side to side.",
+  "synonyms": [
+   "swing",
+   "rock",
+   "wave"
+  ],
+  "antonyms": "stay still",
+  "translation": "люлея се, клатя се"
+ },
+ {
+  "id": 670,
+  "page": 223,
+  "word": "transparency",
+  "definition": "The condition of being transparent; the state of being clear or see-through.",
+  "synonyms": [
+   "clarity",
+   "translucence"
+  ],
+  "antonyms": "opacity",
+  "translation": "прозрачност"
+ },
+ {
+  "id": 671,
+  "page": 223,
+  "word": "coverlet",
+  "definition": "A bedspread.",
+  "synonyms": [
+   "bedspread",
+   "blanket",
+   "quilt"
+  ],
+  "antonyms": null,
+  "translation": "покривка за легло, юрган"
+ },
+ {
+  "id": 672,
+  "page": 224,
+  "word": "sprang",
+  "definition": "(Past of spring) jumped up or moved suddenly.",
+  "synonyms": [
+   "leaped",
+   "jumped",
+   "bounded"
+  ],
+  "antonyms": null,
+  "translation": "скочи, отскочи"
+ },
+ {
+  "id": 673,
+  "page": 224,
+  "word": "kindled",
+  "definition": "Set on fire; lit (a fire); aroused (a feeling).",
+  "synonyms": [
+   "lit",
+   "ignited",
+   "sparked"
+  ],
+  "antonyms": "extinguished",
+  "translation": "запален, разпален"
+ },
+ {
+  "id": 674,
+  "page": 224,
+  "word": "grinding boulders",
+  "definition": "Large rocks rubbing harshly against one another.",
+  "synonyms": "crushing boulders",
+  "antonyms": null,
+  "translation": "стържещи камъни"
+ },
+ {
+  "id": 675,
+  "page": 224,
+  "word": "tremendous",
+  "definition": "Very great in amount, scale, or intensity.",
+  "synonyms": [
+   "huge",
+   "immense",
+   "enormous"
+  ],
+  "antonyms": [
+   "tiny",
+   "insignificant"
+  ],
+  "translation": "огромен, страшен"
+ },
+ {
+  "id": 676,
+  "page": 227,
+  "word": "venerable",
+  "definition": "Accorded a great deal of respect, especially because of age, wisdom, or character.",
+  "synonyms": [
+   "respected",
+   "revered",
+   "esteemed"
+  ],
+  "antonyms": "dishonoured",
+  "translation": "почтен, достоен за уважение"
+ },
+ {
+  "id": 677,
+  "page": 227,
+  "word": "hale",
+  "definition": "(Especially of an old person) strong and healthy.",
+  "synonyms": [
+   "healthy",
+   "robust",
+   "vigorous"
+  ],
+  "antonyms": [
+   "frail",
+   "sickly"
+  ],
+  "translation": "здрав, як"
+ },
+ {
+  "id": 678,
+  "page": 227,
+  "word": "canopy",
+  "definition": "A cloth covering hung or held over a person or thing as a shelter.",
+  "synonyms": [
+   "awning",
+   "shelter",
+   "cover"
+  ],
+  "antonyms": null,
+  "translation": "балдахин, навес"
+ },
+ {
+  "id": 679,
+  "page": 227,
+  "word": "kindred",
+  "definition": "One’s family and relations; sharing a similar nature or background.",
+  "synonyms": [
+   "family",
+   "relatives",
+   "kin"
+  ],
+  "antonyms": null,
+  "translation": "род, родственици"
+ },
+ {
+  "id": 680,
+  "page": 227,
+  "word": "frost",
+  "definition": "A deposit of small white ice crystals formed on the ground in cold weather.",
+  "synonyms": [
+   "rime",
+   "hoarfrost"
+  ],
+  "antonyms": "thaw",
+  "translation": "скреж, слана"
+ },
+ {
+  "id": 681,
+  "page": 227,
+  "word": "raiment",
+  "definition": "(Archaic) clothing; attire.",
+  "synonyms": [
+   "clothing",
+   "garments",
+   "attire"
+  ],
+  "antonyms": null,
+  "translation": "облекло, одеяние (архаично)"
+ },
+ {
+  "id": 682,
+  "page": 227,
+  "word": "errantry",
+  "definition": "The conduct or pursuits of a knight errant; wandering in search of adventure.",
+  "synonyms": [
+   "knightly wandering",
+   "quests"
+  ],
+  "antonyms": null,
+  "translation": "рицарско странстване"
+ },
+ {
+  "id": 683,
+  "page": 227,
+  "word": "torment",
+  "definition": "Severe physical or mental suffering.",
+  "synonyms": [
+   "agony",
+   "anguish",
+   "suffering"
+  ],
+  "antonyms": [
+   "comfort",
+   "joy"
+  ],
+  "translation": "мъчение, терзание"
+ },
+ {
+  "id": 684,
+  "page": 227,
+  "word": "dens",
+  "definition": "Wild animals’ lairs; also, places frequented by people for secret purposes.",
+  "synonyms": [
+   "lairs",
+   "hideouts",
+   "burrows"
+  ],
+  "antonyms": null,
+  "translation": "леговища, бърлоги"
+ },
+ {
+  "id": 685,
+  "page": 227,
+  "word": "abashed",
+  "definition": "Embarrassed, disconcerted, or ashamed.",
+  "synonyms": [
+   "embarrassed",
+   "ashamed",
+   "sheepish"
+  ],
+  "antonyms": [
+   "unabashed",
+   "proud"
+  ],
+  "translation": "смутен, засрамен"
+ },
+ {
+  "id": 686,
+  "page": 228,
+  "word": "upper",
+  "definition": "Situated above another; higher in position or status.",
+  "synonyms": [
+   "higher",
+   "superior",
+   "top"
+  ],
+  "antonyms": "lower",
+  "translation": "горен, висш"
+ },
+ {
+  "id": 687,
+  "page": 228,
+  "word": "scattering",
+  "definition": "A small, dispersed amount of something; the act of dispersing.",
+  "synonyms": [
+   "sprinkling",
+   "smattering",
+   "dispersal"
+  ],
+  "antonyms": "gathering",
+  "translation": "разпиляване, разпръскване"
+ },
+ {
+  "id": 688,
+  "page": 228,
+  "word": "courteously",
+  "definition": "In a polite, respectful manner.",
+  "synonyms": [
+   "politely",
+   "graciously",
+   "civilly"
+  ],
+  "antonyms": [
+   "rudely",
+   "discourteously"
+  ],
+  "translation": "учтиво, любезно"
+ },
+ {
+  "id": 689,
+  "page": 228,
+  "word": "renowned",
+  "definition": "Known or talked about by many people; famous.",
+  "synonyms": [
+   "famous",
+   "celebrated",
+   "eminent"
+  ],
+  "antonyms": [
+   "unknown",
+   "obscure"
+  ],
+  "translation": "прочут, известен"
+ },
+ {
+  "id": 690,
+  "page": 228,
+  "word": "disposed",
+  "definition": "Inclined or willing to do something; arranged in a particular way.",
+  "synonyms": [
+   "inclined",
+   "willing",
+   "arranged"
+  ],
+  "antonyms": [
+   "unwilling",
+   "opposed"
+  ],
+  "translation": "разположен, склонен"
+ },
+ {
+  "id": 691,
+  "page": 228,
+  "word": "sturdy",
+  "definition": "Strongly and solidly built or made; healthy and robust.",
+  "synonyms": [
+   "robust",
+   "solid",
+   "hardy"
+  ],
+  "antonyms": [
+   "flimsy",
+   "frail"
+  ],
+  "translation": "як, здраво построен"
+ },
+ {
+  "id": 692,
+  "page": 229,
+  "word": "valiant",
+  "definition": "Possessing or showing courage or determination.",
+  "synonyms": [
+   "brave",
+   "courageous",
+   "gallant"
+  ],
+  "antonyms": [
+   "cowardly",
+   "fearful"
+  ],
+  "translation": "храбър, доблестен"
+ },
+ {
+  "id": 693,
+  "page": 229,
+  "word": "weary",
+  "definition": "Feeling or showing tiredness, especially as a result of excessive exertion.",
+  "synonyms": [
+   "tired",
+   "exhausted",
+   "fatigued"
+  ],
+  "antonyms": [
+   "energetic",
+   "fresh"
+  ],
+  "translation": "уморен, изтощен"
+ },
+ {
+  "id": 694,
+  "page": 229,
+  "word": "handiwork",
+  "definition": "The product of someone’s work, especially something skilfully made by hand.",
+  "synonyms": [
+   "craftsmanship",
+   "work",
+   "creation"
+  ],
+  "antonyms": null,
+  "translation": "ръчна изработка, дело"
+ },
+ {
+  "id": 695,
+  "page": 229,
+  "word": "labours",
+  "definition": "Pieces of hard work or tasks performed; toil.",
+  "synonyms": [
+   "works",
+   "tasks",
+   "efforts"
+  ],
+  "antonyms": [
+   "rest",
+   "leisure"
+  ],
+  "translation": "трудове, усилия"
+ },
+ {
+  "id": 696,
+  "page": 229,
+  "word": "stone paved",
+  "definition": "Paved with flat stones.",
+  "synonyms": [
+   "stone-floored",
+   "flagged"
+  ],
+  "antonyms": "unpaved",
+  "translation": "каменно настлан"
+ },
+ {
+  "id": 697,
+  "page": 229,
+  "word": "cavernous",
+  "definition": "Like a cavern in size or atmosphere; vast and dark.",
+  "synonyms": [
+   "vast",
+   "hollow",
+   "yawning"
+  ],
+  "antonyms": [
+   "cramped",
+   "small"
+  ],
+  "translation": "пещерен, огромен и кух"
+ },
+ {
+  "id": 698,
+  "page": 230,
+  "word": "due order",
+  "definition": "Proper or appropriate sequence or arrangement.",
+  "synonyms": [
+   "proper order",
+   "fitting arrangement"
+  ],
+  "antonyms": "disorder",
+  "translation": "подобаващ ред"
+ },
+ {
+  "id": 699,
+  "page": 230,
+  "word": "carven",
+  "definition": "(Archaic past participle of carve) carved.",
+  "synonyms": [
+   "carved",
+   "sculpted",
+   "engraved"
+  ],
+  "antonyms": null,
+  "translation": "изваян, издялан"
+ },
+ {
+  "id": 700,
+  "page": 230,
+  "word": "minstrels",
+  "definition": "Medieval singers or musicians, especially ones who sang or recited poetry.",
+  "synonyms": [
+   "troubadours",
+   "bards",
+   "singers"
+  ],
+  "antonyms": null,
+  "translation": "менестрели, певци"
+ }
+]

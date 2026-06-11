@@ -1,0 +1,658 @@
+[
+ {
+  "id": 1051,
+  "page": 322,
+  "word": "yestre",
+  "definition": "(Archaic) yesterday; of an earlier day.",
+  "synonyms": [
+   "yesterday",
+   "of yore"
+  ],
+  "antonyms": null,
+  "translation": "вчера (архаично)"
+ },
+ {
+  "id": 1052,
+  "page": 322,
+  "word": "barred (verb)",
+  "definition": "Blocked or obstructed by a bar or barrier; forbidden.",
+  "synonyms": [
+   "blocked",
+   "obstructed",
+   "prohibited"
+  ],
+  "antonyms": [
+   "opened",
+   "allowed"
+  ],
+  "translation": "преграден, забранен"
+ },
+ {
+  "id": 1053,
+  "page": 323,
+  "word": "smeared",
+  "definition": "Coated or marked with a greasy or sticky substance.",
+  "synonyms": [
+   "spread",
+   "daubed",
+   "stained"
+  ],
+  "antonyms": "wiped clean",
+  "translation": "размазан, цапан"
+ },
+ {
+  "id": 1054,
+  "page": 323,
+  "word": "the pool",
+  "definition": "A small body of still water, typically formed naturally.",
+  "synonyms": [
+   "pond",
+   "puddle",
+   "lake"
+  ],
+  "antonyms": null,
+  "translation": "езеро, локва"
+ },
+ {
+  "id": 1055,
+  "page": 323,
+  "word": "a trailing scrawl",
+  "definition": "A long, untidy, scribbled writing that trails off.",
+  "synonyms": [
+   "trailing scribble",
+   "untidy writing"
+  ],
+  "antonyms": "neat writing",
+  "translation": "проточен надраскан надпис"
+ },
+ {
+  "id": 1056,
+  "page": 324,
+  "word": "wedge",
+  "definition": "A piece of wood, metal, etc., having one thick end and tapering to a thin edge.",
+  "synonyms": [
+   "block",
+   "chock"
+  ],
+  "antonyms": null,
+  "translation": "клин"
+ },
+ {
+  "id": 1057,
+  "page": 324,
+  "word": "ajar",
+  "definition": "(Of a door) slightly open.",
+  "synonyms": [
+   "partly open",
+   "open a crack"
+  ],
+  "antonyms": [
+   "closed",
+   "shut"
+  ],
+  "translation": "открехнат"
+ },
+ {
+  "id": 1058,
+  "page": 324,
+  "word": "hoarse",
+  "definition": "(Of a voice) sounding rough and harsh, especially due to soreness in the throat.",
+  "synonyms": [
+   "rough",
+   "raspy",
+   "husky"
+  ],
+  "antonyms": [
+   "clear",
+   "smooth"
+  ],
+  "translation": "дрезгав, пресипнал"
+ },
+ {
+  "id": 1059,
+  "page": 324,
+  "word": "whined (verb)",
+  "definition": "Made a long, high-pitched complaining cry or sound.",
+  "synonyms": [
+   "whimpered",
+   "moaned",
+   "complained"
+  ],
+  "antonyms": null,
+  "translation": "хленчеше, скимтеше"
+ },
+ {
+  "id": 1060,
+  "page": 324,
+  "word": "whistled down",
+  "definition": "Came down with a whistling sound, as of falling arrows or wind.",
+  "synonyms": "descended whistling",
+  "antonyms": null,
+  "translation": "свистейки се спусна"
+ },
+ {
+  "id": 1061,
+  "page": 324,
+  "word": "widening",
+  "definition": "Becoming wider; broadening.",
+  "synonyms": [
+   "broadening",
+   "expanding",
+   "opening"
+  ],
+  "antonyms": "narrowing",
+  "translation": "разширяване"
+ },
+ {
+  "id": 1062,
+  "page": 325,
+  "word": "affray",
+  "definition": "A noisy public fight or disturbance.",
+  "synonyms": [
+   "brawl",
+   "scuffle",
+   "fray"
+  ],
+  "antonyms": "peace",
+  "translation": "свада, сбиване"
+ },
+ {
+  "id": 1063,
+  "page": 325,
+  "word": "fierceness",
+  "definition": "The quality of being violent or aggressive.",
+  "synonyms": [
+   "ferocity",
+   "savagery",
+   "intensity"
+  ],
+  "antonyms": "gentleness",
+  "translation": "свирепост, ярост"
+ },
+ {
+  "id": 1064,
+  "page": 325,
+  "word": "felled (verb)",
+  "definition": "Knocked down by a heavy blow; cut down a tree.",
+  "synonyms": [
+   "cut down",
+   "knocked down"
+  ],
+  "antonyms": "raised",
+  "translation": "отсечен, повален"
+ },
+ {
+  "id": 1065,
+  "page": 325,
+  "word": "Barrow-blade",
+  "definition": "A sword from the Barrow-downs, forged long ago by the Men of Westernesse (Tolkien).",
+  "synonyms": null,
+  "antonyms": null,
+  "translation": "острие от Могилните хълмове"
+ },
+ {
+  "id": 1066,
+  "page": 325,
+  "word": "retreat (verb)",
+  "definition": "To withdraw, especially from enemy forces or a difficult situation.",
+  "synonyms": [
+   "withdraw",
+   "fall back",
+   "recede"
+  ],
+  "antonyms": "advance",
+  "translation": "отстъпвам, оттеглям се"
+ },
+ {
+  "id": 1067,
+  "page": 325,
+  "word": "mail",
+  "definition": "Armour made of metal rings or plates joined together.",
+  "synonyms": [
+   "chainmail",
+   "armour"
+  ],
+  "antonyms": null,
+  "translation": "ризница, плетена броня"
+ },
+ {
+  "id": 1068,
+  "page": 325,
+  "word": "swart",
+  "definition": "(Archaic) of dark colour or complexion; swarthy.",
+  "synonyms": [
+   "dark",
+   "swarthy",
+   "dusky"
+  ],
+  "antonyms": [
+   "fair",
+   "pale"
+  ],
+  "translation": "мургав (архаично)"
+ },
+ {
+  "id": 1069,
+  "page": 325,
+  "word": "scimitar",
+  "definition": "A short sword with a curved blade.",
+  "synonyms": [
+   "curved sword",
+   "saber"
+  ],
+  "antonyms": null,
+  "translation": "ятаган"
+ },
+ {
+  "id": 1070,
+  "page": 326,
+  "word": "asunder",
+  "definition": "Apart; divided.",
+  "synonyms": [
+   "apart",
+   "in pieces",
+   "separately"
+  ],
+  "antonyms": "together",
+  "translation": "на части, разделено"
+ },
+ {
+  "id": 1071,
+  "page": 326,
+  "word": "howling",
+  "definition": "A long, loud, doleful cry, as made by a wolf or dog.",
+  "synonyms": [
+   "wailing",
+   "yowling",
+   "baying"
+  ],
+  "antonyms": null,
+  "translation": "вой"
+ },
+ {
+  "id": 1072,
+  "page": 326,
+  "word": "grinding upon",
+  "definition": "Rubbing harshly against something; abrading.",
+  "synonyms": [
+   "scraping against",
+   "abrading"
+  ],
+  "antonyms": null,
+  "translation": "стържа върху"
+ },
+ {
+  "id": 1073,
+  "page": 327,
+  "word": "tramp",
+  "definition": "The sound of heavy walking; a long walk; a person who travels from place to place.",
+  "synonyms": [
+   "march",
+   "trek; vagrant"
+  ],
+  "antonyms": null,
+  "translation": "тропот; скитник"
+ },
+ {
+  "id": 1074,
+  "page": 327,
+  "word": "strain",
+  "definition": "A force tending to stretch or pull; a tune or piece of music.",
+  "synonyms": [
+   "pressure",
+   "tension; melody"
+  ],
+  "antonyms": "relaxation",
+  "translation": "напрежение; мелодия"
+ },
+ {
+  "id": 1075,
+  "page": 327,
+  "word": "counter-spell",
+  "definition": "A magical incantation used to counteract another spell.",
+  "synonyms": [
+   "counter-charm",
+   "counter-magic"
+  ],
+  "antonyms": null,
+  "translation": "контразаклинание"
+ },
+ {
+  "id": 1076,
+  "page": 328,
+  "word": "spear-thrust",
+  "definition": "A forceful forward thrust made with a spear.",
+  "synonyms": [
+   "spear-jab",
+   "lance-thrust"
+  ],
+  "antonyms": null,
+  "translation": "удар с копие"
+ },
+ {
+  "id": 1077,
+  "page": 328,
+  "word": "skewered (verb)",
+  "definition": "Fastened together or pierced with a long pin or stick.",
+  "synonyms": [
+   "pierced",
+   "impaled",
+   "speared"
+  ],
+  "antonyms": null,
+  "translation": "набодох, прободох"
+ },
+ {
+  "id": 1078,
+  "page": 328,
+  "word": "devilry",
+  "definition": "Wicked activity; mischievous behaviour.",
+  "synonyms": [
+   "wickedness",
+   "mischief",
+   "villainy"
+  ],
+  "antonyms": [
+   "goodness",
+   "virtue"
+  ],
+  "translation": "дяволщина, злодейство"
+ },
+ {
+  "id": 1079,
+  "page": 328,
+  "word": "loftier",
+  "definition": "Higher; more elevated or noble in character.",
+  "synonyms": [
+   "higher",
+   "taller",
+   "grander"
+  ],
+  "antonyms": [
+   "lower",
+   "baser"
+  ],
+  "translation": "по-висок, по-възвишен"
+ },
+ {
+  "id": 1080,
+  "page": 328,
+  "word": "boles",
+  "definition": "The trunks of trees.",
+  "synonyms": [
+   "trunks",
+   "stems"
+  ],
+  "antonyms": null,
+  "translation": "стволове на дървета"
+ },
+ {
+  "id": 1081,
+  "page": 328,
+  "word": "tracery",
+  "definition": "Ornamental stonework or decorative pattern of branching lines.",
+  "synonyms": [
+   "lattice",
+   "latticework",
+   "scrollwork"
+  ],
+  "antonyms": null,
+  "translation": "плетеница, орнаментен мотив"
+ },
+ {
+  "id": 1082,
+  "page": 328,
+  "word": "stems",
+  "definition": "The main bodies or stalks of plants or shrubs.",
+  "synonyms": [
+   "stalks",
+   "trunks",
+   "shoots"
+  ],
+  "antonyms": null,
+  "translation": "стъбла"
+ },
+ {
+  "id": 1083,
+  "page": 329,
+  "word": "chasm",
+  "definition": "A deep fissure in the earth, rock, or another surface; a profound difference.",
+  "synonyms": [
+   "abyss",
+   "gulf",
+   "ravine"
+  ],
+  "antonyms": null,
+  "translation": "бездна, пропаст"
+ },
+ {
+  "id": 1084,
+  "page": 329,
+  "word": "slender",
+  "definition": "(Of a person) gracefully thin; small or insufficient in amount.",
+  "synonyms": [
+   "slim",
+   "slight",
+   "thin"
+  ],
+  "antonyms": [
+   "stout",
+   "broad"
+  ],
+  "translation": "строен, тънък"
+ },
+ {
+  "id": 1085,
+  "page": 329,
+  "word": "kerb",
+  "definition": "A stone edging to a pavement or raised path.",
+  "synonyms": [
+   "curb",
+   "edge",
+   "border"
+  ],
+  "antonyms": null,
+  "translation": "бордюр"
+ },
+ {
+  "id": 1086,
+  "page": 329,
+  "word": "spanned",
+  "definition": "Extended across (a space); bridged.",
+  "synonyms": [
+   "bridged",
+   "crossed",
+   "traversed"
+  ],
+  "antonyms": null,
+  "translation": "преодолял, обхванал"
+ },
+ {
+  "id": 1087,
+  "page": 330,
+  "word": "streaming mane",
+  "definition": "A horse’s mane flowing out behind it as it runs.",
+  "synonyms": "flowing mane",
+  "antonyms": null,
+  "translation": "развяна грива"
+ },
+ {
+  "id": 1088,
+  "page": 330,
+  "word": "horn",
+  "definition": "A wind instrument made from an animal horn, or a similar musical instrument.",
+  "synonyms": [
+   "bugle",
+   "trumpet"
+  ],
+  "antonyms": null,
+  "translation": "рог (музикален инструмент)"
+ },
+ {
+  "id": 1089,
+  "page": 330,
+  "word": "wielder",
+  "definition": "A person who handles or uses a tool or weapon.",
+  "synonyms": [
+   "user",
+   "handler",
+   "bearer"
+  ],
+  "antonyms": null,
+  "translation": "владелец, носител (на оръжие)"
+ },
+ {
+  "id": 1090,
+  "page": 331,
+  "word": "leap (verb)",
+  "definition": "To jump or spring a long way, to a great height, or with great force.",
+  "synonyms": [
+   "jump",
+   "spring",
+   "bound"
+  ],
+  "antonyms": "walk",
+  "translation": "скачам, прескачам"
+ },
+ {
+  "id": 1091,
+  "page": 331,
+  "word": "onset",
+  "definition": "The beginning of something, especially something unpleasant.",
+  "synonyms": [
+   "start",
+   "beginning",
+   "commencement"
+  ],
+  "antonyms": [
+   "end",
+   "conclusion"
+  ],
+  "translation": "начало, започване (на нещо лошо)"
+ },
+ {
+  "id": 1092,
+  "page": 331,
+  "word": "molten",
+  "definition": "(Especially of metal or rock) liquefied by heat.",
+  "synonyms": [
+   "melted",
+   "liquid",
+   "fluid"
+  ],
+  "antonyms": [
+   "solid",
+   "frozen"
+  ],
+  "translation": "разтопен"
+ },
+ {
+  "id": 1093,
+  "page": 331,
+  "word": "mournful",
+  "definition": "Feeling or expressing sorrow or grief.",
+  "synonyms": [
+   "sorrowful",
+   "sad",
+   "dolorous"
+  ],
+  "antonyms": [
+   "joyful",
+   "cheerful"
+  ],
+  "translation": "скръбен, тъжен"
+ },
+ {
+  "id": 1094,
+  "page": 331,
+  "word": "cast down",
+  "definition": "Thrown down; dejected or sad.",
+  "synonyms": [
+   "thrown down",
+   "dejected",
+   "downhearted"
+  ],
+  "antonyms": "uplifted",
+  "translation": "паднал духом, унил"
+ },
+ {
+  "id": 1095,
+  "page": 331,
+  "word": "brink",
+  "definition": "The extreme edge of land before a steep slope or a body of water.",
+  "synonyms": [
+   "edge",
+   "verge",
+   "threshold"
+  ],
+  "antonyms": null,
+  "translation": "ръб, ивица, навечерие"
+ },
+ {
+  "id": 1096,
+  "page": 331,
+  "word": "whirl (verb)",
+  "definition": "To move or cause to move rapidly round and round.",
+  "synonyms": [
+   "spin",
+   "twirl",
+   "rotate"
+  ],
+  "antonyms": "still",
+  "translation": "въртя се, кръжа"
+ },
+ {
+  "id": 1097,
+  "page": 331,
+  "word": "wizened",
+  "definition": "Shrivelled or wrinkled with age.",
+  "synonyms": [
+   "shrivelled",
+   "withered",
+   "gnarled"
+  ],
+  "antonyms": [
+   "youthful",
+   "plump"
+  ],
+  "translation": "съсухрен, сбръчкан"
+ },
+ {
+  "id": 1098,
+  "page": 332,
+  "word": "yawn (verb)",
+  "definition": "To open the mouth wide and inhale deeply due to tiredness or boredom.",
+  "synonyms": [
+   "gape",
+   "open wide"
+  ],
+  "antonyms": null,
+  "translation": "прозявам се"
+ },
+ {
+  "id": 1099,
+  "page": 333,
+  "word": "beware",
+  "definition": "To be cautious of (something dangerous).",
+  "synonyms": [
+   "watch out",
+   "take care",
+   "mind"
+  ],
+  "antonyms": null,
+  "translation": "пазя се, внимавам"
+ },
+ {
+  "id": 1100,
+  "page": 333,
+  "word": "gird",
+  "definition": "To encircle (a person or part of the body) with a belt or band.",
+  "synonyms": [
+   "encircle",
+   "belt",
+   "bind"
+  ],
+  "antonyms": null,
+  "translation": "опасвам, препасвам"
+ }
+]

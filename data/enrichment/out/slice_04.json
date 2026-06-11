@@ -1,0 +1,452 @@
+[
+ {
+  "id": 151,
+  "word": "abominable",
+  "explanationBg": "Толкова лош, грозен или противен, че буди отвращение — направо ужасен и непоносим.",
+  "explanationEn": "Extremely unpleasant or disgusting; truly terrible.",
+  "exampleEn": "The changing rooms smelled absolutely abominable after the basketball tournament.",
+  "mnemonicBg": "Йети на английски е „the Abominable Snowman“ — „ужасният снежен човек“: представи си колко отвратително мирише мократа му козина.",
+  "ipa": "/əˈbɒmɪnəbl/"
+ },
+ {
+  "id": 152,
+  "word": "fireside-story",
+  "explanationBg": "Приказка, разказвана вечер около огъня — стара народна история, предавана от уста на уста.",
+  "explanationEn": "A traditional tale told while sitting around a fire.",
+  "exampleEn": "Grandpa's fireside-stories about wolves in his old village beat any horror movie.",
+  "mnemonicBg": "Разглоби я: fire (огън) + side (край) + story (приказка) — баба реди страшна история, а огънят ѝ приглася с пук-пук.",
+  "ipa": "/ˈfaɪəsaɪd ˌstɔːri/"
+ },
+ {
+  "id": 153,
+  "word": "dratted",
+  "explanationBg": "Думичка, с която изпускаш парата, когато нещо те ядосва — като нашето „проклет“ или „пуст да е“.",
+  "explanationEn": "A word you say to show you are annoyed with something.",
+  "exampleEn": "I can't find my dratted earbuds anywhere in this messy room!",
+  "mnemonicBg": "Прилича на „дрррт!“ — звукът, който изръмжаваш през зъби, когато проклетият принтер пак заяде.",
+  "ipa": "/ˈdrætɪd/"
+ },
+ {
+  "id": 154,
+  "word": "rained drink",
+  "explanationBg": "Шеговит израз от книгата: пиене в такова изобилие, че сякаш вали от небето като дъжд.",
+  "explanationEn": "A playful way of saying there was a huge amount to drink.",
+  "exampleEn": "At my cousin's graduation party it practically rained drink — juice, cola and lemonade on every table.",
+  "mnemonicBg": "Представи си облак, от който вместо дъжд се лее лимонада — вали (rain) питие (drink)!",
+  "ipa": "/ˌreɪnd ˈdrɪŋk/"
+ },
+ {
+  "id": 155,
+  "word": "tramping",
+  "explanationBg": "Дълго ходене пеша с тежки, шумни стъпки — уморително бъхтене по пътя.",
+  "explanationEn": "Walking heavily and noisily for a long distance.",
+  "exampleEn": "We spent the whole Saturday tramping through muddy trails above the town.",
+  "mnemonicBg": "Звучи като „трамбовам“ — трамбоваш пътя с тежки стъпки километър след километър.",
+  "ipa": "/ˈtræmpɪŋ/"
+ },
+ {
+  "id": 156,
+  "word": "outwardly",
+  "explanationBg": "Така, както изглежда отвън, на пръв поглед — независимо какво всъщност става вътре в човека.",
+  "explanationEn": "On the outside; as something appears, not as it really is.",
+  "exampleEn": "Outwardly she looked calm before the audition, but her hands were shaking.",
+  "mnemonicBg": "Out значи „навън“ — гледаш само витрината на магазина, а какво има в склада отзад, не се знае.",
+  "ipa": "/ˈaʊtwədli/"
+ },
+ {
+  "id": 157,
+  "word": "ominous",
+  "explanationBg": "Който те кара да усещаш, че се задава нещо лошо — настръхваш още преди бедата да е дошла.",
+  "explanationEn": "Making you feel that something bad is going to happen.",
+  "exampleEn": "An ominous silence fell over the classroom when the principal walked in with our tests.",
+  "mnemonicBg": "Чуй „о, МИНУС!“ — виждаш огромния минус под контролното и усещаш, че се задава беда.",
+  "ipa": "/ˈɒmɪnəs/"
+ },
+ {
+  "id": 158,
+  "word": "befall (verb)",
+  "explanationBg": "Да се случи на някого, да го сполети — почти винаги става дума за нещо лошо.",
+  "explanationEn": "To happen to someone, usually something bad.",
+  "exampleEn": "The team worried that more bad luck would befall them after the bus broke down.",
+  "mnemonicBg": "Be + fall (падам) — бедата буквално „пада“ от небето право върху нечия глава.",
+  "ipa": "/bɪˈfɔːl/"
+ },
+ {
+  "id": 159,
+  "word": "well-trodden",
+  "explanationBg": "Отъпкан от безброй стъпки — път или маршрут, по който постоянно минават много хора.",
+  "explanationEn": "Walked on by many people, so it is worn and familiar.",
+  "exampleEn": "We stuck to the well-trodden path to the waterfall instead of risking a shortcut.",
+  "mnemonicBg": "Well (здравата) + trodden (отъпкан) — пътека, тъпкана от толкова крака, че тревата е вдигнала бяло знаме.",
+  "ipa": "/ˌwelˈtrɒdn/"
+ },
+ {
+  "id": 160,
+  "word": "afield",
+  "explanationBg": "Далеч от дома, към непознати краища — когато тръгваш отвъд обичайните места.",
+  "explanationEn": "Far away from home or from the usual area.",
+  "exampleEn": "Our volleyball team finally played further afield this season — three matches in another country.",
+  "mnemonicBg": "A + field (поле) — тръгнал си „през девет полета в десето“, далеч от дома.",
+  "ipa": "/əˈfiːld/"
+ },
+ {
+  "id": 161,
+  "word": "wayfarer",
+  "explanationBg": "Човек, който пътува пеша от място на място — странстващ пътник по пътищата.",
+  "explanationEn": "A person who travels from place to place on foot.",
+  "exampleEn": "The mountain hut was full of soaked wayfarers drying their boots by the stove.",
+  "mnemonicBg": "Way (път) + farer (пътуващ) — сети се за очилата Ray-Ban Wayfarer: пътник с прашни обувки и готини очила.",
+  "ipa": "/ˈweɪfeərə/"
+ },
+ {
+  "id": 162,
+  "word": "disquieting",
+  "explanationBg": "Който ти отнема спокойствието и те изпълва с тревога — нещо те човърка отвътре.",
+  "explanationEn": "Making you feel worried and uneasy.",
+  "exampleEn": "It was disquieting to see my best friend sitting silent and alone at lunch.",
+  "mnemonicBg": "Dis + quiet (тихо) — нещо „разваля тишината“ в главата ти и мислите забръмчават тревожно.",
+  "ipa": "/dɪsˈkwaɪətɪŋ/"
+ },
+ {
+  "id": 163,
+  "word": "elm",
+  "explanationBg": "Бряст — високо листопадно дърво с груби, назъбени по ръба листа.",
+  "explanationEn": "A tall tree with rough leaves that have toothed edges.",
+  "exampleEn": "We hung a rope swing from the old elm behind the gym.",
+  "mnemonicBg": "Сети се за „Кошмар на улица Елм“ — улицата на брястовете: всеки elm е бряст.",
+  "ipa": "/elm/"
+ },
+ {
+  "id": 164,
+  "word": "moonshine",
+  "explanationBg": "Светлината на луната; в преносен смисъл — празни приказки и измишльотини, на които не си струва да вярваш.",
+  "explanationEn": "Moonlight; it can also mean silly talk or nonsense.",
+  "exampleEn": "His story about aliens deleting his homework was pure moonshine.",
+  "mnemonicBg": "Moon (луна) + shine (блясък) — лунната светлина е красива, но „обещания на лунна светлина“ са чисти глупости.",
+  "ipa": "/ˈmuːnʃaɪn/"
+ },
+ {
+  "id": 165,
+  "word": "careworn",
+  "explanationBg": "Изморен и посърнал от дълго трупани тревоги — грижите са се изписали на лицето му.",
+  "explanationEn": "Looking tired and sad after worrying for a long time.",
+  "exampleEn": "After organising the whole school concert by herself, our teacher looked completely careworn.",
+  "mnemonicBg": "Care (грижа) + worn (износен) — човек, „износен“ от грижи като любима тениска след сто прания.",
+  "ipa": "/ˈkeəwɔːn/"
+ },
+ {
+  "id": 166,
+  "word": "potent",
+  "explanationBg": "Много силен и мощен — с въздействие, което се усеща веднага и здраво.",
+  "explanationEn": "Very strong and powerful in its effect.",
+  "exampleEn": "That tiny chili pepper was so potent that I emptied a whole bottle of water.",
+  "mnemonicBg": "Чуй „ПОТ-ент“ — лютото е толкова мощно, че те избива пот още на първата хапка.",
+  "ipa": "/ˈpəʊtnt/"
+ },
+ {
+  "id": 167,
+  "word": "weariness",
+  "explanationBg": "Огромна умора, при която силите ти са на нула и не ти се занимава с нищо повече.",
+  "explanationEn": "A feeling of very deep tiredness.",
+  "exampleEn": "By the last day of the hiking camp, weariness hit us and the whole tent went quiet by nine.",
+  "mnemonicBg": "Чуй „weariness“ като „умори нас“ — походът умори нас всичките и се влачим като зомбита.",
+  "ipa": "/ˈwɪərinəs/"
+ },
+ {
+  "id": 168,
+  "word": "hitherto",
+  "explanationBg": "Досега, до момента, за който говорим — нещо е било така чак до тази точка.",
+  "explanationEn": "Until now, or until the time you are talking about.",
+  "exampleEn": "Their hitherto unbeaten team finally lost in the semifinal.",
+  "mnemonicBg": "Чуй „ХИТЪР-ту“ — хитрувал си досега, ама отсега нататък номерата не минават!",
+  "ipa": "/ˌhɪðəˈtuː/"
+ },
+ {
+  "id": 169,
+  "word": "breches-pocket",
+  "explanationBg": "Джоб на бричове — старовремски панталони, дълги до под коляното.",
+  "explanationEn": "A pocket in breeches — old-fashioned trousers that end at the knee.",
+  "exampleEn": "In grandpa's folk costume I found a little breches-pocket with an old coin inside.",
+  "mnemonicBg": "Лесна е: breeches са си нашите „бричове“, а pocket е джоб — джобът на дядовите бричове.",
+  "ipa": "/ˈbrɪtʃɪz ˌpɒkɪt/"
+ },
+ {
+  "id": 170,
+  "word": "tongs",
+  "explanationBg": "Уред с две подвижни рамена, съединени в единия край — с него хващаш и вдигаш предмети, без да се изгориш или изцапаш.",
+  "explanationEn": "A tool with two arms used to pick things up.",
+  "exampleEn": "Dad waved the tongs like a conductor while flipping burgers at the barbecue.",
+  "mnemonicBg": "Чуй „тонг-тонг“ — звънтенето на металната щипка по ръба на скарата.",
+  "ipa": "/tɒŋz/"
+ },
+ {
+  "id": 171,
+  "word": "shears",
+  "explanationBg": "Големи, яки ножици — с такива се подстригват храсти, режат платове или се стриже вълна.",
+  "explanationEn": "Large heavy scissors for cutting plants, cloth, or wool.",
+  "exampleEn": "Grandma handed me the garden shears and pointed at the overgrown rose bush.",
+  "mnemonicBg": "Чуй „шиърз“ като „Шийрън“ — представи си Ед Шийрън да подстригва жив плет с гигантски ножици вместо китара.",
+  "ipa": "/ʃɪəz/"
+ },
+ {
+  "id": 172,
+  "word": "clack",
+  "explanationBg": "Кратък, отсечен звук „трак!“ — когато два твърди предмета се ударят един в друг.",
+  "explanationEn": "A short sharp sound of hard things knocking together.",
+  "exampleEn": "All evening you could hear the clack of dominoes from the kitchen.",
+  "mnemonicBg": "Това е нашето „клак-клак“ — токчета по плочки или плочки домино, които се чукват.",
+  "ipa": "/klæk/"
+ },
+ {
+  "id": 173,
+  "word": "pen strokes",
+  "explanationBg": "Чертите, които писалката оставя при всяко отделно движение на ръката — щрих по щрих се ражда текстът или рисунката.",
+  "explanationEn": "The lines made by single movements of a pen.",
+  "exampleEn": "With a few quick pen strokes she turned my boring doodle into a cat.",
+  "mnemonicBg": "Stroke значи и „погалвам“ — писалката „гали“ листа и всяко погалване оставя черта.",
+  "ipa": "/ˈpen ˌstrəʊks/"
+ },
+ {
+  "id": 174,
+  "word": "lore-masters",
+  "explanationBg": "Пазители на старите знания — мъдреци, които помнят историята, преданията и тайните на миналото.",
+  "explanationEn": "People who keep and know old or traditional knowledge.",
+  "exampleEn": "In our gaming guild the lore-masters know the backstory of every single quest.",
+  "mnemonicBg": "Геймърите си казват „лорът на играта“ — lore-masters са майсторите на лора, живи енциклопедии на миналото.",
+  "ipa": "/ˈlɔːˌmɑːstəz/"
+ },
+ {
+  "id": 175,
+  "word": "fastness",
+  "explanationBg": "Сигурно, труднодостъпно място, защитено от самата природа — твърдина, крепост. И внимавай: тук няма нищо общо с „бързина“!",
+  "explanationEn": "A strong safe place that is hard to attack, like a fortress.",
+  "exampleEn": "Our rock fort felt like a real fastness during the snowball fight.",
+  "mnemonicBg": "Тук fast значи „здраво закован“ (като в „hold fast“) — крепост, която стои непоклатимо, а не тича бързо.",
+  "ipa": "/ˈfɑːstnəs/"
+ },
+ {
+  "id": 176,
+  "word": "ensnare (verb)",
+  "explanationBg": "Да уловиш някого в капан или примка — буквално или с хитро скроен план.",
+  "explanationEn": "To catch someone or something in a trap.",
+  "exampleEn": "The detectives set up a fake online sale to ensnare the phone thieves.",
+  "mnemonicBg": "Вътре се крие snare (примка) — представи си как мрежата прави „щрак!“ и зайчето е омотано.",
+  "ipa": "/ɪnˈsneə/"
+ },
+ {
+  "id": 177,
+  "word": "dominion",
+  "explanationBg": "Върховна власт да управляваш — или самите земи, над които се простира тази власт.",
+  "explanationEn": "The power to rule, or the land that someone rules.",
+  "exampleEn": "By the tenth round of the strategy game, my dominion covered the entire map.",
+  "mnemonicBg": "Сети се за „ДОМИНИрам“ — който има dominion, доминира над цялата карта.",
+  "ipa": "/dəˈmɪnjən/"
+ },
+ {
+  "id": 178,
+  "word": "Ringwraiths",
+  "explanationBg": "Деветимата черни конници от света на Толкин — призрачни слуги на Саурон, поробени от своите девет пръстена.",
+  "explanationEn": "The nine ghostly riders who serve Sauron because of their magic rings.",
+  "exampleEn": "His costume as one of the Ringwraiths — long black robe and creepy screech — won the school Halloween contest.",
+  "mnemonicBg": "Ring (пръстен) + wraith (призрак) — призраци, оковани за пръстените си, пищящи като развален звънец: рииинг!",
+  "ipa": "/ˈrɪŋreɪθs/"
+ },
+ {
+  "id": 179,
+  "word": "wrought (verb)",
+  "explanationBg": "Старинна дума за „изработен“ — направен, изкован или оформен с майсторска грижа.",
+  "explanationEn": "An old word for 'made' or 'shaped', especially with skill.",
+  "exampleEn": "She wore a ring wrought from an old silver spoon by a craftsman at the fair.",
+  "mnemonicBg": "Сети се за wrought iron — кованото желязо на старите порти: чуваш „рооот“, скърцането на майсторски изкована панта.",
+  "ipa": "/rɔːt/"
+ },
+ {
+  "id": 180,
+  "word": "valour",
+  "explanationBg": "Голяма смелост пред лицето на опасност — храброст, особено в битка.",
+  "explanationEn": "Great courage when facing danger, especially in battle.",
+  "exampleEn": "The firefighter got a medal for valour after carrying two kids out of the smoke.",
+  "mnemonicBg": "Представи си ВАЛЕто от тестето карти като безстрашен рицар — валето е заредено с valour.",
+  "ipa": "/ˈvælə/"
+ },
+ {
+  "id": 181,
+  "word": "waylay (verb)",
+  "explanationBg": "Да причакаш някого скришом на пътя, за да го нападнеш или ограбиш.",
+  "explanationEn": "To hide and wait for someone in order to attack or rob them.",
+  "exampleEn": "In the game, bandits always try to waylay our caravan just before the city gates.",
+  "mnemonicBg": "Way (път) + lay (лежа) — разбойникът лежи в храстите край пътя и дебне кой ще мине.",
+  "ipa": "/ˌweɪˈleɪ/"
+ },
+ {
+  "id": 182,
+  "word": "reeds",
+  "explanationBg": "Тръстики — високи, тънки треви, които растат в блата и по мокрите брегове.",
+  "explanationEn": "Tall thin grasses that grow in wet places.",
+  "exampleEn": "The frisbee disappeared somewhere in the tall reeds by the lake.",
+  "mnemonicBg": "Представи си тръстиките, строени в РЕДове край езерото — reeds като редици зелени войничета.",
+  "ipa": "/riːdz/"
+ },
+ {
+  "id": 183,
+  "word": "repute",
+  "explanationBg": "Мнението, което хората най-общо имат за някого или нещо — името, което си си изградил.",
+  "explanationEn": "The opinion that people in general have about someone; reputation.",
+  "exampleEn": "Our coach is a man of great repute in the whole neighbourhood.",
+  "mnemonicBg": "Вътре в repute се чува „репутация“ — това ѝ е кратката английска братовчедка.",
+  "ipa": "/rɪˈpjuːt/"
+ },
+ {
+  "id": 184,
+  "word": "inquisitive",
+  "explanationBg": "Любопитен и жаден да научава нови неща — понякога чак прекалено любопитен към чуждите работи.",
+  "explanationEn": "Very curious and eager to find things out.",
+  "exampleEn": "My inquisitive little brother opened every single drawer in the hotel room within five minutes.",
+  "mnemonicBg": "Вътре се чува „инквизиция“ — разпитва те като инквизитор: кой, какво, къде и защо?",
+  "ipa": "/ɪnˈkwɪzətɪv/"
+ },
+ {
+  "id": 185,
+  "word": "keen-eared",
+  "explanationBg": "С остър слух — улавя и най-тихите звуци.",
+  "explanationEn": "Having very sharp hearing.",
+  "exampleEn": "My keen-eared mum heard me unwrapping chocolate from two rooms away.",
+  "mnemonicBg": "Keen (остър) + ear (ухо) — уши-антени като на котка, наострени и за най-тихото шумолене на пакет чипс.",
+  "ipa": "/ˌkiːnˈɪəd/"
+ },
+ {
+  "id": 186,
+  "word": "stature",
+  "explanationBg": "Ръстът на човека — колко е висок; в преносен смисъл и авторитетът, който си спечелил с уменията си.",
+  "explanationEn": "A person's height, or the respect they have earned.",
+  "exampleEn": "Despite his small stature, he's the toughest defender in our football team.",
+  "mnemonicBg": "Звучи като „статуя“ — статуите ги правят високи и величествени: ръст и авторитет в едно.",
+  "ipa": "/ˈstætʃə/"
+ },
+ {
+  "id": 187,
+  "word": "gurgling",
+  "explanationBg": "Който издава бълбукащ, клокочещ звук — като вода, провираща се през тясно място.",
+  "explanationEn": "Making a low bubbling sound like flowing water.",
+  "exampleEn": "We fell asleep to the gurgling of the stream next to our tent.",
+  "mnemonicBg": "Чуй „гър-гър“ — все едно поточето си прави гаргара.",
+  "ipa": "/ˈɡɜːɡlɪŋ/"
+ },
+ {
+  "id": 188,
+  "word": "maggot",
+  "explanationBg": "Мека белезникава личинка на муха — червейче без крачета (в книгата това е и нечие фамилно име).",
+  "explanationEn": "The soft, legless baby form of a fly.",
+  "exampleEn": "We bought a box of maggots for bait when grandpa took us fishing.",
+  "mnemonicBg": "Чуй „МАГ-гот“ — представи си червейче с магьосническа шапка и готик грим, звезда на буркана със стръв.",
+  "ipa": "/ˈmæɡət/"
+ },
+ {
+  "id": 189,
+  "word": "Orc",
+  "explanationBg": "Орк — зло, чудовищно същество от измисления свят на Толкин, подобно на таласъм; днес върлува из всяка фентъзи игра.",
+  "explanationEn": "An evil goblin-like monster from fantasy stories.",
+  "exampleEn": "We spent the whole evening fighting orcs in the new co-op game.",
+  "mnemonicBg": "Чуй „ъррк!“ — точно такъв грозен звук би издал зелен таласъм, преди да се оригне.",
+  "ipa": "/ɔːk/"
+ },
+ {
+  "id": 190,
+  "word": "sift",
+  "explanationBg": "Да пресееш през сито, за да махнеш бучките; в преносен смисъл — да прегледаш нещо много внимателно.",
+  "explanationEn": "To pass something through a sieve, or to examine it very carefully.",
+  "exampleEn": "Sift the flour twice, or the pancake batter will be full of lumps.",
+  "mnemonicBg": "Sift и „сито“ си приличат и по звук, и по букви — ситото в действие: брашното вали като сняг.",
+  "ipa": "/sɪft/"
+ },
+ {
+  "id": 191,
+  "word": "snivelling",
+  "explanationBg": "Циврене и хленчене с подсмърчане — слабо, жално оплакване през сълзи.",
+  "explanationEn": "Crying and complaining in a weak, sniffing way.",
+  "exampleEn": "My little cousin started snivelling when his scoop of ice cream hit the pavement.",
+  "mnemonicBg": "Вътре е „сниф-сниф“ — подсмърчането на циврещ хлапак, изпуснал сладоледа си на земята.",
+  "ipa": "/ˈsnɪvəlɪŋ/"
+ },
+ {
+  "id": 192,
+  "word": "snarling",
+  "explanationBg": "Ръмжене с озъбена муцуна — заплашително, като ядосано куче; казва се и за човек, който говори злобно и сопнато.",
+  "explanationEn": "Growling angrily with bared teeth, or speaking that way.",
+  "exampleEn": "The neighbour's dog kept snarling at my skateboard through the fence.",
+  "mnemonicBg": "Чуй го: сна-РРР-линг — онова „ррр“ по средата е самото ръмжене на озъбеното куче.",
+  "ipa": "/ˈsnɑːlɪŋ/"
+ },
+ {
+  "id": 193,
+  "word": "padding",
+  "explanationBg": "Мек пълнеж, който предпазва или омекотява; същата дума се ползва и за тихо, меко пристъпване.",
+  "explanationEn": "Soft material used for protection; also moving with soft steps.",
+  "exampleEn": "The padding in my goalkeeper gloves saved my palms during the penalty shootout.",
+  "mnemonicBg": "Звучи като „падане“ — мекият пълнеж е там точно за да омекоти падането.",
+  "ipa": "/ˈpædɪŋ/"
+ },
+ {
+  "id": 194,
+  "word": "dint",
+  "explanationBg": "Вдлъбнатина, останала по повърхност след удар; в един устойчив израз думата значи и „чрез, благодарение на“ — обикновено на много усилия.",
+  "explanationEn": "A small dent; 'by dint of' means 'by means of'.",
+  "exampleEn": "By dint of practising every single evening, she finally landed the kickflip.",
+  "mnemonicBg": "Изпуснеш ли ДИНя върху капака на колата, остава dint — вдлъбнатина с формата на динята.",
+  "ipa": "/dɪnt/"
+ },
+ {
+  "id": 195,
+  "word": "profound",
+  "explanationBg": "Много дълбок и силен — за чувство, мисъл или промяна; също и който показва дълбоко познание и проницателност.",
+  "explanationEn": "Very deep and strong; showing deep understanding.",
+  "exampleEn": "That documentary about the ocean left a profound impression on the whole class.",
+  "mnemonicBg": "Чуй „про-ФУНДамент“ — нещо дълбоко чак до основите, до самия фундамент.",
+  "ipa": "/prəˈfaʊnd/"
+ },
+ {
+  "id": 196,
+  "word": "fabled",
+  "explanationBg": "Прочут като от легенда — нещо, за което всички са чували и разказват, почти като в приказка.",
+  "explanationEn": "Famous in stories; legendary.",
+  "exampleEn": "We finally tried the fabled bakery that everyone at school keeps raving about.",
+  "mnemonicBg": "Идва от fable (басня) — нещо толкова прочуто, че за него вече се съчиняват басни.",
+  "ipa": "/ˈfeɪbld/"
+ },
+ {
+  "id": 197,
+  "word": "foothold",
+  "explanationBg": "Място, където кракът ти стъпва стабилно при катерене; в преносен смисъл — първата сигурна позиция, от която да продължиш напред.",
+  "explanationEn": "A safe place for your foot when climbing; a first secure position.",
+  "exampleEn": "I found a tiny foothold on the climbing wall and pushed myself up to the bell.",
+  "mnemonicBg": "Foot (крак) + hold (държи) — мъничка издатина в скалата, която „държи крака ти“ да не падне.",
+  "ipa": "/ˈfʊthəʊld/"
+ },
+ {
+  "id": 198,
+  "word": "uprooted",
+  "explanationBg": "Изтръгнат от земята с корените; казва се и за човек или нещо, откъснато от обичайното си място.",
+  "explanationEn": "Pulled out of the ground with the roots; forced from its usual place.",
+  "exampleEn": "The storm uprooted the huge poplar in the schoolyard overnight.",
+  "mnemonicBg": "Up (нагоре) + root (корен) — бурята вади дървото като морков от леха, с корените във въздуха.",
+  "ipa": "/ˌʌpˈruːtɪd/"
+ },
+ {
+  "id": 199,
+  "word": "embers",
+  "explanationBg": "Жарава — малките тлеещи и светещи въгленчета, които остават, когато огънят догаря.",
+  "explanationEn": "The small glowing pieces of wood or coal in a dying fire.",
+  "exampleEn": "We roasted the last marshmallows over the glowing embers long after midnight.",
+  "mnemonicBg": "Сети се за огненото момиче Ембър от анимацията „Стихии“ — тя самата е живо, светещо въгленче.",
+  "ipa": "/ˈembəz/"
+ },
+ {
+  "id": 200,
+  "word": "dart",
+  "explanationBg": "Малка остра стреличка за хвърляне; означава и внезапно, мълниеносно стрелване от място на място.",
+  "explanationEn": "A small pointed missile that you throw; also a quick sudden movement.",
+  "exampleEn": "Her final dart hit the bullseye and the whole youth club exploded with cheers.",
+  "mnemonicBg": "Играта ДАРТС носи името на това — стреличка, която се стрелва към мишената като ужилена оса.",
+  "ipa": "/dɑːt/"
+ }
+]

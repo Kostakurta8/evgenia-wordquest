@@ -1,0 +1,717 @@
+[
+ {
+  "id": 501,
+  "page": 159,
+  "word": "ostler",
+  "definition": "A man employed at an inn to look after the horses of guests.",
+  "synonyms": [
+   "stableman",
+   "groom"
+  ],
+  "antonyms": null,
+  "translation": "коняр (в хан)"
+ },
+ {
+  "id": 502,
+  "page": 160,
+  "word": "rear",
+  "definition": "The back part of something; (verb) to bring up offspring.",
+  "synonyms": [
+   "back",
+   "hind",
+   "posterior"
+  ],
+  "antonyms": [
+   "front",
+   "fore"
+  ],
+  "translation": "заден, тил; отглеждам"
+ },
+ {
+  "id": 503,
+  "page": 160,
+  "word": "capering",
+  "definition": "Skipping or dancing about in a lively or playful way.",
+  "synonyms": [
+   "leaping",
+   "frolicking",
+   "prancing"
+  ],
+  "antonyms": null,
+  "translation": "подскачане, лудории"
+ },
+ {
+  "id": 504,
+  "page": 161,
+  "word": "swarthy",
+  "definition": "(Of a person) having a dark complexion or skin.",
+  "synonyms": [
+   "dark-skinned",
+   "dusky",
+   "tan"
+  ],
+  "antonyms": [
+   "fair",
+   "pale"
+  ],
+  "translation": "мургав, тъмен"
+ },
+ {
+  "id": 505,
+  "page": 162,
+  "word": "conflicting accounts",
+  "definition": "Reports or descriptions that disagree with each other.",
+  "synonyms": [
+   "contradictory reports",
+   "inconsistent stories"
+  ],
+  "antonyms": "matching accounts",
+  "translation": "противоречиви разкази"
+ },
+ {
+  "id": 506,
+  "page": 163,
+  "word": "crocks",
+  "definition": "Earthenware pots or jars.",
+  "synonyms": [
+   "pots",
+   "jars",
+   "earthenware"
+  ],
+  "antonyms": null,
+  "translation": "глинени съдове, гърнета"
+ },
+ {
+  "id": 507,
+  "page": 164,
+  "word": "faggots",
+  "definition": "Bundles of sticks or twigs bound together as fuel.",
+  "synonyms": [
+   "bundles",
+   "kindling",
+   "sticks"
+  ],
+  "antonyms": null,
+  "translation": "снопи дърва за горене"
+ },
+ {
+  "id": 508,
+  "page": 164,
+  "word": "rascal",
+  "definition": "A mischievous or cheeky person, especially a child or man.",
+  "synonyms": [
+   "rogue",
+   "scoundrel",
+   "scamp"
+  ],
+  "antonyms": [
+   "saint",
+   "gentleman"
+  ],
+  "translation": "хитрец, негодник"
+ },
+ {
+  "id": 509,
+  "page": 164,
+  "word": "rogue",
+  "definition": "A dishonest or unprincipled person; a mischievous person.",
+  "synonyms": [
+   "scoundrel",
+   "villain",
+   "rascal"
+  ],
+  "antonyms": [
+   "gentleman",
+   "saint"
+  ],
+  "translation": "мошеник, негодник"
+ },
+ {
+  "id": 510,
+  "page": 165,
+  "word": "scowl",
+  "definition": "An angry or bad-tempered facial expression.",
+  "synonyms": [
+   "frown",
+   "glower",
+   "glare"
+  ],
+  "antonyms": [
+   "smile",
+   "grin"
+  ],
+  "translation": "мрачен поглед, навъсване"
+ },
+ {
+  "id": 511,
+  "page": 166,
+  "word": "vagabonds",
+  "definition": "People who wander from place to place without a settled home or job.",
+  "synonyms": [
+   "wanderers",
+   "drifters",
+   "tramps"
+  ],
+  "antonyms": "settlers",
+  "translation": "скитници, бродяги"
+ },
+ {
+  "id": 512,
+  "page": 166,
+  "word": "rascally",
+  "definition": "Like a rascal; mischievously dishonest.",
+  "synonyms": [
+   "roguish",
+   "mischievous",
+   "dishonest"
+  ],
+  "antonyms": [
+   "honest",
+   "upright"
+  ],
+  "translation": "като хитрец, мошенически"
+ },
+ {
+  "id": 513,
+  "page": 166,
+  "word": "sneering",
+  "definition": "Smiling or speaking in a contemptuous or mocking way.",
+  "synonyms": [
+   "mocking",
+   "scornful",
+   "derisive"
+  ],
+  "antonyms": [
+   "respectful",
+   "admiring"
+  ],
+  "translation": "презрителен, подигравателен"
+ },
+ {
+  "id": 514,
+  "page": 168,
+  "word": "cleft",
+  "definition": "A split or indentation between two parts; a fissure.",
+  "synonyms": [
+   "split",
+   "crack",
+   "fissure"
+  ],
+  "antonyms": null,
+  "translation": "цепнатина, разцеп"
+ },
+ {
+  "id": 515,
+  "page": 168,
+  "word": "hasty",
+  "definition": "Done with excessive speed or urgency; hurried.",
+  "synonyms": [
+   "hurried",
+   "rushed",
+   "swift"
+  ],
+  "antonyms": [
+   "leisurely",
+   "careful"
+  ],
+  "translation": "припрян, бърз"
+ },
+ {
+  "id": 516,
+  "page": 169,
+  "word": "plight",
+  "definition": "A dangerous, difficult, or otherwise unfortunate situation.",
+  "synonyms": [
+   "predicament",
+   "situation",
+   "trouble"
+  ],
+  "antonyms": [
+   "fortune",
+   "ease"
+  ],
+  "translation": "тежко положение, беда"
+ },
+ {
+  "id": 517,
+  "page": 170,
+  "word": "pate",
+  "definition": "A person’s head, especially the top of it.",
+  "synonyms": [
+   "head",
+   "scalp",
+   "crown"
+  ],
+  "antonyms": null,
+  "translation": "глава, темe"
+ },
+ {
+  "id": 518,
+  "page": 170,
+  "word": "uptake",
+  "definition": "The ability to understand something quickly (\"quick on the uptake\").",
+  "synonyms": [
+   "comprehension",
+   "understanding"
+  ],
+  "antonyms": "slowness",
+  "translation": "схващане, разбиране"
+ },
+ {
+  "id": 519,
+  "page": 170,
+  "word": "spooks",
+  "definition": "Ghosts or apparitions; supernatural beings.",
+  "synonyms": [
+   "ghosts",
+   "phantoms",
+   "spectres"
+  ],
+  "antonyms": null,
+  "translation": "призраци, духове"
+ },
+ {
+  "id": 520,
+  "page": 171,
+  "word": "promptly",
+  "definition": "With little or no delay; immediately.",
+  "synonyms": [
+   "immediately",
+   "quickly",
+   "swiftly"
+  ],
+  "antonyms": [
+   "slowly",
+   "late"
+  ],
+  "translation": "незабавно, бързо"
+ },
+ {
+  "id": 521,
+  "page": 171,
+  "word": "lumber-room",
+  "definition": "A room used to store unused or unwanted articles.",
+  "synonyms": [
+   "storeroom",
+   "attic",
+   "junk room"
+  ],
+  "antonyms": null,
+  "translation": "склад, помещение за стари вещи"
+ },
+ {
+  "id": 522,
+  "page": 172,
+  "word": "wearies (verb)",
+  "definition": "To make or become tired; to lose patience or interest.",
+  "synonyms": [
+   "tires",
+   "exhausts",
+   "fatigues"
+  ],
+  "antonyms": [
+   "refreshes",
+   "energises"
+  ],
+  "translation": "уморява, изтощава"
+ },
+ {
+  "id": 523,
+  "page": 172,
+  "word": "daunted",
+  "definition": "Discouraged or intimidated.",
+  "synonyms": [
+   "intimidated",
+   "dispirited",
+   "deterred"
+  ],
+  "antonyms": [
+   "undaunted",
+   "encouraged"
+  ],
+  "translation": "обезкуражен, сплашен"
+ },
+ {
+  "id": 524,
+  "page": 173,
+  "word": "tidings",
+  "definition": "News; information.",
+  "synonyms": [
+   "news",
+   "reports",
+   "information"
+  ],
+  "antonyms": null,
+  "translation": "вести, новини"
+ },
+ {
+  "id": 525,
+  "page": 173,
+  "word": "hindered",
+  "definition": "Held back or delayed; impeded.",
+  "synonyms": [
+   "impeded",
+   "obstructed",
+   "hampered"
+  ],
+  "antonyms": [
+   "helped",
+   "facilitated"
+  ],
+  "translation": "възпрепятстван, забавян"
+ },
+ {
+  "id": 526,
+  "page": 175,
+  "word": "clutch",
+  "definition": "A tight grasp or hold; a small bag carried by a woman.",
+  "synonyms": [
+   "grasp",
+   "grip",
+   "hold"
+  ],
+  "antonyms": "release",
+  "translation": "здраво стискане, хватка"
+ },
+ {
+  "id": 527,
+  "page": 175,
+  "word": "wretches",
+  "definition": "Unfortunate or unhappy people; despicable or contemptible people.",
+  "synonyms": [
+   "unfortunates",
+   "scoundrels"
+  ],
+  "antonyms": null,
+  "translation": "нещастници, негодници"
+ },
+ {
+  "id": 528,
+  "page": 175,
+  "word": "pondering",
+  "definition": "Thinking about something carefully, especially for a long time.",
+  "synonyms": [
+   "considering",
+   "contemplating",
+   "reflecting"
+  ],
+  "antonyms": null,
+  "translation": "размишляване, обмисляне"
+ },
+ {
+  "id": 529,
+  "page": 175,
+  "word": "bolster",
+  "definition": "A long, firm pillow or cushion placed under a regular pillow for support.",
+  "synonyms": [
+   "cushion",
+   "pillow",
+   "support"
+  ],
+  "antonyms": null,
+  "translation": "дълга възглавница, подложка"
+ },
+ {
+  "id": 530,
+  "page": 175,
+  "word": "penetrated",
+  "definition": "Succeeded in forcing a way into or through (something).",
+  "synonyms": [
+   "pierced",
+   "entered",
+   "infiltrated"
+  ],
+  "antonyms": "retreated",
+  "translation": "проникнал, пронизал"
+ },
+ {
+  "id": 531,
+  "page": 177,
+  "word": "stealth",
+  "definition": "Cautious and surreptitious action or movement.",
+  "synonyms": [
+   "secrecy",
+   "slyness",
+   "sneakiness"
+  ],
+  "antonyms": "openness",
+  "translation": "тайно действие, прикритост"
+ },
+ {
+  "id": 532,
+  "page": 177,
+  "word": "unsheathed",
+  "definition": "Drawn out of a sheath or covering; bared.",
+  "synonyms": [
+   "drawn",
+   "bared",
+   "exposed"
+  ],
+  "antonyms": "sheathed",
+  "translation": "изваден от ножницата"
+ },
+ {
+  "id": 533,
+  "page": 177,
+  "word": "timbers",
+  "definition": "Wooden beams or planks, especially used in building or ships.",
+  "synonyms": [
+   "beams",
+   "planks",
+   "lumber"
+  ],
+  "antonyms": null,
+  "translation": "греди, дървения"
+ },
+ {
+  "id": 534,
+  "page": 178,
+  "word": "perish",
+  "definition": "To suffer death, typically in a violent or sudden way.",
+  "synonyms": [
+   "die",
+   "expire",
+   "pass away"
+  ],
+  "antonyms": [
+   "live",
+   "survive"
+  ],
+  "translation": "загивам, умирам"
+ },
+ {
+  "id": 535,
+  "page": 178,
+  "word": "clang",
+  "definition": "A loud, resonant metallic sound.",
+  "synonyms": [
+   "clank",
+   "peal",
+   "ring"
+  ],
+  "antonyms": null,
+  "translation": "звън, дрънчене"
+ },
+ {
+  "id": 536,
+  "page": 179,
+  "word": "bolsters",
+  "definition": "Long firm pillows or cushions used for support.",
+  "synonyms": [
+   "pillows",
+   "cushions"
+  ],
+  "antonyms": null,
+  "translation": "дълги възглавници"
+ },
+ {
+  "id": 537,
+  "page": 179,
+  "word": "mat",
+  "definition": "A piece of coarse material placed on the floor or used as a covering.",
+  "synonyms": [
+   "rug",
+   "carpet",
+   "doormat"
+  ],
+  "antonyms": null,
+  "translation": "постелка, рогозка"
+ },
+ {
+  "id": 538,
+  "page": 179,
+  "word": "dismay",
+  "definition": "Concern and distress caused by something unexpected.",
+  "synonyms": [
+   "consternation",
+   "distress",
+   "alarm"
+  ],
+  "antonyms": [
+   "delight",
+   "pleasure"
+  ],
+  "translation": "смут, тревога"
+ },
+ {
+  "id": 539,
+  "page": 179,
+  "word": "defiantly",
+  "definition": "In a way that shows open resistance or bold disobedience.",
+  "synonyms": [
+   "rebelliously",
+   "boldly",
+   "brazenly"
+  ],
+  "antonyms": [
+   "submissively",
+   "meekly"
+  ],
+  "translation": "предизвикателно, непокорно"
+ },
+ {
+  "id": 540,
+  "page": 181,
+  "word": "trespassing",
+  "definition": "Entering someone’s land or property without permission.",
+  "synonyms": [
+   "intruding",
+   "encroaching"
+  ],
+  "antonyms": null,
+  "translation": "нарушаване на чужда собственост"
+ },
+ {
+  "id": 541,
+  "page": 181,
+  "word": "uneventful",
+  "definition": "Not marked by interesting or exciting events.",
+  "synonyms": [
+   "quiet",
+   "dull",
+   "ordinary"
+  ],
+  "antonyms": [
+   "eventful",
+   "exciting"
+  ],
+  "translation": "без особени събития, спокоен"
+ },
+ {
+  "id": 542,
+  "page": 181,
+  "word": "dejected",
+  "definition": "Sad and depressed; dispirited.",
+  "synonyms": [
+   "depressed",
+   "downcast",
+   "gloomy"
+  ],
+  "antonyms": [
+   "cheerful",
+   "elated"
+  ],
+  "translation": "отчаян, унил"
+ },
+ {
+  "id": 543,
+  "page": 181,
+  "word": "commotion",
+  "definition": "A state of confused and noisy disturbance.",
+  "synonyms": [
+   "uproar",
+   "disturbance",
+   "ruckus"
+  ],
+  "antonyms": [
+   "calm",
+   "quiet"
+  ],
+  "translation": "суматоха, бъркотия"
+ },
+ {
+  "id": 544,
+  "page": 181,
+  "word": "raid",
+  "definition": "A rapid surprise attack on an enemy by troops or by police.",
+  "synonyms": [
+   "attack",
+   "assault",
+   "sortie"
+  ],
+  "antonyms": null,
+  "translation": "набег, нападение"
+ },
+ {
+  "id": 545,
+  "page": 181,
+  "word": "astir",
+  "definition": "In a state of excited movement; in motion or awake.",
+  "synonyms": [
+   "active",
+   "awake",
+   "moving"
+  ],
+  "antonyms": [
+   "still",
+   "asleep"
+  ],
+  "translation": "в движение, пробуден"
+ },
+ {
+  "id": 546,
+  "page": 182,
+  "word": "sallow",
+  "definition": "(Of a person’s face or complexion) of an unhealthy yellow or pale brown colour.",
+  "synonyms": [
+   "pale",
+   "pallid",
+   "jaundiced"
+  ],
+  "antonyms": [
+   "rosy",
+   "healthy"
+  ],
+  "translation": "жълтеникав, болнаво бледен"
+ },
+ {
+  "id": 547,
+  "page": 182,
+  "word": "scornful",
+  "definition": "Feeling or expressing contempt or derision.",
+  "synonyms": [
+   "contemptuous",
+   "disdainful",
+   "mocking"
+  ],
+  "antonyms": [
+   "admiring",
+   "respectful"
+  ],
+  "translation": "презрителен"
+ },
+ {
+  "id": 548,
+  "page": 182,
+  "word": "strode on",
+  "definition": "Walked with long, decisive steps in a continued manner.",
+  "synonyms": [
+   "marched on",
+   "paced on"
+  ],
+  "antonyms": [
+   "shuffled",
+   "dawdled"
+  ],
+  "translation": "крачи нататък, продължи широко крачейки"
+ },
+ {
+  "id": 549,
+  "page": 182,
+  "word": "stragglers",
+  "definition": "People who lag behind a group or fail to keep up.",
+  "synonyms": [
+   "laggards",
+   "dawdlers",
+   "slowcoaches"
+  ],
+  "antonyms": [
+   "leaders",
+   "vanguard"
+  ],
+  "translation": "изоставащи, закъсняващи"
+ },
+ {
+  "id": 550,
+  "page": 183,
+  "word": "marshes",
+  "definition": "Low-lying lands that are flooded in wet seasons.",
+  "synonyms": [
+   "swamps",
+   "bogs",
+   "wetlands"
+  ],
+  "antonyms": "drylands",
+  "translation": "блата, мочурища"
+ }
+]

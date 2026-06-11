@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-06-11T16:59:35.565Z",
+  "total": 1177,
+  "bookSentenceCoverage": 1100,
+  "coveragePct": 93.5,
+  "pageModel": "linear pdf=1.3014*dict+28.95 (Theil-Sen, n=449)",
+  "residualConst": 30,
+  "residualLinear": 0.41095890410957736,
+  "suspiciousMatches": 5,
+  "invalidItems": [],
+  "warnings": [
+    "id 63 (conjectura): exampleEn does not contain the headword",
+    "id 125 (trot down (verb)): exampleEn does not contain the headword",
+    "id 255 (a shimmer): exampleEn does not contain the headword",
+    "id 267 (reckon with): exampleEn does not contain the headword",
+    "id 279 (trudge along (verb)): exampleEn does not contain the headword",
+    "id 290 (pelt out (verb)): exampleEn does not contain the headword",
+    "id 324 (plod along (verb)): exampleEn does not contain the headword",
+    "id 357 (stagger off (verb)): exampleEn does not contain the headword",
+    "id 369 (a tray): exampleEn does not contain the headword",
+    "id 447 (splinter up (verb)): exampleEn does not contain the headword",
+    "id 482 (bob out (verb)): exampleEn does not contain the headword",
+    "id 566 (a wraith): exampleEn does not contain the headword",
+    "id 583 (featuresless): exampleEn does not contain the headword",
+    "id 873 (a quiver): exampleEn does not contain the headword",
+    "id 899 (a nuisance): exampleEn does not contain the headword",
+    "id 925 (creep (verb)): exampleEn does not contain the headword",
+    "id 1019 (scarce-head patter): exampleEn does not contain the headword",
+    "id 1090 (leap (verb)): exampleEn does not contain the headword"
+  ],
+  "warningCount": 18,
+  "sampleSentences": [
+    {
+      "id": 1,
+      "word": "unobtrusive",
+      "sentence": "Hobbits are an **unobtrusive** but very ancient people, more numerous formerly than they are today; for they love peace and quiet and good tilled earth: a well-ordered and wellfarmed countryside was their favourite haunt."
+    },
+    {
+      "id": 2,
+      "word": "till (verb)",
+      "sentence": "Hobbits are an unobtrusive but very ancient people, more numerous formerly than they are today; for they love peace and quiet and good **tilled** earth: a well-ordered and wellfarmed countryside was their favourite haunt."
+    },
+    {
+      "id": 3,
+      "word": "haunt",
+      "sentence": "Hobbits are an unobtrusive but very ancient people, more numerous formerly than they are today; for they love peace and quiet and good tilled earth: a well-ordered and wellfarmed countryside was their favourite **haunt**."
+    },
+    {
+      "id": 4,
+      "word": "forge-bellow",
+      "sentence": "They do not and did not understand or like machines more complicated than a **forge-bellows**, a water-mill, or a hand-loom, though they were skilful with tools."
+    },
+    {
+      "id": 5,
+      "word": "hand-loom",
+      "sentence": "They do not and did not understand or like machines more complicated than a forge-bellows, a water-mill, or a **hand-loom**, though they were skilful with tools."
+    }
+  ]
+}

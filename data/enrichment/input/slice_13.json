@@ -1,0 +1,700 @@
+[
+ {
+  "id": 601,
+  "page": 198,
+  "word": "plainly",
+  "definition": "In a clear and obvious way; simply.",
+  "synonyms": [
+   "clearly",
+   "evidently",
+   "simply"
+  ],
+  "antonyms": [
+   "obscurely",
+   "vaguely"
+  ],
+  "translation": "ясно, очевидно"
+ },
+ {
+  "id": 602,
+  "page": 199,
+  "word": "hem",
+  "definition": "The edge of a piece of cloth that has been folded under and sewn.",
+  "synonyms": [
+   "edge",
+   "border",
+   "fringe"
+  ],
+  "antonyms": null,
+  "translation": "подгъв (на дреха)"
+ },
+ {
+  "id": 603,
+  "page": 199,
+  "word": "pouch",
+  "definition": "A small bag or other flexible container.",
+  "synonyms": [
+   "bag",
+   "sack",
+   "pocket"
+  ],
+  "antonyms": null,
+  "translation": "кесия, торбичка"
+ },
+ {
+  "id": 604,
+  "page": 199,
+  "word": "wearily",
+  "definition": "In a tired manner, showing fatigue.",
+  "synonyms": [
+   "tiredly",
+   "exhaustedly",
+   "listlessly"
+  ],
+  "antonyms": "energetically",
+  "translation": "уморено, изтощено"
+ },
+ {
+  "id": 605,
+  "page": 200,
+  "word": "pungent",
+  "definition": "Having a sharply strong taste or smell.",
+  "synonyms": [
+   "sharp",
+   "acrid",
+   "strong"
+  ],
+  "antonyms": [
+   "mild",
+   "bland"
+  ],
+  "translation": "остър, лютив (за миризма)"
+ },
+ {
+  "id": 606,
+  "page": 200,
+  "word": "sparsely",
+  "definition": "In a thinly distributed or scattered manner.",
+  "synonyms": [
+   "thinly",
+   "scantily",
+   "scarcely"
+  ],
+  "antonyms": [
+   "densely",
+   "abundantly"
+  ],
+  "translation": "оскъдно, нарядко"
+ },
+ {
+  "id": 607,
+  "page": 200,
+  "word": "bend",
+  "definition": "A curve or turn in a road, river, or path.",
+  "synonyms": [
+   "curve",
+   "turn",
+   "twist"
+  ],
+  "antonyms": "straight",
+  "translation": "завой, извивка"
+ },
+ {
+  "id": 608,
+  "page": 201,
+  "word": "stunted",
+  "definition": "Having been prevented from growing or developing properly.",
+  "synonyms": [
+   "dwarfed",
+   "undersized",
+   "small"
+  ],
+  "antonyms": [
+   "developed",
+   "full-grown"
+  ],
+  "translation": "недоразвит, закърнял"
+ },
+ {
+  "id": 609,
+  "page": 201,
+  "word": "dense",
+  "definition": "Closely compacted in substance; crowded together.",
+  "synonyms": [
+   "thick",
+   "compact",
+   "packed"
+  ],
+  "antonyms": [
+   "sparse",
+   "thin"
+  ],
+  "translation": "гъст, плътен"
+ },
+ {
+  "id": 610,
+  "page": 201,
+  "word": "scanty",
+  "definition": "Small or insufficient in quantity or amount.",
+  "synonyms": [
+   "meagre",
+   "sparse",
+   "scarce"
+  ],
+  "antonyms": [
+   "ample",
+   "abundant"
+  ],
+  "translation": "оскъден, недостатъчен"
+ },
+ {
+  "id": 611,
+  "page": 201,
+  "word": "coarse",
+  "definition": "Rough or harsh in texture; not delicate or refined.",
+  "synonyms": [
+   "rough",
+   "rugged",
+   "crude"
+  ],
+  "antonyms": [
+   "fine",
+   "smooth"
+  ],
+  "translation": "груб, едър"
+ },
+ {
+  "id": 612,
+  "page": 201,
+  "word": "cheerless",
+  "definition": "Lacking brightness, gladness, or warmth; dreary.",
+  "synonyms": [
+   "gloomy",
+   "dismal",
+   "dreary"
+  ],
+  "antonyms": [
+   "cheerful",
+   "bright"
+  ],
+  "translation": "безрадостен, унил"
+ },
+ {
+  "id": 613,
+  "page": 201,
+  "word": "trudge (verb)",
+  "definition": "To walk slowly and with heavy steps, typically due to weariness.",
+  "synonyms": [
+   "plod",
+   "slog",
+   "tramp"
+  ],
+  "antonyms": [
+   "sprint",
+   "skip"
+  ],
+  "translation": "тътря се, влача се"
+ },
+ {
+  "id": 614,
+  "page": 201,
+  "word": "withered",
+  "definition": "(Of a plant) shrivelled and dry; (of a person) appearing aged and worn.",
+  "synonyms": [
+   "shrivelled",
+   "wilted",
+   "dried-up"
+  ],
+  "antonyms": [
+   "fresh",
+   "blooming"
+  ],
+  "translation": "повехнал, изсъхнал"
+ },
+ {
+  "id": 615,
+  "page": 201,
+  "word": "dimly",
+  "definition": "With faint or weak light; not clearly or distinctly.",
+  "synonyms": [
+   "faintly",
+   "weakly",
+   "vaguely"
+  ],
+  "antonyms": [
+   "brightly",
+   "clearly"
+  ],
+  "translation": "мъждиво, смътно"
+ },
+ {
+  "id": 616,
+  "page": 202,
+  "word": "ravine",
+  "definition": "A deep, narrow gorge with steep sides.",
+  "synonyms": [
+   "gorge",
+   "canyon",
+   "gully"
+  ],
+  "antonyms": null,
+  "translation": "дере, теснина"
+ },
+ {
+  "id": 617,
+  "page": 202,
+  "word": "arches",
+  "definition": "Curved structures forming the supports of bridges or doorways.",
+  "synonyms": [
+   "vaults",
+   "curves"
+  ],
+  "antonyms": null,
+  "translation": "арки, сводове"
+ },
+ {
+  "id": 618,
+  "page": 202,
+  "word": "sullen",
+  "definition": "Bad-tempered and sulky; gloomy.",
+  "synonyms": [
+   "morose",
+   "glum",
+   "surly"
+  ],
+  "antonyms": [
+   "cheerful",
+   "friendly"
+  ],
+  "translation": "мрачен, навъсен"
+ },
+ {
+  "id": 619,
+  "page": 204,
+  "word": "lie",
+  "definition": "The way, direction, or position in which something lies; an intentionally false statement.",
+  "synonyms": [
+   "position",
+   "layout; falsehood"
+  ],
+  "antonyms": "truth",
+  "translation": "разположение; лъжа"
+ },
+ {
+  "id": 620,
+  "page": 204,
+  "word": "blunted saw",
+  "definition": "A saw whose teeth have become dull and lost their sharpness.",
+  "synonyms": "dulled saw",
+  "antonyms": "sharp saw",
+  "translation": "затъпял трион"
+ },
+ {
+  "id": 621,
+  "page": 205,
+  "word": "gnarled",
+  "definition": "Knobbly, rough, and twisted, especially with age.",
+  "synonyms": [
+   "knotted",
+   "twisted",
+   "rugged"
+  ],
+  "antonyms": [
+   "smooth",
+   "straight"
+  ],
+  "translation": "възлест, чвореест"
+ },
+ {
+  "id": 622,
+  "page": 205,
+  "word": "quarried",
+  "definition": "Extracted from a quarry (a place where stone or minerals are dug from the ground).",
+  "synonyms": [
+   "mined",
+   "dug",
+   "extracted"
+  ],
+  "antonyms": null,
+  "translation": "извлечен от каменоломна"
+ },
+ {
+  "id": 623,
+  "page": 205,
+  "word": "huddled",
+  "definition": "Crowded together; nestled closely.",
+  "synonyms": [
+   "gathered",
+   "clustered",
+   "crowded"
+  ],
+  "antonyms": [
+   "dispersed",
+   "scattered"
+  ],
+  "translation": "свити, сгушени"
+ },
+ {
+  "id": 624,
+  "page": 205,
+  "word": "survey",
+  "definition": "A general view or examination of something.",
+  "synonyms": [
+   "examination",
+   "inspection",
+   "overview"
+  ],
+  "antonyms": null,
+  "translation": "оглед, наблюдение"
+ },
+ {
+  "id": 625,
+  "page": 205,
+  "word": "beset",
+  "definition": "(Of a problem) to trouble persistently; to surround on all sides.",
+  "synonyms": [
+   "afflict",
+   "surround",
+   "besiege"
+  ],
+  "antonyms": null,
+  "translation": "обсаден, обхванат"
+ },
+ {
+  "id": 626,
+  "page": 205,
+  "word": "jolts",
+  "definition": "Sudden rough, sharp, or violent jerking or jarring movements.",
+  "synonyms": [
+   "jerks",
+   "bumps",
+   "shakes"
+  ],
+  "antonyms": null,
+  "translation": "друсания, тръпки"
+ },
+ {
+  "id": 627,
+  "page": 205,
+  "word": "obscure",
+  "definition": "Not discovered or known about; uncertain; hard to understand.",
+  "synonyms": [
+   "unclear",
+   "vague",
+   "hidden"
+  ],
+  "antonyms": [
+   "clear",
+   "obvious"
+  ],
+  "translation": "неясен, тъмен"
+ },
+ {
+  "id": 628,
+  "page": 206,
+  "word": "windings",
+  "definition": "Turns or twists in a path, road, or river.",
+  "synonyms": [
+   "twists",
+   "turns",
+   "bends"
+  ],
+  "antonyms": "straights",
+  "translation": "извивания, лъкатушения"
+ },
+ {
+  "id": 629,
+  "page": 206,
+  "word": "plainer",
+  "definition": "More clear or obvious; less ornate.",
+  "synonyms": [
+   "clearer",
+   "simpler"
+  ],
+  "antonyms": [
+   "fancier",
+   "ornate"
+  ],
+  "translation": "по-ясен, по-прост"
+ },
+ {
+  "id": 630,
+  "page": 206,
+  "word": "fir-trees",
+  "definition": "Evergreen coniferous trees with needle-shaped leaves.",
+  "synonyms": [
+   "conifers",
+   "pines",
+   "spruce"
+  ],
+  "antonyms": null,
+  "translation": "ели, борови дървета"
+ },
+ {
+  "id": 631,
+  "page": 206,
+  "word": "crookedly",
+  "definition": "In a bent or twisted way; not in a straight line.",
+  "synonyms": [
+   "twistedly",
+   "askew",
+   "awry"
+  ],
+  "antonyms": "straight",
+  "translation": "накриво, изкривено"
+ },
+ {
+  "id": 632,
+  "page": 206,
+  "word": "hinge",
+  "definition": "A movable joint or mechanism on which a door or lid turns.",
+  "synonyms": [
+   "joint",
+   "pivot"
+  ],
+  "antonyms": null,
+  "translation": "панта, шарнир"
+ },
+ {
+  "id": 633,
+  "page": 207,
+  "word": "stooping",
+  "definition": "Bending one’s head or body forwards and downwards.",
+  "synonyms": [
+   "bending",
+   "hunching",
+   "leaning"
+  ],
+  "antonyms": "straightening",
+  "translation": "превит, прегърбен"
+ },
+ {
+  "id": 634,
+  "page": 207,
+  "word": "unconcernedly",
+  "definition": "In a manner that shows no anxiety or worry.",
+  "synonyms": [
+   "casually",
+   "calmly",
+   "indifferently"
+  ],
+  "antonyms": [
+   "anxiously",
+   "nervously"
+  ],
+  "translation": "безгрижно, без притеснение"
+ },
+ {
+  "id": 635,
+  "page": 207,
+  "word": "glade",
+  "definition": "An open space in a wood or forest.",
+  "synonyms": [
+   "clearing",
+   "opening"
+  ],
+  "antonyms": null,
+  "translation": "поляна, открито място в гора"
+ },
+ {
+  "id": 636,
+  "page": 208,
+  "word": "munched",
+  "definition": "Ate (something) steadily and often audibly.",
+  "synonyms": [
+   "chewed",
+   "ate",
+   "gnawed"
+  ],
+  "antonyms": null,
+  "translation": "дъвчеше, гризеше"
+ },
+ {
+  "id": 637,
+  "page": 208,
+  "word": "shinbone",
+  "definition": "The inner and typically larger of the two bones between the knee and the ankle.",
+  "synonyms": [
+   "tibia",
+   "shin"
+  ],
+  "antonyms": null,
+  "translation": "пищял"
+ },
+ {
+  "id": 638,
+  "page": 209,
+  "word": "larn (verb)",
+  "definition": "(Dialect) to learn; to teach (often to teach someone a lesson).",
+  "synonyms": [
+   "teach",
+   "learn"
+  ],
+  "antonyms": null,
+  "translation": "науча (диалектно), дам урок"
+ },
+ {
+  "id": 639,
+  "page": 209,
+  "word": "inaudible",
+  "definition": "Unable to be heard.",
+  "synonyms": [
+   "soundless",
+   "faint",
+   "muffled"
+  ],
+  "antonyms": [
+   "audible",
+   "loud"
+  ],
+  "translation": "нечуваем, нечут"
+ },
+ {
+  "id": 640,
+  "page": 209,
+  "word": "jester",
+  "definition": "A professional joker or fool, especially one kept by a medieval ruler.",
+  "synonyms": [
+   "fool",
+   "clown",
+   "joker"
+  ],
+  "antonyms": null,
+  "translation": "шут, придворен шутник"
+ },
+ {
+  "id": 641,
+  "page": 210,
+  "word": "berry brushwood",
+  "definition": "Underbrush bearing berries; thickets of berry-producing shrubs.",
+  "synonyms": [
+   "berry thicket",
+   "berry scrub"
+  ],
+  "antonyms": null,
+  "translation": "храсталак с боровинки"
+ },
+ {
+  "id": 642,
+  "page": 210,
+  "word": "clippery-clippery-clip",
+  "definition": "An onomatopoeic phrase imitating the sound of trotting hooves.",
+  "synonyms": [
+   "clip-clop",
+   "hoofbeats"
+  ],
+  "antonyms": null,
+  "translation": "тропот на копита (звукоподражание)"
+ },
+ {
+  "id": 643,
+  "page": 210,
+  "word": "stoop (verb)",
+  "definition": "To bend one’s head or body forwards and downwards.",
+  "synonyms": [
+   "bend",
+   "hunch",
+   "lean"
+  ],
+  "antonyms": "stand straight",
+  "translation": "навеждам се, прегърбвам се"
+ },
+ {
+  "id": 644,
+  "page": 210,
+  "word": "headstall",
+  "definition": "The part of a bridle that fits around a horse’s head.",
+  "synonyms": [
+   "halter",
+   "harness"
+  ],
+  "antonyms": null,
+  "translation": "оглавник, юзда"
+ },
+ {
+  "id": 645,
+  "page": 211,
+  "word": "beckon (verb)",
+  "definition": "To make a gesture with the hand or arm to encourage someone to come nearer.",
+  "synonyms": [
+   "signal",
+   "motion",
+   "gesture"
+  ],
+  "antonyms": "dismiss",
+  "translation": "махам с ръка, приканвам"
+ },
+ {
+  "id": 646,
+  "page": 211,
+  "word": "amiss",
+  "definition": "Not quite right; inappropriate or out of place.",
+  "synonyms": [
+   "wrong",
+   "awry",
+   "faulty"
+  ],
+  "antonyms": [
+   "right",
+   "correct"
+  ],
+  "translation": "не наред, нередно"
+ },
+ {
+  "id": 647,
+  "page": 211,
+  "word": "astray",
+  "definition": "Away from the correct path or direction; into error.",
+  "synonyms": [
+   "off-course",
+   "lost",
+   "adrift"
+  ],
+  "antonyms": "on track",
+  "translation": "заблуден, в погрешна посока"
+ },
+ {
+  "id": 648,
+  "page": 211,
+  "word": "token",
+  "definition": "A thing serving as a visible or tangible representation of a fact, event, or feeling.",
+  "synonyms": [
+   "symbol",
+   "sign",
+   "indication"
+  ],
+  "antonyms": null,
+  "translation": "знак, символ"
+ },
+ {
+  "id": 649,
+  "page": 211,
+  "word": "nigh",
+  "definition": "(Archaic or literary) near; close.",
+  "synonyms": [
+   "near",
+   "close",
+   "nearly"
+  ],
+  "antonyms": [
+   "far",
+   "distant"
+  ],
+  "translation": "близо, наблизо (архаично)"
+ },
+ {
+  "id": 650,
+  "page": 212,
+  "word": "grave anxiety",
+  "definition": "Serious or deep worry and apprehension.",
+  "synonyms": [
+   "serious worry",
+   "deep concern"
+  ],
+  "antonyms": [
+   "calm",
+   "ease"
+  ],
+  "translation": "дълбока тревога"
+ }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "id": 751,
+  "word": "menace",
+  "explanationBg": "Човек или нещо, което може да причини беда — надвиснала заплаха, от която е разумно да се пазиш.",
+  "explanationEn": "Someone or something dangerous that could cause harm; a threat.",
+  "exampleEn": "That broken swing in the park is a menace to every little kid who runs past it.",
+  "mnemonicBg": "Чуй „МЕН-ъс“: ръмжащо куче гледа право в МЕН — усещам заплахата с цялото си тяло.",
+  "ipa": "/ˈmenəs/"
+ },
+ {
+  "id": 752,
+  "word": "deceit",
+  "explanationBg": "Когато някой нарочно крие или изкривява истината, за да подведе другите — това е измама.",
+  "explanationEn": "Tricking people by hiding or twisting the truth.",
+  "exampleEn": "Their friendship ended over a small deceit that grew into a huge lie.",
+  "mnemonicBg": "„ди-СИЙТ“ звучи като „seat“ (стол): някой ти дръпва стола точно когато сядаш — подла измама!",
+  "ipa": "/dɪˈsiːt/"
+ },
+ {
+  "id": 753,
+  "word": "deem",
+  "explanationBg": "Да приемаш или преценяваш нещо по определен начин — например да смяташ един план за добър или един отговор за верен.",
+  "explanationEn": "To consider or judge something in a particular way.",
+  "exampleEn": "The jury deemed her science project the most creative in the whole school.",
+  "mnemonicBg": "Звучи като „дим“: видиш ли ДИМ, веднага смяташ (deem), че някъде гори!",
+  "ipa": "/ˈdiːm/"
+ },
+ {
+  "id": 754,
+  "word": "ensnared",
+  "explanationBg": "Хванат като в примка — оплетен в капан, истински или преносен, от който мъчно се измъкваш.",
+  "explanationEn": "Caught in a trap or stuck in a tricky situation.",
+  "exampleEn": "I got ensnared in the group-chat drama before I even understood what it was about.",
+  "mnemonicBg": "„ин-СНЕЪД“ — стъпваш в дълбок СНЯг, затъваш до коляно и не мърдаш — уловен в капан!",
+  "ipa": "/ɪnˈsneəd/"
+ },
+ {
+  "id": 755,
+  "word": "lore",
+  "explanationBg": "Сборът от предания, истории и знания, които една общност пази и предава нататък — от стари легенди до тайните на занаята.",
+  "explanationEn": "The traditional stories and knowledge shared by a group of people.",
+  "exampleEn": "We spent hours discussing the hidden lore of our favourite video game.",
+  "mnemonicBg": "Крие се във „фолкЛОР“ — фолклорът е точно това: преданията и знанието на народа.",
+  "ipa": "/ˈlɔː/"
+ },
+ {
+  "id": 756,
+  "word": "sire",
+  "explanationBg": "Старинно обръщение към крал — „господарю“; освен това така се нарича и бащата на животно, например на жребче.",
+  "explanationEn": "An old word used to address a king; also the father of an animal.",
+  "exampleEn": "In the school play I had one line: bowing low and saying 'Your castle awaits, sire.'",
+  "mnemonicBg": "Представи си паж, който поднася на краля СИРене: „Заповядайте, sire!“",
+  "ipa": "/ˈsaɪə/"
+ },
+ {
+  "id": 757,
+  "word": "herald",
+  "explanationBg": "Официален вестоносец, който носи важни новини; казва се и за знак, че нещо скоро ще се случи.",
+  "explanationEn": "A messenger who brings news, or a sign that something is coming.",
+  "exampleEn": "The smell of popcorn in the hallway was the herald of movie night.",
+  "mnemonicBg": "Представи си викинга ХаРАЛД, който тича по улиците и вика новините — той е вестителят.",
+  "ipa": "/ˈherəld/"
+ },
+ {
+  "id": 758,
+  "word": "beheld",
+  "explanationBg": "Минало време на „behold“ — видя, съзря нещо, обикновено величествено или изумително.",
+  "explanationEn": "Saw or looked at something, often something amazing (past of 'behold').",
+  "exampleEn": "From the top of the ski lift we beheld the whole snowy valley below us.",
+  "mnemonicBg": "Вътре е „held“ (държан): гледката те хваща и ДЪРЖИ погледа — съзрял си нещо незабравимо.",
+  "ipa": "/bɪˈheld/"
+ },
+ {
+  "id": 759,
+  "word": "hilt-shard",
+  "explanationBg": "Отломък от счупен меч, на който още стои дръжката — частта, за която се хваща ръката.",
+  "explanationEn": "A broken piece of a sword that still has its handle.",
+  "exampleEn": "Behind the museum glass lay a rusty hilt-shard from some forgotten battle.",
+  "mnemonicBg": "hilt = дръжка, shard = парче: счупваш меча и ти остава само дръжка с отломък — като чадър, оцелял след буря.",
+  "ipa": "/ˈhɪlt ʃɑːd/"
+ },
+ {
+  "id": 760,
+  "word": "weregild shards",
+  "explanationBg": "Отломки, дадени като „веоргилд“ — старинен откуп: цената, която убиецът плащал на рода на убития вместо мъст.",
+  "explanationEn": "Broken pieces given as payment to a victim's family for a killing.",
+  "exampleEn": "In history class we read how silver weregild shards could settle a feud between two clans.",
+  "mnemonicBg": "Чуй „вер-ГИЛД“ като „гилдия + gold“: плащаш злато на парчета, за да изкупиш вина.",
+  "ipa": "/ˈweəɡɪld ʃɑːdz/"
+ },
+ {
+  "id": 761,
+  "word": "esquire",
+  "explanationBg": "Млад благородник, който служел на рицар — носел му щита и оръжието и се учел, докато един ден сам стане рицар.",
+  "explanationEn": "A young nobleman who served a knight while training to become one.",
+  "exampleEn": "In the new RPG you begin as a humble esquire polishing armour before your first quest.",
+  "mnemonicBg": "„и-СКУАЙ-ъ“ — младежът ЕСКОРТира рицаря навсякъде: носи меча, държи коня, учи занаята.",
+  "ipa": "/ɪˈskwaɪə/"
+ },
+ {
+  "id": 762,
+  "word": "extinguished",
+  "explanationBg": "Угасен — някой е спрял огъня или светлината да горят и да светят.",
+  "explanationEn": "Put out, so it stopped burning or shining.",
+  "exampleEn": "We extinguished the campfire completely before crawling into our tents.",
+  "mnemonicBg": "Сети се за „extinguisher“ — пожарогасител: пшшшт! — и пламъкът е угасен.",
+  "ipa": "/ɪkˈstɪŋɡwɪʃt/"
+ },
+ {
+  "id": 763,
+  "word": "diminished",
+  "explanationBg": "Намалял или направен по-малък — по размер, сила или значение.",
+  "explanationEn": "Became smaller or weaker; was reduced.",
+  "exampleEn": "Her fear of speaking on stage diminished after every rehearsal.",
+  "mnemonicBg": "„ди-МИНИ-шт“ — чуваш „МИНИ“: голямото се свива до мини размер, намаляло е.",
+  "ipa": "/dɪˈmɪnɪʃt/"
+ },
+ {
+  "id": 764,
+  "word": "unmade",
+  "explanationBg": "Развален, разтурен или унищожен — все едно никога не е бил направен.",
+  "explanationEn": "Destroyed or undone, as if it had never been made.",
+  "exampleEn": "One sneeze near the card tower and an hour of careful building was unmade.",
+  "mnemonicBg": "„made“ (направен) с „un-“ отпред: пусни строежа на rewind и той се разтуря до нищо.",
+  "ipa": "/ʌnˈmeɪd/"
+ },
+ {
+  "id": 765,
+  "word": "foundations",
+  "explanationBg": "Най-долната носеща част на сграда или стена; в преносен смисъл — основата, върху която стъпва всичко останало.",
+  "explanationEn": "The strong base under a building, or the base of anything.",
+  "exampleEn": "The workers poured concrete foundations for the new sports hall all week.",
+  "mnemonicBg": "Лесна връзка: foundations ≈ ФУНДАмент — основите, върху които стои всичко.",
+  "ipa": "/faʊnˈdeɪʃnz/"
+ },
+ {
+  "id": 766,
+  "word": "lessen (verb)",
+  "explanationBg": "Да направиш нещо по-малко или по-слабо, или то само да намалее — например болка, шум или страх.",
+  "explanationEn": "To make something smaller or weaker, or to become less.",
+  "exampleEn": "Stretching after practice helps lessen the soreness the next day.",
+  "mnemonicBg": "Звучи точно като „lesson“ (урок): с всеки урок страхът от изпита намалява.",
+  "ipa": "/ˈlesn/"
+ },
+ {
+  "id": 767,
+  "word": "desolate",
+  "explanationBg": "За място — пусто, голо и без живот; за човек — съсипан от самота и мъка.",
+  "explanationEn": "Empty and lifeless (a place), or very lonely and sad (a person).",
+  "exampleEn": "Out of season, the seaside town feels desolate, with shuttered shops and empty streets.",
+  "mnemonicBg": "Чуй „ДЕ-СА-ЛЪТ“ като „де са летовниците?“ — няма ги: плажът е пуст и тъжен.",
+  "ipa": "/ˈdesələt/"
+ },
+ {
+  "id": 768,
+  "word": "lordship",
+  "explanationBg": "Властта и владенията на един лорд; използва се и като почтителна титла към него — „ваша светлост“.",
+  "explanationEn": "The power or lands of a lord, or a respectful title for a lord.",
+  "exampleEn": "In the strategy game, every new village you capture expands your lordship.",
+  "mnemonicBg": "ЛОРД + ship (кораб): лордът командва цял кораб от слуги — всичко на борда е под неговата власт.",
+  "ipa": "/ˈlɔːdʃɪp/"
+ },
+ {
+  "id": 769,
+  "word": "mounds",
+  "explanationBg": "Заоблени купчини, издигнати над земята — малки хълмчета от пръст, камъни или каквото и да е.",
+  "explanationEn": "Rounded piles of earth or small hills.",
+  "exampleEn": "The moles left little mounds of soil all over the football pitch.",
+  "mnemonicBg": "Помисли за „mountain“ (планина), но в джобен формат: mound е мини-планинка, купчинка-могилка.",
+  "ipa": "/ˈmaʊndz/"
+ },
+ {
+  "id": 770,
+  "word": "lesser",
+  "explanationBg": "По-малкият или по-маловажният от две неща — отстъпва по размер, количество или значение.",
+  "explanationEn": "Smaller or less important than something else.",
+  "exampleEn": "Forgetting my snack was the lesser problem — I had left my homework at home too.",
+  "mnemonicBg": "„less“ + „-er“: от двете парчета пица едното винаги е lesser — по-малкото, което никой не взима пръв.",
+  "ipa": "/ˈlesə/"
+ },
+ {
+  "id": 771,
+  "word": "verily",
+  "explanationBg": "Старинна дума за „наистина, без съмнение“ — с нея тържествено са потвърждавали казаното.",
+  "explanationEn": "An old word meaning 'truly' or 'certainly'.",
+  "exampleEn": "'Verily, this is the greatest sandwich ever made,' he declared in a knight's voice.",
+  "mnemonicBg": "Чуй „ВЕРи-ли“ като „вярно ли?“ — а отговорът е: вярно, наистина!",
+  "ipa": "/ˈverəli/"
+ },
+ {
+  "id": 772,
+  "word": "deeds",
+  "explanationBg": "Делата и постъпките на човек — нещата, които прави съзнателно, добри или лоши.",
+  "explanationEn": "Actions that people do on purpose.",
+  "exampleEn": "Their good deeds, like walking shelter dogs, inspired half the class to volunteer.",
+  "mnemonicBg": "deeds ~ ДЕяния: и двете тръгват с „де-“ и значат едно — делата ти говорят вместо теб.",
+  "ipa": "/ˈdiːdz/"
+ },
+ {
+  "id": 773,
+  "word": "bulwark",
+  "explanationBg": "Здрава защитна стена, например около крепост; преносно — човек или нещо, което те брани като стена.",
+  "explanationEn": "A strong defensive wall, or anything that protects like one.",
+  "exampleEn": "Our goalkeeper is the team's bulwark — almost nothing gets past her.",
+  "mnemonicBg": "„БУЛ-уък“: представи си БИК (bull) на пост (work) пред портата — жива крепостна стена.",
+  "ipa": "/ˈbʊlwək/"
+ },
+ {
+  "id": 774,
+  "word": "remnant",
+  "explanationBg": "Малкото, което остава от нещо по-голямо — последното парче, останка.",
+  "explanationEn": "A small part left over from something bigger.",
+  "exampleEn": "Only a remnant of the birthday cake survived until the morning.",
+  "mnemonicBg": "Звучи като „РЕМонт-нант“: след всеки ремонт остава по едно парче плочка — остатъкът.",
+  "ipa": "/ˈremnənt/"
+ },
+ {
+  "id": 775,
+  "word": "amid",
+  "explanationBg": "Сред, посред нещо — заобиколен от него отвсякъде.",
+  "explanationEn": "In the middle of something; surrounded by it.",
+  "exampleEn": "Amid all the exam stress, we still squeezed in a movie night.",
+  "mnemonicBg": "Звучи като „мида“: мидата лежи СРЕД пясъка — amid the sand!",
+  "ipa": "/əˈmɪd/"
+ },
+ {
+  "id": 776,
+  "word": "unravelling",
+  "explanationBg": "Разплитане на оплетени нишки или възли; преносно — разнищване на загадка стъпка по стъпка.",
+  "explanationEn": "Undoing tangled threads, or slowly solving a mystery.",
+  "exampleEn": "I wasted ten minutes unravelling my earphones before the bus even moved.",
+  "mnemonicBg": "Представи си котка, която дърпа кълбо прежда и го РАЗплита метър по метър — un-РАЗ-velling.",
+  "ipa": "/ʌnˈrævəlɪŋ/"
+ },
+ {
+  "id": 777,
+  "word": "heirlooms",
+  "explanationBg": "Ценни вещи, предавани в семейството от поколение на поколение — бабиният пръстен, старият джобен часовник.",
+  "explanationEn": "Valuable objects passed down in a family for generations.",
+  "exampleEn": "Mum keeps our family heirlooms — rings and old letters — in a box under her bed.",
+  "mnemonicBg": "Вътре е „loom“ — тъкачен стан: бабиният стар стан, пазен поколения наред, е класическа наследствена вещ.",
+  "ipa": "/ˈeəluːmz/"
+ },
+ {
+  "id": 778,
+  "word": "boon",
+  "explanationBg": "Нещо много полезно, което идва като дар — истинска благина точно навреме.",
+  "explanationEn": "Something very helpful or lucky; a blessing.",
+  "exampleEn": "Free Wi-Fi on the bus was a real boon during the three-hour ride to the tournament.",
+  "mnemonicBg": "Чуй „BOON“ като началото на „БОНус“ — неочакван бонус от живота, чиста благодат.",
+  "ipa": "/ˈbuːn/"
+ },
+ {
+  "id": 779,
+  "word": "stalwart",
+  "explanationBg": "Верен и надежден човек, на когото винаги можеш да разчиташ; казва се и за някой здрав и набит.",
+  "explanationEn": "Loyal and dependable, or strong and solidly built.",
+  "exampleEn": "Through three losing seasons she stayed a stalwart supporter of the school team.",
+  "mnemonicBg": "Чуй „СТОуЛ-уърт“ като „СТОмана“: приятел със стоманена вярност — як и непоклатим.",
+  "ipa": "/ˈstɔːlwət/"
+ },
+ {
+  "id": 780,
+  "word": "ceaselessly",
+  "explanationBg": "Без да спре нито за миг — непрекъснато, ден и нощ.",
+  "explanationEn": "Without stopping; continuously.",
+  "exampleEn": "My little brother talked ceaselessly through the entire car trip.",
+  "mnemonicBg": "„cease“ = спри, „-less“ = без: колело без спирачки — върти се и върти, безспир.",
+  "ipa": "/ˈsiːsləsli/"
+ },
+ {
+  "id": 781,
+  "word": "displeased",
+  "explanationBg": "Недоволен и подразнен — нещо не ти е по вкуса и това ясно си личи.",
+  "explanationEn": "Annoyed or unhappy about something.",
+  "exampleEn": "The coach looked displeased when half the team turned up late.",
+  "mnemonicBg": "„pleased“ (доволен) с „dis-“ отпред — все едно слагаш ДИСлайк на настроението си.",
+  "ipa": "/dɪsˈpliːzd/"
+ },
+ {
+  "id": 782,
+  "word": "suffices",
+  "explanationBg": "Достатъчно е — стига толкова, върши работа и не е нужно нищо повече.",
+  "explanationEn": "Is enough for what is needed.",
+  "exampleEn": "One power bank suffices for both our phones if we take turns.",
+  "mnemonicBg": "Представи си малко СУФлЕ: дребно е, но ти стига — suffices!",
+  "ipa": "/səˈfaɪsɪz/"
+ },
+ {
+  "id": 783,
+  "word": "Havens",
+  "explanationBg": "Сигурни места за подслон и спокойствие — убежища или закътани пристанища; в книгата така се наричат Сивите пристани, откъдето отплават елфите.",
+  "explanationEn": "Safe places where people can find shelter or rest.",
+  "exampleEn": "The library and the art room are my two havens when school gets too loud.",
+  "mnemonicBg": "Едно „а“ го дели от „heaven“ (рай): убежището е твоето малко райско кътче.",
+  "ipa": "/ˈheɪvnz/"
+ },
+ {
+  "id": 784,
+  "word": "halfling’s trove",
+  "explanationBg": "Съкровището, което си пази един полуръст — дребно приказно човече; „trove“ е скътано богатство, сбирка от ценности.",
+  "explanationEn": "The treasure collection kept by a halfling, a small fairy-tale person.",
+  "exampleEn": "My little cousin guards his sticker box like a halfling’s trove.",
+  "mnemonicBg": "„half“ = половин (дребосък), а „trove“ звучи като „ТРОФей“: половинко, скътало трофеите си под леглото.",
+  "ipa": "/ˈhɑːflɪŋz trəʊv/"
+ },
+ {
+  "id": 785,
+  "word": "dissuade (verb)",
+  "explanationBg": "Да убедиш някого да НЕ направи нещо, което е намислил — да го разубедиш.",
+  "explanationEn": "To talk someone out of doing something.",
+  "exampleEn": "My friends tried to dissuade me from dyeing my hair green before picture day.",
+  "mnemonicBg": "Обратното на „persuade“ (убеждавам): слагаш „ДИС(лайк)“ на идеята и дърпаш приятеля назад — „недей!“",
+  "ipa": "/dɪˈsweɪd/"
+ },
+ {
+  "id": 786,
+  "word": "feigned",
+  "explanationBg": "Престорен, изигран — изглежда истинско, но е само преструвка.",
+  "explanationEn": "Pretended; not real or sincere.",
+  "exampleEn": "He feigned surprise at the party, though he had known about it for weeks.",
+  "mnemonicBg": "Запомни през „ФЕЙк“: feigned = изфейкано чувство — усмивка само за пред камерата.",
+  "ipa": "/ˈfeɪnd/"
+ },
+ {
+  "id": 787,
+  "word": "vigilance",
+  "explanationBg": "Постоянно внимание и готовност — да си нащрек и да следиш зорко за опасност.",
+  "explanationEn": "Careful watching and attention for possible danger.",
+  "exampleEn": "Cycling through rush-hour traffic takes constant vigilance.",
+  "mnemonicBg": "Започва като „ВИЖ!“: бдителният ВИЖда всичко — очи на четири!",
+  "ipa": "/ˈvɪdʒɪləns/"
+ },
+ {
+  "id": 788,
+  "word": "whence",
+  "explanationBg": "Старинна дума за „откъде“ — от кое място или от какъв източник идва нещо.",
+  "explanationEn": "An old word meaning 'from where'.",
+  "exampleEn": "Nobody could tell whence the weird buzzing in the classroom came.",
+  "mnemonicBg": "Римува се с „fence“ (ограда): „Whence дойде топката?“ — „Иззад оградата!“ — откъде.",
+  "ipa": "/ˈwens/"
+ },
+ {
+  "id": 789,
+  "word": "untimely",
+  "explanationBg": "Случващ се в неподходящ момент или твърде рано — точно когато не трябва.",
+  "explanationEn": "Happening at a bad time or too soon.",
+  "exampleEn": "His phone gave an untimely beep in the middle of the silent exam hall.",
+  "mnemonicBg": "Вътре е „time“ (време) с „un-“ отпред — „без-времие“: будилник, който звъни посред нощ.",
+  "ipa": "/ʌnˈtaɪmli/"
+ },
+ {
+  "id": 790,
+  "word": "labour",
+  "explanationBg": "Труд, особено тежка физическа работа — усилие, което иска пот и постоянство.",
+  "explanationEn": "Hard work, especially physical work.",
+  "exampleEn": "After a morning of labour in Grandpa's garden, we earned a giant lunch.",
+  "mnemonicBg": "Чуй „ЛЕЙ-бър“ като „ЛЕЯ пот“: лееш пот от тежък труд.",
+  "ipa": "/ˈleɪbə/"
+ },
+ {
+  "id": 791,
+  "word": "earnestly",
+  "explanationBg": "Съвсем сериозно и от сърце — без шеги, с истинска убеденост.",
+  "explanationEn": "In a serious and sincere way.",
+  "exampleEn": "She earnestly promised to return my hoodie after the weekend.",
+  "mnemonicBg": "Звучи близо до „honest“ (честен): говориш честно, искрено и на сериозно.",
+  "ipa": "/ˈɜːnɪstli/"
+ },
+ {
+  "id": 792,
+  "word": "half-heeded",
+  "explanationBg": "Чут или забелязан само наполовина — обърнал си му внимание едва-едва, между другото.",
+  "explanationEn": "Given only half of your attention.",
+  "exampleEn": "Mum's umbrella advice was half-heeded — I took a jacket and still got soaked.",
+  "mnemonicBg": "„half“ = наполовина, „heed“ = внимавам: слушаш с една слушалка в ухото — чуваш половината.",
+  "ipa": "/ˌhɑːfˈhiːdɪd/"
+ },
+ {
+  "id": 793,
+  "word": "unadorned",
+  "explanationBg": "Без никаква украса — семпъл и чист, такъв, какъвто си е.",
+  "explanationEn": "Plain and simple, with no decoration.",
+  "exampleEn": "She keeps her phone case unadorned — no stickers, no charms, just plain black.",
+  "mnemonicBg": "Вътре е „adorn“ (украсявам) с „un-“: смъкваш орнаментите — гола стена без нито един постер.",
+  "ipa": "/ˌʌnəˈdɔːnd/"
+ },
+ {
+  "id": 794,
+  "word": "scroll",
+  "explanationBg": "Лист пергамент или хартия, навит на руло, върху който се пише — древната „книга“.",
+  "explanationEn": "A rolled-up sheet of paper or parchment for writing.",
+  "exampleEn": "For history class we stained paper with tea and rolled it into an ancient-looking scroll.",
+  "mnemonicBg": "Същата дума като „скролвам“ в телефона: пръстът ти развива безкраен дигитален свитък.",
+  "ipa": "/ˈskrəʊl/"
+ },
+ {
+  "id": 795,
+  "word": "therein",
+  "explanationBg": "Официална дума за „в това“ — вътре в споменатото място, документ или нещо.",
+  "explanationEn": "A formal word meaning 'in that place or thing'.",
+  "exampleEn": "The settings menu has a hidden tab, and therein lies the switch that turns off ads.",
+  "mnemonicBg": "Просто „there“ + „in“: посочваш кутията и казваш „там вътре“ — therein!",
+  "ipa": "/ˌðeəˈrɪn/"
+ },
+ {
+  "id": 796,
+  "word": "glede",
+  "explanationBg": "Старинна дума за тлеещ въглен — парченце жар, което още свети в огнището.",
+  "explanationEn": "An old word for a glowing coal in a fire.",
+  "exampleEn": "We toasted the last marshmallow over a single glede left from the campfire.",
+  "mnemonicBg": "Звучи като „ГЛЕДай“: гледаш в огнището, а едно въгленче ти намига с червено око.",
+  "ipa": "/ˈɡliːd/"
+ },
+ {
+  "id": 797,
+  "word": "loseth (verb)",
+  "explanationBg": "Старинна форма на „loses“ — означава просто „губи“, както се е говорело в много стар английски.",
+  "explanationEn": "An old form of the word 'loses'.",
+  "exampleEn": "'He who loseth his password loseth his account,' my brother announced in a fake medieval voice.",
+  "mnemonicBg": "Сети се за „лузър“: loseth е пра-прадядото на думата — „губи“, но казано с рицарски глас.",
+  "ipa": "/ˈluːzɪθ/"
+ },
+ {
+  "id": 798,
+  "word": "fadeth (verb)",
+  "explanationBg": "Старинна форма на „fades“ — гасне, избледнява, бавно отслабва като светлина привечер.",
+  "explanationEn": "An old form of 'fades' — slowly becomes dim or weak.",
+  "exampleEn": "'Summer fadeth away,' she sighed dramatically as we packed up the beach towels.",
+  "mnemonicBg": "Знаеш „fade out“ от видеата — кадърът гасне; добави старинното „-eth“ и звучи по рицарски.",
+  "ipa": "/ˈfeɪdɪθ/"
+ },
+ {
+  "id": 799,
+  "word": "script",
+  "explanationBg": "Начинът, по който са изписани буквите — ръкописен почерк или цяла писмена система като кирилицата.",
+  "explanationEn": "Handwriting, or a system of written letters.",
+  "exampleEn": "Her notes are written in such neat purple script that the whole class borrows them.",
+  "mnemonicBg": "Като „скрипт“ във филмите и игрите — всичко идва от „пиша“: script = написаното.",
+  "ipa": "/ˈskrɪpt/"
+ },
+ {
+  "id": 800,
+  "word": "despaired",
+  "explanationBg": "Изгубил всяка надежда — отчаял се, че нещо изобщо ще се нареди.",
+  "explanationEn": "Lost all hope that something would work out.",
+  "exampleEn": "I almost despaired of beating that level, but on the twentieth try it finally happened.",
+  "mnemonicBg": "„ди-СПЕЪД“ — геймър без нито един spare (резервен) живот: последният отива и идва отчаянието.",
+  "ipa": "/dɪˈspeəd/"
+ }
+]

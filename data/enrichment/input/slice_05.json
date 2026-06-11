@@ -1,0 +1,693 @@
+[
+ {
+  "id": 201,
+  "page": 63,
+  "word": "sill",
+  "definition": "A shelf or slab of stone or wood at the foot of a window or doorway.",
+  "synonyms": [
+   "ledge",
+   "threshold"
+  ],
+  "antonyms": null,
+  "translation": "перваз, праг"
+ },
+ {
+  "id": 202,
+  "page": 63,
+  "word": "squawk",
+  "definition": "A loud, harsh, or discordant noise made by a bird or person.",
+  "synonyms": [
+   "screech",
+   "shriek",
+   "cry"
+  ],
+  "antonyms": null,
+  "translation": "писък, кряскане"
+ },
+ {
+  "id": 203,
+  "page": 64,
+  "word": "grass-clippings",
+  "definition": "Small pieces of grass cut off, especially by a lawnmower.",
+  "synonyms": [
+   "lawn cuttings",
+   "trimmings"
+  ],
+  "antonyms": null,
+  "translation": "окосени тревички"
+ },
+ {
+  "id": 204,
+  "page": 65,
+  "word": "uppermost",
+  "definition": "Highest in place, rank, or importance.",
+  "synonyms": [
+   "highest",
+   "topmost",
+   "foremost"
+  ],
+  "antonyms": [
+   "lowermost",
+   "lowest"
+  ],
+  "translation": "най-горен, най-важен"
+ },
+ {
+  "id": 205,
+  "page": 66,
+  "word": "steer (verb)",
+  "definition": "To guide or control the movement of a vehicle, vessel, or course.",
+  "synonyms": [
+   "guide",
+   "direct",
+   "navigate"
+  ],
+  "antonyms": [
+   "drift",
+   "follow"
+  ],
+  "translation": "управлявам, насочвам"
+ },
+ {
+  "id": 206,
+  "page": 66,
+  "word": "portents",
+  "definition": "Signs or warnings that something significant is likely to happen.",
+  "synonyms": [
+   "omens",
+   "signs",
+   "auguries"
+  ],
+  "antonyms": null,
+  "translation": "поличби, предзнаменования"
+ },
+ {
+  "id": 207,
+  "page": 66,
+  "word": "quest",
+  "definition": "A long search for something; an expedition with a specific purpose.",
+  "synonyms": [
+   "search",
+   "mission",
+   "hunt"
+  ],
+  "antonyms": null,
+  "translation": "мисия, търсене"
+ },
+ {
+  "id": 208,
+  "page": 67,
+  "word": "credible",
+  "definition": "Able to be believed; convincing.",
+  "synonyms": [
+   "believable",
+   "plausible",
+   "trustworthy"
+  ],
+  "antonyms": [
+   "incredible",
+   "unbelievable"
+  ],
+  "translation": "правдоподобен, достоверен"
+ },
+ {
+  "id": 209,
+  "page": 68,
+  "word": "listening in vain",
+  "definition": "Listening without success; hearing nothing useful.",
+  "synonyms": "listening fruitlessly",
+  "antonyms": "hearing clearly",
+  "translation": "слушане напразно"
+ },
+ {
+  "id": 210,
+  "page": 69,
+  "word": "strenuous",
+  "definition": "Requiring or using great effort or exertion.",
+  "synonyms": [
+   "arduous",
+   "demanding",
+   "taxing"
+  ],
+  "antonyms": [
+   "effortless",
+   "easy"
+  ],
+  "translation": "усилен, изтощителен"
+ },
+ {
+  "id": 211,
+  "page": 69,
+  "word": "flabby",
+  "definition": "(Of soft tissue) loose and yielding; lacking firmness.",
+  "synonyms": [
+   "flaccid",
+   "soft",
+   "sagging"
+  ],
+  "antonyms": [
+   "firm",
+   "taut"
+  ],
+  "translation": "отпуснат, мек"
+ },
+ {
+  "id": 212,
+  "page": 69,
+  "word": "dishevelled",
+  "definition": "(Of a person’s hair or appearance) untidy; disordered.",
+  "synonyms": [
+   "untidy",
+   "unkempt",
+   "ruffled"
+  ],
+  "antonyms": [
+   "tidy",
+   "neat"
+  ],
+  "translation": "разчорлен, разрошен"
+ },
+ {
+  "id": 213,
+  "page": 69,
+  "word": "striding up",
+  "definition": "Walking with long, decisive steps in a particular direction.",
+  "synonyms": [
+   "marching up",
+   "walking briskly"
+  ],
+  "antonyms": [
+   "shuffling",
+   "ambling"
+  ],
+  "translation": "крачейки нагоре"
+ },
+ {
+  "id": 214,
+  "page": 69,
+  "word": "hanging about",
+  "definition": "Loitering or lingering without specific purpose.",
+  "synonyms": [
+   "loitering",
+   "lingering",
+   "idling"
+  ],
+  "antonyms": [
+   "hurrying",
+   "leaving"
+  ],
+  "translation": "размотаване, мотаене"
+ },
+ {
+  "id": 215,
+  "page": 69,
+  "word": "shrill",
+  "definition": "(Of a sound) high-pitched and piercing.",
+  "synonyms": [
+   "piercing",
+   "sharp",
+   "high-pitched"
+  ],
+  "antonyms": [
+   "mellow",
+   "soft"
+  ],
+  "translation": "писклив, остър"
+ },
+ {
+  "id": 216,
+  "page": 69,
+  "word": "put out",
+  "definition": "Annoyed, upset, or inconvenienced.",
+  "synonyms": [
+   "annoyed",
+   "irritated",
+   "vexed"
+  ],
+  "antonyms": [
+   "pleased",
+   "content"
+  ],
+  "translation": "раздразнен, ядосан"
+ },
+ {
+  "id": 217,
+  "page": 69,
+  "word": "plundering",
+  "definition": "Stealing goods, typically by force in war or a raid.",
+  "synonyms": [
+   "looting",
+   "pillaging",
+   "ransacking"
+  ],
+  "antonyms": [
+   "protecting",
+   "restoring"
+  ],
+  "translation": "плячкосване, ограбване"
+ },
+ {
+  "id": 218,
+  "page": 70,
+  "word": "inquirer",
+  "definition": "A person who asks for information; an investigator.",
+  "synonyms": [
+   "questioner",
+   "asker",
+   "investigator"
+  ],
+  "antonyms": null,
+  "translation": "питащ, разпитващ"
+ },
+ {
+  "id": 219,
+  "page": 70,
+  "word": "rustle",
+  "definition": "A soft, muffled crackling sound, like that of dry leaves being moved.",
+  "synonyms": [
+   "whisper",
+   "swish",
+   "crackle"
+  ],
+  "antonyms": "silence",
+  "translation": "шумолене"
+ },
+ {
+  "id": 220,
+  "page": 70,
+  "word": "stoutly",
+  "definition": "In a determined, vigorous, or resolute manner.",
+  "synonyms": [
+   "firmly",
+   "resolutely",
+   "vigorously"
+  ],
+  "antonyms": [
+   "weakly",
+   "half-heartedly"
+  ],
+  "translation": "здраво, решително"
+ },
+ {
+  "id": 221,
+  "page": 70,
+  "word": "slack",
+  "definition": "Not taut or held tightly in position; loose.",
+  "synonyms": [
+   "loose",
+   "lax",
+   "limp"
+  ],
+  "antonyms": [
+   "tight",
+   "taut"
+  ],
+  "translation": "хлабав, отпуснат"
+ },
+ {
+  "id": 222,
+  "page": 71,
+  "word": "hedgerows",
+  "definition": "Lines of bushes or low trees planted along the sides of a field or road.",
+  "synonyms": [
+   "hedges",
+   "thickets",
+   "shrubbery"
+  ],
+  "antonyms": null,
+  "translation": "живи плетове"
+ },
+ {
+  "id": 223,
+  "page": 71,
+  "word": "lane",
+  "definition": "A narrow road, especially in a rural area.",
+  "synonyms": [
+   "path",
+   "road",
+   "alley"
+  ],
+  "antonyms": [
+   "highway",
+   "boulevard"
+  ],
+  "translation": "тясна пътека, селски път"
+ },
+ {
+  "id": 224,
+  "page": 71,
+  "word": "coppices",
+  "definition": "Small groups of trees or bushes growing closely together.",
+  "synonyms": [
+   "thickets",
+   "groves",
+   "copses"
+  ],
+  "antonyms": null,
+  "translation": "горички, шумаци"
+ },
+ {
+  "id": 225,
+  "page": 71,
+  "word": "plank-bridge",
+  "definition": "A simple bridge made of planks of wood.",
+  "synonyms": [
+   "wooden bridge",
+   "footbridge"
+  ],
+  "antonyms": null,
+  "translation": "дървен мост от дъски"
+ },
+ {
+  "id": 226,
+  "page": 71,
+  "word": "winding black ribbon",
+  "definition": "A metaphor for a meandering dark road or river seen from afar.",
+  "synonyms": [
+   "snaking road",
+   "twisting path"
+  ],
+  "antonyms": "straight line",
+  "translation": "виеща се черна лента"
+ },
+ {
+  "id": 227,
+  "page": 71,
+  "word": "meadow",
+  "definition": "A piece of grassland, especially one used for hay.",
+  "synonyms": [
+   "pasture",
+   "field",
+   "grassland"
+  ],
+  "antonyms": null,
+  "translation": "ливада"
+ },
+ {
+  "id": 228,
+  "page": 71,
+  "word": "thin-clad birches",
+  "definition": "Birches with sparse foliage, lightly covered with leaves.",
+  "synonyms": [
+   "sparse birches",
+   "bare birches"
+  ],
+  "antonyms": "leafy birches",
+  "translation": "оскъдно облистени брези"
+ },
+ {
+  "id": 229,
+  "page": 71,
+  "word": "frugal",
+  "definition": "Sparing or economical with food or money.",
+  "synonyms": [
+   "thrifty",
+   "economical",
+   "sparing"
+  ],
+  "antonyms": [
+   "extravagant",
+   "wasteful"
+  ],
+  "translation": "пестелив, скромен"
+ },
+ {
+  "id": 230,
+  "page": 71,
+  "word": "skirts",
+  "definition": "The outer edges or borders of an area, especially of a town or forest.",
+  "synonyms": [
+   "outskirts",
+   "edges",
+   "borders"
+  ],
+  "antonyms": [
+   "centre",
+   "heart"
+  ],
+  "translation": "околности, покрайнини"
+ },
+ {
+  "id": 231,
+  "page": 71,
+  "word": "slope",
+  "definition": "A surface of which one end or side is at a higher level than another.",
+  "synonyms": [
+   "incline",
+   "gradient",
+   "hillside"
+  ],
+  "antonyms": [
+   "flat",
+   "level"
+  ],
+  "translation": "склон, наклон"
+ },
+ {
+  "id": 232,
+  "page": 71,
+  "word": "alder-trees",
+  "definition": "Deciduous trees of the birch family, usually growing near water.",
+  "synonyms": "alders",
+  "antonyms": null,
+  "translation": "елхи (дървета)"
+ },
+ {
+  "id": 233,
+  "page": 72,
+  "word": "fir-wood",
+  "definition": "A wood or grove of fir trees; or the timber of a fir tree.",
+  "synonyms": [
+   "pine wood",
+   "conifer grove"
+  ],
+  "antonyms": null,
+  "translation": "елхова гора"
+ },
+ {
+  "id": 234,
+  "page": 72,
+  "word": "resin",
+  "definition": "A sticky organic substance secreted by some trees, especially conifers.",
+  "synonyms": [
+   "sap",
+   "gum",
+   "pitch"
+  ],
+  "antonyms": null,
+  "translation": "смола"
+ },
+ {
+  "id": 235,
+  "page": 72,
+  "word": "cones",
+  "definition": "The dry fruits of pines and firs, made of overlapping woody scales.",
+  "synonyms": [
+   "pine-cones",
+   "fir-cones"
+  ],
+  "antonyms": null,
+  "translation": "шишарки"
+ },
+ {
+  "id": 236,
+  "page": 72,
+  "word": "sniff (verb)",
+  "definition": "To draw in air audibly through the nose, especially to smell.",
+  "synonyms": [
+   "smell",
+   "inhale",
+   "snuffle"
+  ],
+  "antonyms": [
+   "exhale",
+   "blow"
+  ],
+  "translation": "душа, подушвам"
+ },
+ {
+  "id": 237,
+  "page": 72,
+  "word": "clammy",
+  "definition": "Unpleasantly damp, sticky, and cool to the touch.",
+  "synonyms": [
+   "damp",
+   "sticky",
+   "moist"
+  ],
+  "antonyms": [
+   "dry",
+   "warm"
+  ],
+  "translation": "лепкаво-влажен, студен и влажен"
+ },
+ {
+  "id": 238,
+  "page": 72,
+  "word": "steeply",
+  "definition": "In a way that has a sharp slope; sharply.",
+  "synonyms": [
+   "sharply",
+   "abruptly",
+   "precipitously"
+  ],
+  "antonyms": [
+   "gently",
+   "gradually"
+  ],
+  "translation": "стръмно, рязко"
+ },
+ {
+  "id": 239,
+  "page": 73,
+  "word": "outcrop",
+  "definition": "A rock formation visible on the surface of the ground.",
+  "synonyms": [
+   "protrusion",
+   "ledge",
+   "crag"
+  ],
+  "antonyms": null,
+  "translation": "скална издатина"
+ },
+ {
+  "id": 240,
+  "page": 73,
+  "word": "splutter (verb)",
+  "definition": "To make a series of short explosive spitting or choking sounds.",
+  "synonyms": [
+   "sputter",
+   "hiss",
+   "splash"
+  ],
+  "antonyms": null,
+  "translation": "пръскам, плюя; пращя"
+ },
+ {
+  "id": 241,
+  "page": 73,
+  "word": "puff (verb)",
+  "definition": "To breathe in short noisy bursts or breaths.",
+  "synonyms": [
+   "pant",
+   "blow",
+   "exhale"
+  ],
+  "antonyms": null,
+  "translation": "пухтя, духам"
+ },
+ {
+  "id": 242,
+  "page": 73,
+  "word": "trussed up (verb)",
+  "definition": "Tied up tightly; bound (as a fowl tied for cooking, or a person bound by ropes).",
+  "synonyms": [
+   "bound",
+   "tied",
+   "fastened"
+  ],
+  "antonyms": [
+   "untied",
+   "freed"
+  ],
+  "translation": "вързан здраво, омотан"
+ },
+ {
+  "id": 243,
+  "page": 74,
+  "word": "tributary",
+  "definition": "A river or stream flowing into a larger river or lake.",
+  "synonyms": [
+   "branch",
+   "feeder",
+   "affluent"
+  ],
+  "antonyms": "main river",
+  "translation": "приток (на река)"
+ },
+ {
+  "id": 244,
+  "page": 75,
+  "word": "stirrups",
+  "definition": "Each of a pair of devices attached to a saddle for the rider’s feet.",
+  "synonyms": "foot-rests",
+  "antonyms": null,
+  "translation": "стремена"
+ },
+ {
+  "id": 245,
+  "page": 76,
+  "word": "chap",
+  "definition": "(Informal British) a man or boy; a fellow.",
+  "synonyms": [
+   "fellow",
+   "man",
+   "bloke"
+  ],
+  "antonyms": null,
+  "translation": "момче, мъж, човек"
+ },
+ {
+  "id": 246,
+  "page": 76,
+  "word": "tussocky",
+  "definition": "Covered in tussocks (small mounds of grass) and uneven.",
+  "synonyms": [
+   "tufted",
+   "hummocky",
+   "lumpy"
+  ],
+  "antonyms": [
+   "smooth",
+   "even"
+  ],
+  "translation": "покрит с тревни туфи"
+ },
+ {
+  "id": 247,
+  "page": 76,
+  "word": "sup",
+  "definition": "A small mouthful or sip of liquid; supper.",
+  "synonyms": [
+   "sip",
+   "mouthful",
+   "taste"
+  ],
+  "antonyms": "gulp",
+  "translation": "глътка; вечеря"
+ },
+ {
+  "id": 248,
+  "page": 77,
+  "word": "hulk",
+  "definition": "A large or unwieldy person, thing, or vessel; the remains of an old ship.",
+  "synonyms": [
+   "wreck",
+   "hull",
+   "hulking mass"
+  ],
+  "antonyms": null,
+  "translation": "огромна и тромава вещ, корабна развалина"
+ },
+ {
+  "id": 249,
+  "page": 77,
+  "word": "stumps",
+  "definition": "The bottom parts of trees left standing after the trunks are felled.",
+  "synonyms": [
+   "tree-stumps",
+   "stubs"
+  ],
+  "antonyms": null,
+  "translation": "пънове"
+ },
+ {
+  "id": 250,
+  "page": 77,
+  "word": "hoofs",
+  "definition": "The hard horny parts of the feet of horses, cattle, and other hoofed animals.",
+  "synonyms": "hooves",
+  "antonyms": null,
+  "translation": "копита"
+ }
+]

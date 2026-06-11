@@ -1,0 +1,666 @@
+[
+ {
+  "id": 351,
+  "page": 118,
+  "word": "compelling",
+  "definition": "Evoking interest or attention in a powerfully irresistible way.",
+  "synonyms": [
+   "gripping",
+   "irresistible",
+   "persuasive"
+  ],
+  "antonyms": [
+   "boring",
+   "unconvincing"
+  ],
+  "translation": "завладяващ, неустоим"
+ },
+ {
+  "id": 352,
+  "page": 118,
+  "word": "riverward",
+  "definition": "Towards the river.",
+  "synonyms": "towards the river",
+  "antonyms": "away from the river",
+  "translation": "към реката"
+ },
+ {
+  "id": 353,
+  "page": 118,
+  "word": "winding roots",
+  "definition": "Roots that twist and curve in irregular paths.",
+  "synonyms": [
+   "twisting roots",
+   "curling roots"
+  ],
+  "antonyms": "straight roots",
+  "translation": "извиващи се корени"
+ },
+ {
+  "id": 354,
+  "page": 118,
+  "word": "cavern",
+  "definition": "A large cave or a chamber in a cave.",
+  "synonyms": [
+   "cave",
+   "grotto",
+   "hollow"
+  ],
+  "antonyms": null,
+  "translation": "пещера, кухина"
+ },
+ {
+  "id": 355,
+  "page": 118,
+  "word": "uncanny",
+  "definition": "Strange or mysterious, especially in an unsettling way.",
+  "synonyms": [
+   "eerie",
+   "weird",
+   "unearthly"
+  ],
+  "antonyms": [
+   "ordinary",
+   "normal"
+  ],
+  "translation": "свръхестествен, необясним"
+ },
+ {
+  "id": 356,
+  "page": 118,
+  "word": "hark",
+  "definition": "(Archaic) listen; an exclamation calling attention to a sound.",
+  "synonyms": [
+   "listen",
+   "hearken",
+   "hear"
+  ],
+  "antonyms": null,
+  "translation": "слушай!, чуй!"
+ },
+ {
+  "id": 357,
+  "page": 118,
+  "word": "stagger off (verb)",
+  "definition": "To walk unsteadily as if about to fall, away from a place.",
+  "synonyms": [
+   "totter off",
+   "reel off"
+  ],
+  "antonyms": "walk steadily",
+  "translation": "отдалечавам се залитайки"
+ },
+ {
+  "id": 358,
+  "page": 118,
+  "word": "snick",
+  "definition": "A short, sharp click or clicking sound, like that of a latch.",
+  "synonyms": [
+   "click",
+   "snap",
+   "clink"
+  ],
+  "antonyms": null,
+  "translation": "щракане, тракане"
+ },
+ {
+  "id": 359,
+  "page": 118,
+  "word": "hauled",
+  "definition": "Pulled or dragged with effort or force.",
+  "synonyms": [
+   "pulled",
+   "dragged",
+   "tugged"
+  ],
+  "antonyms": "pushed",
+  "translation": "влачен, дърпан с усилие"
+ },
+ {
+  "id": 360,
+  "page": 119,
+  "word": "perceptible",
+  "definition": "Able to be seen, heard, or otherwise noticed.",
+  "synonyms": [
+   "noticeable",
+   "discernible",
+   "detectable"
+  ],
+  "antonyms": [
+   "imperceptible",
+   "unnoticeable"
+  ],
+  "translation": "осезаем, забележим"
+ },
+ {
+  "id": 361,
+  "page": 119,
+  "word": "hatchet",
+  "definition": "A small axe with a short handle.",
+  "synonyms": [
+   "small axe",
+   "tomahawk"
+  ],
+  "antonyms": null,
+  "translation": "брадвичка"
+ },
+ {
+  "id": 362,
+  "page": 119,
+  "word": "gnaw (verb)",
+  "definition": "To bite at or nibble persistently; to cause persistent worry.",
+  "synonyms": [
+   "chew",
+   "nibble",
+   "bite"
+  ],
+  "antonyms": null,
+  "translation": "гриза, глождя"
+ },
+ {
+  "id": 363,
+  "page": 119,
+  "word": "tinder-boxes",
+  "definition": "Boxes containing tinder, flint, and steel, used for lighting fires.",
+  "synonyms": "fire-starters",
+  "antonyms": null,
+  "translation": "кутии за прахан, огнива"
+ },
+ {
+  "id": 364,
+  "page": 119,
+  "word": "twigs",
+  "definition": "Small slender woody shoots growing from branches or stems.",
+  "synonyms": [
+   "sprigs",
+   "shoots",
+   "sticks"
+  ],
+  "antonyms": null,
+  "translation": "клончета, съчки"
+ },
+ {
+  "id": 365,
+  "page": 119,
+  "word": "rind",
+  "definition": "A tough outer covering, such as the bark of a tree, the skin of fruit, etc.",
+  "synonyms": [
+   "peel",
+   "skin",
+   "bark"
+  ],
+  "antonyms": null,
+  "translation": "кора, обвивка"
+ },
+ {
+  "id": 366,
+  "page": 119,
+  "word": "heap (verb)",
+  "definition": "To put in a pile or large amount; to load with quantities of something.",
+  "synonyms": [
+   "pile",
+   "stack",
+   "mound"
+  ],
+  "antonyms": [
+   "spread",
+   "scatter"
+  ],
+  "translation": "трупам, нареждам на купчина"
+ },
+ {
+  "id": 367,
+  "page": 120,
+  "word": "clamour",
+  "definition": "A loud and confused noise, especially of people shouting.",
+  "synonyms": [
+   "din",
+   "uproar",
+   "racket"
+  ],
+  "antonyms": [
+   "silence",
+   "quiet"
+  ],
+  "translation": "врява, шумотевица"
+ },
+ {
+  "id": 368,
+  "page": 120,
+  "word": "witless",
+  "definition": "Lacking intelligence or sense; foolish or stupid.",
+  "synonyms": [
+   "foolish",
+   "stupid",
+   "senseless"
+  ],
+  "antonyms": [
+   "clever",
+   "wise"
+  ],
+  "translation": "безмозъчен, глупав"
+ },
+ {
+  "id": 369,
+  "page": 121,
+  "word": "a tray",
+  "definition": "A flat shallow container with a raised rim, for carrying or holding objects.",
+  "synonyms": [
+   "platter",
+   "salver"
+  ],
+  "antonyms": null,
+  "translation": "поднос, табла"
+ },
+ {
+  "id": 370,
+  "page": 121,
+  "word": "bellows",
+  "definition": "A device with handles for blowing air, especially used to make a fire burn brighter.",
+  "synonyms": [
+   "air-pump",
+   "blower"
+  ],
+  "antonyms": null,
+  "translation": "духало, мях"
+ },
+ {
+  "id": 371,
+  "page": 121,
+  "word": "ripe",
+  "definition": "(Of fruit or grain) developed to the point of readiness for eating or harvest.",
+  "synonyms": [
+   "mature",
+   "ready",
+   "mellow"
+  ],
+  "antonyms": [
+   "unripe",
+   "immature"
+  ],
+  "translation": "зрял, узрял"
+ },
+ {
+  "id": 372,
+  "page": 121,
+  "word": "marrow",
+  "definition": "A soft fatty substance in the cavities of bones; the essence or richest part.",
+  "synonyms": [
+   "core",
+   "essence",
+   "pith"
+  ],
+  "antonyms": null,
+  "translation": "костен мозък; същност"
+ },
+ {
+  "id": 373,
+  "page": 121,
+  "word": "shudder",
+  "definition": "A sudden trembling movement, usually from fear or cold.",
+  "synonyms": [
+   "shiver",
+   "tremor",
+   "quiver"
+  ],
+  "antonyms": null,
+  "translation": "тръпка, потрепване"
+ },
+ {
+  "id": 374,
+  "page": 121,
+  "word": "honeycomb",
+  "definition": "A structure of hexagonal wax cells made by bees to hold their honey and eggs.",
+  "synonyms": "beeswax cells",
+  "antonyms": null,
+  "translation": "пчелна пита"
+ },
+ {
+  "id": 375,
+  "page": 122,
+  "word": "nonsensically",
+  "definition": "In a way that is foolish or makes no sense.",
+  "synonyms": [
+   "absurdly",
+   "ridiculously",
+   "foolishly"
+  ],
+  "antonyms": [
+   "sensibly",
+   "logically"
+  ],
+  "translation": "безсмислено, нелепо"
+ },
+ {
+  "id": 376,
+  "page": 122,
+  "word": "slanting",
+  "definition": "Sloping or lying at an angle.",
+  "synonyms": [
+   "sloping",
+   "leaning",
+   "tilted"
+  ],
+  "antonyms": [
+   "level",
+   "straight"
+  ],
+  "translation": "наклонен, полегат"
+ },
+ {
+  "id": 377,
+  "page": 123,
+  "word": "a glad water",
+  "definition": "(Poetic) a joyful or cheerful body of water; lively water.",
+  "synonyms": [
+   "joyful stream",
+   "merry water"
+  ],
+  "antonyms": null,
+  "translation": "радостни води (поетично)"
+ },
+ {
+  "id": 378,
+  "page": 124,
+  "word": "threshold",
+  "definition": "A strip of wood or stone forming the bottom of a doorway; a starting point.",
+  "synonyms": [
+   "doorstep",
+   "doorway",
+   "brink"
+  ],
+  "antonyms": null,
+  "translation": "праг"
+ },
+ {
+  "id": 379,
+  "page": 124,
+  "word": "beams",
+  "definition": "Long, sturdy pieces of timber or metal used to support the roof or floor.",
+  "synonyms": [
+   "rafters",
+   "joists",
+   "girders"
+  ],
+  "antonyms": null,
+  "translation": "греди"
+ },
+ {
+  "id": 380,
+  "page": 124,
+  "word": "beads of dew",
+  "definition": "Small round droplets of dew that resemble beads.",
+  "synonyms": [
+   "dewdrops",
+   "droplets"
+  ],
+  "antonyms": null,
+  "translation": "росни капки"
+ },
+ {
+  "id": 381,
+  "page": 124,
+  "word": "forget-me-nots",
+  "definition": "Small low-growing plants with bright blue flowers.",
+  "synonyms": "myosotis",
+  "antonyms": null,
+  "translation": "незабравки (цветя)"
+ },
+ {
+  "id": 382,
+  "page": 124,
+  "word": "flag-lilies",
+  "definition": "Iris flowers, especially the wild yellow iris that grows in wet places.",
+  "synonyms": [
+   "iris",
+   "yellow flag"
+  ],
+  "antonyms": null,
+  "translation": "жълти перуники (флаг-ириси)"
+ },
+ {
+  "id": 383,
+  "page": 124,
+  "word": "vessels",
+  "definition": "Containers used for holding liquids, such as bowls, cups, or jugs.",
+  "synonyms": [
+   "containers",
+   "receptacles"
+  ],
+  "antonyms": null,
+  "translation": "съдове"
+ },
+ {
+  "id": 384,
+  "page": 124,
+  "word": "earthenware",
+  "definition": "Pottery made of clay fired at a relatively low temperature.",
+  "synonyms": [
+   "pottery",
+   "ceramics",
+   "crockery"
+  ],
+  "antonyms": null,
+  "translation": "глинени съдове, керамика"
+ },
+ {
+  "id": 385,
+  "page": 124,
+  "word": "enthroned",
+  "definition": "Seated as if on a throne; placed in a position of high authority.",
+  "synonyms": [
+   "crowned",
+   "installed",
+   "seated"
+  ],
+  "antonyms": "dethroned",
+  "translation": "възседнал престол, поставен на трон"
+ },
+ {
+  "id": 386,
+  "page": 124,
+  "word": "lily-bowls",
+  "definition": "Bowls shaped like lilies or filled with lily flowers.",
+  "synonyms": "flower-bowls",
+  "antonyms": null,
+  "translation": "купи с лилии"
+ },
+ {
+  "id": 387,
+  "page": 124,
+  "word": "clad",
+  "definition": "Clothed or covered with a specified material.",
+  "synonyms": [
+   "clothed",
+   "dressed",
+   "attired"
+  ],
+  "antonyms": [
+   "naked",
+   "bare"
+  ],
+  "translation": "облечен, покрит"
+ },
+ {
+  "id": 388,
+  "page": 124,
+  "word": "untame",
+  "definition": "Not tamed; wild and free.",
+  "synonyms": [
+   "wild",
+   "untamed",
+   "feral"
+  ],
+  "antonyms": [
+   "tame",
+   "domestic"
+  ],
+  "translation": "неопитомен, див"
+ },
+ {
+  "id": 389,
+  "page": 125,
+  "word": "rush-seated",
+  "definition": "(Of a chair) having a seat made of woven rushes.",
+  "synonyms": [
+   "wicker-seated",
+   "woven-seated"
+  ],
+  "antonyms": null,
+  "translation": "със седалка от плетени тръстики"
+ },
+ {
+  "id": 390,
+  "page": 125,
+  "word": "glender grace",
+  "definition": "Slender, graceful elegance (likely typo/variant of \"slender grace\").",
+  "synonyms": [
+   "slim elegance",
+   "graceful slenderness"
+  ],
+  "antonyms": "clumsiness",
+  "translation": "стройна грация"
+ },
+ {
+  "id": 391,
+  "page": 126,
+  "word": "grimy",
+  "definition": "Covered with or characterised by grime; dirty.",
+  "synonyms": [
+   "dirty",
+   "filthy",
+   "soiled"
+  ],
+  "antonyms": [
+   "clean",
+   "spotless"
+  ],
+  "translation": "мръсен, изцапан"
+ },
+ {
+  "id": 392,
+  "page": 126,
+  "word": "girdle",
+  "definition": "A belt or cord worn round the waist; a band that surrounds something.",
+  "synonyms": [
+   "belt",
+   "sash",
+   "cord"
+  ],
+  "antonyms": null,
+  "translation": "пояс, колан"
+ },
+ {
+  "id": 393,
+  "page": 128,
+  "word": "pinnacle",
+  "definition": "The most successful or admirable part; a tall pointed formation, such as a mountain peak.",
+  "synonyms": [
+   "peak",
+   "summit",
+   "apex"
+  ],
+  "antonyms": [
+   "base",
+   "bottom"
+  ],
+  "translation": "връх, кулминация"
+ },
+ {
+  "id": 394,
+  "page": 128,
+  "word": "vast tower",
+  "definition": "A very large, imposing tower.",
+  "synonyms": [
+   "huge tower",
+   "immense spire"
+  ],
+  "antonyms": "small tower",
+  "translation": "огромна кула"
+ },
+ {
+  "id": 395,
+  "page": 128,
+  "word": "yammer (verb)",
+  "definition": "To loudly express complaint; to wail or whine.",
+  "synonyms": [
+   "wail",
+   "whine",
+   "complain"
+  ],
+  "antonyms": "be silent",
+  "translation": "хленча, скимтя, нареждам високо"
+ },
+ {
+  "id": 396,
+  "page": 129,
+  "word": "shoreless",
+  "definition": "Without a shore; boundless, especially of the sea.",
+  "synonyms": [
+   "boundless",
+   "endless",
+   "vast"
+  ],
+  "antonyms": [
+   "bounded",
+   "finite"
+  ],
+  "translation": "безбрежен, без бряг"
+ },
+ {
+  "id": 397,
+  "page": 129,
+  "word": "flagstone",
+  "definition": "A flat slab of stone used for paving.",
+  "synonyms": [
+   "paving stone",
+   "slab"
+  ],
+  "antonyms": null,
+  "translation": "плоча за паваж"
+ },
+ {
+  "id": 398,
+  "page": 129,
+  "word": "content",
+  "definition": "A state of peaceful happiness; satisfaction.",
+  "synonyms": [
+   "satisfied",
+   "pleased",
+   "happy"
+  ],
+  "antonyms": [
+   "discontent",
+   "unhappy"
+  ],
+  "translation": "доволен, удовлетворен"
+ },
+ {
+  "id": 399,
+  "page": 129,
+  "word": "logs",
+  "definition": "Pieces of a tree trunk or large branch used for fuel or building.",
+  "synonyms": [
+   "timbers",
+   "firewood"
+  ],
+  "antonyms": null,
+  "translation": "дървени трупи, цепеници"
+ },
+ {
+  "id": 400,
+  "page": 129,
+  "word": "contented",
+  "definition": "Feeling or showing satisfaction with one’s possessions, status, or situation.",
+  "synonyms": [
+   "satisfied",
+   "pleased",
+   "content"
+  ],
+  "antonyms": [
+   "discontented",
+   "unhappy"
+  ],
+  "translation": "доволен, удовлетворен"
+ }
+]

@@ -1,26 +1,113 @@
 @import "tailwindcss";
 
+/* WordQuest theme — hybrid bright parchment + Tolkien.
+   Light is the default; dark is toggled via <html data-theme="dark">. */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --page: #f4e9d0;
+  --surface: #fbf4e3;
+  --surface-2: #ebddbe;
+  --ink: #2b2118;
+  --ink-muted: #6b5b4a;
+  --line: #d9c9a6;
+
+  --emerald: #1f7a5c;
+  --emerald-fg: #fff8e8;
+  --emerald-soft: #dcefe6;
+  --gold: #c9a227;
+  --gold-soft: #f3e7c2;
+  --accent: #e8557a;
+  --accent-soft: #fadce5;
+  --teal: #2ec5c0;
+  --teal-soft: #d7f4f3;
+
+  --success: #2e9e6b;
+  --success-soft: #d9efe3;
+  --danger: #c9443c;
+  --danger-soft: #f6dcda;
 }
+
+:root[data-theme="dark"] {
+  --page: #171310;
+  --surface: #221c16;
+  --surface-2: #2c241c;
+  --ink: #f0e6d2;
+  --ink-muted: #b3a38c;
+  --line: #3a3128;
+
+  --emerald: #2fa47d;
+  --emerald-fg: #0e1b16;
+  --emerald-soft: #1c3a2f;
+  --gold: #e0b83e;
+  --gold-soft: #3a311a;
+  --accent: #f07292;
+  --accent-soft: #3d2230;
+  --teal: #3fd6d0;
+  --teal-soft: #173b3a;
+
+  --success: #3fbf85;
+  --success-soft: #16382a;
+  --danger: #e06a5a;
+  --danger-soft: #3d1f1b;
+}
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-page: var(--page);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-line: var(--line);
+
+  --color-emerald: var(--emerald);
+  --color-emerald-fg: var(--emerald-fg);
+  --color-emerald-soft: var(--emerald-soft);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-teal: var(--teal);
+  --color-teal-soft: var(--teal-soft);
+
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+
+  --font-heading: var(--font-lora), Georgia, serif;
+  --font-ui: var(--font-manrope), system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Thumb-friendly safe-area helpers (notches, home indicator) */
+@utility pt-safe {
+  padding-top: env(safe-area-inset-top);
+}
+@utility pb-safe {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+@utility pl-safe {
+  padding-left: env(safe-area-inset-left);
+}
+@utility pr-safe {
+  padding-right: env(safe-area-inset-right);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--font-manrope), system-ui, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

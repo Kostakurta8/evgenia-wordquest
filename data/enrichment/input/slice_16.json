@@ -1,0 +1,702 @@
+[
+ {
+  "id": 751,
+  "page": 241,
+  "word": "menace",
+  "definition": "A person or thing that is likely to cause harm; a threat.",
+  "synonyms": [
+   "threat",
+   "danger",
+   "hazard"
+  ],
+  "antonyms": [
+   "safety",
+   "protection"
+  ],
+  "translation": "заплаха, опасност"
+ },
+ {
+  "id": 752,
+  "page": 241,
+  "word": "deceit",
+  "definition": "The action or practice of deceiving someone by concealing or misrepresenting the truth.",
+  "synonyms": [
+   "deception",
+   "dishonesty",
+   "fraud"
+  ],
+  "antonyms": [
+   "honesty",
+   "candour"
+  ],
+  "translation": "измама, лъжа"
+ },
+ {
+  "id": 753,
+  "page": 242,
+  "word": "deem",
+  "definition": "To regard or consider in a specified way.",
+  "synonyms": [
+   "consider",
+   "regard",
+   "judge"
+  ],
+  "antonyms": null,
+  "translation": "смятам, считам"
+ },
+ {
+  "id": 754,
+  "page": 242,
+  "word": "ensnared",
+  "definition": "Caught in or as in a trap.",
+  "synonyms": [
+   "trapped",
+   "entangled",
+   "snared"
+  ],
+  "antonyms": [
+   "freed",
+   "released"
+  ],
+  "translation": "омотан, уловен в капан"
+ },
+ {
+  "id": 755,
+  "page": 243,
+  "word": "lore",
+  "definition": "A body of traditions and knowledge on a subject or held by a particular group.",
+  "synonyms": [
+   "tradition",
+   "knowledge",
+   "wisdom"
+  ],
+  "antonyms": null,
+  "translation": "предания, знание"
+ },
+ {
+  "id": 756,
+  "page": 243,
+  "word": "sire",
+  "definition": "(Formal address) used to address a king; also: the male parent of an animal.",
+  "synonyms": [
+   "lord",
+   "master; father"
+  ],
+  "antonyms": null,
+  "translation": "господарю; баща (за животно)"
+ },
+ {
+  "id": 757,
+  "page": 243,
+  "word": "herald",
+  "definition": "An official messenger bringing news; a sign that something is about to happen.",
+  "synonyms": [
+   "messenger",
+   "harbinger",
+   "forerunner"
+  ],
+  "antonyms": null,
+  "translation": "вестител, предвестник"
+ },
+ {
+  "id": 758,
+  "page": 243,
+  "word": "beheld",
+  "definition": "(Past of behold) saw or observed.",
+  "synonyms": [
+   "saw",
+   "observed",
+   "viewed"
+  ],
+  "antonyms": "overlooked",
+  "translation": "видя, съзря"
+ },
+ {
+  "id": 759,
+  "page": 243,
+  "word": "hilt-shard",
+  "definition": "A broken piece of a sword that still includes the hilt.",
+  "synonyms": [
+   "sword-shard",
+   "broken hilt"
+  ],
+  "antonyms": null,
+  "translation": "отломък с дръжката на меч"
+ },
+ {
+  "id": 760,
+  "page": 244,
+  "word": "weregild shards",
+  "definition": "Fragments taken as weregild (man-price paid in compensation for killing).",
+  "synonyms": "blood-price fragments",
+  "antonyms": null,
+  "translation": "отломки като откуп (веоргилд)"
+ },
+ {
+  "id": 761,
+  "page": 244,
+  "word": "esquire",
+  "definition": "A young nobleman who acted as an attendant to a knight before becoming a knight himself.",
+  "synonyms": [
+   "attendant",
+   "squire"
+  ],
+  "antonyms": null,
+  "translation": "оръженосец, скуайър"
+ },
+ {
+  "id": 762,
+  "page": 244,
+  "word": "extinguished",
+  "definition": "Caused (a fire or light) to cease to burn or shine.",
+  "synonyms": [
+   "put out",
+   "quenched",
+   "snuffed"
+  ],
+  "antonyms": [
+   "kindled",
+   "lit"
+  ],
+  "translation": "угасен, изгасен"
+ },
+ {
+  "id": 763,
+  "page": 244,
+  "word": "diminished",
+  "definition": "Made or became less; reduced.",
+  "synonyms": [
+   "reduced",
+   "lessened",
+   "decreased"
+  ],
+  "antonyms": [
+   "increased",
+   "augmented"
+  ],
+  "translation": "намален, отслабен"
+ },
+ {
+  "id": 764,
+  "page": 244,
+  "word": "unmade",
+  "definition": "Destroyed or undone; not made.",
+  "synonyms": [
+   "destroyed",
+   "undone",
+   "dismantled"
+  ],
+  "antonyms": [
+   "made",
+   "constructed"
+  ],
+  "translation": "развален, разтурен"
+ },
+ {
+  "id": 765,
+  "page": 244,
+  "word": "foundations",
+  "definition": "The lowest load-bearing parts of a building or wall; the basis of something.",
+  "synonyms": [
+   "base",
+   "groundwork",
+   "basis"
+  ],
+  "antonyms": [
+   "top",
+   "surface"
+  ],
+  "translation": "основи, фундамент"
+ },
+ {
+  "id": 766,
+  "page": 244,
+  "word": "lessen (verb)",
+  "definition": "To make or become less; to reduce.",
+  "synonyms": [
+   "reduce",
+   "diminish",
+   "decrease"
+  ],
+  "antonyms": [
+   "increase",
+   "enlarge"
+  ],
+  "translation": "намалявам, намалявам се"
+ },
+ {
+  "id": 767,
+  "page": 244,
+  "word": "desolate",
+  "definition": "(Of a place) deserted and barren; (of a person) feeling utterly alone and unhappy.",
+  "synonyms": [
+   "barren",
+   "bleak",
+   "deserted"
+  ],
+  "antonyms": [
+   "populated",
+   "cheerful"
+  ],
+  "translation": "пуст, опустошен, окаян"
+ },
+ {
+  "id": 768,
+  "page": 244,
+  "word": "lordship",
+  "definition": "The dominion or authority of a lord; a title for a lord.",
+  "synonyms": [
+   "authority",
+   "dominion",
+   "rule"
+  ],
+  "antonyms": null,
+  "translation": "господство, лордско звание"
+ },
+ {
+  "id": 769,
+  "page": 244,
+  "word": "mounds",
+  "definition": "Rounded masses projecting above a surface; small hills.",
+  "synonyms": [
+   "hills",
+   "heaps",
+   "knolls"
+  ],
+  "antonyms": [
+   "hollows",
+   "pits"
+  ],
+  "translation": "могили, купчини"
+ },
+ {
+  "id": 770,
+  "page": 245,
+  "word": "lesser",
+  "definition": "Smaller in size, amount, or importance.",
+  "synonyms": [
+   "smaller",
+   "inferior",
+   "lower"
+  ],
+  "antonyms": [
+   "greater",
+   "major"
+  ],
+  "translation": "по-малък, по-нисш"
+ },
+ {
+  "id": 771,
+  "page": 245,
+  "word": "verily",
+  "definition": "(Archaic) truly; certainly.",
+  "synonyms": [
+   "truly",
+   "indeed",
+   "certainly"
+  ],
+  "antonyms": null,
+  "translation": "наистина, действително (архаично)"
+ },
+ {
+  "id": 772,
+  "page": 245,
+  "word": "deeds",
+  "definition": "Actions performed deliberately or consciously; legal documents.",
+  "synonyms": [
+   "acts",
+   "actions",
+   "exploits"
+  ],
+  "antonyms": null,
+  "translation": "дела, постъпки"
+ },
+ {
+  "id": 773,
+  "page": 245,
+  "word": "bulwark",
+  "definition": "A defensive wall; a person or thing that defends.",
+  "synonyms": [
+   "rampart",
+   "defence",
+   "barrier"
+  ],
+  "antonyms": null,
+  "translation": "крепостен вал, защита"
+ },
+ {
+  "id": 774,
+  "page": 246,
+  "word": "remnant",
+  "definition": "A small remaining quantity or part of something.",
+  "synonyms": [
+   "remainder",
+   "fragment",
+   "residue"
+  ],
+  "antonyms": [
+   "whole",
+   "entirety"
+  ],
+  "translation": "остатък, отломък"
+ },
+ {
+  "id": 775,
+  "page": 246,
+  "word": "amid",
+  "definition": "Surrounded by; in the middle of.",
+  "synonyms": [
+   "among",
+   "amidst",
+   "surrounded by"
+  ],
+  "antonyms": "outside",
+  "translation": "сред, посред"
+ },
+ {
+  "id": 776,
+  "page": 246,
+  "word": "unravelling",
+  "definition": "Undoing twisted, knitted, or woven threads; investigating and solving.",
+  "synonyms": [
+   "unwinding",
+   "undoing",
+   "solving"
+  ],
+  "antonyms": "tangling",
+  "translation": "разплитане, разнищване"
+ },
+ {
+  "id": 777,
+  "page": 247,
+  "word": "heirlooms",
+  "definition": "Valuable objects that have belonged to a family for several generations.",
+  "synonyms": [
+   "inheritances",
+   "legacies",
+   "keepsakes"
+  ],
+  "antonyms": null,
+  "translation": "наследени фамилни вещи"
+ },
+ {
+  "id": 778,
+  "page": 247,
+  "word": "boon",
+  "definition": "A thing that is helpful or beneficial; a blessing.",
+  "synonyms": [
+   "blessing",
+   "benefit",
+   "godsend"
+  ],
+  "antonyms": [
+   "curse",
+   "bane"
+  ],
+  "translation": "благодат, дар"
+ },
+ {
+  "id": 779,
+  "page": 248,
+  "word": "stalwart",
+  "definition": "Loyal, reliable, and hard-working; sturdily built.",
+  "synonyms": [
+   "loyal",
+   "steadfast",
+   "sturdy"
+  ],
+  "antonyms": [
+   "disloyal",
+   "weak"
+  ],
+  "translation": "верен, як, надежден"
+ },
+ {
+  "id": 780,
+  "page": 248,
+  "word": "ceaselessly",
+  "definition": "Without ceasing; continuously.",
+  "synonyms": [
+   "endlessly",
+   "continuously",
+   "incessantly"
+  ],
+  "antonyms": "intermittently",
+  "translation": "непрестанно, безспирно"
+ },
+ {
+  "id": 781,
+  "page": 249,
+  "word": "displeased",
+  "definition": "Feeling or showing annoyance and displeasure.",
+  "synonyms": [
+   "annoyed",
+   "dissatisfied",
+   "irritated"
+  ],
+  "antonyms": [
+   "pleased",
+   "satisfied"
+  ],
+  "translation": "недоволен, раздразнен"
+ },
+ {
+  "id": 782,
+  "page": 249,
+  "word": "suffices",
+  "definition": "Is enough or adequate.",
+  "synonyms": [
+   "is enough",
+   "satisfies",
+   "serves"
+  ],
+  "antonyms": null,
+  "translation": "достатъчно е, стига"
+ },
+ {
+  "id": 783,
+  "page": 250,
+  "word": "Havens",
+  "definition": "Places of safety or refuge; in Tolkien, the Grey Havens, port of departure for Elves.",
+  "synonyms": [
+   "refuges",
+   "harbours",
+   "sanctuaries"
+  ],
+  "antonyms": null,
+  "translation": "Пристани, убежища (Сиви Пристани)"
+ },
+ {
+  "id": 784,
+  "page": 250,
+  "word": "halfling’s trove",
+  "definition": "The treasure or hoard kept by a halfling (hobbit).",
+  "synonyms": "hobbit hoard",
+  "antonyms": null,
+  "translation": "съкровището на полуръст (хобит)"
+ },
+ {
+  "id": 785,
+  "page": 250,
+  "word": "dissuade (verb)",
+  "definition": "To persuade (someone) not to take a particular course of action.",
+  "synonyms": [
+   "discourage",
+   "deter",
+   "persuade against"
+  ],
+  "antonyms": [
+   "encourage",
+   "persuade"
+  ],
+  "translation": "разубеждавам, отклонявам"
+ },
+ {
+  "id": 786,
+  "page": 250,
+  "word": "feigned",
+  "definition": "Pretended; simulated; not real.",
+  "synonyms": [
+   "pretended",
+   "false",
+   "faked"
+  ],
+  "antonyms": [
+   "genuine",
+   "real"
+  ],
+  "translation": "престорен, фалшив"
+ },
+ {
+  "id": 787,
+  "page": 251,
+  "word": "vigilance",
+  "definition": "The action or state of keeping careful watch for possible danger.",
+  "synonyms": [
+   "watchfulness",
+   "alertness",
+   "attentiveness"
+  ],
+  "antonyms": [
+   "inattention",
+   "carelessness"
+  ],
+  "translation": "бдителност"
+ },
+ {
+  "id": 788,
+  "page": 251,
+  "word": "whence",
+  "definition": "(Archaic or formal) from what place or source.",
+  "synonyms": [
+   "from where",
+   "from what source"
+  ],
+  "antonyms": "whither",
+  "translation": "откъде (архаично)"
+ },
+ {
+  "id": 789,
+  "page": 251,
+  "word": "untimely",
+  "definition": "Happening or done at an unsuitable time; premature.",
+  "synonyms": [
+   "premature",
+   "ill-timed",
+   "inopportune"
+  ],
+  "antonyms": [
+   "timely",
+   "appropriate"
+  ],
+  "translation": "ненавременен, преждевременен"
+ },
+ {
+  "id": 790,
+  "page": 251,
+  "word": "labour",
+  "definition": "Work, especially hard physical work; effort.",
+  "synonyms": [
+   "work",
+   "toil",
+   "exertion"
+  ],
+  "antonyms": [
+   "rest",
+   "leisure"
+  ],
+  "translation": "труд, работа"
+ },
+ {
+  "id": 791,
+  "page": 251,
+  "word": "earnestly",
+  "definition": "With sincere and intense conviction; seriously.",
+  "synonyms": [
+   "sincerely",
+   "seriously",
+   "fervently"
+  ],
+  "antonyms": [
+   "jokingly",
+   "lightly"
+  ],
+  "translation": "сериозно, искрено"
+ },
+ {
+  "id": 792,
+  "page": 252,
+  "word": "half-heeded",
+  "definition": "Paid only partial attention to.",
+  "synonyms": [
+   "half-listened",
+   "half-noticed"
+  ],
+  "antonyms": "fully heeded",
+  "translation": "половинчато забелязан"
+ },
+ {
+  "id": 793,
+  "page": 252,
+  "word": "unadorned",
+  "definition": "Not adorned or decorated; plain.",
+  "synonyms": [
+   "plain",
+   "simple",
+   "undecorated"
+  ],
+  "antonyms": [
+   "adorned",
+   "decorated"
+  ],
+  "translation": "неукрасен, обикновен"
+ },
+ {
+  "id": 794,
+  "page": 252,
+  "word": "scroll",
+  "definition": "A roll of parchment or paper for writing on.",
+  "synonyms": [
+   "parchment",
+   "document",
+   "roll"
+  ],
+  "antonyms": null,
+  "translation": "свитък"
+ },
+ {
+  "id": 795,
+  "page": 252,
+  "word": "therein",
+  "definition": "(Formal) in that place, document, or respect.",
+  "synonyms": [
+   "in there",
+   "within"
+  ],
+  "antonyms": "therein not",
+  "translation": "в това, вътре"
+ },
+ {
+  "id": 796,
+  "page": 253,
+  "word": "glede",
+  "definition": "(Archaic) a glowing coal or live ember.",
+  "synonyms": [
+   "ember",
+   "hot coal",
+   "cinder"
+  ],
+  "antonyms": "ash",
+  "translation": "жар, въглен (архаично)"
+ },
+ {
+  "id": 797,
+  "page": 253,
+  "word": "loseth (verb)",
+  "definition": "(Archaic) loses.",
+  "synonyms": [
+   "loses",
+   "mislays"
+  ],
+  "antonyms": "gains",
+  "translation": "губи (архаично)"
+ },
+ {
+  "id": 798,
+  "page": 253,
+  "word": "fadeth (verb)",
+  "definition": "(Archaic) fades; becomes dim or weak.",
+  "synonyms": [
+   "fades",
+   "dims",
+   "weakens"
+  ],
+  "antonyms": "brightens",
+  "translation": "избелява, помръква (архаично)"
+ },
+ {
+  "id": 799,
+  "page": 253,
+  "word": "script",
+  "definition": "Handwriting as distinct from print; a writing system.",
+  "synonyms": [
+   "handwriting",
+   "writing",
+   "text"
+  ],
+  "antonyms": null,
+  "translation": "писменост, ръкопис"
+ },
+ {
+  "id": 800,
+  "page": 253,
+  "word": "despaired",
+  "definition": "Lost or was without all hope.",
+  "synonyms": [
+   "gave up",
+   "lost hope"
+  ],
+  "antonyms": "hoped",
+  "translation": "отчаял се"
+ }
+]

@@ -1,0 +1,726 @@
+[
+ {
+  "id": 51,
+  "page": 11,
+  "word": "assail (verb)",
+  "definition": "To attack violently; to make a concerted or vigorous effort to defeat or undermine.",
+  "synonyms": [
+   "attack",
+   "assault",
+   "set upon"
+  ],
+  "antonyms": [
+   "defend",
+   "protect"
+  ],
+  "translation": "нападам, атакувам"
+ },
+ {
+  "id": 52,
+  "page": 11,
+  "word": "grope (verb)",
+  "definition": "To feel about or search blindly with the hands.",
+  "synonyms": [
+   "fumble",
+   "feel",
+   "search"
+  ],
+  "antonyms": null,
+  "translation": "опипвам, търся пипнешком"
+ },
+ {
+  "id": 53,
+  "page": 12,
+  "word": "stumped",
+  "definition": "to be completely confused, puzzled, or at a loss for an answer because a problem or question is too difficult",
+  "synonyms": [
+   "Baffled",
+   "Perplexed",
+   "Bewildered",
+   "Puzzled"
+  ],
+  "antonyms": [
+   "Certain",
+   "confident",
+   "informed",
+   "enlightened"
+  ],
+  "translation": "Озадачен, объркан, шашардисан"
+ },
+ {
+  "id": 54,
+  "page": 12,
+  "word": "slimy",
+  "definition": "Covered with or resembling slime; unpleasantly slippery and wet.",
+  "synonyms": [
+   "slippery",
+   "mucky",
+   "oozy"
+  ],
+  "antonyms": [
+   "dry",
+   "clean"
+  ],
+  "translation": "лигав, хлъзгав"
+ },
+ {
+  "id": 55,
+  "page": 12,
+  "word": "peril",
+  "definition": "Serious and immediate danger.",
+  "synonyms": [
+   "danger",
+   "jeopardy",
+   "hazard"
+  ],
+  "antonyms": [
+   "safety",
+   "security"
+  ],
+  "translation": "опасност, риск"
+ },
+ {
+  "id": 56,
+  "page": 12,
+  "word": "lest",
+  "definition": "With the intention of preventing; for fear that.",
+  "synonyms": [
+   "in case",
+   "for fear that"
+  ],
+  "antonyms": null,
+  "translation": "да не би, за да не"
+ },
+ {
+  "id": 57,
+  "page": 12,
+  "word": "halt (verb)",
+  "definition": "To bring or come to an abrupt stop.",
+  "synonyms": [
+   "stop",
+   "pause",
+   "cease"
+  ],
+  "antonyms": [
+   "continue",
+   "proceed"
+  ],
+  "translation": "спирам, прекратявам"
+ },
+ {
+  "id": 58,
+  "page": 13,
+  "word": "chiefly",
+  "definition": "Above all; mainly or principally.",
+  "synonyms": [
+   "mainly",
+   "principally",
+   "primarily"
+  ],
+  "antonyms": [
+   "secondarily",
+   "minorly"
+  ],
+  "translation": "главно, предимно"
+ },
+ {
+  "id": 59,
+  "page": 14,
+  "word": "annex (verb)",
+  "definition": "To add as an extra or subordinate part, especially to a document; to take possession of territory.",
+  "synonyms": [
+   "append",
+   "attach",
+   "incorporate"
+  ],
+  "antonyms": [
+   "detach",
+   "remove"
+  ],
+  "translation": "присъединявам, анексирам"
+ },
+ {
+  "id": 60,
+  "page": 15,
+  "word": "omit (verb)",
+  "definition": "To leave out or exclude (someone or something), either intentionally or forgetfully.",
+  "synonyms": [
+   "exclude",
+   "leave out",
+   "skip"
+  ],
+  "antonyms": [
+   "include",
+   "add"
+  ],
+  "translation": "пропускам, изпускам"
+ },
+ {
+  "id": 61,
+  "page": 15,
+  "word": "treatise",
+  "definition": "A written work dealing formally and systematically with a subject.",
+  "synonyms": [
+   "essay",
+   "dissertation",
+   "monograph"
+  ],
+  "antonyms": null,
+  "translation": "трактат, научно съчинение"
+ },
+ {
+  "id": 62,
+  "page": 15,
+  "word": "kinship",
+  "definition": "Blood relationship; a sharing of characteristics or origins.",
+  "synonyms": [
+   "relationship",
+   "family",
+   "affinity"
+  ],
+  "antonyms": [
+   "estrangement",
+   "alienation"
+  ],
+  "translation": "роднинство, родство"
+ },
+ {
+  "id": 63,
+  "page": 15,
+  "word": "conjectura",
+  "definition": "A conclusion formed on the basis of incomplete information; conjecture.",
+  "synonyms": [
+   "guess",
+   "supposition",
+   "surmise"
+  ],
+  "antonyms": [
+   "fact",
+   "certainty"
+  ],
+  "translation": "предположение, догадка"
+ },
+ {
+  "id": 64,
+  "page": 21,
+  "word": "prolonged",
+  "definition": "Continuing for a long time or longer than usual; lengthy.",
+  "synonyms": [
+   "extended",
+   "lengthy",
+   "protracted"
+  ],
+  "antonyms": [
+   "brief",
+   "short"
+  ],
+  "translation": "продължителен, удължен"
+ },
+ {
+  "id": 65,
+  "page": 21,
+  "word": "vigour",
+  "definition": "Physical strength and good health; effort and energy.",
+  "synonyms": [
+   "energy",
+   "strength",
+   "vitality"
+  ],
+  "antonyms": [
+   "weakness",
+   "lethargy"
+  ],
+  "translation": "енергия, бодрост"
+ },
+ {
+  "id": 66,
+  "page": 21,
+  "word": "perpetual",
+  "definition": "Never ending or changing; occurring repeatedly.",
+  "synonyms": [
+   "eternal",
+   "continual",
+   "everlasting"
+  ],
+  "antonyms": [
+   "temporary",
+   "fleeting"
+  ],
+  "translation": "вечен, постоянен"
+ },
+ {
+  "id": 67,
+  "page": 21,
+  "word": "reputedly",
+  "definition": "According to general belief; as is generally said.",
+  "synonyms": [
+   "allegedly",
+   "supposedly"
+  ],
+  "antonyms": "verifiably",
+  "translation": "според мълвата, уж"
+ },
+ {
+  "id": 68,
+  "page": 22,
+  "word": "dashed",
+  "definition": "(Informal/dated) used to express annoyance or to emphasise; also: ran quickly.",
+  "synonyms": [
+   "darned",
+   "blasted; sprinted"
+  ],
+  "antonyms": null,
+  "translation": "проклет; затичан"
+ },
+ {
+  "id": 69,
+  "page": 22,
+  "word": "wag",
+  "definition": "A person fond of making jokes; a habitual joker.",
+  "synonyms": [
+   "joker",
+   "jester",
+   "wit"
+  ],
+  "antonyms": [
+   "bore",
+   "killjoy"
+  ],
+  "translation": "шегаджия, дявол"
+ },
+ {
+  "id": 70,
+  "page": 22,
+  "word": "gaffer",
+  "definition": "An elderly man, especially a rustic or old countryman.",
+  "synonyms": [
+   "old man",
+   "codger",
+   "elder"
+  ],
+  "antonyms": [
+   "youngster",
+   "lad"
+  ],
+  "translation": "старец, дядка"
+ },
+ {
+  "id": 71,
+  "page": 22,
+  "word": "joints",
+  "definition": "Points at which parts of a body or structure are joined together; also large cuts of meat for roasting.",
+  "synonyms": [
+   "articulations",
+   "junctions"
+  ],
+  "antonyms": null,
+  "translation": "стави, съединения"
+ },
+ {
+  "id": 72,
+  "page": 23,
+  "word": "vittles",
+  "definition": "Food provisions; victuals (informal/dialect).",
+  "synonyms": [
+   "food",
+   "provisions",
+   "victuals"
+  ],
+  "antonyms": null,
+  "translation": "провизии, храна"
+ },
+ {
+  "id": 73,
+  "page": 23,
+  "word": "stranded",
+  "definition": "Left without the means to move from somewhere; abandoned.",
+  "synonyms": [
+   "marooned",
+   "abandoned",
+   "stuck"
+  ],
+  "antonyms": [
+   "rescued",
+   "freed"
+  ],
+  "translation": "изоставен, заседнал"
+ },
+ {
+  "id": 74,
+  "page": 23,
+  "word": "warren",
+  "definition": "A network of interconnecting rabbit burrows; a densely populated or labyrinthine area.",
+  "synonyms": [
+   "burrow",
+   "labyrinth",
+   "maze"
+  ],
+  "antonyms": null,
+  "translation": "заешка дупка, лабиринт"
+ },
+ {
+  "id": 75,
+  "page": 24,
+  "word": "trample",
+  "definition": "The action of treading on and crushing something.",
+  "synonyms": [
+   "tread",
+   "stamp",
+   "crush"
+  ],
+  "antonyms": null,
+  "translation": "тъпча, газя"
+ },
+ {
+  "id": 76,
+  "page": 24,
+  "word": "traipse (verb)",
+  "definition": "To walk or move wearily or reluctantly over a long distance.",
+  "synonyms": [
+   "trudge",
+   "plod",
+   "tramp"
+  ],
+  "antonyms": [
+   "sprint",
+   "dash"
+  ],
+  "translation": "влача се, тътря се"
+ },
+ {
+  "id": 77,
+  "page": 24,
+  "word": "outlandish",
+  "definition": "Looking or sounding bizarre or unfamiliar; strange and unfamiliar.",
+  "synonyms": [
+   "bizarre",
+   "weird",
+   "strange"
+  ],
+  "antonyms": [
+   "ordinary",
+   "conventional"
+  ],
+  "translation": "странен, чудат"
+ },
+ {
+  "id": 78,
+  "page": 24,
+  "word": "conjuror",
+  "definition": "A person who performs magic tricks; an entertainer.",
+  "synonyms": [
+   "magician",
+   "illusionist",
+   "sorcerer"
+  ],
+  "antonyms": null,
+  "translation": "фокусник, маг"
+ },
+ {
+  "id": 79,
+  "page": 25,
+  "word": "nasturtium",
+  "definition": "A garden plant with round leaves and bright orange, yellow, or red flowers.",
+  "synonyms": [
+   "Indian cress",
+   "tropaeolum"
+  ],
+  "antonyms": null,
+  "translation": "латинка (растение)"
+ },
+ {
+  "id": 80,
+  "page": 25,
+  "word": "snapdragon",
+  "definition": "A plant with two-lipped flowers that open and shut like a mouth when squeezed.",
+  "synonyms": "antirrhinum",
+  "antonyms": null,
+  "translation": "лъвска уста (цвете)"
+ },
+ {
+  "id": 81,
+  "page": 26,
+  "word": "commodity",
+  "definition": "A raw material or primary agricultural product that can be bought and sold.",
+  "synonyms": [
+   "goods",
+   "merchandise",
+   "product"
+  ],
+  "antonyms": null,
+  "translation": "стока, продукт"
+ },
+ {
+  "id": 82,
+  "page": 26,
+  "word": "supplement",
+  "definition": "A thing added to something else in order to complete or enhance it.",
+  "synonyms": [
+   "addition",
+   "complement",
+   "addendum"
+  ],
+  "antonyms": [
+   "reduction",
+   "subtraction"
+  ],
+  "translation": "добавка, допълнение"
+ },
+ {
+  "id": 83,
+  "page": 27,
+  "word": "sundry",
+  "definition": "Of various kinds; several; miscellaneous.",
+  "synonyms": [
+   "various",
+   "miscellaneous",
+   "assorted"
+  ],
+  "antonyms": [
+   "identical",
+   "uniform"
+  ],
+  "translation": "разни, различни"
+ },
+ {
+  "id": 84,
+  "page": 27,
+  "word": "elevenses",
+  "definition": "A short break for refreshment, typically with a snack, taken at about eleven o’clock.",
+  "synonyms": [
+   "morning tea",
+   "mid-morning snack"
+  ],
+  "antonyms": null,
+  "translation": "закуска около единадесет часа"
+ },
+ {
+  "id": 85,
+  "page": 27,
+  "word": "squibs",
+  "definition": "Small firework devices that burn with a hissing sound before exploding.",
+  "synonyms": [
+   "firecrackers",
+   "fireworks"
+  ],
+  "antonyms": null,
+  "translation": "малки фойерверки, бенгалски огън"
+ },
+ {
+  "id": 86,
+  "page": 27,
+  "word": "crackers",
+  "definition": "Cardboard tubes with a small explosive charge that bang when pulled, also small fireworks.",
+  "synonyms": [
+   "bangers",
+   "party-poppers"
+  ],
+  "antonyms": null,
+  "translation": "пиратки, бомбички"
+ },
+ {
+  "id": 87,
+  "page": 27,
+  "word": "backrapers",
+  "definition": "A type of small firework (Tolkien usage; in the book they are noisy crackers).",
+  "synonyms": [
+   "firecrackers",
+   "bangers"
+  ],
+  "antonyms": null,
+  "translation": "пиратки (вид фойерверк)"
+ },
+ {
+  "id": 88,
+  "page": 27,
+  "word": "thunderclap",
+  "definition": "A crashing sound of thunder; a sudden loud noise like thunder.",
+  "synonyms": [
+   "thunder",
+   "crash",
+   "peal"
+  ],
+  "antonyms": "silence",
+  "translation": "гръм, гръмотевичен трясък"
+ },
+ {
+  "id": 89,
+  "page": 27,
+  "word": "scintillating",
+  "definition": "Sparkling or shining brightly; brilliantly and excitingly clever.",
+  "synonyms": [
+   "sparkling",
+   "glittering",
+   "brilliant"
+  ],
+  "antonyms": [
+   "dull",
+   "lacklustre"
+  ],
+  "translation": "искрящ, бляскав"
+ },
+ {
+  "id": 90,
+  "page": 27,
+  "word": "superb",
+  "definition": "Of the most impressive or splendid kind; excellent.",
+  "synonyms": [
+   "excellent",
+   "magnificent",
+   "splendid"
+  ],
+  "antonyms": [
+   "poor",
+   "inferior"
+  ],
+  "translation": "превъзходен, великолепен"
+ },
+ {
+  "id": 91,
+  "page": 27,
+  "word": "phalanx",
+  "definition": "A body of troops or police officers in close formation; a group standing together.",
+  "synonyms": [
+   "formation",
+   "body",
+   "line"
+  ],
+  "antonyms": null,
+  "translation": "фаланга, плътен строй"
+ },
+ {
+  "id": 92,
+  "page": 28,
+  "word": "embattled",
+  "definition": "Engaged in or prepared for a battle; beset with problems or difficulties.",
+  "synonyms": [
+   "beleaguered",
+   "beset",
+   "fortified"
+  ],
+  "antonyms": [
+   "peaceful",
+   "secure"
+  ],
+  "translation": "обкръжен, готов за бой"
+ },
+ {
+  "id": 93,
+  "page": 28,
+  "word": "exceedingly",
+  "definition": "To a great extent; extremely.",
+  "synonyms": [
+   "extremely",
+   "very",
+   "immensely"
+  ],
+  "antonyms": [
+   "slightly",
+   "marginally"
+  ],
+  "translation": "извънредно, твърде"
+ },
+ {
+  "id": 94,
+  "page": 28,
+  "word": "summit",
+  "definition": "The highest point of a hill or mountain; the peak.",
+  "synonyms": [
+   "peak",
+   "top",
+   "apex"
+  ],
+  "antonyms": [
+   "base",
+   "bottom"
+  ],
+  "translation": "връх, връхна точка"
+ },
+ {
+  "id": 95,
+  "page": 28,
+  "word": "somersault",
+  "definition": "An acrobatic movement in which a person turns head over heels.",
+  "synonyms": [
+   "flip",
+   "tumble",
+   "roll"
+  ],
+  "antonyms": null,
+  "translation": "салто, кълбо"
+ },
+ {
+  "id": 96,
+  "page": 28,
+  "word": "prostrate",
+  "definition": "Lying stretched out on the ground with one’s face downwards; overcome or helpless.",
+  "synonyms": [
+   "prone",
+   "flat",
+   "sprawled"
+  ],
+  "antonyms": [
+   "upright",
+   "standing"
+  ],
+  "translation": "прострян, легнал по очи"
+ },
+ {
+  "id": 97,
+  "page": 28,
+  "word": "provender",
+  "definition": "Food, especially dry feed for livestock; provisions.",
+  "synonyms": [
+   "fodder",
+   "feed",
+   "provisions"
+  ],
+  "antonyms": null,
+  "translation": "фураж, провизии"
+ },
+ {
+  "id": 98,
+  "page": 28,
+  "word": "connexions",
+  "definition": "Connections (British older spelling); links or relationships, especially family.",
+  "synonyms": [
+   "connections",
+   "links",
+   "relations"
+  ],
+  "antonyms": "disconnections",
+  "translation": "връзки, родствени отношения"
+ },
+ {
+  "id": 99,
+  "page": 28,
+  "word": "liable",
+  "definition": "Likely to do or to be something; legally responsible.",
+  "synonyms": [
+   "likely",
+   "prone",
+   "responsible"
+  ],
+  "antonyms": [
+   "unlikely",
+   "exempt"
+  ],
+  "translation": "склонен, отговорен"
+ },
+ {
+  "id": 100,
+  "page": 28,
+  "word": "allude (verb)",
+  "definition": "To suggest or call attention to indirectly; to hint at.",
+  "synonyms": [
+   "hint",
+   "refer",
+   "imply"
+  ],
+  "antonyms": [
+   "state",
+   "specify"
+  ],
+  "translation": "намеквам, споменавам"
+ }
+]

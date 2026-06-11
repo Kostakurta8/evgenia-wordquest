@@ -1,0 +1,452 @@
+[
+ {
+  "id": 451,
+  "word": "breeches",
+  "explanationBg": "Старомодни къси панталони, които стигат до под коляното и там се закопчават — носели са ги ездачи и господа в миналото.",
+  "explanationEn": "Short trousers that fasten just below the knee.",
+  "exampleEn": "For the history play at school, Tom had to wear breeches and long white socks.",
+  "mnemonicBg": "Английското breeches звучи почти като нашите „бричове“ — това си е същата дреха: панталони до коляното.",
+  "ipa": "/ˈbrɪtʃɪz/"
+ },
+ {
+  "id": 452,
+  "word": "basking",
+  "explanationBg": "Да се излежаваш блажено на топло и светло — както котка се пече на слънце, без да бърза за никъде.",
+  "explanationEn": "Lying in warm light and enjoying it, like sunbathing.",
+  "exampleEn": "After exams we spent the whole afternoon basking in the sun at the beach.",
+  "mnemonicBg": "След БАСКетбол лягаш на тревата и се печеш на слънце — това е basking.",
+  "ipa": "/ˈbɑːskɪŋ/"
+ },
+ {
+  "id": 453,
+  "word": "garments",
+  "explanationBg": "По-официална дума за дрехи — всяко отделно парче облекло: риза, панталон, рокля.",
+  "explanationEn": "Pieces of clothing.",
+  "exampleEn": "She folded all her garments neatly before packing them into the suitcase.",
+  "mnemonicBg": "Запомни: garment спи в ГАРдероба — и двете започват с „гар“.",
+  "ipa": "/ˈɡɑːmənts/"
+ },
+ {
+  "id": 454,
+  "word": "trot",
+  "explanationBg": "Тръс — бягът на кон, по-бърз от ходене, но по-бавен от галоп; равномерно подтичване.",
+  "explanationEn": "A horse's steady pace that is faster than walking but slower than galloping.",
+  "exampleEn": "Our dog broke into a happy trot the moment he saw the park gates.",
+  "mnemonicBg": "Чуй копитата: „трот-трот-трот“ — самата дума тропа в тръс.",
+  "ipa": "/ˈtrɒt/"
+ },
+ {
+  "id": 455,
+  "word": "sheaths",
+  "explanationBg": "Калъфи за нож или меч — плътни обвивки, в които се прибира острието, за да е защитено и безопасно.",
+  "explanationEn": "Covers that protect the blades of knives or swords.",
+  "exampleEn": "At scout camp we learned to keep our pocket knives in their sheaths.",
+  "mnemonicBg": "Острието стои заШИТо в калъфа си — sheath е като ушито палтенце за меча.",
+  "ipa": "/ˈʃiːðz/"
+ },
+ {
+  "id": 456,
+  "word": "virtue",
+  "explanationBg": "Добродетел — качеството да постъпваш честно и добре; понякога значи и силата или полезното действие на нещо.",
+  "explanationEn": "Goodness and high moral behaviour; also the special power or useful quality of something.",
+  "exampleEn": "Patience is a virtue you really need when your Wi-Fi keeps dropping mid-game.",
+  "mnemonicBg": "Virtue звучи като „виртуоз“ — виртуоз не на пианото, а в правенето на добро.",
+  "ipa": "/ˈvɜːtʃuː/"
+ },
+ {
+  "id": 457,
+  "word": "lading",
+  "explanationBg": "Старовремска дума за товарене — слагането на стока на кораб или каруца; може да значи и самия товар.",
+  "explanationEn": "The loading of goods onto a ship or vehicle; also the cargo itself.",
+  "exampleEn": "From the pier we watched the lading of the huge container ship all morning.",
+  "mnemonicBg": "В lading се чува „ладия“ — старата дума за лодка: товарят ладията.",
+  "ipa": "/ˈleɪdɪŋ/"
+ },
+ {
+  "id": 458,
+  "word": "girth",
+  "explanationBg": "Обиколката на нещо по средата — например на дърво или корем; при конете е и коланът, който държи седлото.",
+  "explanationEn": "The distance around the middle of something; also the strap that holds a saddle on a horse.",
+  "exampleEn": "It took four of us holding hands to measure the girth of the old oak tree.",
+  "mnemonicBg": "Girth звучи като „гърди“ — мериш обиколката около гърдите на коня, за да стегнеш седлото.",
+  "ipa": "/ˈɡɜːθ/"
+ },
+ {
+  "id": 459,
+  "word": "gaily",
+  "explanationBg": "Весело и безгрижно — когато правиш нещо с усмивка и леко сърце.",
+  "explanationEn": "In a happy, cheerful way.",
+  "exampleEn": "She waved gaily from the bus window as the team set off for the tournament.",
+  "mnemonicBg": "Чуеш ли ГАЙдата — хорото тръгва весело и бодро: gaily!",
+  "ipa": "/ˈɡeɪli/"
+ },
+ {
+  "id": 460,
+  "word": "furlongs",
+  "explanationBg": "Стара английска мярка за разстояние — един фърлонг е около 200 метра; и днес се ползва в конните надбягвания.",
+  "explanationEn": "Old units of distance; one furlong is about 200 metres.",
+  "exampleEn": "The favourite horse sprinted the last two furlongs and won the race.",
+  "mnemonicBg": "Fur (козина) + long (дълъг): пухкав кон тича дълга отсечка от 200 метра — furlong.",
+  "ipa": "/ˈfɜːlɒŋz/"
+ },
+ {
+  "id": 461,
+  "word": "pot-holes",
+  "explanationBg": "Дупките по асфалта, отворени от дъжд и износване — онези, в които колата друсва, а колелото пропада.",
+  "explanationEn": "Holes in the road made by weather and damage.",
+  "exampleEn": "I nearly flew over the handlebars when my bike hit one of the pot-holes on our street.",
+  "mnemonicBg": "Pot е тенджера, hole е дупка — пътят е надупчен, сякаш някой е вадил тенджери от асфалта.",
+  "ipa": "/ˈpɒthəʊlz/"
+ },
+ {
+  "id": 462,
+  "word": "flank",
+  "explanationBg": "Хълбокът, страната — на човек, животно или хълм; във футбола и игрите е крилото, страничната зона.",
+  "explanationEn": "The side of a body, an animal, a hill, or a group such as an army or a team.",
+  "exampleEn": "Our winger raced down the left flank and crossed the ball for the striker.",
+  "mnemonicBg": "Това е нашият „фланг“ от футбола и игрите — атакуваш отстрани, по фланга.",
+  "ipa": "/ˈflæŋk/"
+ },
+ {
+  "id": 463,
+  "word": "prancing",
+  "explanationBg": "Когато кон подскача наперено на задните си крака, докато върви — гордо, танцуващо движение.",
+  "explanationEn": "Moving forward with proud, springy steps, like a show horse.",
+  "exampleEn": "The puppy was prancing around the garden as if it had just won a medal.",
+  "mnemonicBg": "В prancing се чува „принц“ — конят стъпва като принц на парад.",
+  "ipa": "/ˈprɑːnsɪŋ/"
+ },
+ {
+  "id": 464,
+  "word": "tamed woodland",
+  "explanationBg": "Гора, подредена и поддържана от хора — с пътеки и разчистени дървета, а не дива пустош.",
+  "explanationEn": "A forest that people manage and keep tidy, not a wild one.",
+  "exampleEn": "The park behind our school feels like tamed woodland, with neat paths between the trees.",
+  "mnemonicBg": "Представи си гора, минала през фризьор — подстригана и послушна: опитомена, tamed.",
+  "ipa": "/ˌteɪmd ˈwʊdlənd/"
+ },
+ {
+  "id": 465,
+  "word": "dwellings",
+  "explanationBg": "Места, в които живеят хора — къщи, апартаменти, домове; малко по-книжна дума за жилища.",
+  "explanationEn": "Places where people live, such as houses or flats.",
+  "exampleEn": "From the plane window the village dwellings looked like tiny toy houses.",
+  "mnemonicBg": "Двама съседи излизат на ДУЕЛ пред своите dwellings — чий дом е по-хубав.",
+  "ipa": "/ˈdwelɪŋz/"
+ },
+ {
+  "id": 466,
+  "word": "outsiders",
+  "explanationBg": "Хора „отвън“ — които не принадлежат към дадена група, компания или място и затова ги усещат като чужди.",
+  "explanationEn": "People who do not belong to a group or place.",
+  "exampleEn": "The new kids felt like outsiders until the class invited them to game night.",
+  "mnemonicBg": "Out (вън) + side (страна) — стоиш отвън, отстрани на купона: външен човек.",
+  "ipa": "/ˌaʊtˈsaɪdəz/"
+ },
+ {
+  "id": 467,
+  "word": "uncouth",
+  "explanationBg": "Недодялан и грубоват — човек без обноски, който се държи просташки или тромаво пред хора.",
+  "explanationEn": "Rude and without good manners.",
+  "exampleEn": "Talking with your mouth full at a birthday dinner looks really uncouth.",
+  "mnemonicBg": "Uncouth звучи като „ън-КЮТук“ — седи на масата като кютук: недодялан и груб.",
+  "ipa": "/ʌnˈkuːθ/"
+ },
+ {
+  "id": 468,
+  "word": "scattered",
+  "explanationBg": "Разпръснат тук-там из някаква площ — не на едно място, а на отделни парченца или групички.",
+  "explanationEn": "Spread out in different places over an area.",
+  "exampleEn": "After movie night, popcorn was scattered all over the living-room floor.",
+  "mnemonicBg": "Вътре в sCATtered се крие cat — котката, която е разпиляла всичко из стаята.",
+  "ipa": "/ˈskætəd/"
+ },
+ {
+  "id": 469,
+  "word": "prosperous",
+  "explanationBg": "Преуспяващ и заможен — комуто работите вървят и парите стигат, който цъфти в това, което прави.",
+  "explanationEn": "Successful and doing well, especially with money.",
+  "exampleEn": "Her family's tiny bakery grew so prosperous that they opened three more shops.",
+  "mnemonicBg": "Чуваш „просперитет“ вътре — който просперира, е prosperous.",
+  "ipa": "/ˈprɒspərəs/"
+ },
+ {
+  "id": 470,
+  "word": "lodges",
+  "explanationBg": "Малки къщички, най-често сред природата — хижи или вили, в които се отсяда за кратко, например на почивка.",
+  "explanationEn": "Small country houses where people stay for a short time.",
+  "exampleEn": "We rented one of the wooden lodges by the lake for the school ski trip.",
+  "mnemonicBg": "Lodge звучи като „ложе“ (легло) — къщичка, в която лягаш да преспиш след цял ден ски.",
+  "ipa": "/ˈlɒdʒɪz/"
+ },
+ {
+  "id": 471,
+  "word": "dike",
+  "explanationBg": "Дига — дълъг насип или стена, която пази сушата да не я залее морето.",
+  "explanationEn": "A long wall of earth or stone that stops the sea from flooding the land.",
+  "exampleEn": "In the Netherlands we cycled along a huge dike that holds back the sea.",
+  "mnemonicBg": "Dike и „дига“ са почти една дума — вДИГАш стена срещу вълните.",
+  "ipa": "/ˈdaɪk/"
+ },
+ {
+  "id": 472,
+  "word": "innkeeper",
+  "explanationBg": "Ханджия — човекът, който държи хан или малък крайпътен хотел и посреща пътниците.",
+  "explanationEn": "The person who runs an inn or small hotel.",
+  "exampleEn": "The friendly innkeeper at the mountain guesthouse showed us where to dry our wet boots.",
+  "mnemonicBg": "Като goalkeeper, но на хан — inn (хан) + keeper (пазач): пазачът на хана и гостите му.",
+  "ipa": "/ˈɪnkiːpə/"
+ },
+ {
+  "id": 473,
+  "word": "idle",
+  "explanationBg": "Безделен, мързелив — който нищо не върши; казва се и за машина или телефон, които стоят, без да се използват.",
+  "explanationEn": "Lazy or doing nothing; not being used.",
+  "exampleEn": "My brother spent a completely idle Sunday on the couch, not even finishing one episode.",
+  "mnemonicBg": "Idle звучи като „айде“ — на безделника му викаш: „Айде де, размърдай се!“",
+  "ipa": "/ˈaɪdl/"
+ },
+ {
+  "id": 474,
+  "word": "signboard",
+  "explanationBg": "Табела — дъска с името на магазин или заведение, закачена отпред, за да я виждат всички.",
+  "explanationEn": "A board showing the name of a shop or business.",
+  "exampleEn": "The new cafe's neon signboard lights up the whole street at night.",
+  "mnemonicBg": "Sign (знак) + board (дъска): представи си скейтборд, закован над вратата като табела.",
+  "ipa": "/ˈsaɪnbɔːd/"
+ },
+ {
+  "id": 475,
+  "word": "reared up",
+  "explanationBg": "Изправил се рязко на задните си крака — както прави подплашен или разигран кон.",
+  "explanationEn": "Stood up suddenly on the back legs, like a frightened horse.",
+  "exampleEn": "The horse reared up when a plastic bag blew across the path.",
+  "mnemonicBg": "Конят изРЕВа и се изправи на задни крака — reared up.",
+  "ipa": "/ˌrɪəd ˈʌp/"
+ },
+ {
+  "id": 476,
+  "word": "hind",
+  "explanationBg": "Заден — най-често за задните крака на животно; същата дума може да значи и кошута, женски елен.",
+  "explanationEn": "At the back, like an animal's back legs; also a female deer.",
+  "exampleEn": "Our dog balances on his hind legs whenever he smells a treat.",
+  "mnemonicBg": "Махни „би-“ от behind (отзад) и остава hind — задното.",
+  "ipa": "/ˈhaɪnd/"
+ },
+ {
+  "id": 477,
+  "word": "apron",
+  "explanationBg": "Престилка — връзваш я отпред, за да не си изцапаш дрехите, докато готвиш или рисуваш.",
+  "explanationEn": "A piece of clothing worn over your clothes to keep them clean.",
+  "exampleEn": "Dad puts on his lucky apron every time he makes pancakes.",
+  "mnemonicBg": "Apron — „опрян“: престилката стои опряна отпред на дрехите ти.",
+  "ipa": "/ˈeɪprən/"
+ },
+ {
+  "id": 478,
+  "word": "stabling",
+  "explanationBg": "Подслон за коне — конюшни; също и самото настаняване на кон в обор.",
+  "explanationEn": "Space in stables where horses can stay.",
+  "exampleEn": "The riding club offers stabling for ten horses during the summer camp.",
+  "mnemonicBg": "Конят иска СТАБИЛен покрив над главата — stabling, място в конюшнята.",
+  "ipa": "/ˈsteɪblɪŋ/"
+ },
+ {
+  "id": 479,
+  "word": "pours",
+  "explanationBg": "Лее се — тече силно и без прекъсване; за дъжд значи, че вали като из ведро.",
+  "explanationEn": "Flows strongly or rains very heavily.",
+  "exampleEn": "Every time we plan a picnic, it pours all afternoon.",
+  "mnemonicBg": "Pours звучи като „порой“ — дъждът се лее като порой.",
+  "ipa": "/ˈpɔːz/"
+ },
+ {
+  "id": 480,
+  "word": "woolly-footed",
+  "explanationBg": "С мъхнати, космати стъпала — затова стъпва меко и безшумно, сякаш ходи по пухкави чорапи.",
+  "explanationEn": "Having feet covered with soft thick hair, so the steps make no sound.",
+  "exampleEn": "In my fluffy slippers I was practically woolly-footed, sneaking downstairs for a midnight snack.",
+  "mnemonicBg": "Wool е вълна — стъпала с вградени вълнени терлици: woolly-footed.",
+  "ipa": "/ˌwʊli ˈfʊtɪd/"
+ },
+ {
+  "id": 481,
+  "word": "slow-coach",
+  "explanationBg": "Шеговита британска дума за муден човек — който вечно се бави и всички го чакат.",
+  "explanationEn": "A person who moves or works too slowly.",
+  "exampleEn": "Hurry up, slow-coach — the bus leaves in two minutes!",
+  "mnemonicBg": "Slow (бавна) + coach (каляска): каляска, теглена от охлюви — все нея чакаш.",
+  "ipa": "/ˈsləʊkəʊtʃ/"
+ },
+ {
+  "id": 482,
+  "word": "bob out (verb)",
+  "explanationBg": "Да изскочиш за миг с подскачащо движение — да се покажеш внезапно и пак да се скриеш.",
+  "explanationEn": "To pop out suddenly with a quick bouncing movement.",
+  "exampleEn": "A little fish kept bobbing out of the water next to our paddleboard.",
+  "mnemonicBg": "Представи си зрънце боб, което подскача и изскача от купата — bob out!",
+  "ipa": "/ˌbɒb ˈaʊt/"
+ },
+ {
+  "id": 483,
+  "word": "parlour",
+  "explanationBg": "Гостна — стаята, в която се посрещат гости; в стар хан това е уютният салон край огъня.",
+  "explanationEn": "A sitting room where guests are received.",
+  "exampleEn": "Grandma keeps her best armchairs in the parlour for special guests.",
+  "mnemonicBg": "Parlour е роднина на „парламент“ — и двете значат „стая за приказки“: гостната е домашният парламент.",
+  "ipa": "/ˈpɑːlə/"
+ },
+ {
+  "id": 484,
+  "word": "trotting",
+  "explanationBg": "Подтичване в тръс — равномерно, леко бягане, по-бързо от ходене, но далеч от спринт.",
+  "explanationEn": "Moving at a light, steady run, faster than walking.",
+  "exampleEn": "We warmed up by trotting twice around the track before PE.",
+  "mnemonicBg": "Подтичваш по ТРОТоара, за да хванеш автобуса — trotting.",
+  "ipa": "/ˈtrɒtɪŋ/"
+ },
+ {
+  "id": 485,
+  "word": "a twinkling",
+  "explanationBg": "Съвсем кратък миг — колкото да мигнеш или звезда да трепне.",
+  "explanationEn": "A very short moment; an instant.",
+  "exampleEn": "The pizza disappeared in a twinkling once the whole team got home.",
+  "mnemonicBg": "Сети се за „Twinkle, twinkle, little star“ — едно трепване на звездичката трае точно един миг.",
+  "ipa": "/ə ˈtwɪŋklɪŋ/"
+ },
+ {
+  "id": 486,
+  "word": "loaves",
+  "explanationBg": "Самуни хляб — цели изпечени хлябове, обикновено продълговати.",
+  "explanationEn": "Whole baked breads; more than one loaf.",
+  "exampleEn": "The bakery near school sells warm loaves straight from the oven at seven in the morning.",
+  "mnemonicBg": "Сутрешен ЛОВ на топли самуни — тръгваш на лов за loaves от фурната.",
+  "ipa": "/ˈləʊvz/"
+ },
+ {
+  "id": 487,
+  "word": "dispel",
+  "explanationBg": "Да разсееш съмнение, страх или погрешна представа — да ги накараш да изчезнат, както вятър разгонва мъгла.",
+  "explanationEn": "To make a doubt, fear, or wrong idea go away.",
+  "exampleEn": "Scoring in her first match dispelled all her doubts about joining the team.",
+  "mnemonicBg": "Dis + spell (магия): разваляш магията на страха и той се разпръсва.",
+  "ipa": "/dɪˈspel/"
+ },
+ {
+  "id": 488,
+  "word": "log-fire",
+  "explanationBg": "Огън от цели цепеници — какъвто гори в камина или на лагер, с пукащи дърва и много топлина.",
+  "explanationEn": "A fire made with big pieces of wood.",
+  "exampleEn": "We toasted marshmallows over the log-fire at the campsite.",
+  "mnemonicBg": "Вечер не се логваш в играта, а при камината — log значи и цепеница: log-fire.",
+  "ipa": "/ˈlɒɡfaɪə/"
+ },
+ {
+  "id": 489,
+  "word": "astonishment",
+  "explanationBg": "Огромно учудване — когато нещо те смае така, че оставаш с отворена уста.",
+  "explanationEn": "Very great surprise.",
+  "exampleEn": "To everyone's astonishment, the quietest kid in class won the rap battle.",
+  "mnemonicBg": "Вътре се крие stone (камък) — от изумление се вкаменяваш на място.",
+  "ipa": "/əˈstɒnɪʃmənt/"
+ },
+ {
+  "id": 490,
+  "word": "squint-eyed",
+  "explanationBg": "Кривоглед — с очи, които гледат в различни посоки или с присвит, кос поглед.",
+  "explanationEn": "Having eyes that look in different directions.",
+  "exampleEn": "The kitten was slightly squint-eyed, which made her look adorably confused.",
+  "mnemonicBg": "Представи си очи, които играят на жмичка едно с друго — всяко гледа в своя посока: squint-eyed.",
+  "ipa": "/ˌskwɪnt ˈaɪd/"
+ },
+ {
+  "id": 491,
+  "word": "ill-favoured",
+  "explanationBg": "Грозноват, неприятен на вид — външност, която природата не е поглезила с хубост.",
+  "explanationEn": "Not nice to look at; rather ugly.",
+  "exampleEn": "The game's villain is ill-favoured on purpose, so you distrust him at first sight.",
+  "mnemonicBg": "Ill (зле) + favour (услуга): външността не му е направила услуга.",
+  "ipa": "/ˌɪl ˈfeɪvəd/"
+ },
+ {
+  "id": 492,
+  "word": "lodgings",
+  "explanationBg": "Квартира — стая или стаи под наем в чужда къща, където отсядаш за известно време.",
+  "explanationEn": "A rented room or rooms where someone stays.",
+  "exampleEn": "My cousin found cheap lodgings near the university, with a kind old landlady.",
+  "mnemonicBg": "Квартирка с ЛОДЖИЯ (балконче) — lodgings: стаичка под наем с гледка.",
+  "ipa": "/ˈlɒdʒɪŋz/"
+ },
+ {
+  "id": 493,
+  "word": "chalk",
+  "explanationBg": "Тебешир — мек бял камък, с който се пише на дъска или се рисува по асфалта.",
+  "explanationEn": "A soft white stone used for writing on boards or pavements.",
+  "exampleEn": "We drew a hopscotch grid on the playground with pink chalk.",
+  "mnemonicBg": "„Чок-чок“ — тебеширът чука по дъската: chalk.",
+  "ipa": "/ˈtʃɔːk/"
+ },
+ {
+  "id": 494,
+  "word": "dumpling",
+  "explanationBg": "Кнедла — топче тесто, сварено в супа или на пара; шеговито така наричат и нисък, закръглен човек.",
+  "explanationEn": "A small ball of boiled dough; also a playful word for a short, round person.",
+  "exampleEn": "We ordered a basket of steamed dumplings at the new Asian place in the mall.",
+  "mnemonicBg": "ДЪМ-плинг! — топчето тесто цопва в супата с весело „плинг“.",
+  "ipa": "/ˈdʌmplɪŋ/"
+ },
+ {
+  "id": 495,
+  "word": "supple",
+  "explanationBg": "Гъвкав — огъва се и се движи леко и плавно, без да се схваща; като гимнастичка или мека кожа.",
+  "explanationEn": "Bending and moving easily; flexible.",
+  "exampleEn": "Years of gymnastics have made her amazingly supple.",
+  "mnemonicBg": "Като спагети в СУПа — омекват и се огъват накъдето искаш: supple.",
+  "ipa": "/ˈsʌpl/"
+ },
+ {
+  "id": 496,
+  "word": "shanks",
+  "explanationBg": "Пищялите — частта на крака между коляното и глезена; думата често звучи шеговито или старовремски.",
+  "explanationEn": "The lower parts of the legs, below the knees.",
+  "exampleEn": "After the hike through the bushes, my shanks were covered in scratches.",
+  "mnemonicBg": "Дългите пищяли на спринтьора подвикват: „Нямаш ШАНС да ни стигнеш!“ — shanks.",
+  "ipa": "/ˈʃæŋks/"
+ },
+ {
+  "id": 497,
+  "word": "flecked",
+  "explanationBg": "Изпъстрен със ситни петънца или пръски цвят — сякаш някой го е наръсил с боя.",
+  "explanationEn": "Covered with small spots or dots of colour.",
+  "exampleEn": "Her white trainers came back from art class flecked with blue paint.",
+  "mnemonicBg": "Чуй „леке“ вътре: ф-ЛЕКЕ-д — на ситни лекенца от боя.",
+  "ipa": "/ˈflekt/"
+ },
+ {
+  "id": 498,
+  "word": "stern",
+  "explanationBg": "Строг и суров — не се шегува и не отстъпва, особено когато налага правила.",
+  "explanationEn": "Very serious and strict.",
+  "exampleEn": "One stern look from the coach was enough to silence the whole bench.",
+  "mnemonicBg": "Гласът на строгия директор СТЪРЖЕ като шкурка — stern.",
+  "ipa": "/ˈstɜːn/"
+ },
+ {
+  "id": 499,
+  "word": "unaccountably",
+  "explanationBg": "Необяснимо — по начин, за който никой не може да каже защо или как се е случил.",
+  "explanationEn": "In a way that nobody can explain.",
+  "exampleEn": "My phone battery unaccountably dropped from eighty percent to five during the maths test.",
+  "mnemonicBg": "Account значи сметка — нещо, което не излиза по никоя сметка, е необяснимо: unaccountably.",
+  "ipa": "/ˌʌnəˈkaʊntəbli/"
+ },
+ {
+  "id": 500,
+  "word": "venture (verb)",
+  "explanationBg": "Да се осмелиш на нещо рисковано — да тръгнеш смело към непознатото, въпреки че може да е опасно.",
+  "explanationEn": "To dare to do something risky or go somewhere dangerous.",
+  "exampleEn": "Nobody ventured into the dark basement until Mia grabbed a flashlight and led the way.",
+  "mnemonicBg": "Чуй „аВАНТЮра“ във venture — хвърляш се смело в приключение.",
+  "ipa": "/ˈventʃə/"
+ }
+]

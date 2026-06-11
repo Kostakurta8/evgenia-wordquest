@@ -1,0 +1,688 @@
+[
+ {
+  "id": 301,
+  "page": 98,
+  "word": "gangway",
+  "definition": "A movable bridge or board for boarding or leaving a ship.",
+  "synonyms": [
+   "plank",
+   "walkway"
+  ],
+  "antonyms": null,
+  "translation": "мостче за качване на кораб"
+ },
+ {
+  "id": 302,
+  "page": 98,
+  "word": "virtually",
+  "definition": "Almost or nearly as described, but not completely; in essence.",
+  "synonyms": [
+   "nearly",
+   "almost",
+   "practically"
+  ],
+  "antonyms": [
+   "actually",
+   "literally"
+  ],
+  "translation": "практически, почти"
+ },
+ {
+  "id": 303,
+  "page": 99,
+  "word": "strip",
+  "definition": "A long, narrow piece of cloth, paper, or other material.",
+  "synonyms": [
+   "band",
+   "ribbon",
+   "slip"
+  ],
+  "antonyms": null,
+  "translation": "лента, ивица"
+ },
+ {
+  "id": 304,
+  "page": 99,
+  "word": "clustering",
+  "definition": "Gathering or forming into a group or cluster.",
+  "synonyms": [
+   "grouping",
+   "gathering",
+   "bunching"
+  ],
+  "antonyms": [
+   "scattering",
+   "dispersing"
+  ],
+  "translation": "струпване, групиране"
+ },
+ {
+  "id": 305,
+  "page": 101,
+  "word": "copper",
+  "definition": "A large boiler or cauldron, formerly made of copper, used for laundry.",
+  "synonyms": [
+   "cauldron",
+   "boiler"
+  ],
+  "antonyms": null,
+  "translation": "голям меден котел за пране"
+ },
+ {
+  "id": 306,
+  "page": 101,
+  "word": "wallowing",
+  "definition": "(Of a person or animal) rolling about or lying relaxed in mud or water.",
+  "synonyms": [
+   "rolling",
+   "splashing",
+   "lolling"
+  ],
+  "antonyms": null,
+  "translation": "търкаляне (в кал/вода)"
+ },
+ {
+  "id": 307,
+  "page": 102,
+  "word": "Lawks",
+  "definition": "(Dated exclamation) expressing surprise; \"Lord\"; \"good heavens\".",
+  "synonyms": [
+   "goodness",
+   "heavens",
+   "gracious"
+  ],
+  "antonyms": null,
+  "translation": "Боже мой!, олеле!"
+ },
+ {
+  "id": 308,
+  "page": 103,
+  "word": "shrewd",
+  "definition": "Having or showing sharp powers of judgement; astute.",
+  "synonyms": [
+   "astute",
+   "clever",
+   "sharp"
+  ],
+  "antonyms": [
+   "naive",
+   "foolish"
+  ],
+  "translation": "проницателен, хитър"
+ },
+ {
+  "id": 309,
+  "page": 104,
+  "word": "wretched",
+  "definition": "In a very unhappy or unfortunate state; of poor quality.",
+  "synonyms": [
+   "miserable",
+   "unhappy",
+   "pitiful"
+  ],
+  "antonyms": [
+   "happy",
+   "fortunate"
+  ],
+  "translation": "нещастен, окаян"
+ },
+ {
+  "id": 310,
+  "page": 104,
+  "word": "hinder (verb)",
+  "definition": "To create difficulties for someone or something, slowing or preventing progress.",
+  "synonyms": [
+   "impede",
+   "obstruct",
+   "hamper"
+  ],
+  "antonyms": [
+   "help",
+   "facilitate"
+  ],
+  "translation": "преча, спъвам"
+ },
+ {
+  "id": 311,
+  "page": 105,
+  "word": "parole",
+  "definition": "Word of honour given as a promise; release of a prisoner on such word.",
+  "synonyms": [
+   "word of honour",
+   "pledge"
+  ],
+  "antonyms": null,
+  "translation": "честна дума, отпускане под честна дума"
+ },
+ {
+  "id": 312,
+  "page": 105,
+  "word": "scrupulous",
+  "definition": "Very careful about acting in a moral way; meticulous.",
+  "synonyms": [
+   "meticulous",
+   "careful",
+   "conscientious"
+  ],
+  "antonyms": [
+   "careless",
+   "unscrupulous"
+  ],
+  "translation": "съвестен, скрупульозен"
+ },
+ {
+  "id": 313,
+  "page": 106,
+  "word": "deceitful scoundrels",
+  "definition": "Dishonest, untrustworthy villains; treacherous rascals.",
+  "synonyms": [
+   "lying villains",
+   "treacherous rogues"
+  ],
+  "antonyms": "honest men",
+  "translation": "лъжливи негодници, измамници"
+ },
+ {
+  "id": 314,
+  "page": 107,
+  "word": "stores and tackle",
+  "definition": "Supplies and equipment, especially provisions and gear.",
+  "synonyms": [
+   "supplies and gear",
+   "provisions"
+  ],
+  "antonyms": null,
+  "translation": "припаси и снаряжение"
+ },
+ {
+  "id": 315,
+  "page": 107,
+  "word": "perishable",
+  "definition": "(Of food) liable to decay or spoil quickly.",
+  "synonyms": [
+   "spoilable",
+   "decayable"
+  ],
+  "antonyms": [
+   "durable",
+   "non-perishable"
+  ],
+  "translation": "нетраен, развалящ се (за храна)"
+ },
+ {
+  "id": 316,
+  "page": 109,
+  "word": "heath",
+  "definition": "An open uncultivated area of land with poor soil, often covered with heather.",
+  "synonyms": [
+   "moor",
+   "moorland",
+   "wasteland"
+  ],
+  "antonyms": null,
+  "translation": "пустош, поляна с пирен"
+ },
+ {
+  "id": 317,
+  "page": 110,
+  "word": "sluggard",
+  "definition": "A lazy and idle person.",
+  "synonyms": [
+   "idler",
+   "loafer",
+   "layabout"
+  ],
+  "antonyms": [
+   "workaholic",
+   "go-getter"
+  ],
+  "translation": "мързеливец, ленивец"
+ },
+ {
+  "id": 318,
+  "page": 110,
+  "word": "laden",
+  "definition": "Heavily loaded or weighed down.",
+  "synonyms": [
+   "loaded",
+   "burdened",
+   "weighted"
+  ],
+  "antonyms": [
+   "empty",
+   "unburdened"
+  ],
+  "translation": "натоварен, обременен"
+ },
+ {
+  "id": 319,
+  "page": 110,
+  "word": "spinney",
+  "definition": "A small area of trees and bushes; a thicket.",
+  "synonyms": [
+   "copse",
+   "grove",
+   "thicket"
+  ],
+  "antonyms": null,
+  "translation": "горичка, шумак"
+ },
+ {
+  "id": 320,
+  "page": 110,
+  "word": "twig",
+  "definition": "A slender woody shoot growing from a branch or stem.",
+  "synonyms": [
+   "sprig",
+   "shoot",
+   "stick"
+  ],
+  "antonyms": null,
+  "translation": "клонче, вейка"
+ },
+ {
+  "id": 321,
+  "page": 110,
+  "word": "dew",
+  "definition": "Tiny drops of water that form on cool surfaces at night when atmospheric vapour condenses.",
+  "synonyms": [
+   "moisture",
+   "droplets"
+  ],
+  "antonyms": null,
+  "translation": "роса"
+ },
+ {
+  "id": 322,
+  "page": 110,
+  "word": "fowls",
+  "definition": "Domestic birds kept for their eggs or meat, especially chickens.",
+  "synonyms": [
+   "poultry",
+   "birds",
+   "chickens"
+  ],
+  "antonyms": null,
+  "translation": "домашни птици, кокошки"
+ },
+ {
+  "id": 323,
+  "page": 111,
+  "word": "bogey-stories",
+  "definition": "Frightening tales meant to scare children; ghost stories.",
+  "synonyms": [
+   "ghost stories",
+   "scary tales"
+  ],
+  "antonyms": null,
+  "translation": "страшни приказки за плашене"
+ },
+ {
+  "id": 324,
+  "page": 112,
+  "word": "plod along (verb)",
+  "definition": "To walk doggedly and slowly with heavy steps.",
+  "synonyms": [
+   "trudge",
+   "trek",
+   "slog"
+  ],
+  "antonyms": [
+   "sprint",
+   "dash"
+  ],
+  "translation": "влача се, газя бавно"
+ },
+ {
+  "id": 325,
+  "page": 112,
+  "word": "writhing",
+  "definition": "Making twisting or turning motions, often of the body in pain.",
+  "synonyms": [
+   "squirming",
+   "twisting",
+   "contorting"
+  ],
+  "antonyms": "still",
+  "translation": "гърчене, виене"
+ },
+ {
+  "id": 326,
+  "page": 112,
+  "word": "enmity",
+  "definition": "The state or feeling of being actively opposed or hostile to someone.",
+  "synonyms": [
+   "hostility",
+   "animosity",
+   "hatred"
+  ],
+  "antonyms": [
+   "friendship",
+   "amity"
+  ],
+  "translation": "вражда, неприязън"
+ },
+ {
+  "id": 327,
+  "page": 113,
+  "word": "unhindered",
+  "definition": "Not obstructed; without interference.",
+  "synonyms": [
+   "unimpeded",
+   "unobstructed",
+   "free"
+  ],
+  "antonyms": [
+   "hindered",
+   "obstructed"
+  ],
+  "translation": "безпрепятствен, незатруднен"
+ },
+ {
+  "id": 328,
+  "page": 114,
+  "word": "wearisome",
+  "definition": "Causing one to feel tired or bored.",
+  "synonyms": [
+   "tiring",
+   "tedious",
+   "boring"
+  ],
+  "antonyms": [
+   "refreshing",
+   "exciting"
+  ],
+  "translation": "уморителен, досаден"
+ },
+ {
+  "id": 329,
+  "page": 115,
+  "word": "vailed",
+  "definition": "(Archaic) lowered, especially out of respect; veiled, covered.",
+  "synonyms": [
+   "lowered",
+   "veiled"
+  ],
+  "antonyms": [
+   "raised",
+   "uncovered"
+  ],
+  "translation": "свален (от уважение), забулен"
+ },
+ {
+  "id": 330,
+  "page": 115,
+  "word": "bending steadily",
+  "definition": "Curving or turning gradually and continuously in one direction.",
+  "synonyms": "curving consistently",
+  "antonyms": "abrupt turn",
+  "translation": "извивайки постепенно"
+ },
+ {
+  "id": 331,
+  "page": 115,
+  "word": "veer (verb)",
+  "definition": "To change direction suddenly.",
+  "synonyms": [
+   "swerve",
+   "swing",
+   "turn"
+  ],
+  "antonyms": "continue straight",
+  "translation": "свивам рязко, отклонявам се"
+ },
+ {
+  "id": 332,
+  "page": 115,
+  "word": "moats",
+  "definition": "Deep, wide ditches surrounding castles or towns, typically filled with water.",
+  "synonyms": [
+   "trenches",
+   "ditches"
+  ],
+  "antonyms": null,
+  "translation": "крепостни ровове, окопи с вода"
+ },
+ {
+  "id": 333,
+  "page": 115,
+  "word": "misleading",
+  "definition": "Giving the wrong idea or impression.",
+  "synonyms": [
+   "deceptive",
+   "confusing",
+   "ambiguous"
+  ],
+  "antonyms": [
+   "clear",
+   "accurate"
+  ],
+  "translation": "подвеждащ, заблуждаващ"
+ },
+ {
+  "id": 334,
+  "page": 116,
+  "word": "clamber out (verb)",
+  "definition": "To climb out of something with difficulty, using hands and feet.",
+  "synonyms": [
+   "scramble out",
+   "climb out"
+  ],
+  "antonyms": null,
+  "translation": "катеря се, измъквам се с усилие"
+ },
+ {
+  "id": 335,
+  "page": 116,
+  "word": "scramble (verb)",
+  "definition": "To make one’s way quickly or awkwardly, typically using hands as well as feet.",
+  "synonyms": [
+   "clamber",
+   "scrabble",
+   "climb"
+  ],
+  "antonyms": null,
+  "translation": "катеря се, пълзя"
+ },
+ {
+  "id": 336,
+  "page": 116,
+  "word": "boggy",
+  "definition": "(Of ground) soft and wet from being soaked with water.",
+  "synonyms": [
+   "marshy",
+   "swampy",
+   "soggy"
+  ],
+  "antonyms": [
+   "dry",
+   "firm"
+  ],
+  "translation": "мочурлив, блатист"
+ },
+ {
+  "id": 337,
+  "page": 116,
+  "word": "gully",
+  "definition": "A water-worn ravine or channel.",
+  "synonyms": [
+   "ravine",
+   "channel",
+   "gorge"
+  ],
+  "antonyms": null,
+  "translation": "дере, ров"
+ },
+ {
+  "id": 338,
+  "page": 116,
+  "word": "a cleft",
+  "definition": "A split or indentation between two parts; a fissure or crack.",
+  "synonyms": [
+   "crack",
+   "split",
+   "fissure"
+  ],
+  "antonyms": null,
+  "translation": "цепнатина, разцеп"
+ },
+ {
+  "id": 339,
+  "page": 116,
+  "word": "drowsy",
+  "definition": "Sleepy and lethargic; half asleep.",
+  "synonyms": [
+   "sleepy",
+   "sluggish",
+   "dozy"
+  ],
+  "antonyms": [
+   "alert",
+   "awake"
+  ],
+  "translation": "сънлив, дрезгав"
+ },
+ {
+  "id": 340,
+  "page": 116,
+  "word": "willow-boughs",
+  "definition": "The branches of a willow tree.",
+  "synonyms": "willow branches",
+  "antonyms": null,
+  "translation": "върбови клони"
+ },
+ {
+  "id": 341,
+  "page": 116,
+  "word": "notion",
+  "definition": "A conception of or belief about something; an impulse or desire.",
+  "synonyms": [
+   "idea",
+   "concept",
+   "thought"
+  ],
+  "antonyms": null,
+  "translation": "идея, представа, хрумване"
+ },
+ {
+  "id": 342,
+  "page": 116,
+  "word": "cliff-foot",
+  "definition": "The base or bottom of a cliff.",
+  "synonyms": [
+   "cliff base",
+   "foot of cliff"
+  ],
+  "antonyms": "clifftop",
+  "translation": "подножие на скала"
+ },
+ {
+  "id": 343,
+  "page": 117,
+  "word": "bogs",
+  "definition": "Areas of soft, wet, muddy ground; marshes.",
+  "synonyms": [
+   "marshes",
+   "swamps",
+   "mires"
+  ],
+  "antonyms": "drylands",
+  "translation": "блата, тресавища"
+ },
+ {
+  "id": 344,
+  "page": 117,
+  "word": "rills",
+  "definition": "Small streams; tiny brooks.",
+  "synonyms": [
+   "brooks",
+   "streams",
+   "runnels"
+  ],
+  "antonyms": null,
+  "translation": "поточета, ручеи"
+ },
+ {
+  "id": 345,
+  "page": 117,
+  "word": "brushwood",
+  "definition": "Undergrowth, twigs, and small branches.",
+  "synonyms": [
+   "undergrowth",
+   "scrub",
+   "kindling"
+  ],
+  "antonyms": null,
+  "translation": "храсталак, съчки"
+ },
+ {
+  "id": 346,
+  "page": 117,
+  "word": "hoary",
+  "definition": "Greyish white; very old, having existed for a long time.",
+  "synonyms": [
+   "ancient",
+   "grey",
+   "venerable"
+  ],
+  "antonyms": [
+   "young",
+   "new"
+  ],
+  "translation": "белокос, древен, посивял"
+ },
+ {
+  "id": 347,
+  "page": 117,
+  "word": "sprawling",
+  "definition": "Spreading out over a large area in an untidy or irregular way.",
+  "synonyms": [
+   "spreading",
+   "straggling",
+   "expansive"
+  ],
+  "antonyms": [
+   "compact",
+   "tidy"
+  ],
+  "translation": "разпрострян, разклонен"
+ },
+ {
+  "id": 348,
+  "page": 117,
+  "word": "fissures",
+  "definition": "Long narrow openings or line of breakage made by cracking or splitting.",
+  "synonyms": [
+   "cracks",
+   "splits",
+   "crevices"
+  ],
+  "antonyms": null,
+  "translation": "пукнатини, цепнатини"
+ },
+ {
+  "id": 349,
+  "page": 117,
+  "word": "boughs",
+  "definition": "Main branches of a tree.",
+  "synonyms": [
+   "branches",
+   "limbs"
+  ],
+  "antonyms": "twigs",
+  "translation": "клони (големи)"
+ },
+ {
+  "id": 350,
+  "page": 118,
+  "word": "stammer (verb)",
+  "definition": "To speak with sudden involuntary pauses and tendency to repeat sounds.",
+  "synonyms": [
+   "stutter",
+   "falter",
+   "hesitate"
+  ],
+  "antonyms": "speak fluently",
+  "translation": "заеквам, пелтеча"
+ }
+]

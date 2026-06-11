@@ -1,0 +1,676 @@
+[
+ {
+  "id": 901,
+  "page": 286,
+  "word": "ruinous",
+  "definition": "Disastrous or destructive; in ruins.",
+  "synonyms": [
+   "devastating",
+   "catastrophic",
+   "destructive"
+  ],
+  "antonyms": [
+   "beneficial",
+   "constructive"
+  ],
+  "translation": "пагубен, разорителен"
+ },
+ {
+  "id": 902,
+  "page": 286,
+  "word": "deepens",
+  "definition": "Becomes more intense or profound; becomes deeper.",
+  "synonyms": [
+   "intensifies",
+   "increases",
+   "grows"
+  ],
+  "antonyms": [
+   "lessens",
+   "shallows"
+  ],
+  "translation": "задълбочава се, засилва се"
+ },
+ {
+  "id": 903,
+  "page": 287,
+  "word": "waylaid",
+  "definition": "Intercepted on the way, especially in order to attack or rob.",
+  "synonyms": [
+   "ambushed",
+   "intercepted",
+   "accosted"
+  ],
+  "antonyms": null,
+  "translation": "причакан, нападнат от засада"
+ },
+ {
+  "id": 904,
+  "page": 288,
+  "word": "mournfully",
+  "definition": "In a sorrowful or sad manner.",
+  "synonyms": [
+   "sorrowfully",
+   "sadly",
+   "dolefully"
+  ],
+  "antonyms": "joyfully",
+  "translation": "скръбно, тъжно"
+ },
+ {
+  "id": 905,
+  "page": 288,
+  "word": "swirling",
+  "definition": "Moving in a twisting or spiralling pattern.",
+  "synonyms": [
+   "whirling",
+   "eddying",
+   "spinning"
+  ],
+  "antonyms": "still",
+  "translation": "вихрено движещ се"
+ },
+ {
+  "id": 906,
+  "page": 288,
+  "word": "bent",
+  "definition": "Curved or having an angle; determined.",
+  "synonyms": [
+   "curved",
+   "crooked; determined"
+  ],
+  "antonyms": "straight; undecided",
+  "translation": "извит, наклонен; решен"
+ },
+ {
+  "id": 907,
+  "page": 288,
+  "word": "contrivance",
+  "definition": "A clever device or trick; the action of contriving.",
+  "synonyms": [
+   "device",
+   "gadget",
+   "scheme"
+  ],
+  "antonyms": null,
+  "translation": "изобретение, хитрост"
+ },
+ {
+  "id": 908,
+  "page": 289,
+  "word": "furlong",
+  "definition": "A unit of distance equal to one-eighth of a mile (about 201 metres).",
+  "synonyms": "distance unit",
+  "antonyms": null,
+  "translation": "фърлонг (мярка за дължина)"
+ },
+ {
+  "id": 909,
+  "page": 289,
+  "word": "blizzard",
+  "definition": "A severe snowstorm with high winds and low visibility.",
+  "synonyms": [
+   "snowstorm",
+   "snowfall",
+   "tempest"
+  ],
+  "antonyms": null,
+  "translation": "виелица, снежна буря"
+ },
+ {
+  "id": 910,
+  "page": 289,
+  "word": "trudged",
+  "definition": "Walked slowly and with heavy steps, typically due to weariness.",
+  "synonyms": [
+   "plodded",
+   "slogged",
+   "tramped"
+  ],
+  "antonyms": "sprinted",
+  "translation": "тътреше се, влачеше се"
+ },
+ {
+  "id": 911,
+  "page": 289,
+  "word": "eerie",
+  "definition": "Strange and frightening in an unfamiliar or supernatural way.",
+  "synonyms": [
+   "uncanny",
+   "weird",
+   "ghostly"
+  ],
+  "antonyms": [
+   "ordinary",
+   "comforting"
+  ],
+  "translation": "свръхестествен, зловещ"
+ },
+ {
+  "id": 912,
+  "page": 289,
+  "word": "rumble",
+  "definition": "A continuous deep, resonant sound.",
+  "synonyms": [
+   "rumbling",
+   "growl",
+   "roar"
+  ],
+  "antonyms": "silence",
+  "translation": "тътен, бучене"
+ },
+ {
+  "id": 913,
+  "page": 289,
+  "word": "gullies",
+  "definition": "Water-worn ravines or channels.",
+  "synonyms": [
+   "ravines",
+   "channels",
+   "ditches"
+  ],
+  "antonyms": null,
+  "translation": "дерета, ровове"
+ },
+ {
+  "id": 914,
+  "page": 290,
+  "word": "eddying",
+  "definition": "Moving in a circular current; swirling.",
+  "synonyms": [
+   "swirling",
+   "whirling",
+   "churning"
+  ],
+  "antonyms": "still",
+  "translation": "въртящ се, вихрен"
+ },
+ {
+  "id": 915,
+  "page": 290,
+  "word": "denser",
+  "definition": "More closely packed; thicker.",
+  "synonyms": [
+   "thicker",
+   "more compact"
+  ],
+  "antonyms": [
+   "thinner",
+   "sparser"
+  ],
+  "translation": "по-гъст"
+ },
+ {
+  "id": 916,
+  "page": 290,
+  "word": "dejectedly",
+  "definition": "In a sad or downcast manner.",
+  "synonyms": [
+   "sadly",
+   "gloomily",
+   "downheartedly"
+  ],
+  "antonyms": "cheerfully",
+  "translation": "унило, потиснато"
+ },
+ {
+  "id": 917,
+  "page": 290,
+  "word": "hazy",
+  "definition": "Covered by a haze; unclear or vague.",
+  "synonyms": [
+   "misty",
+   "foggy",
+   "vague"
+  ],
+  "antonyms": [
+   "clear",
+   "sharp"
+  ],
+  "translation": "мъглив, неясен"
+ },
+ {
+  "id": 918,
+  "page": 290,
+  "word": "halflings",
+  "definition": "Beings half the size of humans; the elven name for hobbits (Tolkien).",
+  "synonyms": [
+   "hobbits",
+   "little folk"
+  ],
+  "antonyms": null,
+  "translation": "полуръст (хобити)"
+ },
+ {
+  "id": 919,
+  "page": 290,
+  "word": "drowsiness",
+  "definition": "The state of being sleepy or half asleep.",
+  "synonyms": [
+   "sleepiness",
+   "lethargy",
+   "lassitude"
+  ],
+  "antonyms": "alertness",
+  "translation": "сънливост"
+ },
+ {
+  "id": 920,
+  "page": 290,
+  "word": "relent (verb)",
+  "definition": "To abandon or mitigate a severe or harsh attitude.",
+  "synonyms": [
+   "soften",
+   "yield",
+   "ease"
+  ],
+  "antonyms": [
+   "persist",
+   "harden"
+  ],
+  "translation": "отстъпвам, омеквам"
+ },
+ {
+  "id": 921,
+  "page": 290,
+  "word": "faggot",
+  "definition": "A bundle of sticks or twigs bound together as fuel.",
+  "synonyms": [
+   "bundle",
+   "kindling"
+  ],
+  "antonyms": null,
+  "translation": "сноп съчки"
+ },
+ {
+  "id": 922,
+  "page": 290,
+  "word": "sputtered",
+  "definition": "Made a series of soft, explosive sounds, like a fire dying.",
+  "synonyms": [
+   "spluttered",
+   "crackled",
+   "hissed"
+  ],
+  "antonyms": null,
+  "translation": "пращя, изпуска искри"
+ },
+ {
+  "id": 923,
+  "page": 291,
+  "word": "rejoiced",
+  "definition": "Felt or showed great joy.",
+  "synonyms": [
+   "celebrated",
+   "exulted",
+   "delighted"
+  ],
+  "antonyms": "mourned",
+  "translation": "възрадва се"
+ },
+ {
+  "id": 924,
+  "page": 291,
+  "word": "slackening",
+  "definition": "Becoming or making less tight or active.",
+  "synonyms": [
+   "loosening",
+   "easing",
+   "lessening"
+  ],
+  "antonyms": [
+   "tightening",
+   "intensifying"
+  ],
+  "translation": "отслабване, разхлабване"
+ },
+ {
+  "id": 925,
+  "page": 291,
+  "word": "creep (verb)",
+  "definition": "To move slowly and carefully, especially to avoid notice.",
+  "synonyms": [
+   "crawl",
+   "sneak",
+   "tiptoe"
+  ],
+  "antonyms": [
+   "march",
+   "stride"
+  ],
+  "translation": "промъквам се, пълзя"
+ },
+ {
+  "id": 926,
+  "page": 292,
+  "word": "snow-clad",
+  "definition": "Covered with snow.",
+  "synonyms": [
+   "snow-covered",
+   "snowy"
+  ],
+  "antonyms": "snow-free",
+  "translation": "покрит със сняг"
+ },
+ {
+  "id": 927,
+  "page": 292,
+  "word": "plough",
+  "definition": "A large farming implement used for cutting and turning over the soil.",
+  "synonyms": [
+   "plow",
+   "tiller"
+  ],
+  "antonyms": null,
+  "translation": "плуг, рало"
+ },
+ {
+  "id": 928,
+  "page": 292,
+  "word": "ploughman",
+  "definition": "A man who guides a plough, especially one drawn by horses or oxen.",
+  "synonyms": [
+   "plowman",
+   "farmer"
+  ],
+  "antonyms": null,
+  "translation": "орач"
+ },
+ {
+  "id": 929,
+  "page": 292,
+  "word": "wreath",
+  "definition": "An arrangement of flowers, leaves, or stems fastened in a ring.",
+  "synonyms": [
+   "garland",
+   "crown",
+   "circlet"
+  ],
+  "antonyms": null,
+  "translation": "венец"
+ },
+ {
+  "id": 930,
+  "page": 293,
+  "word": "spades",
+  "definition": "Tools with sharp-edged flat metal blades and long handles, used for digging.",
+  "synonyms": [
+   "shovels",
+   "diggers"
+  ],
+  "antonyms": null,
+  "translation": "лопати"
+ },
+ {
+  "id": 931,
+  "page": 293,
+  "word": "perched",
+  "definition": "Sitting on a high or narrow surface; balanced.",
+  "synonyms": [
+   "roosted",
+   "balanced",
+   "sat"
+  ],
+  "antonyms": null,
+  "translation": "кацнал, седнал нависоко"
+ },
+ {
+  "id": 932,
+  "page": 293,
+  "word": "tumble",
+  "definition": "To fall suddenly, clumsily, or headlong.",
+  "synonyms": [
+   "fall",
+   "topple",
+   "roll"
+  ],
+  "antonyms": [
+   "rise",
+   "climb"
+  ],
+  "translation": "падане, търкаляне"
+ },
+ {
+  "id": 933,
+  "page": 295,
+  "word": "gloom",
+  "definition": "Partial or total darkness; a state of depression.",
+  "synonyms": [
+   "darkness",
+   "dimness",
+   "melancholy"
+  ],
+  "antonyms": [
+   "light",
+   "joy"
+  ],
+  "translation": "мрак, печал"
+ },
+ {
+  "id": 934,
+  "page": 296,
+  "word": "vague",
+  "definition": "Of uncertain, indefinite, or unclear character or meaning.",
+  "synonyms": [
+   "unclear",
+   "indistinct",
+   "hazy"
+  ],
+  "antonyms": [
+   "clear",
+   "precise"
+  ],
+  "translation": "неясен, мъглив"
+ },
+ {
+  "id": 935,
+  "page": 296,
+  "word": "smouldering",
+  "definition": "Burning slowly with smoke but no flame; suppressed strong emotion.",
+  "synonyms": [
+   "smoking",
+   "simmering",
+   "glowing"
+  ],
+  "antonyms": "extinguished",
+  "translation": "тлеещ"
+ },
+ {
+  "id": 936,
+  "page": 296,
+  "word": "darkly",
+  "definition": "In a sinister, mysterious, or sad manner.",
+  "synonyms": [
+   "sinisterly",
+   "gloomily",
+   "ominously"
+  ],
+  "antonyms": "brightly",
+  "translation": "мрачно, зловещо"
+ },
+ {
+  "id": 937,
+  "page": 296,
+  "word": "omen",
+  "definition": "An event regarded as a portent of good or evil.",
+  "synonyms": [
+   "portent",
+   "sign",
+   "foreboding"
+  ],
+  "antonyms": null,
+  "translation": "поличба, знак"
+ },
+ {
+  "id": 938,
+  "page": 296,
+  "word": "harbourless",
+  "definition": "Without a harbour; offering no shelter.",
+  "synonyms": [
+   "shelterless",
+   "exposed"
+  ],
+  "antonyms": "sheltered",
+  "translation": "без пристан, без подслон"
+ },
+ {
+  "id": 939,
+  "page": 296,
+  "word": "stray",
+  "definition": "(Of an animal or person) wandering away from a group or place; lost.",
+  "synonyms": [
+   "wandering",
+   "lost",
+   "errant"
+  ],
+  "antonyms": [
+   "tethered",
+   "on course"
+  ],
+  "translation": "заблудил се, скитащ"
+ },
+ {
+  "id": 940,
+  "page": 297,
+  "word": "stronghold",
+  "definition": "A place that has been fortified to protect against attack.",
+  "synonyms": [
+   "fortress",
+   "citadel",
+   "bastion"
+  ],
+  "antonyms": null,
+  "translation": "крепост, твърдина"
+ },
+ {
+  "id": 941,
+  "page": 297,
+  "word": "eagerly",
+  "definition": "With keen interest or enthusiasm.",
+  "synonyms": [
+   "keenly",
+   "enthusiastically",
+   "avidly"
+  ],
+  "antonyms": "reluctantly",
+  "translation": "нетърпеливо, жадно"
+ },
+ {
+  "id": 942,
+  "page": 298,
+  "word": "wailing",
+  "definition": "A prolonged high-pitched cry of pain, grief, or anger.",
+  "synonyms": [
+   "lamenting",
+   "howling",
+   "crying"
+  ],
+  "antonyms": "rejoicing",
+  "translation": "вопъл, ридание"
+ },
+ {
+  "id": 943,
+  "page": 298,
+  "word": "grimly",
+  "definition": "In a manner that suggests harshness, sternness, or unpleasantness.",
+  "synonyms": [
+   "sternly",
+   "harshly",
+   "sombrely"
+  ],
+  "antonyms": "cheerfully",
+  "translation": "мрачно, навъсено"
+ },
+ {
+  "id": 944,
+  "page": 298,
+  "word": "sheath",
+  "definition": "A close-fitting cover for the blade of a knife or sword.",
+  "synonyms": [
+   "scabbard",
+   "holster",
+   "case"
+  ],
+  "antonyms": null,
+  "translation": "ножница"
+ },
+ {
+  "id": 945,
+  "page": 298,
+  "word": "warg",
+  "definition": "A great evil wolf, often ridden by orcs (Tolkien).",
+  "synonyms": "monstrous wolf",
+  "antonyms": null,
+  "translation": "варг (зъл вълк)"
+ },
+ {
+  "id": 946,
+  "page": 298,
+  "word": "prowls",
+  "definition": "Moves stealthily in pursuit of prey.",
+  "synonyms": [
+   "stalks",
+   "slinks",
+   "lurks"
+  ],
+  "antonyms": null,
+  "translation": "дебне, броди тайно"
+ },
+ {
+  "id": 947,
+  "page": 298,
+  "word": "knot",
+  "definition": "A fastening made by tying together pieces of string or rope; a cluster of people.",
+  "synonyms": [
+   "loop",
+   "hitch",
+   "tangle; group"
+  ],
+  "antonyms": null,
+  "translation": "възел; група"
+ },
+ {
+  "id": 948,
+  "page": 298,
+  "word": "boulder-stones",
+  "definition": "Large smoothed rocks; massive stones.",
+  "synonyms": [
+   "boulders",
+   "rocks"
+  ],
+  "antonyms": null,
+  "translation": "едри камъни, скали"
+ },
+ {
+  "id": 949,
+  "page": 298,
+  "word": "aloft",
+  "definition": "Up in or into the air; overhead.",
+  "synonyms": [
+   "overhead",
+   "above",
+   "up high"
+  ],
+  "antonyms": [
+   "below",
+   "down"
+  ],
+  "translation": "нависоко, нагоре"
+ },
+ {
+  "id": 950,
+  "page": 298,
+  "word": "shrivel",
+  "definition": "To wrinkle and contract, especially through loss of moisture.",
+  "synonyms": [
+   "wither",
+   "shrink",
+   "wilt"
+  ],
+  "antonyms": [
+   "expand",
+   "flourish"
+  ],
+  "translation": "свивам се, съсухрям се"
+ }
+]

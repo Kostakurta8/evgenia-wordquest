@@ -1,0 +1,707 @@
+[
+ {
+  "id": 101,
+  "page": 29,
+  "word": "engrossing",
+  "definition": "Absorbing all one’s attention or interest; fascinating.",
+  "synonyms": [
+   "absorbing",
+   "captivating",
+   "fascinating"
+  ],
+  "antonyms": [
+   "boring",
+   "tedious"
+  ],
+  "translation": "завладяващ, увлекателен"
+ },
+ {
+  "id": 102,
+  "page": 29,
+  "word": "nibbling",
+  "definition": "Taking small, gentle bites of food.",
+  "synonyms": [
+   "munching",
+   "gnawing",
+   "snacking"
+  ],
+  "antonyms": [
+   "gulping",
+   "gorging"
+  ],
+  "translation": "хапване на малки залъци, гризкане"
+ },
+ {
+  "id": 103,
+  "page": 29,
+  "word": "dainties",
+  "definition": "Delicious or choice small items of food; delicacies.",
+  "synonyms": [
+   "delicacies",
+   "treats",
+   "morsels"
+  ],
+  "antonyms": null,
+  "translation": "лакомства, деликатеси"
+ },
+ {
+  "id": 104,
+  "page": 29,
+  "word": "impromptu",
+  "definition": "Done without being planned or rehearsed; on the spur of the moment.",
+  "synonyms": [
+   "spontaneous",
+   "unrehearsed",
+   "improvised"
+  ],
+  "antonyms": [
+   "planned",
+   "rehearsed"
+  ],
+  "translation": "импровизиран, неподготвен"
+ },
+ {
+  "id": 105,
+  "page": 30,
+  "word": "vigorous",
+  "definition": "Strong, healthy, and full of energy.",
+  "synonyms": [
+   "energetic",
+   "robust",
+   "lively"
+  ],
+  "antonyms": [
+   "feeble",
+   "weak"
+  ],
+  "translation": "енергичен, силен"
+ },
+ {
+  "id": 106,
+  "page": 30,
+  "word": "obstinate",
+  "definition": "Stubbornly refusing to change one’s opinion or course of action.",
+  "synonyms": [
+   "stubborn",
+   "headstrong",
+   "unyielding"
+  ],
+  "antonyms": [
+   "flexible",
+   "compliant"
+  ],
+  "translation": "упорит, инат"
+ },
+ {
+  "id": 107,
+  "page": 30,
+  "word": "imminent",
+  "definition": "About to happen; impending.",
+  "synonyms": [
+   "impending",
+   "looming",
+   "approaching"
+  ],
+  "antonyms": [
+   "distant",
+   "remote"
+  ],
+  "translation": "предстоящ, надвиснал"
+ },
+ {
+  "id": 108,
+  "page": 31,
+  "word": "flabbergasted",
+  "definition": "Greatly surprised or astonished.",
+  "synonyms": [
+   "astonished",
+   "amazed",
+   "dumbfounded"
+  ],
+  "antonyms": [
+   "unimpressed",
+   "unmoved"
+  ],
+  "translation": "смаян, поразен"
+ },
+ {
+  "id": 109,
+  "page": 31,
+  "word": "stamp (verb)",
+  "definition": "To bring down (one’s foot) heavily on the ground or on something.",
+  "synonyms": [
+   "stomp",
+   "tread",
+   "pound"
+  ],
+  "antonyms": "tiptoe",
+  "translation": "тропам с крак, тъпча"
+ },
+ {
+  "id": 110,
+  "page": 31,
+  "word": "indignant",
+  "definition": "Feeling or showing anger because of something unjust.",
+  "synonyms": [
+   "resentful",
+   "outraged",
+   "offended"
+  ],
+  "antonyms": [
+   "pleased",
+   "content"
+  ],
+  "translation": "възмутен, негодуващ"
+ },
+ {
+  "id": 111,
+  "page": 31,
+  "word": "briskly",
+  "definition": "In an active, quick, or energetic way.",
+  "synonyms": [
+   "quickly",
+   "energetically",
+   "vigorously"
+  ],
+  "antonyms": [
+   "slowly",
+   "sluggishly"
+  ],
+  "translation": "бързо, енергично"
+ },
+ {
+  "id": 112,
+  "page": 31,
+  "word": "din",
+  "definition": "A loud, unpleasant, and prolonged noise.",
+  "synonyms": [
+   "noise",
+   "clamour",
+   "racket"
+  ],
+  "antonyms": [
+   "silence",
+   "quiet"
+  ],
+  "translation": "врява, шумотевица"
+ },
+ {
+  "id": 113,
+  "page": 31,
+  "word": "tissue-paper",
+  "definition": "Very thin, soft paper used for wrapping or protecting delicate objects.",
+  "synonyms": [
+   "wrapping paper",
+   "gift wrap"
+  ],
+  "antonyms": null,
+  "translation": "тънка опаковъчна хартия"
+ },
+ {
+  "id": 114,
+  "page": 32,
+  "word": "scabbard",
+  "definition": "A sheath for the blade of a sword or dagger.",
+  "synonyms": [
+   "sheath",
+   "holster",
+   "case"
+  ],
+  "antonyms": null,
+  "translation": "ножница (за меч)"
+ },
+ {
+  "id": 115,
+  "page": 32,
+  "word": "moth-balls",
+  "definition": "Small balls of naphthalene or camphor stored with clothes to keep moths away.",
+  "synonyms": "naphthalene balls",
+  "antonyms": null,
+  "translation": "нафталинови топчета"
+ },
+ {
+  "id": 116,
+  "page": 32,
+  "word": "patched",
+  "definition": "Mended with a piece of material covering a hole or worn place.",
+  "synonyms": [
+   "mended",
+   "repaired",
+   "darned"
+  ],
+  "antonyms": [
+   "torn",
+   "ripped"
+  ],
+  "translation": "кърпен, закърпен"
+ },
+ {
+  "id": 117,
+  "page": 32,
+  "word": "weatherstained",
+  "definition": "Marked or discoloured by long exposure to the weather.",
+  "synonyms": [
+   "weathered",
+   "weather-beaten"
+  ],
+  "antonyms": [
+   "pristine",
+   "new"
+  ],
+  "translation": "обветрен, изпъстрен от времето"
+ },
+ {
+  "id": 118,
+  "page": 32,
+  "word": "busybody",
+  "definition": "A meddlesome person who interferes in others’ affairs.",
+  "synonyms": [
+   "meddler",
+   "snoop",
+   "nosy parker"
+  ],
+  "antonyms": null,
+  "translation": "натрапник, любопитко"
+ },
+ {
+  "id": 119,
+  "page": 33,
+  "word": "confounded",
+  "definition": "(Informal) used to express annoyance; also: utterly confused.",
+  "synonyms": [
+   "damned",
+   "blasted; bewildered"
+  ],
+  "antonyms": "blessed; clear",
+  "translation": "проклет; объркан"
+ },
+ {
+  "id": 120,
+  "page": 33,
+  "word": "badgering",
+  "definition": "Repeatedly asking or pestering someone for something.",
+  "synonyms": [
+   "pestering",
+   "nagging",
+   "harassing"
+  ],
+  "antonyms": "leaving alone",
+  "translation": "досаждане, тормоз с молби"
+ },
+ {
+  "id": 121,
+  "page": 33,
+  "word": "oddments",
+  "definition": "Items or remnants of something, especially of cloth; bits and pieces.",
+  "synonyms": [
+   "odds and ends",
+   "remnants",
+   "scraps"
+  ],
+  "antonyms": null,
+  "translation": "дребни предмети, остатъци"
+ },
+ {
+  "id": 122,
+  "page": 34,
+  "word": "obstinately",
+  "definition": "In a stubborn manner; refusing to change.",
+  "synonyms": [
+   "stubbornly",
+   "doggedly"
+  ],
+  "antonyms": [
+   "flexibly",
+   "yieldingly"
+  ],
+  "translation": "упорито, инатливо"
+ },
+ {
+  "id": 123,
+  "page": 34,
+  "word": "hilt",
+  "definition": "The handle of a sword or dagger.",
+  "synonyms": [
+   "handle",
+   "grip",
+   "haft"
+  ],
+  "antonyms": [
+   "blade",
+   "point"
+  ],
+  "translation": "дръжка на меч, ефес"
+ },
+ {
+  "id": 124,
+  "page": 35,
+  "word": "ruefully",
+  "definition": "In a manner expressing regret or sorrow, often mixed with amusement.",
+  "synonyms": [
+   "regretfully",
+   "sorrowfully",
+   "sadly"
+  ],
+  "antonyms": [
+   "gladly",
+   "cheerfully"
+  ],
+  "translation": "със съжаление, тъжно"
+ },
+ {
+  "id": 125,
+  "page": 36,
+  "word": "trot down (verb)",
+  "definition": "To go somewhere casually and briskly, often on foot.",
+  "synonyms": [
+   "go",
+   "walk briskly",
+   "head down"
+  ],
+  "antonyms": [
+   "amble",
+   "dawdle"
+  ],
+  "translation": "отивам бързо надолу"
+ },
+ {
+  "id": 126,
+  "page": 36,
+  "word": "hedge",
+  "definition": "A fence or boundary formed by closely growing bushes or shrubs.",
+  "synonyms": [
+   "shrubbery",
+   "bushes",
+   "fence"
+  ],
+  "antonyms": null,
+  "translation": "жив плет"
+ },
+ {
+  "id": 127,
+  "page": 37,
+  "word": "wheel-barrow",
+  "definition": "A small cart with one wheel at the front, pushed by handles at the rear.",
+  "synonyms": [
+   "barrow",
+   "hand-cart"
+  ],
+  "antonyms": null,
+  "translation": "количка с едно колело, ръчна количка"
+ },
+ {
+  "id": 128,
+  "page": 37,
+  "word": "inadvertently",
+  "definition": "Without intention; accidentally.",
+  "synonyms": [
+   "accidentally",
+   "unintentionally"
+  ],
+  "antonyms": [
+   "deliberately",
+   "intentionally"
+  ],
+  "translation": "неволно, по невнимание"
+ },
+ {
+  "id": 129,
+  "page": 37,
+  "word": "cracker-paper",
+  "definition": "The decorative paper wrapping of a Christmas cracker, often colourful.",
+  "synonyms": "cracker wrapping",
+  "antonyms": null,
+  "translation": "хартия от пиратка"
+ },
+ {
+  "id": 130,
+  "page": 37,
+  "word": "convex mirror",
+  "definition": "A mirror curved outwards, giving a wider but smaller image.",
+  "synonyms": [
+   "bulging mirror",
+   "fish-eye mirror"
+  ],
+  "antonyms": "concave mirror",
+  "translation": "изпъкнало огледало"
+ },
+ {
+  "id": 131,
+  "page": 37,
+  "word": "shapely",
+  "definition": "Having an attractive or well-proportioned shape.",
+  "synonyms": [
+   "well-formed",
+   "curvaceous",
+   "comely"
+  ],
+  "antonyms": [
+   "misshapen",
+   "shapeless"
+  ],
+  "translation": "стройно, добре оформен"
+ },
+ {
+  "id": 132,
+  "page": 37,
+  "word": "contributor",
+  "definition": "A person who gives something, especially money, to help achieve a result.",
+  "synonyms": [
+   "donor",
+   "giver",
+   "benefactor"
+  ],
+  "antonyms": "recipient",
+  "translation": "дарител, участник"
+ },
+ {
+  "id": 133,
+  "page": 38,
+  "word": "clutter up (verb)",
+  "definition": "To crowd a place untidily with miscellaneous things.",
+  "synonyms": [
+   "fill",
+   "cram",
+   "jumble"
+  ],
+  "antonyms": [
+   "tidy",
+   "clear"
+  ],
+  "translation": "затрупвам с вещи, разхвърлям"
+ },
+ {
+  "id": 134,
+  "page": 38,
+  "word": "spade",
+  "definition": "A tool with a flat metal blade and a long handle, used for digging.",
+  "synonyms": [
+   "shovel",
+   "digging tool"
+  ],
+  "antonyms": null,
+  "translation": "лопата"
+ },
+ {
+  "id": 135,
+  "page": 38,
+  "word": "ointment",
+  "definition": "A smooth oily substance rubbed on the skin for medicinal purposes.",
+  "synonyms": [
+   "salve",
+   "balm",
+   "cream"
+  ],
+  "antonyms": null,
+  "translation": "мехлем, балсам"
+ },
+ {
+  "id": 136,
+  "page": 38,
+  "word": "creaking joints",
+  "definition": "Body joints that make a creaking sound, usually from age or stiffness.",
+  "synonyms": [
+   "stiff joints",
+   "aching joints"
+  ],
+  "antonyms": "supple joints",
+  "translation": "скърцащи стави"
+ },
+ {
+  "id": 137,
+  "page": 38,
+  "word": "capitol fellow",
+  "definition": "A fine or excellent man (archaic informal; here used affectionately).",
+  "synonyms": [
+   "splendid fellow",
+   "fine chap"
+  ],
+  "antonyms": null,
+  "translation": "отличен човек, славен момък"
+ },
+ {
+  "id": 138,
+  "page": 38,
+  "word": "glass bead",
+  "definition": "A small ball-shaped piece of glass with a hole for threading.",
+  "synonyms": [
+   "pearl",
+   "bauble"
+  ],
+  "antonyms": null,
+  "translation": "стъклено мънисто"
+ },
+ {
+  "id": 139,
+  "page": 38,
+  "word": "indisposed",
+  "definition": "Slightly unwell; reluctant or unwilling.",
+  "synonyms": [
+   "unwell",
+   "ailing",
+   "reluctant"
+  ],
+  "antonyms": [
+   "well",
+   "willing"
+  ],
+  "translation": "неразположен, болнав"
+ },
+ {
+  "id": 140,
+  "page": 39,
+  "word": "foil (verb)",
+  "definition": "To prevent (something considered wrong or undesirable) from succeeding.",
+  "synonyms": [
+   "thwart",
+   "frustrate",
+   "baffle"
+  ],
+  "antonyms": [
+   "help",
+   "assist"
+  ],
+  "translation": "осуетявам, проваляне"
+ },
+ {
+  "id": 141,
+  "page": 39,
+  "word": "fiddle sticks",
+  "definition": "An exclamation expressing disagreement, impatience, or annoyance.",
+  "synonyms": [
+   "nonsense",
+   "rubbish",
+   "baloney"
+  ],
+  "antonyms": null,
+  "translation": "глупости!, дрън-дрън!"
+ },
+ {
+  "id": 142,
+  "page": 39,
+  "word": "nooks",
+  "definition": "Small corners or recesses, especially those offering seclusion.",
+  "synonyms": [
+   "corners",
+   "recesses",
+   "alcoves"
+  ],
+  "antonyms": null,
+  "translation": "кътчета, ниши"
+ },
+ {
+  "id": 143,
+  "page": 39,
+  "word": "premises",
+  "definition": "A house or building, together with its land and outbuildings.",
+  "synonyms": [
+   "building",
+   "property",
+   "grounds"
+  ],
+  "antonyms": null,
+  "translation": "имот, помещение"
+ },
+ {
+  "id": 144,
+  "page": 39,
+  "word": "tussle",
+  "definition": "A vigorous struggle or scuffle.",
+  "synonyms": [
+   "scuffle",
+   "struggle",
+   "brawl"
+  ],
+  "antonyms": [
+   "truce",
+   "peace"
+  ],
+  "translation": "боричкане, схватка"
+ },
+ {
+  "id": 145,
+  "page": 39,
+  "word": "excavation",
+  "definition": "The action of removing earth carefully and systematically from an area.",
+  "synonyms": [
+   "digging",
+   "dig",
+   "dugout"
+  ],
+  "antonyms": [
+   "filling",
+   "burying"
+  ],
+  "translation": "разкопаване, изкоп"
+ },
+ {
+  "id": 146,
+  "page": 40,
+  "word": "battering",
+  "definition": "Repeated heavy hitting; severe damage caused by repeated blows.",
+  "synonyms": [
+   "beating",
+   "pounding",
+   "pummelling"
+  ],
+  "antonyms": null,
+  "translation": "удряне, бой"
+ },
+ {
+  "id": 147,
+  "page": 40,
+  "word": "pony-trap",
+  "definition": "A small two-wheeled carriage drawn by a pony.",
+  "synonyms": [
+   "pony-cart",
+   "gig"
+  ],
+  "antonyms": null,
+  "translation": "двуколка с пони"
+ },
+ {
+  "id": 148,
+  "page": 40,
+  "word": "curdle (verb)",
+  "definition": "To separate or cause to separate into curds or lumps.",
+  "synonyms": [
+   "coagulate",
+   "clot",
+   "congeal"
+  ],
+  "antonyms": [
+   "dissolve",
+   "liquefy"
+  ],
+  "translation": "съсирвам се, пресичам (за мляко)"
+ },
+ {
+  "id": 149,
+  "page": 40,
+  "word": "pester (verb)",
+  "definition": "To trouble or annoy someone with frequent requests or interruptions.",
+  "synonyms": [
+   "badger",
+   "harass",
+   "bother"
+  ],
+  "antonyms": "leave alone",
+  "translation": "досаждам, тормозя"
+ },
+ {
+  "id": 150,
+  "page": 41,
+  "word": "nuisance",
+  "definition": "A person, thing, or circumstance causing inconvenience or annoyance.",
+  "synonyms": [
+   "annoyance",
+   "bother",
+   "pest"
+  ],
+  "antonyms": [
+   "pleasure",
+   "comfort"
+  ],
+  "translation": "досада, неприятност"
+ }
+]

@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# WordQuest: Задругата на думите
 
-## Getting Started
+Mobile-first PWA for learning 1177 advanced English words from *The Fellowship
+of the Ring* — built for Evgenia. Duolingo-style journey map, real book
+sentences, SM-2 spaced repetition, Bulgarian UI.
 
-First, run the development server:
+## Stack
+
+Next.js (App Router) · TypeScript strict · Tailwind v4 · Framer Motion ·
+Supabase (magic-link auth + progress) · Zustand · Serwist PWA · Vercel.
+
+Mascot: **Искра** — a glowing firefly guide (original, no Tolkien IP).
+
+## Data pipeline
+
+- `data/words_raw.json` — 1177 parsed dictionary entries (id, printed page,
+  word, definition, synonyms, antonyms, BG translation). Do not regenerate.
+- `data/book_text.txt` — full book text with `===PDF_PAGE n===` markers.
+- `data/enrichment/input/slice_*.json` — generation inputs (50 words each).
+- `data/enrichment/out/slice_*.json` — generated explanationBg/En, exampleEn,
+  mnemonicBg, ipa per word (model-written, validated by the merger).
+- `npm run enrich` — validates every generated item (Cyrillic checks, id
+  completeness, IPA shape), matches each word to its real book sentence
+  (per-page de-hyphenation, abbreviation-aware sentence split, inflection
+  matching, robust printed→PDF page model: constant offset vs Theil–Sen
+  linear, whichever has lower median residual), then writes:
+  - `data/words.json` + `public/words.json` — the 1177 enriched words
+  - `data/enrichment/REPORT.json` — coverage, page model, warnings
+  - missing/invalid items → `data/enrichment/input/redo_*.json`, exit 2
+    (resumable: generate `out/redo_*.json` and re-run).
+
+## Develop
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev        # http://localhost:3000
+npm run typecheck
+npm run lint
+npm run enrich     # rebuild data/words.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`.env.local` needs `NEXT_PUBLIC_SUPABASE_URL` + `NEXT_PUBLIC_SUPABASE_ANON_KEY`
+(see `.env.example`). Supabase project: `evgenia-wordquest` (eu-central-1).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Build phases
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **P1** ✅ scaffold, theme tokens (parchment/emerald/gold, dark mode),
+  Cyrillic fonts (Lora + Manrope), data enrichment → `words.json`
+- **P2** map home, lesson player, Word Card, exercises 1–3, XP/streak,
+  Supabase auth + progress
+- **P3** exercises 4–7, SM-2 review hub, full dopamine layer, Lexicon,
+  Challenge mode
+- **P4** artwork, PWA, i18n toggle, a11y, Lighthouse ≥90, Playwright smoke,
+  deploy to Vercel

@@ -1,0 +1,642 @@
+[
+ {
+  "id": 1101,
+  "page": 333,
+  "word": "glen",
+  "definition": "A narrow valley, especially in Scotland or Ireland.",
+  "synonyms": [
+   "valley",
+   "dale",
+   "ravine"
+  ],
+  "antonyms": null,
+  "translation": "теснина, долина"
+ },
+ {
+  "id": 1102,
+  "page": 333,
+  "word": "torrent",
+  "definition": "A strong and fast-moving stream of water or other liquid.",
+  "synonyms": [
+   "flood",
+   "deluge",
+   "cascade"
+  ],
+  "antonyms": "trickle",
+  "translation": "порой, буен поток"
+ },
+ {
+  "id": 1103,
+  "page": 333,
+  "word": "outflung",
+  "definition": "Flung or extended outward.",
+  "synonyms": [
+   "outstretched",
+   "extended"
+  ],
+  "antonyms": "drawn in",
+  "translation": "издаден напред, протегнат"
+ },
+ {
+  "id": 1104,
+  "page": 333,
+  "word": "descried",
+  "definition": "Caught sight of from a distance; perceived.",
+  "synonyms": [
+   "sighted",
+   "spotted",
+   "glimpsed"
+  ],
+  "antonyms": null,
+  "translation": "съзря, забеляза отдалеч"
+ },
+ {
+  "id": 1105,
+  "page": 333,
+  "word": "recede (verb)",
+  "definition": "To go or move back or further away.",
+  "synonyms": [
+   "retreat",
+   "withdraw",
+   "ebb"
+  ],
+  "antonyms": "advance",
+  "translation": "отдалечавам се, отстъпвам"
+ },
+ {
+  "id": 1106,
+  "page": 333,
+  "word": "mere",
+  "definition": "A lake or pond (poetic or dialectal).",
+  "synonyms": [
+   "lake",
+   "pond",
+   "pool"
+  ],
+  "antonyms": null,
+  "translation": "езеро, бара (поетично)"
+ },
+ {
+  "id": 1107,
+  "page": 333,
+  "word": "spear-head",
+  "definition": "The pointed metal head of a spear; the leading point of an advance.",
+  "synonyms": [
+   "spear-point",
+   "vanguard"
+  ],
+  "antonyms": null,
+  "translation": "острие на копие; авангард"
+ },
+ {
+  "id": 1108,
+  "page": 333,
+  "word": "unruffled",
+  "definition": "Calm and not perturbed; smooth, not disturbed.",
+  "synonyms": [
+   "calm",
+   "composed",
+   "smooth"
+  ],
+  "antonyms": [
+   "agitated",
+   "ruffled"
+  ],
+  "translation": "спокоен, невъзмутим"
+ },
+ {
+  "id": 1109,
+  "page": 334,
+  "word": "shelving",
+  "definition": "Sloping gradually; (of land) descending in a gentle slope.",
+  "synonyms": [
+   "sloping",
+   "inclining"
+  ],
+  "antonyms": "level",
+  "translation": "полегато спускащ се"
+ },
+ {
+  "id": 1110,
+  "page": 334,
+  "word": "hasten",
+  "definition": "To be quick to do something; to move or travel hurriedly.",
+  "synonyms": [
+   "hurry",
+   "rush",
+   "speed"
+  ],
+  "antonyms": [
+   "delay",
+   "dawdle"
+  ],
+  "translation": "бързам, ускорявам"
+ },
+ {
+  "id": 1111,
+  "page": 334,
+  "word": "whin",
+  "definition": "A spiny yellow-flowered evergreen shrub; gorse.",
+  "synonyms": [
+   "gorse",
+   "furze"
+  ],
+  "antonyms": null,
+  "translation": "жълтуга (бодлив храст)"
+ },
+ {
+  "id": 1112,
+  "page": 334,
+  "word": "lowlands",
+  "definition": "Low-lying country or regions, in contrast to highlands or mountains.",
+  "synonyms": [
+   "plains",
+   "flatlands"
+  ],
+  "antonyms": [
+   "highlands",
+   "uplands"
+  ],
+  "translation": "низини"
+ },
+ {
+  "id": 1113,
+  "page": 334,
+  "word": "birches",
+  "definition": "Slender, hardy trees with thin, peeling bark, often white or silver.",
+  "synonyms": "silver birches",
+  "antonyms": null,
+  "translation": "брези"
+ },
+ {
+  "id": 1114,
+  "page": 334,
+  "word": "spent",
+  "definition": "Used up; exhausted of energy or substance.",
+  "synonyms": [
+   "exhausted",
+   "drained",
+   "depleted"
+  ],
+  "antonyms": [
+   "fresh",
+   "fully charged"
+  ],
+  "translation": "изтощен, изчерпан"
+ },
+ {
+  "id": 1115,
+  "page": 334,
+  "word": "encircling",
+  "definition": "Forming a circle around something; surrounding.",
+  "synonyms": [
+   "surrounding",
+   "enclosing",
+   "ringing"
+  ],
+  "antonyms": null,
+  "translation": "обкръжаващ, обхождащ"
+ },
+ {
+  "id": 1116,
+  "page": 335,
+  "word": "pace",
+  "definition": "A single step taken when walking or running; speed or rate.",
+  "synonyms": [
+   "step",
+   "stride",
+   "rate"
+  ],
+  "antonyms": null,
+  "translation": "крачка, темп"
+ },
+ {
+  "id": 1117,
+  "page": 336,
+  "word": "green-hued",
+  "definition": "Having a green colour or tint.",
+  "synonyms": [
+   "greenish",
+   "verdant"
+  ],
+  "antonyms": null,
+  "translation": "зеленикав, със зелен оттенък"
+ },
+ {
+  "id": 1118,
+  "page": 336,
+  "word": "harts-tongue",
+  "definition": "A fern with long, narrow, strap-like fronds; Asplenium scolopendrium.",
+  "synonyms": "hart’s-tongue fern",
+  "antonyms": null,
+  "translation": "еленов език (папрат)"
+ },
+ {
+  "id": 1119,
+  "page": 336,
+  "word": "whortle-berry",
+  "definition": "A small dark fruit of a shrub of the genus Vaccinium; bilberry.",
+  "synonyms": [
+   "bilberry",
+   "blueberry"
+  ],
+  "antonyms": null,
+  "translation": "боровинка (вид)"
+ },
+ {
+  "id": 1120,
+  "page": 336,
+  "word": "westering",
+  "definition": "(Of the sun) moving towards the west; declining.",
+  "synonyms": [
+   "setting",
+   "declining"
+  ],
+  "antonyms": "rising",
+  "translation": "клонящ на запад (за слънцето)"
+ },
+ {
+  "id": 1121,
+  "page": 336,
+  "word": "tend to (verb)",
+  "definition": "To regularly or frequently behave in a particular way; to care for.",
+  "synonyms": [
+   "incline to",
+   "care for",
+   "look after"
+  ],
+  "antonyms": "neglect",
+  "translation": "обикновено, склонен съм; грижа се"
+ },
+ {
+  "id": 1122,
+  "page": 336,
+  "word": "grave",
+  "definition": "Giving cause for alarm; serious in manner.",
+  "synonyms": [
+   "serious",
+   "solemn",
+   "weighty"
+  ],
+  "antonyms": [
+   "trivial",
+   "frivolous"
+  ],
+  "translation": "сериозен, тежък"
+ },
+ {
+  "id": 1123,
+  "page": 336,
+  "word": "athelas",
+  "definition": "A healing plant brought to Middle-earth by the Men of the West, also called kingsfoil (Tolkien).",
+  "synonyms": "kingsfoil",
+  "antonyms": null,
+  "translation": "ателас (лечебно растение, царски лист)"
+ },
+ {
+  "id": 1124,
+  "page": 336,
+  "word": "tinkle",
+  "definition": "A short, light, ringing sound, like that of a small bell.",
+  "synonyms": [
+   "jingle",
+   "chime",
+   "ring"
+  ],
+  "antonyms": null,
+  "translation": "звън на звънче"
+ },
+ {
+  "id": 1125,
+  "page": 336,
+  "word": "hides",
+  "definition": "The skins of large animals, especially when tanned or dressed.",
+  "synonyms": [
+   "skins",
+   "pelts",
+   "leather"
+  ],
+  "antonyms": null,
+  "translation": "кожи (на животни)"
+ },
+ {
+  "id": 1126,
+  "page": 336,
+  "word": "undervalued",
+  "definition": "Underestimated in value, worth, or importance.",
+  "synonyms": [
+   "underestimated",
+   "underrated"
+  ],
+  "antonyms": [
+   "overvalued",
+   "prized"
+  ],
+  "translation": "подценен"
+ },
+ {
+  "id": 1127,
+  "page": 337,
+  "word": "patter",
+  "definition": "A repeated light tapping sound.",
+  "synonyms": [
+   "tapping",
+   "pitter-patter",
+   "drumming"
+  ],
+  "antonyms": null,
+  "translation": "почукване, тропот"
+ },
+ {
+  "id": 1128,
+  "page": 338,
+  "word": "poplars",
+  "definition": "Tall, slender trees of the willow family with grey bark.",
+  "synonyms": "poplar trees",
+  "antonyms": null,
+  "translation": "тополи"
+ },
+ {
+  "id": 1129,
+  "page": 338,
+  "word": "fallow",
+  "definition": "(Of farmland) ploughed but left unsown for a season to restore its fertility.",
+  "synonyms": [
+   "uncultivated",
+   "untilled"
+  ],
+  "antonyms": "cultivated",
+  "translation": "угар, оставена земя"
+ },
+ {
+  "id": 1130,
+  "page": 338,
+  "word": "darkening",
+  "definition": "Becoming darker; losing light.",
+  "synonyms": [
+   "dimming",
+   "shading",
+   "blackening"
+  ],
+  "antonyms": [
+   "lightening",
+   "brightening"
+  ],
+  "translation": "потъмняване"
+ },
+ {
+  "id": 1131,
+  "page": 338,
+  "word": "stir (verb)",
+  "definition": "To move slightly; to mix a liquid using a circular motion.",
+  "synonyms": [
+   "move",
+   "agitate",
+   "mix"
+  ],
+  "antonyms": "still",
+  "translation": "движа, разбърквам"
+ },
+ {
+  "id": 1132,
+  "page": 338,
+  "word": "scale (verb)",
+  "definition": "To climb up or over (something high and steep).",
+  "synonyms": [
+   "climb",
+   "ascend",
+   "mount"
+  ],
+  "antonyms": "descend",
+  "translation": "катеря се, изкачвам"
+ },
+ {
+  "id": 1133,
+  "page": 338,
+  "word": "unscathed",
+  "definition": "Without suffering any injury, damage, or harm.",
+  "synonyms": [
+   "unharmed",
+   "unhurt",
+   "intact"
+  ],
+  "antonyms": [
+   "injured",
+   "harmed"
+  ],
+  "translation": "невредим, без щети"
+ },
+ {
+  "id": 1134,
+  "page": 339,
+  "word": "tree-clad",
+  "definition": "Covered with trees.",
+  "synonyms": [
+   "wooded",
+   "forested"
+  ],
+  "antonyms": "treeless",
+  "translation": "покрит с дървета, гористен"
+ },
+ {
+  "id": 1135,
+  "page": 340,
+  "word": "linden-tree",
+  "definition": "A deciduous tree of the genus Tilia, with heart-shaped leaves; lime tree.",
+  "synonyms": [
+   "lime tree",
+   "basswood"
+  ],
+  "antonyms": null,
+  "translation": "липа (дърво)"
+ },
+ {
+  "id": 1136,
+  "page": 341,
+  "word": "passes",
+  "definition": "Routes over or through mountains.",
+  "synonyms": [
+   "mountain routes",
+   "defiles"
+  ],
+  "antonyms": null,
+  "translation": "проходи (планински)"
+ },
+ {
+  "id": 1137,
+  "page": 342,
+  "word": "overhung",
+  "definition": "Hung or projected over (something).",
+  "synonyms": [
+   "projecting",
+   "jutting",
+   "looming"
+  ],
+  "antonyms": null,
+  "translation": "надвиснал"
+ },
+ {
+  "id": 1138,
+  "page": 342,
+  "word": "cluster",
+  "definition": "A group of similar things or people positioned or occurring closely together.",
+  "synonyms": [
+   "group",
+   "bunch",
+   "clump"
+  ],
+  "antonyms": null,
+  "translation": "група, китка, гроздовидна форма"
+ },
+ {
+  "id": 1139,
+  "page": 342,
+  "word": "Mellyrn",
+  "definition": "Plural form of \"mallorn\": tall golden-leafed trees of Lothlórien (Tolkien).",
+  "synonyms": "mallorn trees",
+  "antonyms": null,
+  "translation": "мелирн (множествено от малорн)"
+ },
+ {
+  "id": 1140,
+  "page": 342,
+  "word": "perch",
+  "definition": "A bar or branch on which a bird rests; a high or precarious position.",
+  "synonyms": [
+   "roost",
+   "branch",
+   "ledge"
+  ],
+  "antonyms": null,
+  "translation": "кацало, върлина"
+ },
+ {
+  "id": 1141,
+  "page": 342,
+  "word": "bole",
+  "definition": "The trunk of a tree.",
+  "synonyms": [
+   "trunk",
+   "stem"
+  ],
+  "antonyms": null,
+  "translation": "ствол на дърво"
+ },
+ {
+  "id": 1142,
+  "page": 343,
+  "word": "mallorn-treen",
+  "definition": "Of or pertaining to mallorn trees (Tolkien adjective form).",
+  "synonyms": "mallorn-tree (wood/related)",
+  "antonyms": null,
+  "translation": "от малорн дърво"
+ },
+ {
+  "id": 1143,
+  "page": 343,
+  "word": "haltingly",
+  "definition": "In a hesitant or faltering manner; slowly with pauses.",
+  "synonyms": [
+   "hesitantly",
+   "falteringly",
+   "awkwardly"
+  ],
+  "antonyms": [
+   "fluently",
+   "smoothly"
+  ],
+  "translation": "колебливо, на пресекулки"
+ },
+ {
+  "id": 1144,
+  "page": 343,
+  "word": "sundered",
+  "definition": "Split apart; separated.",
+  "synonyms": [
+   "separated",
+   "divided",
+   "split"
+  ],
+  "antonyms": [
+   "united",
+   "joined"
+  ],
+  "translation": "разделен, разкъсан"
+ },
+ {
+  "id": 1145,
+  "page": 344,
+  "word": "liking",
+  "definition": "A feeling of regard or fondness.",
+  "synonyms": [
+   "fondness",
+   "affection",
+   "preference"
+  ],
+  "antonyms": "dislike",
+  "translation": "симпатия, предпочитание"
+ },
+ {
+  "id": 1146,
+  "page": 344,
+  "word": "refuge",
+  "definition": "A condition of being safe or sheltered from pursuit, danger, or trouble.",
+  "synonyms": [
+   "shelter",
+   "sanctuary",
+   "haven"
+  ],
+  "antonyms": "exposure",
+  "translation": "убежище, подслон"
+ },
+ {
+  "id": 1147,
+  "page": 344,
+  "word": "drift",
+  "definition": "A continuous slow movement; a mass of snow, leaves, etc.",
+  "synonyms": [
+   "flow",
+   "movement",
+   "mass"
+  ],
+  "antonyms": null,
+  "translation": "дрейф, маса (натрупана)"
+ },
+ {
+  "id": 1148,
+  "page": 344,
+  "word": "lug up",
+  "definition": "To carry or drag something heavy upwards with effort.",
+  "synonyms": [
+   "haul up",
+   "drag up"
+  ],
+  "antonyms": "drop",
+  "translation": "мъкна нагоре"
+ },
+ {
+  "id": 1149,
+  "page": 344,
+  "word": "bird-loft",
+  "definition": "A loft or upper space where birds roost.",
+  "synonyms": "roosting loft",
+  "antonyms": null,
+  "translation": "птичи кът, гълъбарник"
+ },
+ {
+  "id": 1150,
+  "page": 345,
+  "word": "lulled (verb)",
+  "definition": "Calmed or sent to sleep; soothed.",
+  "synonyms": [
+   "soothed",
+   "calmed",
+   "pacified"
+  ],
+  "antonyms": [
+   "roused",
+   "agitated"
+  ],
+  "translation": "успокоен, приспан"
+ }
+]

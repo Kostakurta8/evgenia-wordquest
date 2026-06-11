@@ -1,0 +1,645 @@
+[
+ {
+  "id": 851,
+  "page": 272,
+  "word": "condemned",
+  "definition": "Expressed strong disapproval of; sentenced to a punishment.",
+  "synonyms": [
+   "denounced",
+   "sentenced",
+   "censured"
+  ],
+  "antonyms": [
+   "approved",
+   "praised"
+  ],
+  "translation": "осъден, порицан"
+ },
+ {
+  "id": 852,
+  "page": 272,
+  "word": "stiff",
+  "definition": "Not easily bent or changed in shape; rigid.",
+  "synonyms": [
+   "rigid",
+   "firm",
+   "hard"
+  ],
+  "antonyms": [
+   "flexible",
+   "soft"
+  ],
+  "translation": "втвърден, стегнат"
+ },
+ {
+  "id": 853,
+  "page": 273,
+  "word": "scouts",
+  "definition": "Soldiers or other persons sent ahead to gather information.",
+  "synonyms": [
+   "spies",
+   "lookouts",
+   "reconnoitrers"
+  ],
+  "antonyms": null,
+  "translation": "разузнавачи"
+ },
+ {
+  "id": 854,
+  "page": 273,
+  "word": "scour",
+  "definition": "To search thoroughly through a place or thing for something.",
+  "synonyms": [
+   "search",
+   "comb",
+   "scan"
+  ],
+  "antonyms": null,
+  "translation": "претърсвам, ровя"
+ },
+ {
+  "id": 855,
+  "page": 273,
+  "word": "window-sill",
+  "definition": "The ledge or sill forming the bottom part of a window.",
+  "synonyms": [
+   "sill",
+   "ledge"
+  ],
+  "antonyms": null,
+  "translation": "перваз на прозорец"
+ },
+ {
+  "id": 856,
+  "page": 274,
+  "word": "waxed",
+  "definition": "(Of the moon) increased in apparent size; grew larger or stronger.",
+  "synonyms": [
+   "grew",
+   "increased",
+   "expanded"
+  ],
+  "antonyms": "waned",
+  "translation": "нарасна (за луната), увеличи се"
+ },
+ {
+  "id": 857,
+  "page": 274,
+  "word": "shreds",
+  "definition": "Strips or small pieces, especially ones torn or cut from something larger.",
+  "synonyms": [
+   "strips",
+   "scraps",
+   "fragments"
+  ],
+  "antonyms": "whole",
+  "translation": "парчета, отломки"
+ },
+ {
+  "id": 858,
+  "page": 275,
+  "word": "tattered",
+  "definition": "Old and torn; in poor condition.",
+  "synonyms": [
+   "ragged",
+   "torn",
+   "frayed"
+  ],
+  "antonyms": [
+   "pristine",
+   "new"
+  ],
+  "translation": "окъсан, парцалив"
+ },
+ {
+  "id": 859,
+  "page": 275,
+  "word": "shapeless",
+  "definition": "Lacking a definite or attractive shape.",
+  "synonyms": [
+   "formless",
+   "amorphous",
+   "undefined"
+  ],
+  "antonyms": [
+   "shapely",
+   "defined"
+  ],
+  "translation": "безформен"
+ },
+ {
+  "id": 860,
+  "page": 275,
+  "word": "contrive",
+  "definition": "To create or bring about, especially with skill and effort.",
+  "synonyms": [
+   "devise",
+   "engineer",
+   "arrange"
+  ],
+  "antonyms": null,
+  "translation": "измислям, нагласям"
+ },
+ {
+  "id": 861,
+  "page": 275,
+  "word": "miscarry",
+  "definition": "(Of a plan or action) to fail; to be unsuccessful.",
+  "synonyms": [
+   "fail",
+   "go wrong",
+   "fall through"
+  ],
+  "antonyms": "succeed",
+  "translation": "претърпявам неуспех"
+ },
+ {
+  "id": 862,
+  "page": 276,
+  "word": "reforged ere",
+  "definition": "Forged again before (a certain time); remade beforehand.",
+  "synonyms": "remade beforehand",
+  "antonyms": null,
+  "translation": "прековано преди"
+ },
+ {
+  "id": 863,
+  "page": 277,
+  "word": "rayed",
+  "definition": "Marked with or emitting rays of light.",
+  "synonyms": [
+   "radiant",
+   "beaming",
+   "striped"
+  ],
+  "antonyms": "dim",
+  "translation": "лъчист, с ивици"
+ },
+ {
+  "id": 864,
+  "page": 277,
+  "word": "shabby",
+  "definition": "In poor condition through long use or lack of care.",
+  "synonyms": [
+   "worn",
+   "threadbare",
+   "dilapidated"
+  ],
+  "antonyms": [
+   "smart",
+   "neat"
+  ],
+  "translation": "опърпан, овехтял"
+ },
+ {
+  "id": 865,
+  "page": 277,
+  "word": "a parcel",
+  "definition": "An object or collection wrapped in paper for carrying or sending by post.",
+  "synonyms": [
+   "package",
+   "bundle",
+   "bale"
+  ],
+  "antonyms": null,
+  "translation": "пакет, вързоп"
+ },
+ {
+  "id": 866,
+  "page": 277,
+  "word": "unwound",
+  "definition": "Undone after being wound; relaxed after stress.",
+  "synonyms": [
+   "unwrapped",
+   "unrolled",
+   "relaxed"
+  ],
+  "antonyms": "wound",
+  "translation": "размотан, отпуснат"
+ },
+ {
+  "id": 867,
+  "page": 279,
+  "word": "discomfiture",
+  "definition": "A feeling of unease or embarrassment; awkwardness.",
+  "synonyms": [
+   "embarrassment",
+   "awkwardness",
+   "unease"
+  ],
+  "antonyms": [
+   "comfort",
+   "ease"
+  ],
+  "translation": "смущение, неудобство"
+ },
+ {
+  "id": 868,
+  "page": 279,
+  "word": "gear",
+  "definition": "Equipment, especially that used for a particular activity.",
+  "synonyms": [
+   "equipment",
+   "kit",
+   "apparatus"
+  ],
+  "antonyms": null,
+  "translation": "снаряжение, екипировка"
+ },
+ {
+  "id": 869,
+  "page": 279,
+  "word": "linage",
+  "definition": "A line of descent; lineage.",
+  "synonyms": [
+   "lineage",
+   "ancestry",
+   "descent"
+  ],
+  "antonyms": null,
+  "translation": "родословие, потомство"
+ },
+ {
+  "id": 870,
+  "page": 279,
+  "word": "war-horn",
+  "definition": "A horn blown to give signals in war or to rally troops.",
+  "synonyms": [
+   "battle-horn",
+   "bugle"
+  ],
+  "antonyms": null,
+  "translation": "боен рог"
+ },
+ {
+  "id": 871,
+  "page": 279,
+  "word": "dire",
+  "definition": "Extremely serious or urgent; deplorable; ominous.",
+  "synonyms": [
+   "terrible",
+   "dreadful",
+   "grave"
+  ],
+  "antonyms": [
+   "minor",
+   "trivial"
+  ],
+  "translation": "ужасен, страшен, спешен"
+ },
+ {
+  "id": 872,
+  "page": 280,
+  "word": "broad-bladed",
+  "definition": "Having a wide blade.",
+  "synonyms": "wide-bladed",
+  "antonyms": "narrow-bladed",
+  "translation": "с широко острие"
+ },
+ {
+  "id": 873,
+  "page": 280,
+  "word": "a quiver",
+  "definition": "An archer’s portable case for arrows.",
+  "synonyms": "arrow-case",
+  "antonyms": null,
+  "translation": "колчан за стрели"
+ },
+ {
+  "id": 874,
+  "page": 280,
+  "word": "mail-coat",
+  "definition": "Armour made of interlinked metal rings.",
+  "synonyms": [
+   "chainmail",
+   "hauberk"
+  ],
+  "antonyms": null,
+  "translation": "ризница"
+ },
+ {
+  "id": 875,
+  "page": 280,
+  "word": "girt",
+  "definition": "(Archaic) past of gird; encircled or bound.",
+  "synonyms": [
+   "girded",
+   "encircled"
+  ],
+  "antonyms": null,
+  "translation": "опасан, препасан"
+ },
+ {
+  "id": 876,
+  "page": 280,
+  "word": "stonily",
+  "definition": "In a cold or unfeeling manner, like stone.",
+  "synonyms": [
+   "coldly",
+   "unfeelingly",
+   "harshly"
+  ],
+  "antonyms": "warmly",
+  "translation": "студено, безчувствено"
+ },
+ {
+  "id": 877,
+  "page": 280,
+  "word": "ebb",
+  "definition": "The movement of the tide out to sea; a decline.",
+  "synonyms": [
+   "recede",
+   "retreat",
+   "decline"
+  ],
+  "antonyms": [
+   "flow",
+   "advance"
+  ],
+  "translation": "отлив, спад"
+ },
+ {
+  "id": 878,
+  "page": 280,
+  "word": "hay",
+  "definition": "Grass that has been cut and dried for use as fodder.",
+  "synonyms": [
+   "fodder",
+   "dried grass"
+  ],
+  "antonyms": null,
+  "translation": "сено"
+ },
+ {
+  "id": 879,
+  "page": 280,
+  "word": "moodily",
+  "definition": "In a sullen or gloomy manner.",
+  "synonyms": [
+   "sullenly",
+   "glumly",
+   "sulkily"
+  ],
+  "antonyms": "cheerfully",
+  "translation": "мрачно, навъсено"
+ },
+ {
+  "id": 880,
+  "page": 280,
+  "word": "stowed",
+  "definition": "Packed or stored away neatly.",
+  "synonyms": [
+   "packed",
+   "stored",
+   "stashed"
+  ],
+  "antonyms": "unloaded",
+  "translation": "прибран, складиран"
+ },
+ {
+  "id": 881,
+  "page": 280,
+  "word": "warrant",
+  "definition": "Justification or authority; a written authorisation.",
+  "synonyms": [
+   "authorisation",
+   "justification",
+   "mandate"
+  ],
+  "antonyms": null,
+  "translation": "оправдание, пълномощно"
+ },
+ {
+  "id": 882,
+  "page": 280,
+  "word": "tinder",
+  "definition": "Dry, easily flammable material used to start a fire.",
+  "synonyms": [
+   "kindling",
+   "fire-starter"
+  ],
+  "antonyms": null,
+  "translation": "прахан, лесно запалим материал"
+ },
+ {
+  "id": 883,
+  "page": 281,
+  "word": "cloven",
+  "definition": "Split or divided in two; (of a hoof) divided into parts.",
+  "synonyms": [
+   "split",
+   "divided",
+   "parted"
+  ],
+  "antonyms": "whole",
+  "translation": "разцепен, разделен на две"
+ },
+ {
+  "id": 884,
+  "page": 282,
+  "word": "rearguard",
+  "definition": "The soldiers at the rear of a body of troops, especially protecting against attack.",
+  "synonyms": [
+   "rear",
+   "hindmost troops"
+  ],
+  "antonyms": "vanguard",
+  "translation": "ариергард, тил"
+ },
+ {
+  "id": 885,
+  "page": 282,
+  "word": "roused",
+  "definition": "Caused to stop sleeping; awoken; provoked into action.",
+  "synonyms": [
+   "awakened",
+   "stirred",
+   "aroused"
+  ],
+  "antonyms": [
+   "lulled",
+   "calmed"
+  ],
+  "translation": "разбуден, събуден"
+ },
+ {
+  "id": 886,
+  "page": 282,
+  "word": "veered",
+  "definition": "Changed direction suddenly.",
+  "synonyms": [
+   "swerved",
+   "swung",
+   "turned"
+  ],
+  "antonyms": null,
+  "translation": "отклони се, сви рязко"
+ },
+ {
+  "id": 887,
+  "page": 282,
+  "word": "precipice",
+  "definition": "A very steep rock face or cliff, typically a tall one.",
+  "synonyms": [
+   "cliff",
+   "crag",
+   "escarpment"
+  ],
+  "antonyms": null,
+  "translation": "пропаст, стръмен ръб"
+ },
+ {
+  "id": 888,
+  "page": 282,
+  "word": "slanted upon it",
+  "definition": "Fell or shone at an angle upon it.",
+  "synonyms": "angled upon it",
+  "antonyms": null,
+  "translation": "падна косо върху него"
+ },
+ {
+  "id": 889,
+  "page": 283,
+  "word": "milder",
+  "definition": "Less harsh or severe than before; gentler.",
+  "synonyms": [
+   "gentler",
+   "softer",
+   "less harsh"
+  ],
+  "antonyms": "harsher",
+  "translation": "по-мек, по-благ"
+ },
+ {
+  "id": 890,
+  "page": 283,
+  "word": "Dimrill",
+  "definition": "Place-name (Dimrill Dale): a valley at the foot of the Misty Mountains.",
+  "synonyms": null,
+  "antonyms": null,
+  "translation": "Здрачно поточе (Дол)"
+ },
+ {
+  "id": 891,
+  "page": 283,
+  "word": "Mirrormere",
+  "definition": "A still, deep lake in the Dimrill Dale, sacred to the Dwarves (Tolkien).",
+  "synonyms": "Kheled-zâram",
+  "antonyms": null,
+  "translation": "Огледалното езеро"
+ },
+ {
+  "id": 892,
+  "page": 283,
+  "word": "icy springs",
+  "definition": "Springs of very cold water issuing from the ground.",
+  "synonyms": [
+   "frozen springs",
+   "cold sources"
+  ],
+  "antonyms": "hot springs",
+  "translation": "ледени извори"
+ },
+ {
+  "id": 893,
+  "page": 284,
+  "word": "lament",
+  "definition": "A passionate expression of grief or sorrow.",
+  "synonyms": [
+   "wail",
+   "dirge",
+   "mourning"
+  ],
+  "antonyms": "celebration",
+  "translation": "оплакване, жалба"
+ },
+ {
+  "id": 894,
+  "page": 284,
+  "word": "shrouded",
+  "definition": "Covered or enveloped so as to hide from view.",
+  "synonyms": [
+   "concealed",
+   "veiled",
+   "enveloped"
+  ],
+  "antonyms": [
+   "exposed",
+   "revealed"
+  ],
+  "translation": "обвит, скрит"
+ },
+ {
+  "id": 895,
+  "page": 284,
+  "word": "bushes of holly",
+  "definition": "Shrubs of the holly plant, which has prickly leaves and red berries.",
+  "synonyms": "holly shrubs",
+  "antonyms": null,
+  "translation": "храсти от джел"
+ },
+ {
+  "id": 896,
+  "page": 285,
+  "word": "steadily",
+  "definition": "In a firm or steady manner; without faltering.",
+  "synonyms": [
+   "firmly",
+   "consistently",
+   "evenly"
+  ],
+  "antonyms": "erratically",
+  "translation": "устойчиво, постоянно"
+ },
+ {
+  "id": 897,
+  "page": 285,
+  "word": "regiment",
+  "definition": "A large permanent unit of an army.",
+  "synonyms": [
+   "unit",
+   "battalion",
+   "troop"
+  ],
+  "antonyms": null,
+  "translation": "полк"
+ },
+ {
+  "id": 898,
+  "page": 285,
+  "word": "a throng",
+  "definition": "A large, densely packed crowd of people.",
+  "synonyms": [
+   "crowd",
+   "multitude",
+   "mob"
+  ],
+  "antonyms": "few",
+  "translation": "тълпа, навалица"
+ },
+ {
+  "id": 899,
+  "page": 285,
+  "word": "a nuisance",
+  "definition": "A person, thing, or circumstance causing inconvenience or annoyance.",
+  "synonyms": [
+   "bother",
+   "annoyance",
+   "pest"
+  ],
+  "antonyms": "pleasure",
+  "translation": "досада, неприятност"
+ },
+ {
+  "id": 900,
+  "page": 285,
+  "word": "crebain",
+  "definition": "Large, evil crows of Fangorn and Dunland, used as spies (Tolkien).",
+  "synonyms": [
+   "spy-crows",
+   "evil crows"
+  ],
+  "antonyms": null,
+  "translation": "кребайн (зли врани)"
+ }
+]

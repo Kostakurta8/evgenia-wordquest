@@ -1,0 +1,700 @@
+[
+ {
+  "id": 801,
+  "page": 253,
+  "word": "halter",
+  "definition": "A rope or strap placed around the head of a horse, used to lead or fasten it.",
+  "synonyms": [
+   "lead",
+   "harness",
+   "tether"
+  ],
+  "antonyms": null,
+  "translation": "оглавник, юзда"
+ },
+ {
+  "id": 802,
+  "page": 254,
+  "word": "profit",
+  "definition": "A financial gain; an advantage or benefit obtained from something.",
+  "synonyms": [
+   "gain",
+   "advantage",
+   "benefit"
+  ],
+  "antonyms": [
+   "loss",
+   "disadvantage"
+  ],
+  "translation": "печалба, изгода"
+ },
+ {
+  "id": 803,
+  "page": 254,
+  "word": "astounding",
+  "definition": "Surprisingly impressive or notable.",
+  "synonyms": [
+   "astonishing",
+   "amazing",
+   "staggering"
+  ],
+  "antonyms": [
+   "unremarkable",
+   "ordinary"
+  ],
+  "translation": "поразителен, удивителен"
+ },
+ {
+  "id": 804,
+  "page": 255,
+  "word": "regrettable",
+  "definition": "(Of conduct or an event) giving rise to regret; undesirable.",
+  "synonyms": [
+   "unfortunate",
+   "lamentable",
+   "deplorable"
+  ],
+  "antonyms": [
+   "fortunate",
+   "desirable"
+  ],
+  "translation": "жалък, за съжаление"
+ },
+ {
+  "id": 805,
+  "page": 255,
+  "word": "grievances",
+  "definition": "Real or imagined causes for complaint.",
+  "synonyms": [
+   "complaints",
+   "gripes",
+   "objections"
+  ],
+  "antonyms": null,
+  "translation": "оплаквания, недоволства"
+ },
+ {
+  "id": 806,
+  "page": 256,
+  "word": "unawares",
+  "definition": "Without warning; unexpectedly.",
+  "synonyms": [
+   "unexpectedly",
+   "unprepared"
+  ],
+  "antonyms": [
+   "aware",
+   "prepared"
+  ],
+  "translation": "неподготвен, изненадан"
+ },
+ {
+  "id": 807,
+  "page": 256,
+  "word": "contrived",
+  "definition": "Deliberately created or arranged rather than arising naturally.",
+  "synonyms": [
+   "devised",
+   "planned",
+   "engineered"
+  ],
+  "antonyms": [
+   "natural",
+   "spontaneous"
+  ],
+  "translation": "измислен, преднамерен"
+ },
+ {
+  "id": 808,
+  "page": 257,
+  "word": "hue",
+  "definition": "A colour or shade.",
+  "synonyms": [
+   "colour",
+   "shade",
+   "tint"
+  ],
+  "antonyms": null,
+  "translation": "оттенък, нюанс"
+ },
+ {
+  "id": 809,
+  "page": 257,
+  "word": "forestall",
+  "definition": "To prevent or obstruct (something anticipated) by taking action in advance.",
+  "synonyms": [
+   "prevent",
+   "pre-empt",
+   "anticipate"
+  ],
+  "antonyms": [
+   "allow",
+   "permit"
+  ],
+  "translation": "изпреварвам, осуетявам предварително"
+ },
+ {
+  "id": 810,
+  "page": 258,
+  "word": "dwelling",
+  "definition": "A house, flat, or other place of residence.",
+  "synonyms": [
+   "home",
+   "residence",
+   "abode"
+  ],
+  "antonyms": null,
+  "translation": "жилище, обиталище"
+ },
+ {
+  "id": 811,
+  "page": 258,
+  "word": "northmost foothills",
+  "definition": "The hills lying at the northern base of a mountain range.",
+  "synonyms": "northernmost foothills",
+  "antonyms": "southernmost foothills",
+  "translation": "най-северните подножия"
+ },
+ {
+  "id": 812,
+  "page": 258,
+  "word": "enclose",
+  "definition": "To surround or close off on all sides.",
+  "synonyms": [
+   "surround",
+   "encompass",
+   "contain"
+  ],
+  "antonyms": [
+   "release",
+   "open"
+  ],
+  "translation": "обграждам, заграждам"
+ },
+ {
+  "id": 813,
+  "page": 258,
+  "word": "import",
+  "definition": "The significance or importance of something.",
+  "synonyms": [
+   "significance",
+   "meaning",
+   "importance"
+  ],
+  "antonyms": "insignificance",
+  "translation": "значение, смисъл"
+ },
+ {
+  "id": 814,
+  "page": 258,
+  "word": "lurking-place",
+  "definition": "A place where someone or something hides waiting in ambush.",
+  "synonyms": [
+   "hideout",
+   "hideaway"
+  ],
+  "antonyms": null,
+  "translation": "място за прикриване, скривалище"
+ },
+ {
+  "id": 815,
+  "page": 259,
+  "word": "scorn",
+  "definition": "A feeling and expression of contempt or disdain.",
+  "synonyms": [
+   "contempt",
+   "disdain",
+   "derision"
+  ],
+  "antonyms": [
+   "respect",
+   "admiration"
+  ],
+  "translation": "презрение, пренебрежение"
+ },
+ {
+  "id": 816,
+  "page": 259,
+  "word": "avail",
+  "definition": "Use or benefit; usefulness (\"to no avail\").",
+  "synonyms": [
+   "use",
+   "benefit",
+   "value"
+  ],
+  "antonyms": "futility",
+  "translation": "полза, ефект"
+ },
+ {
+  "id": 817,
+  "page": 259,
+  "word": "emissaries",
+  "definition": "People sent on a special mission, usually as a diplomatic representative.",
+  "synonyms": [
+   "envoys",
+   "messengers",
+   "agents"
+  ],
+  "antonyms": null,
+  "translation": "емисари, пратеници"
+ },
+ {
+  "id": 818,
+  "page": 260,
+  "word": "commend",
+  "definition": "To praise formally or officially; to entrust to someone.",
+  "synonyms": [
+   "praise",
+   "applaud",
+   "entrust"
+  ],
+  "antonyms": "criticize",
+  "translation": "хваля, препоръчвам"
+ },
+ {
+  "id": 819,
+  "page": 260,
+  "word": "forges",
+  "definition": "Workshops with furnaces where metal is shaped by heating and hammering.",
+  "synonyms": [
+   "smithies",
+   "foundries"
+  ],
+  "antonyms": null,
+  "translation": "ковачници"
+ },
+ {
+  "id": 820,
+  "page": 260,
+  "word": "mustering",
+  "definition": "Gathering or assembling, especially troops; collecting strength or courage.",
+  "synonyms": [
+   "assembling",
+   "gathering",
+   "rallying"
+  ],
+  "antonyms": "dispersing",
+  "translation": "мобилизиране, събиране"
+ },
+ {
+  "id": 821,
+  "page": 261,
+  "word": "treacherous",
+  "definition": "Guilty of or involving betrayal; dangerously unstable.",
+  "synonyms": [
+   "disloyal",
+   "perfidious",
+   "dangerous"
+  ],
+  "antonyms": [
+   "loyal",
+   "safe"
+  ],
+  "translation": "предателски, коварен; опасен"
+ },
+ {
+  "id": 822,
+  "page": 261,
+  "word": "thither",
+  "definition": "(Archaic) to or toward that place.",
+  "synonyms": [
+   "there",
+   "to that place"
+  ],
+  "antonyms": "hither",
+  "translation": "натам (архаично)"
+ },
+ {
+  "id": 823,
+  "page": 261,
+  "word": "waned",
+  "definition": "Decreased in vigour, power, or extent; became smaller (especially of the moon).",
+  "synonyms": [
+   "diminished",
+   "decreased",
+   "faded"
+  ],
+  "antonyms": [
+   "waxed",
+   "grew"
+  ],
+  "translation": "намаля, отслабна"
+ },
+ {
+  "id": 824,
+  "page": 262,
+  "word": "steed",
+  "definition": "(Literary) a horse, especially a riding horse.",
+  "synonyms": [
+   "horse",
+   "mount",
+   "charger"
+  ],
+  "antonyms": null,
+  "translation": "жребец, кон (книжно)"
+ },
+ {
+  "id": 825,
+  "page": 262,
+  "word": "levies",
+  "definition": "Bodies of men enlisted for military service, especially compulsorily.",
+  "synonyms": [
+   "troops",
+   "conscripts",
+   "recruits"
+  ],
+  "antonyms": null,
+  "translation": "наборни войски"
+ },
+ {
+  "id": 826,
+  "page": 262,
+  "word": "vie",
+  "definition": "To compete eagerly with someone in order to do or achieve something.",
+  "synonyms": [
+   "compete",
+   "contend",
+   "rival"
+  ],
+  "antonyms": "concede",
+  "translation": "съревновавам се, надпреварвам се"
+ },
+ {
+  "id": 827,
+  "page": 262,
+  "word": "Shadowfax",
+  "definition": "A horse of Rohan, lord of the Mearas, ridden by Gandalf (Tolkien).",
+  "synonyms": null,
+  "antonyms": null,
+  "translation": "Сенкогрив (конят на Гандалф)"
+ },
+ {
+  "id": 828,
+  "page": 262,
+  "word": "footfall",
+  "definition": "The sound of a footstep.",
+  "synonyms": [
+   "footstep",
+   "tread",
+   "step"
+  ],
+  "antonyms": null,
+  "translation": "стъпка, шум от стъпка"
+ },
+ {
+  "id": 829,
+  "page": 263,
+  "word": "shortcomings",
+  "definition": "Faults or failures to meet a standard.",
+  "synonyms": [
+   "failings",
+   "defects",
+   "weaknesses"
+  ],
+  "antonyms": "strengths",
+  "translation": "недостатъци, слабости"
+ },
+ {
+  "id": 830,
+  "page": 263,
+  "word": "abide",
+  "definition": "To accept or act in accordance with; to tolerate.",
+  "synonyms": [
+   "tolerate",
+   "endure",
+   "accept"
+  ],
+  "antonyms": "reject",
+  "translation": "търпя, понасям, спазвам"
+ },
+ {
+  "id": 831,
+  "page": 263,
+  "word": "uproar",
+  "definition": "A loud and impassioned noise or disturbance.",
+  "synonyms": [
+   "commotion",
+   "clamour",
+   "racket"
+  ],
+  "antonyms": [
+   "silence",
+   "calm"
+  ],
+  "translation": "врява, шумен протест"
+ },
+ {
+  "id": 832,
+  "page": 263,
+  "word": "a hive",
+  "definition": "A structure in which bees live; a place full of busy activity.",
+  "synonyms": "beehive; busy place",
+  "antonyms": null,
+  "translation": "кошер; оживено място"
+ },
+ {
+  "id": 833,
+  "page": 263,
+  "word": "wilful",
+  "definition": "Having or showing a stubborn and determined intention to do as one wants.",
+  "synonyms": [
+   "stubborn",
+   "headstrong",
+   "obstinate"
+  ],
+  "antonyms": [
+   "docile",
+   "compliant"
+  ],
+  "translation": "своенравен, упорит"
+ },
+ {
+  "id": 834,
+  "page": 264,
+  "word": "wrath",
+  "definition": "Extreme anger.",
+  "synonyms": [
+   "anger",
+   "fury",
+   "rage"
+  ],
+  "antonyms": [
+   "calm",
+   "pleasure"
+  ],
+  "translation": "гняв, ярост"
+ },
+ {
+  "id": 835,
+  "page": 264,
+  "word": "gale",
+  "definition": "A very strong wind.",
+  "synonyms": [
+   "storm",
+   "tempest",
+   "blast"
+  ],
+  "antonyms": [
+   "calm",
+   "breeze"
+  ],
+  "translation": "буря, силен вятър"
+ },
+ {
+  "id": 836,
+  "page": 264,
+  "word": "besieged",
+  "definition": "Surrounded by armed forces in order to capture; harassed persistently.",
+  "synonyms": [
+   "surrounded",
+   "beset",
+   "blockaded"
+  ],
+  "antonyms": [
+   "relieved",
+   "liberated"
+  ],
+  "translation": "обсаден"
+ },
+ {
+  "id": 837,
+  "page": 264,
+  "word": "war-beacons",
+  "definition": "Fires lit on hilltops to give warning of war or summon help.",
+  "synonyms": [
+   "signal-fires",
+   "warning fires"
+  ],
+  "antonyms": null,
+  "translation": "военни сигнални огньове"
+ },
+ {
+  "id": 838,
+  "page": 264,
+  "word": "folly",
+  "definition": "Foolishness; a lack of good sense.",
+  "synonyms": [
+   "foolishness",
+   "stupidity",
+   "madness"
+  ],
+  "antonyms": [
+   "wisdom",
+   "prudence"
+  ],
+  "translation": "глупост, безразсъдство"
+ },
+ {
+  "id": 839,
+  "page": 265,
+  "word": "obtain (verb)",
+  "definition": "To get, acquire, or secure something.",
+  "synonyms": [
+   "acquire",
+   "get",
+   "gain"
+  ],
+  "antonyms": [
+   "lose",
+   "forfeit"
+  ],
+  "translation": "получавам, сдобивам се"
+ },
+ {
+  "id": 840,
+  "page": 266,
+  "word": "unguessed",
+  "definition": "Not guessed or suspected.",
+  "synonyms": [
+   "unsuspected",
+   "unforeseen"
+  ],
+  "antonyms": [
+   "guessed",
+   "anticipated"
+  ],
+  "translation": "неподозиран, непредвиден"
+ },
+ {
+  "id": 841,
+  "page": 266,
+  "word": "respite",
+  "definition": "A short period of rest or relief from something difficult.",
+  "synonyms": [
+   "break",
+   "rest",
+   "pause"
+  ],
+  "antonyms": "continuation",
+  "translation": "отдих, отсрочка"
+ },
+ {
+  "id": 842,
+  "page": 266,
+  "word": "waning",
+  "definition": "(Of the moon) showing a decreasing area of brightness; diminishing.",
+  "synonyms": [
+   "diminishing",
+   "fading",
+   "decreasing"
+  ],
+  "antonyms": [
+   "waxing",
+   "growing"
+  ],
+  "translation": "намаляващ, отслабващ"
+ },
+ {
+  "id": 843,
+  "page": 266,
+  "word": "assailing",
+  "definition": "Making a concerted or violent attack on.",
+  "synonyms": [
+   "attacking",
+   "assaulting",
+   "besieging"
+  ],
+  "antonyms": "defending",
+  "translation": "нападащ, атакуващ"
+ },
+ {
+  "id": 844,
+  "page": 267,
+  "word": "wanes",
+  "definition": "Decreases in vigour or extent; (of the moon) appears smaller.",
+  "synonyms": [
+   "diminishes",
+   "declines",
+   "fades"
+  ],
+  "antonyms": "waxes",
+  "translation": "намалява, отслабва"
+ },
+ {
+  "id": 845,
+  "page": 269,
+  "word": "nicety",
+  "definition": "A subtle distinction or detail; a fine point.",
+  "synonyms": [
+   "subtlety",
+   "finesse",
+   "refinement"
+  ],
+  "antonyms": "crudeness",
+  "translation": "тънкост, фин нюанс"
+ },
+ {
+  "id": 846,
+  "page": 270,
+  "word": "vainly",
+  "definition": "In a way that does not result in the desired outcome; in vain.",
+  "synonyms": [
+   "fruitlessly",
+   "uselessly",
+   "unsuccessfully"
+  ],
+  "antonyms": "successfully",
+  "translation": "напразно, безуспешно"
+ },
+ {
+  "id": 847,
+  "page": 270,
+  "word": "overwhelming",
+  "definition": "Very great in amount; very strong; defeating completely.",
+  "synonyms": [
+   "enormous",
+   "immense",
+   "crushing"
+  ],
+  "antonyms": [
+   "manageable",
+   "small"
+  ],
+  "translation": "смазващ, поразителен"
+ },
+ {
+  "id": 848,
+  "page": 270,
+  "word": "keenness",
+  "definition": "Sharpness or quickness, especially of mind or senses; eagerness.",
+  "synonyms": [
+   "sharpness",
+   "enthusiasm",
+   "eagerness"
+  ],
+  "antonyms": [
+   "dullness",
+   "apathy"
+  ],
+  "translation": "острота, жар"
+ },
+ {
+  "id": 849,
+  "page": 272,
+  "word": "crept",
+  "definition": "(Past of creep) moved slowly and quietly, especially with stealth.",
+  "synonyms": [
+   "sneaked",
+   "tiptoed",
+   "crawled"
+  ],
+  "antonyms": null,
+  "translation": "пълзеше, промъкна се"
+ },
+ {
+  "id": 850,
+  "page": 272,
+  "word": "cheek",
+  "definition": "Impertinent behaviour or talk; boldness or audacity.",
+  "synonyms": [
+   "impudence",
+   "audacity",
+   "nerve"
+  ],
+  "antonyms": [
+   "meekness",
+   "politeness"
+  ],
+  "translation": "дързост, нахалство"
+ }
+]

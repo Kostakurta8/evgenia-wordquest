@@ -1,0 +1,452 @@
+[
+ {
+  "id": 951,
+  "word": "snout",
+  "explanationBg": "Издадената напред част от главата на животно — носът и устата заедно, както при прасе, куче или вълк.",
+  "explanationEn": "The long nose and mouth part of an animal's face, for example on a pig or a dog.",
+  "exampleEn": "The dog pressed its wet snout against the window when it saw us coming home.",
+  "mnemonicBg": "Snout завършва на „out“ (навън) — муцунката винаги стърчи НАВЪН от лицето и души напред.",
+  "ipa": "/ˈsnaʊt/"
+ },
+ {
+  "id": 952,
+  "word": "twang",
+  "explanationBg": "Резкият трептящ звук, който издава опъната струна или тел, когато я дръпнеш и пуснеш — онова „дзън!“ на китара или лък.",
+  "explanationEn": "The sharp ringing sound a tight string makes when you pluck it.",
+  "exampleEn": "Every time he tunes his guitar, you can hear the twang of each string through the wall.",
+  "mnemonicBg": "Twang е дума-звук — дръпни опъната струна и тя сама се представя: „туанг!“",
+  "ipa": "/ˈtwæŋ/"
+ },
+ {
+  "id": 953,
+  "word": "sighing",
+  "explanationBg": "Когато изпускаш дълга, дълбока въздишка, която се чува — от тъга, умора или пък от облекчение.",
+  "explanationEn": "Letting out a long, deep breath because you are sad, tired, or relieved.",
+  "exampleEn": "She kept sighing over her maths homework until her brother offered to help.",
+  "mnemonicBg": "Sigh се чете „сай“ — почти като „ссс-аййй…“, звукът, когато бавно изпускаш тежка въздишка като спукан балон.",
+  "ipa": "/ˈsaɪɪŋ/"
+ },
+ {
+  "id": 954,
+  "word": "radiance",
+  "explanationBg": "Светлината или топлината, която нещо излъчва; казва се и за човек, който направо грее от щастие.",
+  "explanationEn": "Bright light that something gives off, or a glowing look of happiness.",
+  "exampleEn": "You could see the radiance on her face when she finally won the gold medal.",
+  "mnemonicBg": "Сети се за РАДИАтора — както той излъчва топлина, така radiance е излъчваното сияние.",
+  "ipa": "/ˈreɪdiəns/"
+ },
+ {
+  "id": 955,
+  "word": "routed",
+  "explanationBg": "Толкова тежко победен, че бягаш от бойното поле или от терена в пълен безпорядък и паника.",
+  "explanationEn": "Completely defeated and forced to run away in confusion.",
+  "exampleEn": "Our basketball team was routed 98-40, and nobody said a word on the bus home.",
+  "mnemonicBg": "В routed се крие „route“ (път) — разгромените хващат първия път и бягат, накъдето им видят очите.",
+  "ipa": "/ˈraʊtɪd/"
+ },
+ {
+  "id": 956,
+  "word": "sheathing",
+  "explanationBg": "Прибиране на меч или нож обратно в калъфа му; в по-широк смисъл — обвиване на нещо със защитен слой.",
+  "explanationEn": "Putting a sword or knife back into its cover, or wrapping something in a protective layer.",
+  "exampleEn": "After chopping the vegetables, dad insisted on sheathing the knife before putting it in the drawer.",
+  "mnemonicBg": "„Шийдинг“ звучи почти като „шиене“ — рицарят „зашива“ меча обратно в калъфа след битката.",
+  "ipa": "/ˈʃiːðɪŋ/"
+ },
+ {
+  "id": 957,
+  "word": "singed",
+  "explanationBg": "Леко обгорен само по повърхността или по краищата — както когато пламък близне за миг косата или ръкава ти.",
+  "explanationEn": "Burned slightly on the surface or the edges only.",
+  "exampleEn": "I leaned too close to the campfire and singed the sleeve of my hoodie.",
+  "mnemonicBg": "Sing + ed: пееше си до свещта, наведе се твърде близо… и опърли вежди — singed!",
+  "ipa": "/ˈsɪndʒd/"
+ },
+ {
+  "id": 958,
+  "word": "in vain",
+  "explanationBg": "Без никакъв резултат — стараеш се, чакаш или опитваш, но усилието не води доникъде.",
+  "explanationEn": "Without success; with no useful result.",
+  "exampleEn": "We waited in vain for the bus; after an hour we just walked home in the rain.",
+  "mnemonicBg": "Vain звучи като „вее“ — усилията ти ги отвява вятърът: всичко е било на вятъра.",
+  "ipa": "/ɪn ˈveɪn/"
+ },
+ {
+  "id": 959,
+  "word": "charred",
+  "explanationBg": "Изгорял дотам, че повърхността е станала черна — като филийка, престояла прекалено дълго в тостера.",
+  "explanationEn": "Burned until the surface turns black.",
+  "exampleEn": "The burgers got charred because we were all watching the match instead of the grill.",
+  "mnemonicBg": "Char звучи като „чар“ — но изгорелият до черно сандвич няма никакъв чар.",
+  "ipa": "/ˈtʃɑːd/"
+ },
+ {
+  "id": 960,
+  "word": "likeliest",
+  "explanationBg": "Този, за който има най-голям шанс — вариантът, на който е най-разумно да заложиш, че ще се случи.",
+  "explanationEn": "The most probable one; the one with the biggest chance of happening.",
+  "exampleEn": "Rain is the likeliest reason the match will be moved indoors tomorrow.",
+  "mnemonicBg": "Likeliest = вариантът с най-много ЛАЙКове от съдбата — него е най-сигурно да очакваш.",
+  "ipa": "/ˈlaɪkliɪst/"
+ },
+ {
+  "id": 961,
+  "word": "decayed",
+  "explanationBg": "Изгнил и разпаднал се с времето — като прогнило дърво или развален зъб; казва се и за нещо, което е западнало.",
+  "explanationEn": "Rotten or broken down by time, like bad wood or a bad tooth.",
+  "exampleEn": "The dentist showed me the decayed tooth on the X-ray, and I promised to stop skipping brushing.",
+  "mnemonicBg": "Decayed ~ „де-КЕЙК-д“ — торта (cake), забравена с месеци в раницата, се превръща в гниеща каша.",
+  "ipa": "/dɪˈkeɪd/"
+ },
+ {
+  "id": 962,
+  "word": "footsore",
+  "explanationBg": "С изморени и разранени от много ходене стъпала — когато всяка следваща крачка пари.",
+  "explanationEn": "Having painful, tired feet after walking a lot.",
+  "exampleEn": "After the three-day school trip we were all footsore and dreaming of our own beds.",
+  "mnemonicBg": "Foot (крак) + sore (болящ): футболист след 120 минути игра — краката му са „фут-сор“ и всяка стъпка пари.",
+  "ipa": "/ˈfʊtsɔː/"
+ },
+ {
+  "id": 963,
+  "word": "doggedly",
+  "explanationBg": "С желязно постоянство, без отказване — продължаваш напред каквото и да се изпречи на пътя ти.",
+  "explanationEn": "In a very determined way, refusing to give up.",
+  "exampleEn": "She doggedly practised the same skateboard trick every evening until she finally landed it.",
+  "mnemonicBg": "Вътре се крие „dog“ — куче, захапало кокала: дърпай колкото щеш, то не пуска — кучешка упоритост.",
+  "ipa": "/ˈdɒɡɪdli/"
+ },
+ {
+  "id": 964,
+  "word": "veering",
+  "explanationBg": "Рязко завиване встрани — когато нещо, което се движи, внезапно сменя посоката си.",
+  "explanationEn": "Suddenly changing direction while moving.",
+  "exampleEn": "The cyclist kept veering left and right to dodge the puddles on the path.",
+  "mnemonicBg": "Veering звучи като „вираж“ — колата прави рязък вираж и хуква в съвсем друга посока.",
+  "ipa": "/ˈvɪərɪŋ/"
+ },
+ {
+  "id": 965,
+  "word": "reared vast",
+  "explanationBg": "Издигна се внезапно и огромно пред очите ти — като скала или сграда, която сякаш се изправя от земята и закрива небето.",
+  "explanationEn": "Rose up suddenly and looked huge, like a wall or a mountain.",
+  "exampleEn": "When we reached the city centre, the new glass tower reared vast above the old houses.",
+  "mnemonicBg": "Представи си кон-планина, който се изправя (rears) на задните си крака пред теб — огромен (vast) чак до небето.",
+  "ipa": "/ˌrɪəd ˈvɑːst/"
+ },
+ {
+  "id": 966,
+  "word": "pallid",
+  "explanationBg": "С лице без капка цвят — най-често защото човекът е болен, изтощен или много уплашен.",
+  "explanationEn": "Very pale in the face, usually because of illness or fear.",
+  "exampleEn": "He looked so pallid after the rollercoaster that we made him sit down and drink some water.",
+  "mnemonicBg": "Pallid ~ „палитра“ — но палитра, от която някой е откраднал всички цветове: останало е само бледото.",
+  "ipa": "/ˈpælɪd/"
+ },
+ {
+  "id": 967,
+  "word": "fissure",
+  "explanationBg": "Дълга и тясна цепка в скала или в земята — процеп, отворил се там, където камъкът се е напукал.",
+  "explanationEn": "A long, narrow crack in rock or in the ground.",
+  "exampleEn": "During the hike we jumped over a narrow fissure that split the rock in two.",
+  "mnemonicBg": "Fissure започва с „fish“ — представи си риба, заклещена в тясна цепнатина на скалата.",
+  "ipa": "/ˈfɪʃə/"
+ },
+ {
+  "id": 968,
+  "word": "impassable",
+  "explanationBg": "През който не може да се мине — път или място, напълно препречено от сняг, вода или срутени камъни.",
+  "explanationEn": "Impossible to travel through or across.",
+  "exampleEn": "The snowstorm made the road to school impassable, so we got two days off.",
+  "mnemonicBg": "Im-PASS-able: пред теб стои защитник-стена и никакъв пас не минава — пътят е запушен.",
+  "ipa": "/ɪmˈpɑːsəbl/"
+ },
+ {
+  "id": 969,
+  "word": "frowning stone",
+  "explanationBg": "Камък или скала, които изглеждат заплашително и навъсено — сякаш са се намръщили срещу теб.",
+  "explanationEn": "Stone that looks grim and threatening, as if it is angry.",
+  "exampleEn": "The school's old gate is built of frowning stone, and on rainy days it looks even grimmer.",
+  "mnemonicBg": "Камък с вежди, смръщен (frowning) като учител пред празно домашно — чак скалата ти се сърди.",
+  "ipa": "/ˌfraʊnɪŋ ˈstəʊn/"
+ },
+ {
+  "id": 970,
+  "word": "unwholesome",
+  "explanationBg": "Който вреди на здравето или на характера — от развалена храна и застоял въздух до лошо влияние от компанията.",
+  "explanationEn": "Bad for your health, or having a harmful influence on you.",
+  "exampleEn": "Scrolling on your phone until 3 a.m. is an unwholesome habit before a school day.",
+  "mnemonicBg": "Wholesome е „здравословно“, а un- му пробива дупка (hole) — храна с „дупка“ в качеството е вредна.",
+  "ipa": "/ʌnˈhəʊlsəm/"
+ },
+ {
+  "id": 971,
+  "word": "tread",
+  "explanationBg": "Начинът, по който стъпваш при ходене — лека или тежка стъпка; като глагол значи да стъпиш или да вървиш по нещо.",
+  "explanationEn": "The way a person walks, or to step or walk on something.",
+  "exampleEn": "Watch where you tread — my little sister left Lego pieces all over the floor.",
+  "mnemonicBg": "Tread ~ „тротоар“ — и двете започват с „тр“ и са за стъпване: крачка след крачка по тротоара.",
+  "ipa": "/ˈtred/"
+ },
+ {
+  "id": 972,
+  "word": "obliged",
+  "explanationBg": "Длъжен да направиш нещо — защото правилата или съвестта го изискват, или защото някой ти е помогнал и му дължиш благодарност.",
+  "explanationEn": "Feeling you must do something, or thankful because someone helped you.",
+  "exampleEn": "I felt obliged to help clean up after the party since it was at my place.",
+  "mnemonicBg": "Obliged ~ „облигация“ — облигацията е дълг на хартия, а задълженият човек е „вързан“ със същата връвчица.",
+  "ipa": "/əˈblaɪdʒd/"
+ },
+ {
+  "id": 973,
+  "word": "undeterred",
+  "explanationBg": "Който не се отказва и не се стряска от пречките — трудностите не успяват да го спрат.",
+  "explanationEn": "Not stopped or discouraged by difficulties; continuing anyway.",
+  "exampleEn": "Undeterred by the rain, the fans queued for hours outside the arena.",
+  "mnemonicBg": "Un-de-TERRED ~ „не ТЪРТИ“ — който е undeterred, не търти да бяга при първата трудност.",
+  "ipa": "/ˌʌndɪˈtɜːd/"
+ },
+ {
+  "id": 974,
+  "word": "ripples",
+  "explanationBg": "Дребните вълнички по повърхността на водата — кръгчетата, които се разбягват, щом хвърлиш камъче в езерото.",
+  "explanationEn": "Tiny waves moving across the surface of water.",
+  "exampleEn": "We sat by the lake watching the ripples spread every time a fish touched the surface.",
+  "mnemonicBg": "Хвърляш камъче и водата „рипва“ — рип-рип-ripples — вълничките хукват на кръгчета.",
+  "ipa": "/ˈrɪplz/"
+ },
+ {
+  "id": 975,
+  "word": "veiled",
+  "explanationBg": "Покрит или скрит сякаш зад тънко було — не се вижда ясно или нарочно е замаскиран.",
+  "explanationEn": "Covered or hidden, as if behind a thin cloth.",
+  "exampleEn": "The mountain peak was veiled in morning mist until the sun broke through.",
+  "mnemonicBg": "Veiled ~ „воал“ — булка с воал: лицето е там, но е забулено и едва се вижда.",
+  "ipa": "/ˈveɪld/"
+ },
+ {
+  "id": 976,
+  "word": "water-skins",
+  "explanationBg": "Торби от животинска кожа, в които пътниците някога носели вода — старинните „бутилки“ за из път.",
+  "explanationEn": "Bags made of animal skin for carrying water on a journey.",
+  "exampleEn": "At survival camp we learned that travellers once carried water-skins instead of plastic bottles.",
+  "mnemonicBg": "Water (вода) + skins (кожи) — кожени „бутилки“: представи си мек мех, който се клатушка, пълен с вода.",
+  "ipa": "/ˈwɔːtəskɪnz/"
+ },
+ {
+  "id": 977,
+  "word": "sullenly",
+  "explanationBg": "Нацупено и сърдито — мълчиш, гледаш изпод вежди и отговаряш едносрично, защото си обиден.",
+  "explanationEn": "In a silent, bad-tempered, offended way.",
+  "exampleEn": "He sat sullenly at the back of the class after the teacher took his phone.",
+  "mnemonicBg": "Sullenly започва като „сълза“ — нацупен до сълзи, гледаш в пода и цедиш по една дума.",
+  "ipa": "/ˈsʌlənli/"
+ },
+ {
+  "id": 978,
+  "word": "fitfully",
+  "explanationBg": "Ту започва, ту спира — без равномерен ритъм; така спиш, когато сънят ти постоянно се прекъсва.",
+  "explanationEn": "In a stop-and-start way, not steadily or regularly.",
+  "exampleEn": "I slept fitfully before the exam, waking up almost every hour.",
+  "mnemonicBg": "Fitfully е като слаб Wi-Fi — ту има сигнал, ту няма: всичко върви на пресекулки.",
+  "ipa": "/ˈfɪtfəli/"
+ },
+ {
+  "id": 979,
+  "word": "anvil",
+  "explanationBg": "Тежкият железен блок на ковача — върху него той кове с чука нажеженото желязо, за да го оформи.",
+  "explanationEn": "A heavy iron block on which hot metal is hammered into shape.",
+  "exampleEn": "In old cartoons an anvil always falls on the villain's head with a loud clang.",
+  "mnemonicBg": "Сети се за анимационките — тежкото желязо, което пада с „КЛАНГ!“ върху героя, е точно anvil.",
+  "ipa": "/ˈænvɪl/"
+ },
+ {
+  "id": 980,
+  "word": "crescent",
+  "explanationBg": "Формата на тънкия лунен сърп — извита дъга; така се нарича и всеки предмет с такава форма.",
+  "explanationEn": "The thin curved shape of the moon, or anything with that shape.",
+  "exampleEn": "She drew a tiny crescent moon next to her name in her notebook.",
+  "mnemonicBg": "Crescent ~ кроасан — кроасанът е изпечен полумесец (на френски croissant значи точно това).",
+  "ipa": "/ˈkresnt/"
+ },
+ {
+  "id": 981,
+  "word": "inscription",
+  "explanationBg": "Текст, издълбан или изписан върху нещо — паметник, медал, пръстен или първата страница на подарена книга.",
+  "explanationEn": "Words written or carved on something like a monument, a ring, or a book.",
+  "exampleEn": "The medal had a small inscription on the back with the date of the tournament.",
+  "mnemonicBg": "In + script („скрипт“, писание) — текст, „вписан В“ камъка или метала, за да остане за векове.",
+  "ipa": "/ɪnˈskrɪpʃn/"
+ },
+ {
+  "id": 982,
+  "word": "dismayed",
+  "explanationBg": "Неприятно стреснат и угрижен — нещо лошо и неочаквано те е извадило от равновесие.",
+  "explanationEn": "Upset and worried by something bad or unexpected.",
+  "exampleEn": "We were dismayed to find out the concert had been cancelled an hour before it started.",
+  "mnemonicBg": "Dismayed звучи като „смаян“ — ама смаян от лоша изненада: ококорен, стреснат и разтревожен.",
+  "ipa": "/dɪsˈmeɪd/"
+ },
+ {
+  "id": 983,
+  "word": "accursed",
+  "explanationBg": "Белязан от проклятие; казва се и за нещо толкова гадно и досадно, сякаш носи лош късмет.",
+  "explanationEn": "Under a curse, or so awful that it seems cursed.",
+  "exampleEn": "This accursed printer always jams right before my project deadline.",
+  "mnemonicBg": "Чуй „curse“ (проклятие) по средата: ac-CURSE-d — нещо, върху което виси проклятие.",
+  "ipa": "/əˈkɜːsɪd/"
+ },
+ {
+  "id": 984,
+  "word": "unmoved",
+  "explanationBg": "Който остава хладен и невъзмутим — нищо не го трогва, не се вълнува и не си променя решението.",
+  "explanationEn": "Not touched by emotion; staying calm and firm.",
+  "exampleEn": "The referee remained unmoved despite the whole stadium booing his decision.",
+  "mnemonicBg": "Un + moved = „непомръднал“ — статуя в парка: дъжд, гълъби, дискотека — тя не трепва.",
+  "ipa": "/ʌnˈmuːvd/"
+ },
+ {
+  "id": 985,
+  "word": "outwards",
+  "explanationBg": "Посока навън — от средата или вътрешността към външната страна.",
+  "explanationEn": "In a direction away from the centre or the inside.",
+  "exampleEn": "Push the window handle outwards to open it fully.",
+  "mnemonicBg": "„Аут!“ вика съдията, когато топката излети НАВЪН — out-wards е точно посоката навън.",
+  "ipa": "/ˈaʊtwədz/"
+ },
+ {
+  "id": 986,
+  "word": "inwards",
+  "explanationBg": "Посока навътре — от външната страна към средата или вътрешността на нещо.",
+  "explanationEn": "In a direction towards the inside or the centre.",
+  "exampleEn": "The gym doors open inwards, so pull instead of pushing.",
+  "mnemonicBg": "Щом „аут“ е вън, „ин“ е вътре — in-wards сочи навътре, към сърцевината.",
+  "ipa": "/ˈɪnwədz/"
+ },
+ {
+  "id": 987,
+  "word": "undaunted",
+  "explanationBg": "Безстрашен и несломим — нито опасност, нито провал могат да го уплашат или да го откажат.",
+  "explanationEn": "Not afraid or discouraged, even in danger or difficulty.",
+  "exampleEn": "Undaunted by losing the first set, she fought back and won the tennis match.",
+  "mnemonicBg": "Страхът чука на вратата, а ти му казваш „DON'T!“ — un-DAUNT-ed: неустрашим.",
+  "ipa": "/ʌnˈdɔːntɪd/"
+ },
+ {
+  "id": 988,
+  "word": "a swish",
+  "explanationBg": "Звукът „суиш“ — рязко свистене, когато нещо бързо пори въздуха: замах с пръчка, развята пола, профучала топка.",
+  "explanationEn": "A soft hissing sound made by something moving fast through the air.",
+  "exampleEn": "With a swish of the net, her three-point shot dropped straight in.",
+  "mnemonicBg": "Кажи я на глас — „суиШШШ!“ — и чуваш как пръчка пори въздуха или как чиста тройка профучава през мрежичката.",
+  "ipa": "/ə ˈswɪʃ/"
+ },
+ {
+  "id": 989,
+  "word": "archway",
+  "explanationBg": "Вход или проход с извита дъга отгоре — като сводестите порти на замъци и стари къщи.",
+  "explanationEn": "An entrance or passage with a curved arch over it.",
+  "exampleEn": "We met under the stone archway at the park entrance before the picnic.",
+  "mnemonicBg": "Arch (арка) + way (път) — път под арка: минаваш през каменната дъга като през портал.",
+  "ipa": "/ˈɑːtʃweɪ/"
+ },
+ {
+  "id": 990,
+  "word": "weeping",
+  "explanationBg": "Ронене на сълзи — по-мека, книжна дума за това, че някой плаче.",
+  "explanationEn": "Crying; letting tears fall.",
+  "exampleEn": "Half the cinema was weeping at the end of the film, including my dad.",
+  "mnemonicBg": "Запомни с „weeping willow“ — плачещата върба, чиито клони висят надолу като сълзи.",
+  "ipa": "/ˈwiːpɪŋ/"
+ },
+ {
+  "id": 991,
+  "word": "seething",
+  "explanationBg": "За вода — която ври, съска и се пени; за човек — който вътрешно кипи от силно чувство, най-често гняв.",
+  "explanationEn": "Boiling and bubbling like angry water, or full of strong emotion such as anger.",
+  "exampleEn": "She was quietly seething after her brother spoiled the season finale for her.",
+  "mnemonicBg": "Чуй съскането: „сссийдинг“ — тенджера, която ври, съска и всеки миг ще изкипи от яд.",
+  "ipa": "/ˈsiːðɪŋ/"
+ },
+ {
+  "id": 992,
+  "word": "host of snakes",
+  "explanationBg": "Цяло гъмжило от змии — огромен брой влечуги, събрани на едно място.",
+  "explanationEn": "A very large group of snakes together in one place.",
+  "exampleEn": "In my nightmare a host of snakes slithered out of my locker right before the biology test.",
+  "mnemonicBg": "Host значи и „домакин“ — представи си домакин, който отваря вратата и заварва парти от стотици змии-гости: цяло множество!",
+  "ipa": "/ˌhəʊst əv ˈsneɪks/"
+ },
+ {
+  "id": 993,
+  "word": "sinuous",
+  "explanationBg": "Който се вие на плавни извивки и завои — като планинска река или като движението на змия.",
+  "explanationEn": "Full of smooth curves and turns, like a snake or a winding river.",
+  "exampleEn": "The sinuous mountain road made half the bus feel carsick on the way to camp.",
+  "mnemonicBg": "Sinuous ~ „синус“ от математиката — синусоидата се вие нагоре-надолу точно на такива плавни вълни.",
+  "ipa": "/ˈsɪnjuəs/"
+ },
+ {
+  "id": 994,
+  "word": "tantacle",
+  "explanationBg": "Пипало — дългата гъвкава „ръка“ на животни като октопода, с която той хваща храна и опипва наоколо.",
+  "explanationEn": "A long, bendy arm of an animal such as an octopus, used for holding things (correct spelling: tentacle).",
+  "exampleEn": "My friend wrote 'tantacle' in his sea-life project, but the teacher corrected it to 'tentacle', the octopus arm.",
+  "mnemonicBg": "В книгата пише „tantacle“, но правилното е tEntacle — представи си октопод, разперил пипала да си прави ТЕН на плажа.",
+  "ipa": "/ˈtentəkl/"
+ },
+ {
+  "id": 995,
+  "word": "luminous",
+  "explanationBg": "Който излъчва светлина и сияе сам — като светещите стрелки на часовник или звездичките за таван.",
+  "explanationEn": "Giving off light; glowing or shining.",
+  "exampleEn": "We stuck luminous star stickers on the ceiling, and they glow long after lights-out.",
+  "mnemonicBg": "Сети се за „илюминация“ — празничните светлини: всичко, което излъчва светлина, е luminous.",
+  "ipa": "/ˈluːmɪnəs/"
+ },
+ {
+  "id": 996,
+  "word": "slashing",
+  "explanationBg": "Сечащ с широк замах — рязко, мощно движение, което разсича въздуха или целта.",
+  "explanationEn": "Cutting or hitting with big sweeping strokes.",
+  "exampleEn": "In the new game you unlock a katana for slashing through waves of zombie enemies.",
+  "mnemonicBg": "Знакът „/“ на клавиатурата се казва slash — мечът реже въздуха и оставя следа като наклонена черта.",
+  "ipa": "/ˈslæʃɪŋ/"
+ },
+ {
+  "id": 997,
+  "word": "rippling out",
+  "explanationBg": "Разпространяване навън на вълни — като кръговете от хвърлено камъче, които се разширяват все по-надалеч.",
+  "explanationEn": "Spreading outwards in small waves, like circles in water.",
+  "exampleEn": "The news about the surprise test went rippling out through the class group chats in minutes.",
+  "mnemonicBg": "Камъчето цопва, водата „рипва“ и кръгчетата плъзват навън едно след друго — rippling out.",
+  "ipa": "/ˌrɪplɪŋ ˈaʊt/"
+ },
+ {
+  "id": 998,
+  "word": "stench",
+  "explanationBg": "Толкова силна и гадна миризма, че ти иде да си запушиш носа и да избягаш.",
+  "explanationEn": "A very strong and very unpleasant smell.",
+  "exampleEn": "The stench from the forgotten gym bag hit us the moment we opened the locker.",
+  "mnemonicBg": "Stench звучи като „стене“ — вонята е такава, че целият клас стене и си запушва носа.",
+  "ipa": "/ˈstentʃ/"
+ },
+ {
+  "id": 999,
+  "word": "tentacles",
+  "explanationBg": "Пипалата на октопода или медузата — дълги, гъвкави „ръце“, с които животното хваща храна и се движи.",
+  "explanationEn": "The long, flexible arms of animals like octopuses, used for grabbing.",
+  "exampleEn": "The aquarium octopus used two tentacles to unscrew the jar and grab its snack.",
+  "mnemonicBg": "Tenta-cles ~ „тента“ — октопод, опънал осемте си пипала като тента над плажа, за да пази сянка на рибките.",
+  "ipa": "/ˈtentəklz/"
+ },
+ {
+  "id": 1000,
+  "word": "shattering",
+  "explanationBg": "Разбиване на парчета с трясък — когато нещо се пръсва на хиляди късчета; казва се и за разтърсваща новина.",
+  "explanationEn": "Breaking violently into many small pieces; also deeply shocking.",
+  "exampleEn": "Our street football game ended with the shattering of the neighbour's kitchen window.",
+  "mnemonicBg": "Shattering ~ „шатра“ — вятърът събаря шатрата върху масата с чаши и всичко се пръсва на парченца.",
+  "ipa": "/ˈʃætərɪŋ/"
+ }
+]

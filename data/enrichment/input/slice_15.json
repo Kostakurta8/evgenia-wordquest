@@ -1,0 +1,691 @@
+[
+ {
+  "id": 701,
+  "page": 231,
+  "word": "merrymaking",
+  "definition": "The activity of celebrating or having fun, especially loudly.",
+  "synonyms": [
+   "revelry",
+   "festivity",
+   "celebration"
+  ],
+  "antonyms": "mourning",
+  "translation": "веселба, гуляй"
+ },
+ {
+  "id": 702,
+  "page": 231,
+  "word": "oblivious",
+  "definition": "Not aware of or not concerned about what is happening around one.",
+  "synonyms": [
+   "unaware",
+   "unconscious",
+   "heedless"
+  ],
+  "antonyms": [
+   "aware",
+   "conscious"
+  ],
+  "translation": "забравил, незабелязващ"
+ },
+ {
+  "id": 703,
+  "page": 231,
+  "word": "disturbance",
+  "definition": "The interruption of a settled state; a commotion.",
+  "synonyms": [
+   "interruption",
+   "commotion",
+   "disruption"
+  ],
+  "antonyms": [
+   "calm",
+   "order"
+  ],
+  "translation": "смущение, безпокойство"
+ },
+ {
+  "id": 704,
+  "page": 231,
+  "word": "mincemeat",
+  "definition": "A mixture of currants, raisins, sugar, apples, and spices used in pies.",
+  "synonyms": "mince",
+  "antonyms": null,
+  "translation": "месена смес за пай (плодова)"
+ },
+ {
+  "id": 705,
+  "page": 231,
+  "word": "tottering",
+  "definition": "Moving in a feeble or unsteady way; on the verge of collapse.",
+  "synonyms": [
+   "staggering",
+   "swaying",
+   "wobbling"
+  ],
+  "antonyms": "steady",
+  "translation": "клатушкащ се, нестабилен"
+ },
+ {
+  "id": 706,
+  "page": 232,
+  "word": "reluctance",
+  "definition": "Unwillingness or disinclination to do something.",
+  "synonyms": [
+   "unwillingness",
+   "hesitation"
+  ],
+  "antonyms": [
+   "willingness",
+   "eagerness"
+  ],
+  "translation": "нежелание, колебание"
+ },
+ {
+  "id": 707,
+  "page": 232,
+  "word": "distress",
+  "definition": "Extreme anxiety, sorrow, or pain.",
+  "synonyms": [
+   "anguish",
+   "suffering",
+   "sorrow"
+  ],
+  "antonyms": [
+   "comfort",
+   "joy"
+  ],
+  "translation": "мъка, страдание"
+ },
+ {
+  "id": 708,
+  "page": 233,
+  "word": "gravely",
+  "definition": "In a serious or solemn manner; seriously.",
+  "synonyms": [
+   "solemnly",
+   "seriously",
+   "soberly"
+  ],
+  "antonyms": [
+   "lightly",
+   "jokingly"
+  ],
+  "translation": "сериозно, мрачно"
+ },
+ {
+  "id": 709,
+  "page": 233,
+  "word": "unlooked-for",
+  "definition": "Not expected or anticipated.",
+  "synonyms": [
+   "unexpected",
+   "unforeseen",
+   "surprising"
+  ],
+  "antonyms": [
+   "expected",
+   "anticipated"
+  ],
+  "translation": "неочакван, ненадеен"
+ },
+ {
+  "id": 710,
+  "page": 233,
+  "word": "forlorn",
+  "definition": "Pitifully sad and abandoned or lonely.",
+  "synonyms": [
+   "desolate",
+   "lonely",
+   "miserable"
+  ],
+  "antonyms": [
+   "cheerful",
+   "hopeful"
+  ],
+  "translation": "тъжен, изоставен, окаян"
+ },
+ {
+  "id": 711,
+  "page": 233,
+  "word": "interwoven",
+  "definition": "Woven or interlinked together; very closely connected.",
+  "synonyms": [
+   "intertwined",
+   "interlinked",
+   "blended"
+  ],
+  "antonyms": [
+   "separate",
+   "distinct"
+  ],
+  "translation": "преплетен, сплетен заедно"
+ },
+ {
+  "id": 712,
+  "page": 233,
+  "word": "firelit",
+  "definition": "Lit by the light of a fire.",
+  "synonyms": [
+   "fire-illuminated",
+   "glowing"
+  ],
+  "antonyms": "dark",
+  "translation": "осветен от огън"
+ },
+ {
+  "id": 713,
+  "page": 233,
+  "word": "margins",
+  "definition": "The edges or borders of a surface or area.",
+  "synonyms": [
+   "edges",
+   "borders",
+   "brinks"
+  ],
+  "antonyms": [
+   "centre",
+   "middle"
+  ],
+  "translation": "краища, граници"
+ },
+ {
+  "id": 714,
+  "page": 233,
+  "word": "enchantment",
+  "definition": "The feeling of being enchanted; a magical spell.",
+  "synonyms": [
+   "magic",
+   "spell",
+   "charm"
+  ],
+  "antonyms": null,
+  "translation": "омайване, магия"
+ },
+ {
+  "id": 715,
+  "page": 233,
+  "word": "comprehended",
+  "definition": "Grasped mentally; understood.",
+  "synonyms": [
+   "understood",
+   "grasped",
+   "perceived"
+  ],
+  "antonyms": "misunderstood",
+  "translation": "разбираше, схвана"
+ },
+ {
+  "id": 716,
+  "page": 233,
+  "word": "multitudinous",
+  "definition": "Very numerous; consisting of a multitude.",
+  "synonyms": [
+   "numerous",
+   "countless",
+   "myriad"
+  ],
+  "antonyms": [
+   "few",
+   "scarce"
+  ],
+  "translation": "многоброен, безчислен"
+ },
+ {
+  "id": 717,
+  "page": 233,
+  "word": "throbbing",
+  "definition": "Beating or pulsating with a strong, regular rhythm.",
+  "synonyms": [
+   "pulsating",
+   "beating",
+   "pounding"
+  ],
+  "antonyms": "still",
+  "translation": "пулсиращ, биещ"
+ },
+ {
+  "id": 718,
+  "page": 233,
+  "word": "mariner",
+  "definition": "A sailor (literary or archaic).",
+  "synonyms": [
+   "sailor",
+   "seaman",
+   "seafarer"
+  ],
+  "antonyms": null,
+  "translation": "моряк"
+ },
+ {
+  "id": 719,
+  "page": 233,
+  "word": "tarry (verb)",
+  "definition": "To stay longer than intended; to delay leaving a place.",
+  "synonyms": [
+   "linger",
+   "loiter",
+   "delay"
+  ],
+  "antonyms": [
+   "hurry",
+   "leave"
+  ],
+  "translation": "бавя се, отлагам"
+ },
+ {
+  "id": 720,
+  "page": 233,
+  "word": "panoply",
+  "definition": "A complete or impressive collection of things; a full suit of armour.",
+  "synonyms": [
+   "array",
+   "splendour",
+   "suite"
+  ],
+  "antonyms": null,
+  "translation": "пълно бойно снаряжение, великолепие"
+ },
+ {
+  "id": 721,
+  "page": 234,
+  "word": "ebony",
+  "definition": "Heavy black wood from a tropical tree; the colour of this wood.",
+  "synonyms": [
+   "black wood",
+   "jet"
+  ],
+  "antonyms": null,
+  "translation": "абанос (черно дърво)"
+ },
+ {
+  "id": 722,
+  "page": 234,
+  "word": "habergeon",
+  "definition": "A medieval sleeveless coat of mail or scale armour.",
+  "synonyms": [
+   "mail-coat",
+   "chainmail"
+  ],
+  "antonyms": null,
+  "translation": "ризница, късо ризно облекло"
+ },
+ {
+  "id": 723,
+  "page": 234,
+  "word": "chalcedony",
+  "definition": "A type of quartz, often translucent, used as a gemstone.",
+  "synonyms": [
+   "quartz",
+   "gemstone"
+  ],
+  "antonyms": null,
+  "translation": "халцедон (камък)"
+ },
+ {
+  "id": 724,
+  "page": 234,
+  "word": "adamant",
+  "definition": "Refusing to be persuaded or to change one’s mind; or a legendary hard stone.",
+  "synonyms": [
+   "unyielding",
+   "firm; diamond"
+  ],
+  "antonyms": [
+   "flexible",
+   "soft"
+  ],
+  "translation": "твърд, непоколебим; адамант"
+ },
+ {
+  "id": 725,
+  "page": 234,
+  "word": "eagle-plume",
+  "definition": "A feather from an eagle, often used as a decorative crest.",
+  "synonyms": "eagle feather",
+  "antonyms": null,
+  "translation": "орлово перо"
+ },
+ {
+  "id": 726,
+  "page": 234,
+  "word": "nether",
+  "definition": "Lower in position; underground or infernal.",
+  "synonyms": [
+   "lower",
+   "under",
+   "beneath"
+  ],
+  "antonyms": [
+   "upper",
+   "above"
+  ],
+  "translation": "долен, преизподен"
+ },
+ {
+  "id": 727,
+  "page": 234,
+  "word": "dauntless",
+  "definition": "Showing fearlessness and determination.",
+  "synonyms": [
+   "fearless",
+   "bold",
+   "intrepid"
+  ],
+  "antonyms": [
+   "cowardly",
+   "timid"
+  ],
+  "translation": "безстрашен, неустрашим"
+ },
+ {
+  "id": 728,
+  "page": 234,
+  "word": "prow",
+  "definition": "The pointed front part of a ship or boat.",
+  "synonyms": [
+   "bow",
+   "front",
+   "fore"
+  ],
+  "antonyms": "stern",
+  "translation": "нос на кораб"
+ },
+ {
+  "id": 729,
+  "page": 235,
+  "word": "mithril",
+  "definition": "A fictional metal in Tolkien’s legendarium, silver-coloured, strong and lightweight.",
+  "synonyms": [
+   "true-silver",
+   "Moria-silver"
+  ],
+  "antonyms": null,
+  "translation": "митрил (елфическо сребро)"
+ },
+ {
+  "id": 730,
+  "page": 236,
+  "word": "mast",
+  "definition": "A tall upright post on a ship, supporting sails or rigging.",
+  "synonyms": [
+   "pole",
+   "spar",
+   "pillar"
+  ],
+  "antonyms": null,
+  "translation": "мачта"
+ },
+ {
+  "id": 731,
+  "page": 237,
+  "word": "acquire (verb)",
+  "definition": "To buy or obtain (an asset or object) for oneself.",
+  "synonyms": [
+   "obtain",
+   "get",
+   "gain"
+  ],
+  "antonyms": [
+   "lose",
+   "relinquish"
+  ],
+  "translation": "придобивам, сдобивам се"
+ },
+ {
+  "id": 732,
+  "page": 238,
+  "word": "elven-mail",
+  "definition": "Chainmail armour made by Elves (Tolkien).",
+  "synonyms": [
+   "elven armour",
+   "mithril-mail"
+  ],
+  "antonyms": null,
+  "translation": "елфическа ризница"
+ },
+ {
+  "id": 733,
+  "page": 239,
+  "word": "loud-flowing",
+  "definition": "Flowing with a strong, audible sound (of water).",
+  "synonyms": [
+   "rushing",
+   "roaring",
+   "gushing"
+  ],
+  "antonyms": "silent-flowing",
+  "translation": "шумно течащ"
+ },
+ {
+  "id": 734,
+  "page": 239,
+  "word": "gossamer",
+  "definition": "A fine, filmy substance, especially cobwebs spun by spiders; anything very light and delicate.",
+  "synonyms": [
+   "cobweb",
+   "fine fabric"
+  ],
+  "antonyms": "coarse fabric",
+  "translation": "паяжина, фин воал"
+ },
+ {
+  "id": 735,
+  "page": 239,
+  "word": "winding",
+  "definition": "Following a twisting or curving course.",
+  "synonyms": [
+   "twisting",
+   "meandering",
+   "sinuous"
+  ],
+  "antonyms": "straight",
+  "translation": "извиващ се, лъкатушещ"
+ },
+ {
+  "id": 736,
+  "page": 239,
+  "word": "trotted",
+  "definition": "Moved at a moderately fast pace, between walking and running.",
+  "synonyms": [
+   "jogged",
+   "ambled",
+   "loped"
+  ],
+  "antonyms": null,
+  "translation": "крачеше в тръс"
+ },
+ {
+  "id": 737,
+  "page": 239,
+  "word": "river-bed",
+  "definition": "The channel or bottom of a river.",
+  "synonyms": [
+   "channel",
+   "course",
+   "bottom"
+  ],
+  "antonyms": null,
+  "translation": "речно корито"
+ },
+ {
+  "id": 738,
+  "page": 240,
+  "word": "hither",
+  "definition": "(Archaic) to or towards this place.",
+  "synonyms": [
+   "here",
+   "this way"
+  ],
+  "antonyms": "thither",
+  "translation": "насам (архаично)"
+ },
+ {
+  "id": 739,
+  "page": 240,
+  "word": "errand",
+  "definition": "A short journey undertaken in order to deliver or collect something.",
+  "synonyms": [
+   "task",
+   "mission",
+   "message"
+  ],
+  "antonyms": null,
+  "translation": "поръчка, поръчение"
+ },
+ {
+  "id": 740,
+  "page": 240,
+  "word": "Shipwright",
+  "definition": "A shipbuilder; one who designs or constructs ships.",
+  "synonyms": [
+   "shipbuilder",
+   "naval architect"
+  ],
+  "antonyms": null,
+  "translation": "корабостроител"
+ },
+ {
+  "id": 741,
+  "page": 240,
+  "word": "stern of glance",
+  "definition": "Severe or grave in the look or gaze.",
+  "synonyms": [
+   "stern-eyed",
+   "grave-eyed"
+  ],
+  "antonyms": "gentle-eyed",
+  "translation": "със суров поглед"
+ },
+ {
+  "id": 742,
+  "page": 240,
+  "word": "stained",
+  "definition": "Marked or discoloured by stains.",
+  "synonyms": [
+   "discoloured",
+   "marked",
+   "blotched"
+  ],
+  "antonyms": [
+   "clean",
+   "spotless"
+  ],
+  "translation": "опетнен, обагрен"
+ },
+ {
+  "id": 743,
+  "page": 240,
+  "word": "shorn (verb)",
+  "definition": "(Past participle of shear) cut off, especially of hair or wool.",
+  "synonyms": [
+   "cut",
+   "trimmed",
+   "sheared"
+  ],
+  "antonyms": null,
+  "translation": "остриган, отрязан"
+ },
+ {
+  "id": 744,
+  "page": 240,
+  "word": "baldric",
+  "definition": "A belt worn over one shoulder, used to carry a sword or horn.",
+  "synonyms": [
+   "shoulder-belt",
+   "sash"
+  ],
+  "antonyms": null,
+  "translation": "презраменник, ремък за оръжие"
+ },
+ {
+  "id": 745,
+  "page": 240,
+  "word": "bidden (verb)",
+  "definition": "(Past participle of bid) invited or commanded.",
+  "synonyms": [
+   "invited",
+   "summoned",
+   "commanded"
+  ],
+  "antonyms": null,
+  "translation": "поканен, заповядан"
+ },
+ {
+  "id": 746,
+  "page": 240,
+  "word": "splendour",
+  "definition": "Magnificent and splendid appearance; grandeur.",
+  "synonyms": [
+   "magnificence",
+   "grandeur",
+   "glory"
+  ],
+  "antonyms": "plainness",
+  "translation": "великолепие, разкош"
+ },
+ {
+  "id": 747,
+  "page": 240,
+  "word": "disquiet",
+  "definition": "A feeling of worry or unease.",
+  "synonyms": [
+   "unease",
+   "anxiety",
+   "worry"
+  ],
+  "antonyms": [
+   "calm",
+   "peace"
+  ],
+  "translation": "безпокойство, тревога"
+ },
+ {
+  "id": 748,
+  "page": 240,
+  "word": "perceive (verb)",
+  "definition": "To become aware or conscious of (something); to come to realise or understand.",
+  "synonyms": [
+   "discern",
+   "observe",
+   "notice"
+  ],
+  "antonyms": [
+   "overlook",
+   "miss"
+  ],
+  "translation": "възприемам, усещам"
+ },
+ {
+  "id": 749,
+  "page": 240,
+  "word": "hemmed",
+  "definition": "Surrounded and restricted on all sides; bordered.",
+  "synonyms": [
+   "surrounded",
+   "enclosed",
+   "bordered"
+  ],
+  "antonyms": [
+   "free",
+   "open"
+  ],
+  "translation": "обграден, ограден"
+ },
+ {
+  "id": 750,
+  "page": 241,
+  "word": "willingly",
+  "definition": "Readily and of one’s own free will.",
+  "synonyms": [
+   "gladly",
+   "eagerly",
+   "voluntarily"
+  ],
+  "antonyms": [
+   "unwillingly",
+   "reluctantly"
+  ],
+  "translation": "охотно, доброволно"
+ }
+]

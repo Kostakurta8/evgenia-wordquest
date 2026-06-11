@@ -1,0 +1,452 @@
+[
+ {
+  "id": 251,
+  "word": "sloe",
+  "explanationBg": "Дребният синкаво-черен плод на трънката — толкова кисел и стипчив, че устата ти се свива още при първата хапка.",
+  "explanationEn": "A small dark blue-black fruit from the blackthorn bush with a very sour taste.",
+  "exampleEn": "We picked sloes by the hiking trail, and one bite made my whole face scrunch up.",
+  "mnemonicBg": "Sloe звучи като slow („бавно“) — хапваш трънка и лицето ти бааавно се сгърчва от киселото.",
+  "ipa": "/sləʊ/"
+ },
+ {
+  "id": 252,
+  "word": "dell",
+  "explanationBg": "Малка, закътана долинка, обикновено обрасла с дървета — тихо, скрито местенце между хълмовете.",
+  "explanationEn": "A small quiet valley, usually with trees.",
+  "exampleEn": "We set up our picnic in a shady dell just off the bike path.",
+  "mnemonicBg": "Представи си лаптоп Dell, забравен в тиха горска долчинка — dell = долчинка.",
+  "ipa": "/del/"
+ },
+ {
+  "id": 253,
+  "word": "thread",
+  "explanationBg": "Тънка, дълга нишка от памук, найлон или друг материал — конецът, с който се шие.",
+  "explanationEn": "A long, thin piece of cotton or other material used for sewing.",
+  "exampleEn": "My hoodie started falling apart, so Mum fixed it with a needle and thread.",
+  "mnemonicBg": "Познаваш „тред“ от социалните мрежи — нишка от съобщения; thread значи точно това: дълга тънка нишка.",
+  "ipa": "/θred/"
+ },
+ {
+  "id": 254,
+  "word": "mingle (verb)",
+  "explanationBg": "Да се смесваш с други хора или неща — например на парти да обикаляш и да се сливаш с различните групички.",
+  "explanationEn": "To mix together with other things or people.",
+  "exampleEn": "At the school dance everyone finally relaxed and started to mingle.",
+  "mnemonicBg": "Чуй „мин-гъл“ като „минавам и гълча“ — минаваш от група на група на партито и се смесваш с всички.",
+  "ipa": "/ˈmɪŋɡəl/"
+ },
+ {
+  "id": 255,
+  "word": "a shimmer",
+  "explanationBg": "Мека, трептяща светлинка — както луната се оглежда във водата и блясъкът ѝ нежно играе.",
+  "explanationEn": "A soft light that shines gently and seems to tremble.",
+  "exampleEn": "From our tent we watched the shimmer of the lake at sunset.",
+  "mnemonicBg": "Сещаш ли се за грим с „шимър“ ефект? Точно това е — нежно, трептящо блестене.",
+  "ipa": "/ˈʃɪmə/"
+ },
+ {
+  "id": 256,
+  "word": "rim",
+  "explanationBg": "Горният или външният ръб на нещо кръгло — ръбът на чаша, на колело или на баскетболен кош.",
+  "explanationEn": "The outside or top edge of something round, like a cup or a wheel.",
+  "exampleEn": "The ball bounced off the rim, and we lost by one point.",
+  "mnemonicBg": "Дзън! Топката издрънчава по железния ръб на коша — баскетболистите му казват rim.",
+  "ipa": "/rɪm/"
+ },
+ {
+  "id": 257,
+  "word": "lodge",
+  "explanationBg": "Малка къщичка до портата на парк или голямо имение — обикновено в нея живее пазачът.",
+  "explanationEn": "A small house at the entrance of a park or near a big house.",
+  "exampleEn": "We asked for directions at the lodge by the park gate.",
+  "mnemonicBg": "Звучи почти като „лоджия“ — само че не балконче, а цяла мъничка къщичка до портата.",
+  "ipa": "/lɒdʒ/"
+ },
+ {
+  "id": 258,
+  "word": "hillock",
+  "explanationBg": "Съвсем малко хълмче — бабунка земя, която стърчи над равното, но не е истински хълм.",
+  "explanationEn": "A very small hill.",
+  "exampleEn": "We rode our bikes over every hillock in the park until our legs gave up.",
+  "mnemonicBg": "Hill = хълм, а „-ock“ го смалява — хълмче, което гордо вика: „И аз съм хълм, ОК?!“",
+  "ipa": "/ˈhɪlək/"
+ },
+ {
+  "id": 259,
+  "word": "greensward",
+  "explanationBg": "Поляна, покрита с гъста зелена трева — мека морава, по която ти се иска да ходиш бос.",
+  "explanationEn": "An area of ground covered with green grass.",
+  "exampleEn": "After exams we sprawled on the greensward behind the school and did nothing for an hour.",
+  "mnemonicBg": "Green + sward (звучи като sword — меч): морава, окосена толкова равно, сякаш подстригана с меч.",
+  "ipa": "/ˈɡriːnswɔːd/"
+ },
+ {
+  "id": 260,
+  "word": "bower",
+  "explanationBg": "Уютно сенчесто кътче под дървета или увивни растения — като зелена стаичка на открито, скрита от слънцето.",
+  "explanationEn": "A pleasant shady spot under trees or climbing plants.",
+  "exampleEn": "We found a quiet bower in the park where the vines made a roof over the bench.",
+  "mnemonicBg": "Звучи като power, но с Б — bower е мястото, където на сянка си зареждаш батериите.",
+  "ipa": "/ˈbaʊə/"
+ },
+ {
+  "id": 261,
+  "word": "counsel",
+  "explanationBg": "Съвет или напътствие, дадено сериозно и обмислено — не просто подхвърлена идея, а истинска помощ при решение.",
+  "explanationEn": "Serious advice given to help someone decide something.",
+  "exampleEn": "Before picking my subjects for next year, I asked my coach for counsel.",
+  "mnemonicBg": "Крие се в „конСУЛтация“ — отиваш на консултация именно за counsel: сериозен съвет.",
+  "ipa": "/ˈkaʊnsəl/"
+ },
+ {
+  "id": 262,
+  "word": "bode (verb)",
+  "explanationBg": "Да си знак за това, което идва — както черните облаци предвещават буря, нещо може да предвещава добро или лошо.",
+  "explanationEn": "To be a sign that something good or bad will happen.",
+  "exampleEn": "Losing our best player in the first five minutes did not bode well for the match.",
+  "mnemonicBg": "Звучи като „боде“ — нещо те боде отвътре: предчувствие, че се задава буря.",
+  "ipa": "/bəʊd/"
+ },
+ {
+  "id": 263,
+  "word": "subtle",
+  "explanationBg": "Толкова фин и едва доловим, че трудно се забелязва или описва — лека разлика, която усещаш, но не можеш да обясниш.",
+  "explanationEn": "Very delicate and not easy to notice or describe.",
+  "exampleEn": "The new filter makes a subtle change — you barely notice it, but the photo looks better.",
+  "mnemonicBg": "Б-то в subtle изобщо не се чете — буква, скрита толкова фино, че самата тя е subtle.",
+  "ipa": "/ˈsʌtəl/"
+ },
+ {
+  "id": 264,
+  "word": "fern",
+  "explanationBg": "Горско растение без цветове, с меки, перести листа като зелени пера — папратта обича сянка и влага.",
+  "explanationEn": "A green plant with feathery leaves and no flowers.",
+  "exampleEn": "The path through the woods was lined with soft green ferns.",
+  "mnemonicBg": "Фърн ~ „фен“ (вентилатор): перестите листа на папратта приличат на перки, които ти веят.",
+  "ipa": "/fɜːn/"
+ },
+ {
+  "id": 265,
+  "word": "fragrant",
+  "explanationBg": "Който ухае приятно и сладко — като прясно опечени бисквитки или люляк напролет.",
+  "explanationEn": "Having a nice, sweet smell.",
+  "exampleEn": "The kitchen was fragrant with cinnamon while Grandma baked.",
+  "mnemonicBg": "На всяко шишенце парфюм пише fragrance — fragrant значи „ухаещ като парфюм“.",
+  "ipa": "/ˈfreɪɡrənt/"
+ },
+ {
+  "id": 266,
+  "word": "ponder (verb)",
+  "explanationBg": "Да обмисляш нещо бавно и внимателно, да го въртиш в главата си, преди да вземеш решение.",
+  "explanationEn": "To think about something carefully for some time.",
+  "exampleEn": "She pondered for days which elective to choose before finally picking drama.",
+  "mnemonicBg": "Пон-дер ~ понеделник: в понеделник сутрин дълго ponder-ваш дали наистина трябва да ставаш.",
+  "ipa": "/ˈpɒndə/"
+ },
+ {
+  "id": 267,
+  "word": "reckon with",
+  "explanationBg": "Да вземеш някого или нещо насериозно предвид, да се съобразиш с него — а понякога и да си разчистиш сметките с някого.",
+  "explanationEn": "To take something seriously into account or deal with it.",
+  "exampleEn": "Our volleyball team may be small, but we are a force to be reckoned with.",
+  "mnemonicBg": "Звучи като „рекох“: „Рекох си — с този отбор шега не бива, трябва да се съобразим!“",
+  "ipa": "/ˈrekən wɪð/"
+ },
+ {
+  "id": 268,
+  "word": "outward",
+  "explanationBg": "Който се намира или се вижда отвън — външната страна на нещата, а не това, което е скрито вътре.",
+  "explanationEn": "On the outside, or relating to how something looks from outside.",
+  "exampleEn": "His outward calm hid how nervous he was before the audition.",
+  "mnemonicBg": "Out като „аут“ в спорта — навън! Outward е стрелка, която сочи към външното.",
+  "ipa": "/ˈaʊtwəd/"
+ },
+ {
+  "id": 269,
+  "word": "causeway",
+  "explanationBg": "Път върху насип, който минава над мокри и ниски места — върви нависоко, за да не го залива водата.",
+  "explanationEn": "A raised road built across wet or low ground.",
+  "exampleEn": "We cycled along the causeway across the marsh to get to the beach.",
+  "mnemonicBg": "Cause (кауза) + way (път): път с кауза — да те преведе сух през блатото.",
+  "ipa": "/ˈkɔːzweɪ/"
+ },
+ {
+  "id": 270,
+  "word": "toil",
+  "explanationBg": "Тежък, изтощителен труд — работа, от която те болят ръцете и гърбът и оставаш без сили.",
+  "explanationEn": "Very hard and tiring work.",
+  "exampleEn": "After hours of toil in the garden, we finally cleared all the weeds.",
+  "mnemonicBg": "Той-ой-л! При тежкия труд се пъшка „ой, ой“ — toil е работа на ой-ове.",
+  "ipa": "/tɔɪl/"
+ },
+ {
+  "id": 271,
+  "word": "bog",
+  "explanationBg": "Мочурливо, кално място с мека, подгизнала земя, в която краката ти затъват.",
+  "explanationEn": "Soft, wet, muddy ground where you can sink.",
+  "exampleEn": "My trainer got sucked right off my foot when I stepped in the bog.",
+  "mnemonicBg": "Bog звучи като „Боже!“ — точно това викаш, щом затънеш до глезени в блатото.",
+  "ipa": "/bɒɡ/"
+ },
+ {
+  "id": 272,
+  "word": "briar",
+  "explanationBg": "Бодлив храст или трънлива клонка — например дива роза, която дращи и се закача за дрехите.",
+  "explanationEn": "A wild bush with sharp thorns, like a wild rose.",
+  "exampleEn": "I tore my sleeve on a briar while taking a shortcut through the hedge.",
+  "mnemonicBg": "Брай-ър ~ „брей!“: закачи ли те трънът, изохкваш „Брей!“ — briar те е хванал.",
+  "ipa": "/ˈbraɪə/"
+ },
+ {
+  "id": 273,
+  "word": "ditches",
+  "explanationBg": "Тесни канали, изкопани край пътя или нивата, които събират и отвеждат дъждовната вода.",
+  "explanationEn": "Narrow channels dug in the ground to carry water.",
+  "exampleEn": "After the storm, the ditches along the road were full to the brim.",
+  "mnemonicBg": "Представи си момче на име Дичо, което копае канавки — Дичо копае ditches.",
+  "ipa": "/ˈdɪtʃɪz/"
+ },
+ {
+  "id": 274,
+  "word": "undergrowth",
+  "explanationBg": "Гъстите храсти и ниски растения, които растат под дърветата в гората — там, където минаването е трудно.",
+  "explanationEn": "Thick bushes and small plants growing under the trees in a forest.",
+  "exampleEn": "We lost the frisbee in the undergrowth and spent ten minutes fishing it out.",
+  "mnemonicBg": "Under (под) + growth (растеж): „тийнейджърите“ на гората — растат ниско под големите дървета.",
+  "ipa": "/ˈʌndəɡrəʊθ/"
+ },
+ {
+  "id": 275,
+  "word": "brambles",
+  "explanationBg": "Бодливи, преплетени храсти — най-често диви къпини: дращят здраво, но крият сладки плодове.",
+  "explanationEn": "Prickly bushes, especially wild blackberry bushes.",
+  "exampleEn": "We picked blackberries from the brambles behind Grandpa's house and came back covered in scratches.",
+  "mnemonicBg": "Чуй „бръмбълс“ — сякаш бръмбари бръмчат из бодливите къпинови храсти.",
+  "ipa": "/ˈbræmbəlz/"
+ },
+ {
+  "id": 276,
+  "word": "oaks",
+  "explanationBg": "Големи, мощни дървета с твърда дървесина, които раждат жълъди — символ на сила и дълголетие.",
+  "explanationEn": "Big strong trees that grow acorns.",
+  "exampleEn": "The old oaks in the schoolyard give the best shade at lunch break.",
+  "mnemonicBg": "Оукс ~ „ОК-с“: дъбът е най-стабилното „ОК“ в гората — нищо не може да го разклати.",
+  "ipa": "/əʊks/"
+ },
+ {
+  "id": 277,
+  "word": "ash",
+  "explanationBg": "Високо, стройно дърво със сребристосива кора — ясенът; дървесината му е здрава и от нея правят бухалки и дръжки.",
+  "explanationEn": "A tall tree with silver-grey bark whose hard wood is used for tools and bats.",
+  "exampleEn": "My baseball bat is made of ash, so it's light but seriously strong.",
+  "mnemonicBg": "Ash значи и „пепел“ — лесно за запомняне: ясенът има кора с пепеляв, сребристосив цвят.",
+  "ipa": "/æʃ/"
+ },
+ {
+  "id": 278,
+  "word": "belt of trees",
+  "explanationBg": "Дълга, тясна ивица дървета — като зелен колан, който опасва поле, път или село.",
+  "explanationEn": "A long, narrow line of trees.",
+  "exampleEn": "A belt of trees shields the football pitch from the wind.",
+  "mnemonicBg": "Belt = колан: дърветата застават в редица като колан, препасан около полето.",
+  "ipa": "/ˌbelt əv ˈtriːz/"
+ },
+ {
+  "id": 279,
+  "word": "trudge along (verb)",
+  "explanationBg": "Да вървиш бавно, тежко и уморено, едва влачейки краката си — като след изтощителна тренировка.",
+  "explanationEn": "To walk slowly with heavy, tired steps.",
+  "exampleEn": "We trudged along the last kilometre of the hike, dreaming about pizza.",
+  "mnemonicBg": "Тръдж ~ „труд“: вървиш толкова уморено, че всяка крачка е истински труд.",
+  "ipa": "/ˌtrʌdʒ əˈlɒŋ/"
+ },
+ {
+  "id": 280,
+  "word": "drifts",
+  "explanationBg": "Купчини сняг или листа, които вятърът е навял и струпал на едно място — преспите, в които затъваш зиме.",
+  "explanationEn": "Piles of snow or leaves that the wind has blown together.",
+  "exampleEn": "School was cancelled because snow drifts had blocked the bus route.",
+  "mnemonicBg": "Както колите дрифтят в завоя, така вятърът „дрифти“ снега и го трупа на преспи.",
+  "ipa": "/drɪfts/"
+ },
+ {
+  "id": 281,
+  "word": "trickle (verb)",
+  "explanationBg": "Да тече съвсем слабо — на капки или на тъничка струйка; казва се и за хора или неща, които идват бавно и по малко.",
+  "explanationEn": "To flow slowly in a thin stream or arrive in small amounts.",
+  "exampleEn": "Likes trickled in one by one during the first hour after she posted the video.",
+  "mnemonicBg": "Трик-ъл: чешмата ти прави трик — уж е пусната, а едва ромоли: кап… кап…",
+  "ipa": "/ˈtrɪkəl/"
+ },
+ {
+  "id": 282,
+  "word": "dikes for drainage",
+  "explanationBg": "Дълги канали или насипи, изкопани така, че да изтеглят водата от ниски, мокри земи и да ги пазят от наводнение.",
+  "explanationEn": "Long channels or banks built to drain water away from low land.",
+  "exampleEn": "The farmers dug dikes for drainage so the fields wouldn't flood every spring.",
+  "mnemonicBg": "Dike звучи почти като нашата „дига“ — съоръжение, което командва водата накъде да тече.",
+  "ipa": "/ˌdaɪks fə ˈdreɪnɪdʒ/"
+ },
+ {
+  "id": 283,
+  "word": "rutted",
+  "explanationBg": "За път: целият в дълбоки бразди и коловози, издълбани от колелата на коли и каруци.",
+  "explanationEn": "Full of deep tracks made by wheels.",
+  "exampleEn": "Riding my bike down the rutted dirt road nearly rattled my teeth out.",
+  "mnemonicBg": "Рът-ед ~ „рутер“: пътят е толкова изровен, че от друсането и рутерът губи връзка.",
+  "ipa": "/ˈrʌtɪd/"
+ },
+ {
+  "id": 284,
+  "word": "clump",
+  "explanationBg": "Няколко дървета, храста или цветя, израснали плътно едно до друго — малка зелена групичка.",
+  "explanationEn": "A small group of plants or trees growing close together.",
+  "exampleEn": "We hid behind a clump of bushes during the water-balloon fight.",
+  "mnemonicBg": "Клъмп ~ клуб: дърветата са си основали малък клуб и стоят скупчени заедно.",
+  "ipa": "/klʌmp/"
+ },
+ {
+  "id": 285,
+  "word": "trespassers",
+  "explanationBg": "Хора, които влизат без разрешение в чужд имот или земя — точно за тях е табелата „Влизането забранено“.",
+  "explanationEn": "People who enter someone's land without permission.",
+  "exampleEn": "The sign on the orchard gate warns trespassers about the dog.",
+  "mnemonicBg": "Трес-пасърс ~ „трева пасат“: натрапници, влезли да „пасат“ чужда трева без позволение.",
+  "ipa": "/ˈtrespəsəz/"
+ },
+ {
+  "id": 286,
+  "word": "shamefaced",
+  "explanationBg": "С изписан на лицето срам — гузното изражение на човек, когото са хванали в беля.",
+  "explanationEn": "Looking ashamed or embarrassed.",
+  "exampleEn": "He gave a shamefaced grin when the teacher caught him texting in class.",
+  "mnemonicBg": "Shame (срам) + face (лице): срамът е кацнал директно върху лицето ти.",
+  "ipa": "/ˌʃeɪmˈfeɪst/"
+ },
+ {
+  "id": 287,
+  "word": "varmint",
+  "explanationBg": "Дребно диво животно, което прави пакости — или, на шега, пакостлив човек, същински „вредител“.",
+  "explanationEn": "A wild animal that causes trouble, or (informally) a naughty person.",
+  "exampleEn": "Some varmint knocked over our bins last night — probably that sneaky raccoon.",
+  "mnemonicBg": "Вар-минт: представи си мишок, изгризал ментата (mint) в саксията — типичен дребен вредител.",
+  "ipa": "/ˈvɑːmɪnt/"
+ },
+ {
+  "id": 288,
+  "word": "thatched",
+  "explanationBg": "Със сламен покрив — покрит с дебел пласт слама или тръстика, както старите селски къщи.",
+  "explanationEn": "Having a roof made of straw or reeds.",
+  "exampleEn": "On the school trip we photographed a row of thatched cottages by the sea.",
+  "mnemonicBg": "Тачт ~ „тъч“ (докосване): пипнеш ли покрива — мек на тъч, защото е от слама, не от керемиди.",
+  "ipa": "/θætʃt/"
+ },
+ {
+  "id": 289,
+  "word": "bristling",
+  "explanationBg": "Настръхнал — с щръкнали като четина косми; казва се и за човек, който целият кипи от гняв.",
+  "explanationEn": "Standing up stiffly like short hairs, or full of anger.",
+  "exampleEn": "My brother was bristling with anger when I borrowed his headphones without asking.",
+  "mnemonicBg": "Сети се за четката за зъби — нейните bristles са щръкнали косъмчета: настръхнала като ядосана котка.",
+  "ipa": "/ˈbrɪslɪŋ/"
+ },
+ {
+  "id": 290,
+  "word": "pelt out (verb)",
+  "explanationBg": "Да хукнеш навън с все сила — да изхвърчиш тичешком, колкото ти държат краката.",
+  "explanationEn": "To run out very fast.",
+  "exampleEn": "When the bell rang, we pelted out of the classroom like it was on fire.",
+  "mnemonicBg": "Пелт ~ „пейнтбол“: изхвърчаш навън като топче, изстреляно от пейнтбол маркер.",
+  "ipa": "/ˌpelt ˈaʊt/"
+ },
+ {
+  "id": 291,
+  "word": "ale",
+  "explanationBg": "Вид бира с горчив вкус и повече алкохол от обикновената светла — старинна напитка, типична за Англия.",
+  "explanationEn": "A kind of beer with a bitter taste, stronger than lager.",
+  "exampleEn": "Dad ordered an ale at the pub, and I stuck with lemonade.",
+  "mnemonicBg": "Ейл — представи си стара английска кръчма, където всички вдигат халби с викове „Еееей!“ — ей-л!",
+  "ipa": "/eɪl/"
+ },
+ {
+  "id": 292,
+  "word": "jug",
+  "explanationBg": "Съд с дръжка и чучур за наливане — каната, от която сипваш вода или сок на масата.",
+  "explanationEn": "A container with a handle used for pouring liquids.",
+  "exampleEn": "She filled a jug with iced tea and carried it out to the garden.",
+  "mnemonicBg": "Джъг-джъг-джъг — самият звук при наливане от каната изговаря думата.",
+  "ipa": "/dʒʌɡ/"
+ },
+ {
+  "id": 293,
+  "word": "relish",
+  "explanationBg": "Огромно удоволствие и наслада от нещо; така се казва и пикантният сос-гарнитура, който слагат на бургери и хотдог.",
+  "explanationEn": "Great enjoyment; also a sauce that adds flavour to food.",
+  "exampleEn": "He ate the victory pizza with obvious relish after the final whistle.",
+  "mnemonicBg": "Рел-иш: relish е и сосът върху хотдога — ядеш го с истинска наслада.",
+  "ipa": "/ˈrelɪʃ/"
+ },
+ {
+  "id": 294,
+  "word": "yonder",
+  "explanationBg": "Ей там, нататък — старовремска дума за място, което се вижда в далечината и можеш да го посочиш.",
+  "explanationEn": "Over there, at some distance (an old-fashioned word).",
+  "exampleEn": "Grandpa pointed across the field and said the best fishing spot was over yonder.",
+  "mnemonicBg": "Йондър ~ диалектното „ей онде“: „Онде е, ей там!“ — същият смисъл, същият звук.",
+  "ipa": "/ˈjɒndə/"
+ },
+ {
+  "id": 295,
+  "word": "fare",
+  "explanationBg": "Има две значения: парите, които плащаш за билет за автобус, влак или такси, и храната и напитките, които поднасят някъде.",
+  "explanationEn": "The money you pay for a journey, or the food and drink served somewhere.",
+  "exampleEn": "I dug through my pockets to make sure I still had the bus fare home.",
+  "mnemonicBg": "Феър ~ fair (панаир): на панаира плащаш fare за влакчето и опитваш местния fare — храната.",
+  "ipa": "/feə/"
+ },
+ {
+  "id": 296,
+  "word": "high-banked causeway",
+  "explanationBg": "Издигнат път с високи насипи от пръст или камък от двете страни — минаваш по него като през коридор над мократа земя.",
+  "explanationEn": "A raised road with high banks of earth or stone on both sides.",
+  "exampleEn": "We walked single file along the high-banked causeway between the flooded fields.",
+  "mnemonicBg": "High (висок) + bank (насип) + way (път): път върху високи „банки“, в които е вложена пръст.",
+  "ipa": "/ˌhaɪ ˌbæŋkt ˈkɔːzweɪ/"
+ },
+ {
+  "id": 297,
+  "word": "duck-pond",
+  "explanationBg": "Малко езерце в парк или двор, в което живеят и плуват патици.",
+  "explanationEn": "A small pond where ducks swim and live.",
+  "exampleEn": "After school we watched the ducklings at the duck-pond in the park.",
+  "mnemonicBg": "Дък (пате) + понд (езерце): чуй как патето цопва — дък! пльок! — право в езерцето.",
+  "ipa": "/ˈdʌk pɒnd/"
+ },
+ {
+  "id": 298,
+  "word": "wooden landing-stage",
+  "explanationBg": "Дървена платформа на брега на река или езеро, на която спират лодки, за да слизат хора и да се разтоварват стоки.",
+  "explanationEn": "A wooden platform where boats stop to let people and goods off.",
+  "exampleEn": "We spent the afternoon jumping off the wooden landing-stage into the lake.",
+  "mnemonicBg": "Лендинг като в игрите + стейдж (сцена): дървената „сцена“, на която лодката прави своя landing.",
+  "ipa": "/ˌwʊdən ˈlændɪŋ steɪdʒ/"
+ },
+ {
+  "id": 299,
+  "word": "moored",
+  "explanationBg": "За лодка: здраво завързана с въжета за брега или кея, за да не я отнесе течението.",
+  "explanationEn": "Tied up safely with ropes (used about a boat).",
+  "exampleEn": "We left the kayaks moored to the jetty while we went for ice cream.",
+  "mnemonicBg": "Чуй „мор“ в moored — в моРЕто лодката стои мирно само ако е вързана за кея.",
+  "ipa": "/mɔːd/"
+ },
+ {
+  "id": 300,
+  "word": "bollards",
+  "explanationBg": "Къси, дебели и здрави стълбчета на кея или на палубата, около които се намотават въжетата на лодките.",
+  "explanationEn": "Short strong posts on a dock or ship for tying boat ropes.",
+  "exampleEn": "He looped the rope twice around one of the bollards before we climbed out of the boat.",
+  "mnemonicBg": "Бол-ардс ~ ball: стълбчета с кръгли глави като топки, на които връзваш лодката.",
+  "ipa": "/ˈbɒlədz/"
+ }
+]

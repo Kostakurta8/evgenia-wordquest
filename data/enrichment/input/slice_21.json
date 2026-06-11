@@ -1,0 +1,676 @@
+[
+ {
+  "id": 1001,
+  "page": 309,
+  "word": "coiling",
+  "definition": "Arranging or moving in a series of rings or spirals.",
+  "synonyms": [
+   "winding",
+   "twisting",
+   "spiralling"
+  ],
+  "antonyms": [
+   "uncoiling",
+   "straightening"
+  ],
+  "translation": "свиване на спирала"
+ },
+ {
+  "id": 1002,
+  "page": 309,
+  "word": "dully",
+  "definition": "In a way that lacks brightness, sharpness, or interest.",
+  "synonyms": [
+   "tediously",
+   "drably",
+   "lifelessly"
+  ],
+  "antonyms": [
+   "brightly",
+   "vividly"
+  ],
+  "translation": "тъпо, безизразно"
+ },
+ {
+  "id": 1003,
+  "page": 309,
+  "word": "ponderous",
+  "definition": "Slow and clumsy because of great weight; dull.",
+  "synonyms": [
+   "cumbersome",
+   "heavy",
+   "lumbering"
+  ],
+  "antonyms": [
+   "light",
+   "agile"
+  ],
+  "translation": "тромав, тежък"
+ },
+ {
+  "id": 1004,
+  "page": 309,
+  "word": "boulders",
+  "definition": "Large rocks, typically with a rounded shape from weathering.",
+  "synonyms": [
+   "rocks",
+   "stones",
+   "crags"
+  ],
+  "antonyms": "pebbles",
+  "translation": "грамадни камъни, скали"
+ },
+ {
+  "id": 1005,
+  "page": 309,
+  "word": "fouler",
+  "definition": "More foul; more offensive to the senses.",
+  "synonyms": [
+   "filthier",
+   "viler",
+   "nastier"
+  ],
+  "antonyms": [
+   "cleaner",
+   "purer"
+  ],
+  "translation": "по-отвратителен, по-мръсен"
+ },
+ {
+  "id": 1006,
+  "page": 309,
+  "word": "magnified",
+  "definition": "Made to appear larger than it really is.",
+  "synonyms": [
+   "enlarged",
+   "amplified",
+   "expanded"
+  ],
+  "antonyms": [
+   "reduced",
+   "diminished"
+  ],
+  "translation": "увеличен, преувеличен"
+ },
+ {
+  "id": 1007,
+  "page": 310,
+  "word": "arched passage",
+  "definition": "A passageway covered or topped with an arch.",
+  "synonyms": [
+   "vaulted passage",
+   "arched corridor"
+  ],
+  "antonyms": null,
+  "translation": "сводест коридор"
+ },
+ {
+  "id": 1008,
+  "page": 310,
+  "word": "clutching arm",
+  "definition": "An arm that grasps tightly and possessively.",
+  "synonyms": [
+   "grasping arm",
+   "gripping arm"
+  ],
+  "antonyms": null,
+  "translation": "сграбчваща ръка"
+ },
+ {
+  "id": 1009,
+  "page": 310,
+  "word": "descend",
+  "definition": "To move or fall downwards.",
+  "synonyms": [
+   "go down",
+   "drop",
+   "fall"
+  ],
+  "antonyms": [
+   "ascend",
+   "rise"
+  ],
+  "translation": "спускам се, слизам"
+ },
+ {
+  "id": 1010,
+  "page": 310,
+  "word": "currents",
+  "definition": "Bodies of water or air moving in a definite direction.",
+  "synonyms": [
+   "flows",
+   "streams",
+   "tides"
+  ],
+  "antonyms": null,
+  "translation": "течения"
+ },
+ {
+  "id": 1011,
+  "page": 310,
+  "word": "issuing",
+  "definition": "Coming or going out; emerging.",
+  "synonyms": [
+   "emerging",
+   "flowing",
+   "emanating"
+  ],
+  "antonyms": null,
+  "translation": "излизащ, бликащ"
+ },
+ {
+  "id": 1012,
+  "page": 310,
+  "word": "half-guessed",
+  "definition": "Only partially perceived or surmised.",
+  "synonyms": [
+   "half-perceived",
+   "half-known"
+  ],
+  "antonyms": "fully known",
+  "translation": "едва досещан се"
+ },
+ {
+  "id": 1013,
+  "page": 311,
+  "word": "bewildering",
+  "definition": "Extremely puzzling or confusing.",
+  "synonyms": [
+   "confusing",
+   "baffling",
+   "perplexing"
+  ],
+  "antonyms": [
+   "clear",
+   "understandable"
+  ],
+  "translation": "объркващ, смущаващ"
+ },
+ {
+  "id": 1014,
+  "page": 311,
+  "word": "intricate",
+  "definition": "Very complicated or detailed.",
+  "synonyms": [
+   "complex",
+   "complicated",
+   "elaborate"
+  ],
+  "antonyms": [
+   "simple",
+   "plain"
+  ],
+  "translation": "сложен, заплетен"
+ },
+ {
+  "id": 1015,
+  "page": 311,
+  "word": "pitfalls",
+  "definition": "Hidden or unsuspected dangers or difficulties.",
+  "synonyms": [
+   "snares",
+   "traps",
+   "hazards"
+  ],
+  "antonyms": null,
+  "translation": "клопки, опасности"
+ },
+ {
+  "id": 1016,
+  "page": 311,
+  "word": "chasms",
+  "definition": "Deep fissures in the earth, rock, or another surface.",
+  "synonyms": [
+   "abysses",
+   "gorges",
+   "gulfs"
+  ],
+  "antonyms": null,
+  "translation": "пропасти, бездни"
+ },
+ {
+  "id": 1017,
+  "page": 311,
+  "word": "dreadful",
+  "definition": "Causing or involving great suffering, fear, or unhappiness.",
+  "synonyms": [
+   "terrible",
+   "awful",
+   "horrendous"
+  ],
+  "antonyms": [
+   "wonderful",
+   "pleasant"
+  ],
+  "translation": "ужасен, страшен"
+ },
+ {
+  "id": 1018,
+  "page": 311,
+  "word": "churning",
+  "definition": "Moving with violent unsteady motion; agitated.",
+  "synonyms": [
+   "swirling",
+   "agitating",
+   "turbulent"
+  ],
+  "antonyms": "calm",
+  "translation": "бурно разбъркване"
+ },
+ {
+  "id": 1019,
+  "page": 312,
+  "word": "scarce-head patter",
+  "definition": "A barely audible pattering sound; faint footsteps.",
+  "synonyms": "faint patter",
+  "antonyms": null,
+  "translation": "едва доловим тропот"
+ },
+ {
+  "id": 1020,
+  "page": 313,
+  "word": "loose",
+  "definition": "Not firmly or tightly fixed in place; free.",
+  "synonyms": [
+   "slack",
+   "free",
+   "unattached"
+  ],
+  "antonyms": [
+   "tight",
+   "fixed"
+  ],
+  "translation": "разхлабен, свободен"
+ },
+ {
+  "id": 1021,
+  "page": 314,
+  "word": "chip",
+  "definition": "A small piece of something broken off; a small mark where a piece has come off.",
+  "synonyms": [
+   "fragment",
+   "sliver",
+   "flake"
+  ],
+  "antonyms": null,
+  "translation": "парченце, отломка"
+ },
+ {
+  "id": 1022,
+  "page": 315,
+  "word": "immense",
+  "definition": "Extremely large or great, especially in scale or degree.",
+  "synonyms": [
+   "huge",
+   "vast",
+   "enormous"
+  ],
+  "antonyms": [
+   "small",
+   "tiny"
+  ],
+  "translation": "огромен, безкраен"
+ },
+ {
+  "id": 1023,
+  "page": 315,
+  "word": "vastness",
+  "definition": "The quality of being very great in size or extent.",
+  "synonyms": [
+   "immensity",
+   "hugeness",
+   "expanse"
+  ],
+  "antonyms": "smallness",
+  "translation": "необятност, огромност"
+ },
+ {
+  "id": 1024,
+  "page": 315,
+  "word": "branching",
+  "definition": "Dividing into branches or subdivisions.",
+  "synonyms": [
+   "forking",
+   "dividing",
+   "splitting"
+  ],
+  "antonyms": "converging",
+  "translation": "разклоняване"
+ },
+ {
+  "id": 1025,
+  "page": 315,
+  "word": "dolven",
+  "definition": "(Archaic) past participle of delve: dug; carved out.",
+  "synonyms": [
+   "dug",
+   "hewn",
+   "carved"
+  ],
+  "antonyms": null,
+  "translation": "изкопан (архаично)"
+ },
+ {
+  "id": 1026,
+  "page": 315,
+  "word": "chant (verb)",
+  "definition": "To say or shout a word or phrase repeatedly in a rhythmic way.",
+  "synonyms": [
+   "recite",
+   "sing",
+   "intone"
+  ],
+  "antonyms": null,
+  "translation": "повтарям ритмично, пея"
+ },
+ {
+  "id": 1027,
+  "page": 316,
+  "word": "wells",
+  "definition": "Deep holes dug into the ground to obtain water; sources.",
+  "synonyms": [
+   "springs",
+   "sources",
+   "shafts"
+  ],
+  "antonyms": null,
+  "translation": "кладенци"
+ },
+ {
+  "id": 1028,
+  "page": 316,
+  "word": "undimmed",
+  "definition": "Not made less bright or strong.",
+  "synonyms": [
+   "bright",
+   "undiminished"
+  ],
+  "antonyms": "dimmed",
+  "translation": "непомрачен, ярък"
+ },
+ {
+  "id": 1029,
+  "page": 316,
+  "word": "smote",
+  "definition": "(Past of smite) struck with a heavy blow; defeated.",
+  "synonyms": [
+   "struck",
+   "hit",
+   "beat"
+  ],
+  "antonyms": null,
+  "translation": "удари, порази"
+ },
+ {
+  "id": 1030,
+  "page": 316,
+  "word": "beryl",
+  "definition": "A transparent pale green, blue, or yellow mineral used as a gemstone.",
+  "synonyms": "gemstone",
+  "antonyms": null,
+  "translation": "берил (камък)"
+ },
+ {
+  "id": 1031,
+  "page": 316,
+  "word": "opal pale",
+  "definition": "Pale like an opal; with a soft, pearly hue.",
+  "synonyms": [
+   "pearly pale",
+   "milky"
+  ],
+  "antonyms": null,
+  "translation": "опалово бледен"
+ },
+ {
+  "id": 1032,
+  "page": 316,
+  "word": "buckler",
+  "definition": "A small round shield held by a handle or worn on the forearm.",
+  "synonyms": [
+   "shield",
+   "targe"
+  ],
+  "antonyms": null,
+  "translation": "малък кръгъл щит"
+ },
+ {
+  "id": 1033,
+  "page": 316,
+  "word": "corslet",
+  "definition": "A piece of armour covering the trunk; a close-fitting body armour.",
+  "synonyms": [
+   "cuirass",
+   "breastplate"
+  ],
+  "antonyms": null,
+  "translation": "броня за гърдите"
+ },
+ {
+  "id": 1034,
+  "page": 316,
+  "word": "unwearied",
+  "definition": "Not tired or exhausted; untiring.",
+  "synonyms": [
+   "tireless",
+   "fresh",
+   "energetic"
+  ],
+  "antonyms": [
+   "weary",
+   "tired"
+  ],
+  "translation": "неуморен, бодър"
+ },
+ {
+  "id": 1035,
+  "page": 317,
+  "word": "plundered",
+  "definition": "Stole goods, typically by force, especially in time of war.",
+  "synonyms": [
+   "looted",
+   "pillaged",
+   "ransacked"
+  ],
+  "antonyms": null,
+  "translation": "разграбен"
+ },
+ {
+  "id": 1036,
+  "page": 317,
+  "word": "traffic",
+  "definition": "Movement of vehicles or pedestrians; trade, especially of an illegal kind.",
+  "synonyms": [
+   "movement",
+   "trade",
+   "commerce"
+  ],
+  "antonyms": null,
+  "translation": "движение, търговия"
+ },
+ {
+  "id": 1037,
+  "page": 317,
+  "word": "tarnish (verb)",
+  "definition": "To lose lustre, especially as a result of exposure to air or moisture.",
+  "synonyms": [
+   "dull",
+   "discolour",
+   "blemish"
+  ],
+  "antonyms": [
+   "polish",
+   "brighten"
+  ],
+  "translation": "потъмнявам, помрачавам"
+ },
+ {
+  "id": 1038,
+  "page": 317,
+  "word": "starmoon",
+  "definition": "A Tolkien word (\"ithildin\"): a substance that shines under moonlight or starlight.",
+  "synonyms": [
+   "ithildin",
+   "star-moon metal"
+  ],
+  "antonyms": null,
+  "translation": "звезден лунен метал (итилдин)"
+ },
+ {
+  "id": 1039,
+  "page": 318,
+  "word": "mail-shirt",
+  "definition": "A shirt made of chainmail armour.",
+  "synonyms": [
+   "hauberk",
+   "mail-coat"
+  ],
+  "antonyms": null,
+  "translation": "ризница"
+ },
+ {
+  "id": 1040,
+  "page": 318,
+  "word": "staggered",
+  "definition": "Walked or moved unsteadily as if about to fall; deeply shocked.",
+  "synonyms": [
+   "tottered",
+   "reeled",
+   "stumbled"
+  ],
+  "antonyms": "walked steadily",
+  "translation": "олюлян, залитащ"
+ },
+ {
+  "id": 1041,
+  "page": 318,
+  "word": "pottering",
+  "definition": "Occupying oneself in a desultory but pleasant manner, doing minor tasks.",
+  "synonyms": [
+   "puttering",
+   "fiddling",
+   "tinkering"
+  ],
+  "antonyms": null,
+  "translation": "занимаване с дребни работи"
+ },
+ {
+  "id": 1042,
+  "page": 319,
+  "word": "shafts",
+  "definition": "Long, narrow, often vertical or sloping openings; rays of light.",
+  "synonyms": [
+   "beams",
+   "rays; tunnels"
+  ],
+  "antonyms": null,
+  "translation": "шахти; лъчи"
+ },
+ {
+  "id": 1043,
+  "page": 319,
+  "word": "hinges",
+  "definition": "Movable joints or mechanisms on which doors or lids turn.",
+  "synonyms": [
+   "joints",
+   "pivots"
+  ],
+  "antonyms": null,
+  "translation": "панти"
+ },
+ {
+  "id": 1044,
+  "page": 319,
+  "word": "dazzlingly",
+  "definition": "In an extremely impressive, beautiful, or skilful way; brilliantly.",
+  "synonyms": [
+   "brilliantly",
+   "blindingly",
+   "brightly"
+  ],
+  "antonyms": "dimly",
+  "translation": "ослепително, бляскаво"
+ },
+ {
+  "id": 1045,
+  "page": 319,
+  "word": "oblong",
+  "definition": "Having an elongated shape, usually rectangular.",
+  "synonyms": [
+   "rectangular",
+   "elongated"
+  ],
+  "antonyms": [
+   "square",
+   "round"
+  ],
+  "translation": "продълговат"
+ },
+ {
+  "id": 1046,
+  "page": 320,
+  "word": "cast (verb)",
+  "definition": "To throw something forcefully; to direct one’s gaze.",
+  "synonyms": [
+   "throw",
+   "hurl",
+   "fling"
+  ],
+  "antonyms": "catch",
+  "translation": "хвърлям"
+ },
+ {
+  "id": 1047,
+  "page": 321,
+  "word": "orc-scimitars",
+  "definition": "Curved single-edged swords used by orcs.",
+  "synonyms": "orc curved swords",
+  "antonyms": null,
+  "translation": "оркски ятагани"
+ },
+ {
+  "id": 1048,
+  "page": 321,
+  "word": "recesses",
+  "definition": "Small spaces created by a part of a wall being set back from the main part.",
+  "synonyms": [
+   "alcoves",
+   "niches",
+   "nooks"
+  ],
+  "antonyms": null,
+  "translation": "ниши, вдлъбнатини"
+ },
+ {
+  "id": 1049,
+  "page": 322,
+  "word": "dale",
+  "definition": "A valley, especially a broad one.",
+  "synonyms": [
+   "valley",
+   "vale",
+   "glen"
+  ],
+  "antonyms": [
+   "hill",
+   "mountain"
+  ],
+  "translation": "долина, дол"
+ },
+ {
+  "id": 1050,
+  "page": 322,
+  "word": "sorrow",
+  "definition": "A feeling of deep distress caused by loss or disappointment.",
+  "synonyms": [
+   "grief",
+   "sadness",
+   "anguish"
+  ],
+  "antonyms": [
+   "joy",
+   "happiness"
+  ],
+  "translation": "скръб, мъка"
+ }
+]

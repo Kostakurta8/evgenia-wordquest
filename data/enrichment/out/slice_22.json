@@ -1,0 +1,452 @@
+[
+ {
+  "id": 1051,
+  "word": "yestre",
+  "explanationBg": "Старинна дума за „вчера“ — за ден от отминало време. Ще я срещнеш в стари песни и стихове, не в днешния говорим език.",
+  "explanationEn": "An old-fashioned word meaning 'yesterday' or 'of an earlier day'.",
+  "exampleEn": "For drama class she wrote 'yestre' instead of 'yesterday' so her poem would sound ancient.",
+  "mnemonicBg": "Това е „yesterday“, което е толкова остаряло, че му е окапал краят — останало е само „yestre“ от едно време.",
+  "ipa": "/ˈjestə/"
+ },
+ {
+  "id": 1052,
+  "word": "barred (verb)",
+  "explanationBg": "Препречен с преграда или решетка, така че да не може да се мине; може да значи и официално забранен.",
+  "explanationEn": "Blocked by a bar or barrier, or officially forbidden.",
+  "exampleEn": "He was barred from the school gym for a week after breaking the rules.",
+  "mnemonicBg": "Представи си врата на бар с тежка желязна греда отпред — барът е barred: нито влизаш, нито излизаш.",
+  "ipa": "/bɑːd/"
+ },
+ {
+  "id": 1053,
+  "word": "smeared",
+  "explanationBg": "Изцапан или намазан с нещо мазно или лепкаво — по повърхността са останали размазани следи.",
+  "explanationEn": "Covered or marked with something greasy or sticky.",
+  "exampleEn": "My phone screen got smeared with chocolate while I was texting and eating a doughnut.",
+  "mnemonicBg": "„Смиърд“ звучи почти като „с мед“ — пипни телефона с медени пръсти и екранът е smeared.",
+  "ipa": "/smɪəd/"
+ },
+ {
+  "id": 1054,
+  "word": "the pool",
+  "explanationBg": "Малко тихо водно огледало — естествено образувало се езерце или вир със спокойна, неподвижна вода.",
+  "explanationEn": "A small area of still water, like a pond.",
+  "exampleEn": "By noon we reached the pool below the waterfall and dipped our feet in the cold water.",
+  "mnemonicBg": "Знаеш „pool“ от плувния басейн — представи си, че гората си има собствено басейнче: малък тих вир.",
+  "ipa": "/ðə ˈpuːl/"
+ },
+ {
+  "id": 1055,
+  "word": "a trailing scrawl",
+  "explanationBg": "Дълга, разкривена драскулка — небрежен почерк, който се влачи по листа и към края почти се губи.",
+  "explanationEn": "Long, messy handwriting that trails off and is hard to read.",
+  "exampleEn": "The last answer on my test was a trailing scrawl because the bell rang while I was writing.",
+  "mnemonicBg": "Представи си подпис, който се точи като безкраен скрол надолу по екрана — влачеща се драскулка: a trailing scrawl.",
+  "ipa": "/ə ˌtreɪlɪŋ ˈskrɔːl/"
+ },
+ {
+  "id": 1056,
+  "word": "wedge",
+  "explanationBg": "Парче дърво или метал с дебел край, което изтънява до остър ръб — пъха се в процеп, за да задържи или разцепи нещо.",
+  "explanationEn": "A piece of wood or metal, thick at one end and thin at the other, used to hold or split things.",
+  "exampleEn": "We slid a wedge under the classroom door so it wouldn't slam in the wind.",
+  "mnemonicBg": "Представи си парче пица: широко в единия край, остро във върха — перфектната форма на wedge (клин).",
+  "ipa": "/wedʒ/"
+ },
+ {
+  "id": 1057,
+  "word": "ajar",
+  "explanationBg": "За врата — открехната: нито затворена, нито широко отворена, само с тясна пролука.",
+  "explanationEn": "Slightly open, usually said about a door.",
+  "exampleEn": "I always leave my door ajar at night so the cat can sneak in.",
+  "mnemonicBg": "В „ajar“ се крие „jar“ (буркан) — буркан с леко отвъртян капак: точно открехнат.",
+  "ipa": "/əˈdʒɑː/"
+ },
+ {
+  "id": 1058,
+  "word": "hoarse",
+  "explanationBg": "За глас — груб, дрезгав и стържещ, обикновено защото гърлото е възпалено или преуморено от викане.",
+  "explanationEn": "Sounding rough and harsh, usually because of a sore throat.",
+  "exampleEn": "After shouting at the match all evening, I was so hoarse I could only whisper.",
+  "mnemonicBg": "Звучи точно като „horse“ (кон) — викай цяла вечер като кон на стадион и гласът ти става hoarse.",
+  "ipa": "/hɔːs/"
+ },
+ {
+  "id": 1059,
+  "word": "whined (verb)",
+  "explanationBg": "Издаваше дълъг, тънък и жален звук — като кученце, което скимти, или човек, който проточено мрънка и се оплаква.",
+  "explanationEn": "Made a long, high, complaining sound.",
+  "exampleEn": "My little brother whined all afternoon because the Wi-Fi went down during his game.",
+  "mnemonicBg": "„Уайн“ звучи като начало на „вайкане“ — който whine-ва, се вайка: „уааай, защо нямааа интернет!“",
+  "ipa": "/waɪnd/"
+ },
+ {
+  "id": 1060,
+  "word": "whistled down",
+  "explanationBg": "Спусна се отгоре със свистене — както свирят падащи стрели или вятър, който се втурва надолу.",
+  "explanationEn": "Came down fast with a whistling sound.",
+  "exampleEn": "A cold wind whistled down the valley just as we finished putting up the tent.",
+  "mnemonicBg": "„Уисъл“ е свирка — представи си съдийска свирка, изпусната от балкона: пада и си свири по целия път надолу.",
+  "ipa": "/ˌwɪsld ˈdaʊn/"
+ },
+ {
+  "id": 1061,
+  "word": "widening",
+  "explanationBg": "Което става все по-широко — разтваря се и се разпростира, като пътека, която се отваря към поляна.",
+  "explanationEn": "Becoming wider and wider.",
+  "exampleEn": "We followed the widening trail until it opened into a huge sunny meadow.",
+  "mnemonicBg": "Като снимка на телефона, която разпъваш с два пръста — става все по-wide, по-широка: widening.",
+  "ipa": "/ˈwaɪdənɪŋ/"
+ },
+ {
+  "id": 1062,
+  "word": "affray",
+  "explanationBg": "Шумно сбиване или меле на публично място — крясъци, блъскане и обща суматоха пред очите на всички.",
+  "explanationEn": "A noisy fight in a public place.",
+  "exampleEn": "The referee stopped the game when an affray broke out between the two teams' fans.",
+  "mnemonicBg": "Чуй го: „а-ФРАС!“ — някой замахва, чува се „фрас“ и площадът кипва в меле: affray.",
+  "ipa": "/əˈfreɪ/"
+ },
+ {
+  "id": 1063,
+  "word": "fierceness",
+  "explanationBg": "Качеството да си див и настървен — буйна, почти зверска ярост и сила, като на хищник, който брани територията си.",
+  "explanationEn": "The quality of being very aggressive or wild.",
+  "exampleEn": "Everyone respects the fierceness she brings to every basketball game.",
+  "mnemonicBg": "Представи си котка, която съска „фъс-с-с!“ — това „фиърс“ съскане е чиста fierceness.",
+  "ipa": "/ˈfɪəsnəs/"
+ },
+ {
+  "id": 1064,
+  "word": "felled (verb)",
+  "explanationBg": "Повален на земята с мощен удар; за дърво — отсечено, така че да рухне.",
+  "explanationEn": "Knocked down with a heavy blow, or cut down like a tree.",
+  "exampleEn": "The storm felled two old trees in the park behind our school.",
+  "mnemonicBg": "В „felled“ се чува „fell“ (падна) — представи си редица домино: бутваш едно и всички са felled, повалени.",
+  "ipa": "/feld/"
+ },
+ {
+  "id": 1065,
+  "word": "Barrow-blade",
+  "explanationBg": "Древен меч от Могилните хълмове — изкован преди векове от хората на Западната земя. Дума от света на книгата, няма да я срещнеш другаде.",
+  "explanationEn": "An ancient sword from old burial mounds, forged long ago by a kingdom of men (a word from the book's world).",
+  "exampleEn": "For the fantasy costume contest he made a cardboard Barrow-blade painted with silver runes.",
+  "mnemonicBg": "„Barrow“ е надгробна могила, „blade“ е острие — меч, който е спал под тревясала могила, докато някой не го изрови.",
+  "ipa": "/ˈbærəʊˌbleɪd/"
+ },
+ {
+  "id": 1066,
+  "word": "retreat (verb)",
+  "explanationBg": "Да се оттеглиш назад — да се измъкнеш от битка или от трудно положение, вместо да продължиш напред.",
+  "explanationEn": "To move back or away from a fight or a difficult situation.",
+  "exampleEn": "When the rain got heavy, we retreated into the tent with all our snacks.",
+  "mnemonicBg": "В „retreat“ се чува „трий“ (tree) — при опасност се отдръпваш и се скриваш зад най-близкото дърво.",
+  "ipa": "/rɪˈtriːt/"
+ },
+ {
+  "id": 1067,
+  "word": "mail",
+  "explanationBg": "Броня от сплетени метални халкички или пластини, която пази тялото в бой. Пише се точно като думата за поща, но няма нищо общо с писмата.",
+  "explanationEn": "Armour made of small metal rings joined together.",
+  "exampleEn": "At the medieval festival they let us try on real mail, and it was surprisingly heavy.",
+  "mnemonicBg": "Представи си рицар, който чете e-mail, облечен в метален mail — „желязна поща“ от хиляди халкички.",
+  "ipa": "/meɪl/"
+ },
+ {
+  "id": 1068,
+  "word": "swart",
+  "explanationBg": "Старинна дума за тъмен цвят на кожата или лицето — мургав, потъмнял като от много слънце.",
+  "explanationEn": "An old word meaning dark-skinned or dark in colour.",
+  "exampleEn": "After a whole summer by the sea, grandpa's swart face made his white beard look even brighter.",
+  "mnemonicBg": "Звучи като „сварен“ — печеш се на плажа, докато се „свариш“ от слънцето, и ставаш swart — мургав.",
+  "ipa": "/swɔːt/"
+ },
+ {
+  "id": 1069,
+  "word": "scimitar",
+  "explanationBg": "Къса сабя с извито като полумесец острие — оръжието, което у нас познаваме като ятаган.",
+  "explanationEn": "A short sword with a curved blade.",
+  "exampleEn": "In the new video game my character fights with twin scimitars that curve like crescent moons.",
+  "mnemonicBg": "Чуй началото: „Сими-тар“ — представи си цар Симеон с ятаган: „Симеон-ятаган“ = scimitar.",
+  "ipa": "/ˈsɪmɪtə/"
+ },
+ {
+  "id": 1070,
+  "word": "asunder",
+  "explanationBg": "Старовремска дума за „на части“ — когато нещо се разкъсва или разцепва и парчетата се разлитат в различни посоки.",
+  "explanationEn": "Apart, or broken into separate pieces.",
+  "exampleEn": "One creeper explosion in the game and my carefully built bridge was torn asunder.",
+  "mnemonicBg": "Звучи почти като „thunder“ (гръм) — а гръмът цепи дървото asunder: на две!",
+  "ipa": "/əˈsʌndə/"
+ },
+ {
+  "id": 1071,
+  "word": "howling",
+  "explanationBg": "Дълъг, силен и тъжен вой — звукът, който надават вълци и кучета с вдигнати към небето муцуни.",
+  "explanationEn": "A long, loud, sad cry like a wolf or a dog makes.",
+  "exampleEn": "The howling of the neighbour's dog kept me awake the night before my exam.",
+  "mnemonicBg": "Представи си вълк, който пита луната „ХАУУУ си?“ — това проточено „хау“ е howling.",
+  "ipa": "/ˈhaʊlɪŋ/"
+ },
+ {
+  "id": 1072,
+  "word": "grinding upon",
+  "explanationBg": "Да стържеш грубо върху нещо — две твърди повърхности се трият една в друга със скърцащ, неприятен звук.",
+  "explanationEn": "Rubbing roughly and noisily against something.",
+  "exampleEn": "You could hear my skateboard wheels grinding upon the rough concrete.",
+  "mnemonicBg": "„Грайнд“ го знаеш от скейта и игрите — да „грайндваш“ по ръба значи да стържеш по него: grinding upon.",
+  "ipa": "/ˌɡraɪndɪŋ əˈpɒn/"
+ },
+ {
+  "id": 1073,
+  "word": "tramp",
+  "explanationBg": "Тежък тропот на крака; може да значи и дълъг изморителен преход пеша, а трето значение е скитник без дом.",
+  "explanationEn": "The heavy sound of feet marching; also a long walk, or a homeless wanderer.",
+  "exampleEn": "We heard the tramp of the whole team's boots coming down the corridor.",
+  "mnemonicBg": "Звучи като „трамплин“ — скачай по него с тежки ботуши: трамп, трамп, трамп!",
+  "ipa": "/træmp/"
+ },
+ {
+  "id": 1074,
+  "word": "strain",
+  "explanationBg": "Сила, която опъва и дърпа нещо до краен предел — напрежение; изненадващо, същата дума значи и „мелодия“.",
+  "explanationEn": "A force that stretches or pulls something; it can also mean a tune.",
+  "exampleEn": "The rope finally snapped under the strain during our tug-of-war battle.",
+  "mnemonicBg": "В „strain“ се чува „трен-“ като тренировка — след нея всичко в теб е опънато до скъсване.",
+  "ipa": "/streɪn/"
+ },
+ {
+  "id": 1075,
+  "word": "counter-spell",
+  "explanationBg": "Магия, изричана специално за да развали или спре чужда магия — отговорът на магьосник срещу вражеско заклинание.",
+  "explanationEn": "A magic spell used to cancel another spell.",
+  "exampleEn": "In the card game I saved my counter-spell to block her strongest attack.",
+  "mnemonicBg": "„Counter“ го знаеш от игрите (counter-attack) — тук е същото, но с магия: контра срещу заклинание.",
+  "ipa": "/ˈkaʊntəˌspel/"
+ },
+ {
+  "id": 1076,
+  "word": "spear-thrust",
+  "explanationBg": "Силен пробождащ удар напред с копие — рязко мушкане, насочено право към противника.",
+  "explanationEn": "A strong forward stab made with a spear.",
+  "exampleEn": "Our fencing coach showed us a lunge that looked just like an ancient spear-thrust.",
+  "mnemonicBg": "Чуй звука в „thrust“ — „тръс!“ — точно така изсвистява копието, когато се стрелва напред.",
+  "ipa": "/ˈspɪəθrʌst/"
+ },
+ {
+  "id": 1077,
+  "word": "skewered (verb)",
+  "explanationBg": "Пробол или нанизал нещо на дълга остра пръчка или шиш — както се нанизват хапки за скара.",
+  "explanationEn": "Pierced or fixed onto a long pointed stick.",
+  "exampleEn": "We skewered marshmallows on sticks and roasted them over the campfire.",
+  "mnemonicBg": "„Скюър“ е шишчето — запомни го като „с-КЮфтенца-ър“: нанизваш кюфтенца на шиш и са skewered.",
+  "ipa": "/ˈskjuːəd/"
+ },
+ {
+  "id": 1078,
+  "word": "devilry",
+  "explanationBg": "Зли номера и тъмни кроежи — пакостливи или направо лоши дела, сякаш измислени от самия дявол.",
+  "explanationEn": "Wicked actions or evil mischief.",
+  "exampleEn": "The teacher suspected devilry when every chair in the classroom was upside down.",
+  "mnemonicBg": "Вътре седи „devil“ (дявол) — devilry е цяла работилница за дяволии.",
+  "ipa": "/ˈdevəlri/"
+ },
+ {
+  "id": 1079,
+  "word": "loftier",
+  "explanationBg": "По-висок, по-извисен — за кула или дърво; а за мисли и цели значи по-благороден и възвишен.",
+  "explanationEn": "Higher up, or more noble and grand.",
+  "exampleEn": "She swapped her dream of being famous for the loftier goal of becoming a doctor.",
+  "mnemonicBg": "„Лофт“ е жилище под самия покрив — колкото по-loftier, толкова по-нависоко си се качил.",
+  "ipa": "/ˈlɒftiə/"
+ },
+ {
+  "id": 1080,
+  "word": "boles",
+  "explanationBg": "Стволовете на дърветата — дебелите им „тела“ от корените до първите клони.",
+  "explanationEn": "The trunks of trees.",
+  "exampleEn": "We played hide-and-seek among the thick boles of the old oaks.",
+  "mnemonicBg": "„Боулз“ звучи като „боулинг“ — представи си гората като гигантска боулинг зала, в която стволовете са кеглите.",
+  "ipa": "/bəʊlz/"
+ },
+ {
+  "id": 1081,
+  "word": "tracery",
+  "explanationBg": "Фина украса от тънки, преплитащи се линии — като каменните дантели по прозорците на стари катедрали или шарките на скрежа.",
+  "explanationEn": "A delicate pattern of fine, branching lines.",
+  "exampleEn": "Frost drew a delicate tracery across the bus window this morning.",
+  "mnemonicBg": "В думата е „trace“ (очертавам) — представи си скреж, който търпеливо „трейсва“ дантела по стъклото: tracery.",
+  "ipa": "/ˈtreɪsəri/"
+ },
+ {
+  "id": 1082,
+  "word": "stems",
+  "explanationBg": "Стъблата на растенията — изправената им основна част, която носи листата и цветовете.",
+  "explanationEn": "The main parts of plants that hold up the leaves and flowers.",
+  "exampleEn": "She trimmed the rose stems so the flowers would fit in the small vase.",
+  "mnemonicBg": "Лесно: „stem“ и „стъбло“ започват еднакво със „ст-“ — стъблото е stem-ът на цветето.",
+  "ipa": "/stemz/"
+ },
+ {
+  "id": 1083,
+  "word": "chasm",
+  "explanationBg": "Дълбока зейнала цепнатина в земята или скалите; в преносен смисъл — огромна разлика между хора или възгледи.",
+  "explanationEn": "A very deep crack in the ground, or a huge difference between people or ideas.",
+  "exampleEn": "There's a chasm between how I play that song and how my guitar teacher plays it.",
+  "mnemonicBg": "Изговаря се „КАЗъм“, не „чазъм“ — представи си, че КАЗваш „ехо-о-о“ в бездната и тя ти отговаря.",
+  "ipa": "/ˈkæzəm/"
+ },
+ {
+  "id": 1084,
+  "word": "slender",
+  "explanationBg": "Тънък и изящен — грациозно строен; казва се и за нещо съвсем малко, например нищожен шанс.",
+  "explanationEn": "Gracefully thin; it can also mean very small in amount.",
+  "exampleEn": "The slender gymnast balanced on the beam as if it were nothing.",
+  "mnemonicBg": "Сети се за Slender Man от игрите — дълъг, източен и тънък: точно това значи slender.",
+  "ipa": "/ˈslendə/"
+ },
+ {
+  "id": 1085,
+  "word": "kerb",
+  "explanationBg": "Каменният ръб на тротоара — ниската ивица, която го дели от уличното платно.",
+  "explanationEn": "The stone edge of a pavement next to the road.",
+  "exampleEn": "He jumped his bike off the kerb and nearly lost his balance.",
+  "mnemonicBg": "Римува се с „гърб“ — тротоарът си има твърд каменен „гръб“ отстрани, по който скейтърите тракат.",
+  "ipa": "/kɜːb/"
+ },
+ {
+  "id": 1086,
+  "word": "spanned",
+  "explanationBg": "Прострял се от единия до другия край на нещо — както мост се прехвърля над река и свързва двата бряга.",
+  "explanationEn": "Stretched from one side of something to the other.",
+  "exampleEn": "A rope bridge spanned the stream, and we dared each other to cross first.",
+  "mnemonicBg": "Представи си въже, опънато от стена до стена във физкултурния салон — „спан-нато“ от край до край: spanned.",
+  "ipa": "/spænd/"
+ },
+ {
+  "id": 1087,
+  "word": "streaming mane",
+  "explanationBg": "Конска грива, която се вее назад като поток, докато конят препуска с всичка сила.",
+  "explanationEn": "A horse's mane flowing out behind it as it runs.",
+  "exampleEn": "The pony galloped across the field, its streaming mane shining in the sun.",
+  "mnemonicBg": "„Стрийминг“ го знаеш от Netflix — но тук „тече“ гривата: поток от косми по вятъра зад препускащия кон.",
+  "ipa": "/ˌstriːmɪŋ ˈmeɪn/"
+ },
+ {
+  "id": 1088,
+  "word": "horn",
+  "explanationBg": "Духов инструмент — първоначално правен от животински рог; надуваш го и звукът му се чува надалече.",
+  "explanationEn": "A musical instrument that you blow, originally made from an animal's horn.",
+  "exampleEn": "My cousin practises the horn every evening, and the whole street can hear it.",
+  "mnemonicBg": "„Хорн“ започва като „хор“ — но вместо хор от гласове пее един-единствен рог, при това гръмко.",
+  "ipa": "/hɔːn/"
+ },
+ {
+  "id": 1089,
+  "word": "wielder",
+  "explanationBg": "Човекът, който държи и умело си служи с оръжие или инструмент — този, в чиито ръце е мечът или чукът.",
+  "explanationEn": "The person who holds and uses a weapon or tool.",
+  "exampleEn": "In our club tournament she proved to be the best wielder of the foam lightsaber.",
+  "mnemonicBg": "„Wield“ и „владея“ си приличат по звук — wielder е онзи, който ВЛАДЕЕ оръжието в ръката си.",
+  "ipa": "/ˈwiːldə/"
+ },
+ {
+  "id": 1090,
+  "word": "leap (verb)",
+  "explanationBg": "Да скочиш мощно — надалече, нависоко или със засилка, влагайки цялата си сила.",
+  "explanationEn": "To jump far or high with force.",
+  "exampleEn": "She leapt over the puddle and still landed with one shoe in the water.",
+  "mnemonicBg": "Представи си жаба: „льоп!“ — и вече е на другия камък. Льоп = leap.",
+  "ipa": "/liːp/"
+ },
+ {
+  "id": 1091,
+  "word": "onset",
+  "explanationBg": "Началото на нещо, най-често неприятно — болест, буря или студ, които тепърва се разгръщат.",
+  "explanationEn": "The start of something, especially something unpleasant.",
+  "exampleEn": "At the onset of flu season our classroom turned into a choir of sneezes.",
+  "mnemonicBg": "ON + SET — все едно някой натиска копчето ON и неприятното „се настройва“ да започне.",
+  "ipa": "/ˈɒnset/"
+ },
+ {
+  "id": 1092,
+  "word": "molten",
+  "explanationBg": "Разтопен от страшна горещина — за метал или скала, станали течни, като лавата на вулкан.",
+  "explanationEn": "Melted into liquid by very high heat, like lava or hot metal.",
+  "exampleEn": "The chocolate fountain poured molten chocolate over our strawberries.",
+  "mnemonicBg": "В „molten“ се крие „melt“ (топя) — шоколад, забравен в джоба, става molten за минути.",
+  "ipa": "/ˈməʊltən/"
+ },
+ {
+  "id": 1093,
+  "word": "mournful",
+  "explanationBg": "Пълен с тъга и скръб — за лице, глас или мелодия, които сякаш оплакват нещо изгубено.",
+  "explanationEn": "Full of sadness and sorrow.",
+  "exampleEn": "The dog gave me a mournful look when I left for school without him.",
+  "mnemonicBg": "Чуй как стене думата: „мооорн“ — цяла чаша, пълна (full) с мъка: mournful.",
+  "ipa": "/ˈmɔːnfəl/"
+ },
+ {
+  "id": 1094,
+  "word": "cast down",
+  "explanationBg": "Хвърлен надолу; за човек — оклюмал и обезсърчен, с настроение, паднало до пода.",
+  "explanationEn": "Thrown down; or feeling sad and discouraged.",
+  "exampleEn": "Don't be so cast down over one bad grade — you can fix it next week.",
+  "mnemonicBg": "„Cast“ е хвърлям, „down“ е долу — все едно някой е хвърлил настроението ти на пода.",
+  "ipa": "/ˌkɑːst ˈdaʊn/"
+ },
+ {
+  "id": 1095,
+  "word": "brink",
+  "explanationBg": "Самият ръб на земята — последната ивица преди пропаст или вода; също моментът точно преди да се случи нещо голямо.",
+  "explanationEn": "The very edge before a drop or water; also the moment just before something happens.",
+  "exampleEn": "We stood on the brink of the cliff and watched the waves crash far below.",
+  "mnemonicBg": "Представи си звънче, което тревожно дрънка „бринк-бринк!“ щом доближиш ръба — стоп, дотук!",
+  "ipa": "/brɪŋk/"
+ },
+ {
+  "id": 1096,
+  "word": "whirl (verb)",
+  "explanationBg": "Да се въртиш бързо в кръг — като вихрушка, пумпал или танцьор в шеметно завъртане.",
+  "explanationEn": "To spin around very fast.",
+  "exampleEn": "The dancers whirled across the stage until the music suddenly stopped.",
+  "mnemonicBg": "„Whirl“ и „вихър“ звучат като братовчеди — вихърът завърта листата в бясно хоро.",
+  "ipa": "/wɜːl/"
+ },
+ {
+  "id": 1097,
+  "word": "wizened",
+  "explanationBg": "Съсухрен и сбръчкан от годините — кожата се е свила и набраздила, като на стара ябълка, забравена в купата.",
+  "explanationEn": "Dried up and wrinkled because of old age.",
+  "exampleEn": "The wizened old man at the market always saves the sweetest peaches for us.",
+  "mnemonicBg": "Звучи почти като „wizard“ — представи си столетен магьосник: бяла брада и лице, цялото в бръчки — wizened.",
+  "ipa": "/ˈwɪznd/"
+ },
+ {
+  "id": 1098,
+  "word": "yawn (verb)",
+  "explanationBg": "Да отвориш широко уста и да поемеш дълбоко въздух, защото ти се спи или ти е скучно.",
+  "explanationEn": "To open your mouth wide and breathe in because you are tired or bored.",
+  "exampleEn": "I tried not to yawn during the two-hour history lesson, but I totally failed.",
+  "mnemonicBg": "Самата дума се изговаря като прозявка — „йоооон“; кажи я три пъти и ще се прозинеш наистина.",
+  "ipa": "/jɔːn/"
+ },
+ {
+  "id": 1099,
+  "word": "beware",
+  "explanationBg": "Да внимаваш и да се пазиш от нещо опасно — дума-предупреждение: „отваряй си очите!“",
+  "explanationEn": "To be careful about something dangerous.",
+  "exampleEn": "Beware of the ice near the school gate — three people slipped there this morning.",
+  "mnemonicBg": "Вътре се крие „be aware“ (бъди нащрек) — като табелата „Beware of the dog“: пази се от кучето!",
+  "ipa": "/bɪˈweə/"
+ },
+ {
+  "id": 1100,
+  "word": "gird",
+  "explanationBg": "Да опашеш някого или нещо с колан или лента — да го стегнеш околовръст, например меч на кръста.",
+  "explanationEn": "To put a belt or band around someone or something.",
+  "exampleEn": "At the medieval fair, every young knight girded on a wooden sword before the parade.",
+  "mnemonicBg": "Звучи като „гърди“ — препасваш колана плътно под гърдите: gird!",
+  "ipa": "/ɡɜːd/"
+ }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "id": 801,
+  "word": "halter",
+  "explanationBg": "Въжето или ремъкът, който се слага около главата на кон, за да можеш да го водиш или да го вържеш някъде.",
+  "explanationEn": "A rope or strap you put around a horse's head to lead it or tie it up.",
+  "exampleEn": "The stable girl slipped a halter over the pony's head before leading it out to the paddock.",
+  "mnemonicBg": "„ХОЛ-тъ“ — представи си, че водиш кон с въжето право в хола на баба: с halter се води кон.",
+  "ipa": "/ˈhɔːltə/"
+ },
+ {
+  "id": 802,
+  "word": "profit",
+  "explanationBg": "Парите, които ти остават като печалба, след като извадиш разходите — или по-общо: ползата, която получаваш от нещо.",
+  "explanationEn": "Money you gain, or any benefit you get from something.",
+  "exampleEn": "We sold lemonade at the school fair and split the profit three ways.",
+  "mnemonicBg": "Профитерол! Продаваш профитероли на панаира и трупаш profit — печалбата е сладка.",
+  "ipa": "/ˈprɒfɪt/"
+ },
+ {
+  "id": 803,
+  "word": "astounding",
+  "explanationBg": "Толкова впечатляващ и изненадващ, че те оставя с отворена уста.",
+  "explanationEn": "So impressive or surprising that it amazes you.",
+  "exampleEn": "Her free-throw streak was astounding — twenty in a row without a single miss.",
+  "mnemonicBg": "ъ-СТАУН-динг — чуваш „стон“ по средата: толкова е поразително, че издаваш дълъг стон „оооо!“.",
+  "ipa": "/əˈstaʊndɪŋ/"
+ },
+ {
+  "id": 804,
+  "word": "regrettable",
+  "explanationBg": "За постъпка или събитие, което е жалко и буди съжаление — щеше да е по-добре изобщо да не се беше случвало.",
+  "explanationEn": "Something bad that makes you feel sorry it happened.",
+  "exampleEn": "Forgetting my best friend's birthday was regrettable, and I'm still making up for it.",
+  "mnemonicBg": "Вътре се крие „Грета“ — горката Грета изпусна сладоледа си на тротоара: колко жалко, какво съжаление!",
+  "ipa": "/rɪˈɡretəbl/"
+ },
+ {
+  "id": 805,
+  "word": "grievances",
+  "explanationBg": "Неща, от които хората се оплакват — истински или въображаеми причини за недоволство.",
+  "explanationEn": "Reasons, real or imagined, that people have for complaining.",
+  "exampleEn": "The students listed their grievances about the cafeteria food in a letter to the principal.",
+  "mnemonicBg": "ГРИЙВ-ънсис ~ „грижи“ — тефтерче, в което записваш всичките си грижи и оплаквания, за да ги изредиш после.",
+  "ipa": "/ˈɡriːvənsɪz/"
+ },
+ {
+  "id": 806,
+  "word": "unawares",
+  "explanationBg": "Изневиделица, без никакво предупреждение — когато нещо те сварва неподготвен.",
+  "explanationEn": "Without any warning, when you are not prepared.",
+  "exampleEn": "The surprise math quiz caught the whole class unawares.",
+  "mnemonicBg": "Ън-ъ-УЕЪЗ — чуваш стреснато „уеър?!“ (къде?!): въртиш се объркан, защото те хванаха изневиделица.",
+  "ipa": "/ˌʌnəˈweəz/"
+ },
+ {
+  "id": 807,
+  "word": "contrived",
+  "explanationBg": "Нагласено и измислено нарочно, а не станало от само себе си — личи си, че е изкуствено подредено.",
+  "explanationEn": "Planned and arranged on purpose instead of happening naturally.",
+  "exampleEn": "The influencer's 'spontaneous' reaction looked totally contrived, like she had rehearsed it ten times.",
+  "mnemonicBg": "Чуй „try“ по средата — някой толкова се е „трай-вал“ да изглежда естествено, че всичко стои нагласено.",
+  "ipa": "/kənˈtraɪvd/"
+ },
+ {
+  "id": 808,
+  "word": "hue",
+  "explanationBg": "Цвят или оттенък на цвят — фината разлика например между небесносиньо и тюркоазено.",
+  "explanationEn": "A colour or a shade of a colour.",
+  "exampleEn": "She edited the photo until the sky turned a soft pink hue.",
+  "mnemonicBg": "Hue звучи като началото на „хубав“ — хубавата снимка се познава по точно уцеления оттенък.",
+  "ipa": "/hjuː/"
+ },
+ {
+  "id": 809,
+  "word": "forestall",
+  "explanationBg": "Да попречиш на нещо, което очакваш да се случи, като действаш преди него — изпреварваш го и така го осуетяваш.",
+  "explanationEn": "To stop something before it happens by acting first.",
+  "exampleEn": "I charged my phone the night before the trip to forestall any drama on the bus.",
+  "mnemonicBg": "ФОР-СТОЛ — слагаш СТОЛ пред вратата ПРЕДИ крадецът да влезе: спрял си го предварително.",
+  "ipa": "/fɔːˈstɔːl/"
+ },
+ {
+  "id": 810,
+  "word": "dwelling",
+  "explanationBg": "Място, където живее човек — къща, апартамент или какъвто и да е дом.",
+  "explanationEn": "A house or any place where someone lives.",
+  "exampleEn": "Their new dwelling was a tiny flat above the bakery, and it always smelled like fresh bread.",
+  "mnemonicBg": "ДУЕЛ-инг — двама рицари излизат на дуел за най-хубавото жилище в селото.",
+  "ipa": "/ˈdwelɪŋ/"
+ },
+ {
+  "id": 811,
+  "word": "northmost foothills",
+  "explanationBg": "Ниските хълмове в самото северно подножие на планина — там, където планината „започва“ откъм север.",
+  "explanationEn": "The hills at the northern bottom edge of a mountain range.",
+  "exampleEn": "Our summer camp was tucked into the northmost foothills, where the air stayed cool even in July.",
+  "mnemonicBg": "Планината има „крака“ (foot) — най-северните ѝ стъпалца са northmost foothills.",
+  "ipa": "/ˈnɔːθməʊst ˈfʊthɪlz/"
+ },
+ {
+  "id": 812,
+  "word": "enclose",
+  "explanationBg": "Да обградиш нещо от всички страни — да го затвориш вътре, както ограда затваря двор.",
+  "explanationEn": "To surround something or close it in on every side.",
+  "exampleEn": "A tall hedge encloses the school garden so the wind can't ruin the tomatoes.",
+  "mnemonicBg": "in + close — „затваряш вътре“: кокошките в кошарата са оградени отвсякъде.",
+  "ipa": "/ɪnˈkləʊz/"
+ },
+ {
+  "id": 813,
+  "word": "import",
+  "explanationBg": "Значението или важността на нещо — каква тежест носи то. Внимавай: тук думата не значи „внос“, а смисъл.",
+  "explanationEn": "The importance or deeper meaning of something.",
+  "exampleEn": "I didn't understand the full import of the coach's warning until we lost the next game.",
+  "mnemonicBg": "Думата „внася“ (import) смисъл в изречението — каквото внася, това ѝ е значението.",
+  "ipa": "/ˈɪmpɔːt/"
+ },
+ {
+  "id": 814,
+  "word": "lurking-place",
+  "explanationBg": "Скрито място, от което някой дебне и чака да изненада — скривалище за засада.",
+  "explanationEn": "A hidden spot where someone waits secretly to attack or surprise.",
+  "exampleEn": "Behind the old gym was the perfect lurking-place for our hide-and-seek champion.",
+  "mnemonicBg": "Като lurker в чата — седи скрит и само наблюдава; lurking-place е ъгълът, от който дебне.",
+  "ipa": "/ˈlɜːkɪŋ pleɪs/"
+ },
+ {
+  "id": 815,
+  "word": "scorn",
+  "explanationBg": "Презрение — чувството, че гледаш на някого отвисоко, сякаш не заслужава уважение, и открито го показваш.",
+  "explanationEn": "A strong feeling that someone or something deserves no respect.",
+  "exampleEn": "He looked at my secondhand sneakers with scorn, which honestly said more about him than about me.",
+  "mnemonicBg": "С-КОРН ~ скорпион — гледа те отвисоко, с вдигната опашка и крива усмивка: чисто презрение.",
+  "ipa": "/skɔːn/"
+ },
+ {
+  "id": 816,
+  "word": "avail",
+  "explanationBg": "Полза, файда, резултат от усилието — често в израза „без никаква полза“: мъчиш се, а нищо не излиза.",
+  "explanationEn": "Use or benefit; if something is 'to no avail', it brings no result.",
+  "exampleEn": "I begged my parents for a later curfew, but to no avail.",
+  "mnemonicBg": "ъ-ВЕЙЛ звучи почти като „файда“ — to no avail = „без никаква файда“.",
+  "ipa": "/əˈveɪl/"
+ },
+ {
+  "id": 817,
+  "word": "emissaries",
+  "explanationBg": "Пратеници — хора, изпратени със специална задача, обикновено да представляват някого, като дипломати.",
+  "explanationEn": "People sent on a special mission to speak for someone, like diplomats.",
+  "exampleEn": "The two rival schools sent emissaries to plan the joint charity concert.",
+  "mnemonicBg": "Вътре се крие „мисия“ — е-МИСИЯ-ри са хората, изпратени на специална мисия.",
+  "ipa": "/ˈemɪsəriz/"
+ },
+ {
+  "id": 818,
+  "word": "commend",
+  "explanationBg": "Да похвалиш някого официално или да го препоръчаш — а понякога и да повериш нещо ценно в нечии ръце.",
+  "explanationEn": "To praise someone officially, or to trust someone with something.",
+  "exampleEn": "The principal commended the volunteers for cleaning up the river bank.",
+  "mnemonicBg": "ко-МЕНД ~ комент — оставяш хвалебствен комент под клипа на приятел: похвала пред всички.",
+  "ipa": "/kəˈmend/"
+ },
+ {
+  "id": 819,
+  "word": "forges",
+  "explanationBg": "Ковачници — работилници с огнище, където металът се нагрява до червено и се кове с чук, за да получи форма.",
+  "explanationEn": "Workshops where metal is heated in a fire and hammered into shape.",
+  "exampleEn": "On the museum trip we watched blacksmiths working at real forges, sparks flying everywhere.",
+  "mnemonicBg": "Като Forge в Minecraft — огън + наковалня + чук = мечове: това е ковачницата.",
+  "ipa": "/ˈfɔːdʒɪz/"
+ },
+ {
+  "id": 820,
+  "word": "mustering",
+  "explanationBg": "Събиране на хора на едно място, най-вече войници — или събиране на смелост и сили за нещо трудно.",
+  "explanationEn": "Gathering people, especially soldiers, or collecting your courage.",
+  "exampleEn": "After mustering all her courage, Mia finally sang in front of the whole school.",
+  "mnemonicBg": "МЪСТЪ-ринг ~ мустак — генерал с огромни мустаци надува свирката и събира войската на плаца.",
+  "ipa": "/ˈmʌstərɪŋ/"
+ },
+ {
+  "id": 821,
+  "word": "treacherous",
+  "explanationBg": "Коварен — който предава доверието ти; казва се и за опасни места, които изглеждат безобидни, например хлъзгава пътека.",
+  "explanationEn": "Ready to betray you, or dangerous while seeming safe.",
+  "exampleEn": "The hiking trail gets treacherous after rain, so we waited a day before climbing.",
+  "mnemonicBg": "ТРЕ-ЧЕРИ-ъс — череша, сладка отвън, с червейче вътре: изглежда чудесно, а те предава.",
+  "ipa": "/ˈtretʃərəs/"
+ },
+ {
+  "id": 822,
+  "word": "thither",
+  "explanationBg": "Старинна дума за „натам“, към онова място — днес никой не я ползва в разговор, но я срещаш в стари книги.",
+  "explanationEn": "An old word meaning 'to that place'.",
+  "exampleEn": "The old map in the library said 'go thither' instead of simply 'go there'.",
+  "mnemonicBg": "Дядо сочи с бастуна: „Върви натам, чедо!“ — thither е прашасалото, старинно „натам“.",
+  "ipa": "/ˈðɪðə/"
+ },
+ {
+  "id": 823,
+  "word": "waned",
+  "explanationBg": "Намаля, отслабна — за сила, светлина или интерес; за луната значи, че се е смалявала нощ след нощ.",
+  "explanationEn": "Became smaller or weaker (often said about the moon).",
+  "exampleEn": "My excitement about the series waned after the third boring episode.",
+  "mnemonicBg": "УЕЙНД ~ Брус Уейн — без баткостюма силата на Уейн намаля и отслабна.",
+  "ipa": "/weɪnd/"
+ },
+ {
+  "id": 824,
+  "word": "steed",
+  "explanationBg": "Книжна, поетична дума за кон — особено кон за яздене, какъвто язди герой или рицар.",
+  "explanationEn": "A literary word for a horse, especially one you ride.",
+  "exampleEn": "In the fantasy game you can upgrade your steed so it gallops twice as fast.",
+  "mnemonicBg": "Смени една буква и става speed — steed е „спортната кола“ на рицаря.",
+  "ipa": "/stiːd/"
+ },
+ {
+  "id": 825,
+  "word": "levies",
+  "explanationBg": "Войници, свикани на служба — обикновени хора, събрани (често задължително) да се бият, когато се наложи.",
+  "explanationEn": "Groups of people called up to serve as soldiers.",
+  "exampleEn": "In history class we read how medieval kings raised levies from every village before a war.",
+  "mnemonicBg": "ЛЕВИС ~ Levi's — цял полк новобранци, строени в еднакви дънки: свикани войници.",
+  "ipa": "/ˈleviz/"
+ },
+ {
+  "id": 826,
+  "word": "vie",
+  "explanationBg": "Да се състезаваш разгорещено с някого — да се надпреварвате кой ще постигне нещо пръв или по-добре.",
+  "explanationEn": "To compete eagerly with someone for the same goal.",
+  "exampleEn": "The two best players vie for the captain's armband every single season.",
+  "mnemonicBg": "„Вай, вай!“ — въздиша публиката, докато двама се скъсват да се надпреварват за първото място.",
+  "ipa": "/vaɪ/"
+ },
+ {
+  "id": 827,
+  "word": "Shadowfax",
+  "explanationBg": "Сенкогрив — приказно бързият кон на магьосника Гандалф, господар на конете Меарас от земята Рохан.",
+  "explanationEn": "The great horse of Rohan, lord of the Mearas, that Gandalf rides in Tolkien's story.",
+  "exampleEn": "My cousin named his racing bike Shadowfax because nothing in the neighbourhood can keep up with it.",
+  "mnemonicBg": "Shadow (сянка) + fax — кон, който „се изпраща“ бързо като факс и лети безшумно като сянка.",
+  "ipa": "/ˈʃædəʊfæks/"
+ },
+ {
+  "id": 828,
+  "word": "footfall",
+  "explanationBg": "Звукът от стъпка — тихото тупване, когато нечий крак докосне земята.",
+  "explanationEn": "The sound that a footstep makes.",
+  "exampleEn": "The library was so silent that every footfall echoed down the corridor.",
+  "mnemonicBg": "foot (крак) + fall (пада) — кракът „пада“ на пода: туп!… туп!… — звукът от стъпки.",
+  "ipa": "/ˈfʊtfɔːl/"
+ },
+ {
+  "id": 829,
+  "word": "shortcomings",
+  "explanationBg": "Недостатъци, слабости — нещата, в които някой или нещо не достига до очакваното ниво.",
+  "explanationEn": "Weak points or faults; ways of not being good enough.",
+  "exampleEn": "Forgetting names is one of my biggest shortcomings, so I write everyone's birthday in my phone.",
+  "mnemonicBg": "short + coming — скачаш към летвата, но „идваш късо“: все нещо мъничко не ти достига.",
+  "ipa": "/ˈʃɔːtkʌmɪŋz/"
+ },
+ {
+  "id": 830,
+  "word": "abide",
+  "explanationBg": "Да изтърпиш или понесеш нещо, което не ти харесва; а когато е за правило — да го приемеш и спазваш.",
+  "explanationEn": "To accept or put up with something; to follow a rule.",
+  "exampleEn": "I can abide loud music, but I can't stand people talking during a movie.",
+  "mnemonicBg": "ъ-БАЙД ~ „а, байде…“ — въздъхваш дълбоко и търпиш; а abide by the rules = спазвам правилата.",
+  "ipa": "/əˈbaɪd/"
+ },
+ {
+  "id": 831,
+  "word": "uproar",
+  "explanationBg": "Силна врява и възмущение — когато много хора едновременно шумят, викат и протестират.",
+  "explanationEn": "A loud noisy protest or disturbance from many people.",
+  "exampleEn": "There was an uproar in the gym when the referee cancelled the winning goal.",
+  "mnemonicBg": "up + roar — рев, който се вдига нагоре: зала, пълна с ревящи лъвове = врява до тавана.",
+  "ipa": "/ˈʌprɔː/"
+ },
+ {
+  "id": 832,
+  "word": "a hive",
+  "explanationBg": "Кошер — къщичката, в която живеят пчелите; преносно: място, което жужи от оживление и работа.",
+  "explanationEn": "A home for bees, or any place full of busy activity.",
+  "exampleEn": "On Monday mornings the school hallway is a hive of slamming lockers and last-minute homework.",
+  "mnemonicBg": "ХАЙВ ~ „хайде!“ — хиляди пчели хвърчат едновременно с викове „хайде, хайде!“: жужащ кошер.",
+  "ipa": "/ə ˈhaɪv/"
+ },
+ {
+  "id": 833,
+  "word": "wilful",
+  "explanationBg": "Своенравен и твърдоглав — прави каквото си е наумил и не слуша никого.",
+  "explanationEn": "Stubborn and determined to do exactly what you want.",
+  "exampleEn": "My wilful little sister refuses to wear a jacket even when it's freezing.",
+  "mnemonicBg": "will (воля) + full (пълен) — препълнен с „искам!“: инат до козирката.",
+  "ipa": "/ˈwɪlfəl/"
+ },
+ {
+  "id": 834,
+  "word": "wrath",
+  "explanationBg": "Огромен, изпепеляващ гняв — не просто ядосване, а истинска ярост.",
+  "explanationEn": "Very great anger; fury.",
+  "exampleEn": "Mum's wrath was terrifying when she found the kitchen covered in flour.",
+  "mnemonicBg": "Помисли за Кратос от God of War — той е ходеща wrath: ярост, от която земята трепери.",
+  "ipa": "/rɒθ/"
+ },
+ {
+  "id": 835,
+  "word": "gale",
+  "explanationBg": "Много силен вятър, почти буря — от онези, които огъват дървета и отнасят чадъри.",
+  "explanationEn": "A very strong wind.",
+  "exampleEn": "The gale knocked over our tent, so we spent half the night chasing it across the field.",
+  "mnemonicBg": "Звучи като „галя“, но прави точно обратното — не те гали, а ти отнася чадъра и шапката.",
+  "ipa": "/ɡeɪl/"
+ },
+ {
+  "id": 836,
+  "word": "besieged",
+  "explanationBg": "Обсаден — обкръжен от вражески сили, които искат да те превземат; преносно: затрупан отвсякъде с въпроси или молби.",
+  "explanationEn": "Surrounded by enemies, or constantly attacked with demands.",
+  "exampleEn": "After posting the trick-shot video, he was besieged by friends asking how he did it.",
+  "mnemonicBg": "Като в Rainbow Six Siege — врагове от всички страни, а ти си затворен вътре: обсаден.",
+  "ipa": "/bɪˈsiːdʒd/"
+ },
+ {
+  "id": 837,
+  "word": "war-beacons",
+  "explanationBg": "Огньове, палени на върховете на хълмове, за да предупредят отдалеч, че идва война, или да повикат помощ.",
+  "explanationEn": "Fires lit on hilltops to warn of war or call for help.",
+  "exampleEn": "In the strategy game we lit war-beacons on the hills to call our allies into battle.",
+  "mnemonicBg": "beacon ~ „бекон“ — огънят на хълма не пече бекон, а праща сигнал: „Война! Помощ!“.",
+  "ipa": "/ˈwɔː ˌbiːkənz/"
+ },
+ {
+  "id": 838,
+  "word": "folly",
+  "explanationBg": "Глупост, безразсъдство — постъпка, която показва пълна липса на здрав разум.",
+  "explanationEn": "A foolish act or a lack of good sense.",
+  "exampleEn": "Riding a skateboard down the steepest street in town was pure folly.",
+  "mnemonicBg": "ФОЛИ ~ фолио — да си направиш шапка от фолио срещу дъжда е чиста folly: пълна глупост.",
+  "ipa": "/ˈfɒli/"
+ },
+ {
+  "id": 839,
+  "word": "obtain (verb)",
+  "explanationBg": "Да получиш или да се сдобиеш с нещо — да си го осигуриш, често с известно усилие.",
+  "explanationEn": "To get or gain something, often with some effort.",
+  "exampleEn": "You have to obtain a signed permission slip before joining the climbing trip.",
+  "mnemonicBg": "об-ТЕЙН ~ „обтегни се“ — поразтегни се, протегни ръка и ще се сдобиеш с каквото искаш: нищо не идва даром.",
+  "ipa": "/əbˈteɪn/"
+ },
+ {
+  "id": 840,
+  "word": "unguessed",
+  "explanationBg": "Неподозиран — нещо, което никой не е познал и не е очаквал, че съществува или ще се случи.",
+  "explanationEn": "Not guessed or expected by anyone.",
+  "exampleEn": "The plot twist was completely unguessed — nobody in our book club saw it coming.",
+  "mnemonicBg": "un + guess — нещо, което и най-добрият гадател с кристално кълбо не успя да познае.",
+  "ipa": "/ˌʌnˈɡest/"
+ },
+ {
+  "id": 841,
+  "word": "respite",
+  "explanationBg": "Кратка почивка или отсрочка — миг на облекчение насред нещо тежко.",
+  "explanationEn": "A short rest or break from something hard.",
+  "exampleEn": "The rain gave us a short respite from the brutal afternoon training.",
+  "mnemonicBg": "РЕС-пайт ~ respawn — кратка пауза, в която „се съживяваш“ преди следващия рунд.",
+  "ipa": "/ˈrespaɪt/"
+ },
+ {
+  "id": 842,
+  "word": "waning",
+  "explanationBg": "Намаляващ, отслабващ — за луната: когато светлата ѝ част се смалява нощ след нощ.",
+  "explanationEn": "Getting smaller or weaker, like the moon when its bright part shrinks.",
+  "exampleEn": "We watched the waning moon get thinner every night during the camping week.",
+  "mnemonicBg": "Луната е на диета — waning значи, че „отслабва“ по малко всяка нощ.",
+  "ipa": "/ˈweɪnɪŋ/"
+ },
+ {
+  "id": 843,
+  "word": "assailing",
+  "explanationBg": "Нападащ, атакуващ — нахвърлящ се срещу някого или нещо с пълна сила.",
+  "explanationEn": "Attacking someone or something with force.",
+  "exampleEn": "Two defenders kept assailing our striker, but she still scored.",
+  "mnemonicBg": "ъ-СЕЙЛ ~ SALE — тълпата в първата секунда на разпродажбата: щурмува, напада, помита щандовете.",
+  "ipa": "/əˈseɪlɪŋ/"
+ },
+ {
+  "id": 844,
+  "word": "wanes",
+  "explanationBg": "Намалява, губи сила — за интерес, светлина или мощ; за луната: изглежда все по-малка.",
+  "explanationEn": "Becomes smaller or weaker, like the moon late in the month.",
+  "exampleEn": "My phone battery wanes so fast that I carry a power bank everywhere.",
+  "mnemonicBg": "WANE звучи като „вехне“ — ентусиазмът вехне и се смалява като цвете без вода.",
+  "ipa": "/weɪnz/"
+ },
+ {
+  "id": 845,
+  "word": "nicety",
+  "explanationBg": "Тънкост, фин детайл — малка, едва доловима разлика, която забелязват само познавачите.",
+  "explanationEn": "A small fine detail or subtle difference.",
+  "exampleEn": "Chess looks simple until you discover every nicety of the opening moves.",
+  "mnemonicBg": "Вътре се крие nice — малкият фин детайл, който прави нещата наистина nice.",
+  "ipa": "/ˈnaɪsəti/"
+ },
+ {
+  "id": 846,
+  "word": "vainly",
+  "explanationBg": "Напразно, без успех — колкото и да опитваш, желаният резултат така и не идва.",
+  "explanationEn": "Without success; with no useful result.",
+  "exampleEn": "I searched vainly for my earphones all morning — they were in my pocket the whole time.",
+  "mnemonicBg": "ВЕЙН ~ веене на вятър — усилието отива „на вятъра“: духаш срещу бурята напразно.",
+  "ipa": "/ˈveɪnli/"
+ },
+ {
+  "id": 847,
+  "word": "overwhelming",
+  "explanationBg": "Толкова огромен или силен, че те залива целия и не можеш да му устоиш или да се справиш с него.",
+  "explanationEn": "So strong or so big that you cannot resist or handle it.",
+  "exampleEn": "The support from the whole school was overwhelming after our team reached the final.",
+  "mnemonicBg": "WHELM звучи като „вълна“ — огромна вълна те залива презглава: непосилно много.",
+  "ipa": "/ˌəʊvəˈwelmɪŋ/"
+ },
+ {
+  "id": 848,
+  "word": "keenness",
+  "explanationBg": "Острота на ума или сетивата — а също и жар, ентусиазъм, силно желание да правиш нещо.",
+  "explanationEn": "Sharpness of mind or senses, or strong enthusiasm.",
+  "exampleEn": "Her keenness for astronomy is so contagious that half the class joined the stargazing club.",
+  "mnemonicBg": "КИЙН ~ кинжал — ум, остър като кинжал, плюс хъс да го използваш веднага.",
+  "ipa": "/ˈkiːnnəs/"
+ },
+ {
+  "id": 849,
+  "word": "crept",
+  "explanationBg": "Промъкна се — движеше се бавно, тихо и незабелязано (минало време на „промъквам се, пълзя“).",
+  "explanationEn": "Moved slowly and quietly so nobody would notice (past of creep).",
+  "exampleEn": "I crept past my parents' bedroom at midnight to grab a snack from the kitchen.",
+  "mnemonicBg": "КРЕПТ ~ креп — промъкваш се на пръсти към кухнята за последната палачинка-креп, без да изскърца подът.",
+  "ipa": "/krept/"
+ },
+ {
+  "id": 850,
+  "word": "cheek",
+  "explanationBg": "Дързост и нахалство — когато някой си позволява нагли приказки или държание без капка срам. В този смисъл не означава „буза“.",
+  "explanationEn": "Rude boldness; talking or acting without respect but with confidence.",
+  "exampleEn": "He had the cheek to ask for my notes after skipping class all week.",
+  "mnemonicBg": "На български имаме „дебели очи“, на английски — cheek („буза“): нахалство с дебели бузи.",
+  "ipa": "/tʃiːk/"
+ }
+]

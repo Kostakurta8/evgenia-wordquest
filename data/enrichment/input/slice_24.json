@@ -1,0 +1,350 @@
+[
+ {
+  "id": 1151,
+  "page": 345,
+  "word": "wraps",
+  "definition": "Loose outer garments or scarves; coverings.",
+  "synonyms": [
+   "shawls",
+   "cloaks",
+   "coverings"
+  ],
+  "antonyms": null,
+  "translation": "наметки, шалове"
+ },
+ {
+  "id": 1152,
+  "page": 345,
+  "word": "stealthy",
+  "definition": "Behaving or done in a cautious and surreptitious manner.",
+  "synonyms": [
+   "sneaky",
+   "furtive",
+   "secretive"
+  ],
+  "antonyms": [
+   "open",
+   "overt"
+  ],
+  "translation": "крадешком, потаен"
+ },
+ {
+  "id": 1153,
+  "page": 346,
+  "word": "tree-stems",
+  "definition": "The trunks or main stems of trees.",
+  "synonyms": [
+   "trunks",
+   "boles"
+  ],
+  "antonyms": null,
+  "translation": "дървесни стволове"
+ },
+ {
+  "id": 1154,
+  "page": 346,
+  "word": "innumerable",
+  "definition": "Too many to be counted.",
+  "synonyms": [
+   "countless",
+   "myriad",
+   "numerous"
+  ],
+  "antonyms": "few",
+  "translation": "безброй, неизброим"
+ },
+ {
+  "id": 1155,
+  "page": 346,
+  "word": "changeful",
+  "definition": "Frequently changing; variable.",
+  "synonyms": [
+   "changeable",
+   "variable",
+   "mutable"
+  ],
+  "antonyms": [
+   "constant",
+   "fixed"
+  ],
+  "translation": "променлив, изменчив"
+ },
+ {
+  "id": 1156,
+  "page": 347,
+  "word": "shuffle (verb)",
+  "definition": "To walk by dragging one’s feet along or without lifting them fully from the ground.",
+  "synonyms": [
+   "shamble",
+   "scuff",
+   "drag"
+  ],
+  "antonyms": "stride",
+  "translation": "тътря крака"
+ },
+ {
+  "id": 1157,
+  "page": 347,
+  "word": "roosting",
+  "definition": "(Of a bird) settling or resting for sleep.",
+  "synonyms": [
+   "perching",
+   "nesting"
+  ],
+  "antonyms": null,
+  "translation": "кацнал за нощувка"
+ },
+ {
+  "id": 1158,
+  "page": 348,
+  "word": "thus",
+  "definition": "As a result or consequence of this; in this way.",
+  "synonyms": [
+   "therefore",
+   "consequently",
+   "hence"
+  ],
+  "antonyms": null,
+  "translation": "така, по този начин"
+ },
+ {
+  "id": 1159,
+  "page": 348,
+  "word": "troop",
+  "definition": "A group of soldiers, especially a unit of cavalry; a band of people.",
+  "synonyms": [
+   "group",
+   "band",
+   "unit"
+  ],
+  "antonyms": null,
+  "translation": "отряд, чета"
+ },
+ {
+  "id": 1160,
+  "page": 348,
+  "word": "beggars",
+  "definition": "People who live by asking for money or food.",
+  "synonyms": [
+   "paupers",
+   "mendicants"
+  ],
+  "antonyms": null,
+  "translation": "просяци"
+ },
+ {
+  "id": 1161,
+  "page": 348,
+  "word": "amends",
+  "definition": "Reparation or compensation for a loss, damage, or injury caused.",
+  "synonyms": [
+   "reparation",
+   "compensation",
+   "atonement"
+  ],
+  "antonyms": null,
+  "translation": "компенсация, поправяне на щета"
+ },
+ {
+  "id": 1162,
+  "page": 348,
+  "word": "harp",
+  "definition": "A musical instrument consisting of a frame supporting a series of strings.",
+  "synonyms": "lyre",
+  "antonyms": null,
+  "translation": "арфа"
+ },
+ {
+  "id": 1163,
+  "page": 348,
+  "word": "bowstring",
+  "definition": "The string of an archer’s bow.",
+  "synonyms": [
+   "bow-cord",
+   "string"
+  ],
+  "antonyms": null,
+  "translation": "тетива"
+ },
+ {
+  "id": 1164,
+  "page": 349,
+  "word": "mingled",
+  "definition": "Mixed or combined; mingled with others.",
+  "synonyms": [
+   "mixed",
+   "blended",
+   "combined"
+  ],
+  "antonyms": "separated",
+  "translation": "смесен"
+ },
+ {
+  "id": 1165,
+  "page": 349,
+  "word": "aforetime",
+  "definition": "(Archaic) at a former or earlier time; formerly.",
+  "synonyms": [
+   "formerly",
+   "previously",
+   "of old"
+  ],
+  "antonyms": "henceforth",
+  "translation": "преди, в миналото (архаично)"
+ },
+ {
+  "id": 1166,
+  "page": 349,
+  "word": "trodden",
+  "definition": "Walked on; (past participle of tread) used or worn by walking.",
+  "synonyms": [
+   "walked-on",
+   "beaten",
+   "well-worn"
+  ],
+  "antonyms": "untrodden",
+  "translation": "утъпкан, изтъпкан"
+ },
+ {
+  "id": 1167,
+  "page": 350,
+  "word": "host",
+  "definition": "A large number of people or things; an army.",
+  "synonyms": [
+   "multitude",
+   "army",
+   "throng"
+  ],
+  "antonyms": "few",
+  "translation": "множество, войнство"
+ },
+ {
+  "id": 1168,
+  "page": 350,
+  "word": "marauding",
+  "definition": "Going about in search of things to steal or people to attack.",
+  "synonyms": [
+   "raiding",
+   "pillaging",
+   "plundering"
+  ],
+  "antonyms": null,
+  "translation": "мародерстващ, плячкосващ"
+ },
+ {
+  "id": 1169,
+  "page": 350,
+  "word": "elude (verb)",
+  "definition": "To escape from or avoid (a danger, enemy, or pursuer), typically in a skilful way.",
+  "synonyms": [
+   "evade",
+   "avoid",
+   "escape"
+  ],
+  "antonyms": [
+   "face",
+   "confront"
+  ],
+  "translation": "избягвам, изплъзвам се"
+ },
+ {
+  "id": 1170,
+  "page": 350,
+  "word": "mound",
+  "definition": "A rounded mass projecting above a surface; a small hill or heap.",
+  "synonyms": [
+   "hill",
+   "heap",
+   "knoll"
+  ],
+  "antonyms": "hollow",
+  "translation": "могила, насип"
+ },
+ {
+  "id": 1171,
+  "page": 351,
+  "word": "poignant",
+  "definition": "Evoking a keen sense of sadness or regret; deeply moving.",
+  "synonyms": [
+   "moving",
+   "touching",
+   "heartrending"
+  ],
+  "antonyms": "unaffecting",
+  "translation": "затрогващ, проникновен"
+ },
+ {
+  "id": 1172,
+  "page": 351,
+  "word": "blemish",
+  "definition": "A small mark or flaw which spoils the appearance of something.",
+  "synonyms": [
+   "flaw",
+   "imperfection",
+   "defect"
+  ],
+  "antonyms": "perfection",
+  "translation": "дефект, петно"
+ },
+ {
+  "id": 1173,
+  "page": 351,
+  "word": "elanor",
+  "definition": "A small star-shaped yellow flower of Lothlórien (Tolkien).",
+  "synonyms": "sun-star flower",
+  "antonyms": null,
+  "translation": "еланор (жълто цвете на Лотлориен)"
+ },
+ {
+  "id": 1174,
+  "page": 351,
+  "word": "niphredil",
+  "definition": "A small pale flower like a snowdrop, native to Lothlórien (Tolkien).",
+  "synonyms": [
+   "pale flower",
+   "snowdrop-like flower"
+  ],
+  "antonyms": null,
+  "translation": "нифредил (бледо цвете на Лотлориен)"
+ },
+ {
+  "id": 1175,
+  "page": 351,
+  "word": "flet",
+  "definition": "A wooden platform built among the boughs of a mallorn tree (Tolkien).",
+  "synonyms": [
+   "talan",
+   "tree-platform"
+  ],
+  "antonyms": null,
+  "translation": "флет (дървена платформа в дърво)"
+ },
+ {
+  "id": 1176,
+  "page": 352,
+  "word": "fir",
+  "definition": "An evergreen coniferous tree with upright cones and flat needle-like leaves.",
+  "synonyms": [
+   "conifer",
+   "pine"
+  ],
+  "antonyms": null,
+  "translation": "ела"
+ },
+ {
+  "id": 1177,
+  "page": 352,
+  "word": "wither",
+  "definition": "(Of a plant) to become dry and shrivelled.",
+  "synonyms": [
+   "shrivel",
+   "wilt",
+   "fade"
+  ],
+  "antonyms": [
+   "bloom",
+   "flourish"
+  ],
+  "translation": "вехна, изсъхвам"
+ }
+]

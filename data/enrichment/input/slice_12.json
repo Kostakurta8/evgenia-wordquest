@@ -1,0 +1,699 @@
+[
+ {
+  "id": 551,
+  "page": 183,
+  "word": "doublings",
+  "definition": "Twisting turns or bends, especially as in a path or river.",
+  "synonyms": [
+   "turnings",
+   "twists",
+   "bends"
+  ],
+  "antonyms": null,
+  "translation": "извивания, обрати"
+ },
+ {
+  "id": 552,
+  "page": 183,
+  "word": "warbling",
+  "definition": "(Of a bird) singing with a succession of high quavering notes.",
+  "synonyms": [
+   "trilling",
+   "chirping",
+   "singing"
+  ],
+  "antonyms": null,
+  "translation": "трелене, пеене с трели"
+ },
+ {
+  "id": 553,
+  "page": 183,
+  "word": "dry-footed",
+  "definition": "Crossing or walking without wetting one’s feet.",
+  "synonyms": "with dry feet",
+  "antonyms": "wet-footed",
+  "translation": "със сухи крака, сухоног"
+ },
+ {
+  "id": 554,
+  "page": 184,
+  "word": "quagmires",
+  "definition": "Soft boggy areas of land that give way underfoot.",
+  "synonyms": [
+   "bogs",
+   "swamps",
+   "mires"
+  ],
+  "antonyms": "firm ground",
+  "translation": "тресавища"
+ },
+ {
+  "id": 555,
+  "page": 184,
+  "word": "midges",
+  "definition": "Small two-winged flies that occur in swarms, especially near water.",
+  "synonyms": [
+   "gnats",
+   "small flies"
+  ],
+  "antonyms": null,
+  "translation": "мушици, комарчета"
+ },
+ {
+  "id": 556,
+  "page": 184,
+  "word": "tussocks",
+  "definition": "Small, dense bushy clumps of grass.",
+  "synonyms": [
+   "tufts",
+   "clumps",
+   "hummocks"
+  ],
+  "antonyms": null,
+  "translation": "тревни туфи"
+ },
+ {
+  "id": 557,
+  "page": 184,
+  "word": "frantic",
+  "definition": "Wild or distraught with fear, anxiety, or other emotion.",
+  "synonyms": [
+   "wild",
+   "frenzied",
+   "desperate"
+  ],
+  "antonyms": [
+   "calm",
+   "composed"
+  ],
+  "translation": "неистов, обезумял"
+ },
+ {
+  "id": 558,
+  "page": 184,
+  "word": "straggling",
+  "definition": "Spread out untidily over a large area; falling behind a main body.",
+  "synonyms": [
+   "scattered",
+   "sprawling",
+   "lagging"
+  ],
+  "antonyms": [
+   "compact",
+   "leading"
+  ],
+  "translation": "разпрострян, изоставащ"
+ },
+ {
+  "id": 559,
+  "page": 185,
+  "word": "wilderness",
+  "definition": "An uncultivated, uninhabited, and inhospitable region.",
+  "synonyms": [
+   "wild",
+   "wasteland",
+   "desert"
+  ],
+  "antonyms": [
+   "civilization",
+   "town"
+  ],
+  "translation": "пустош, дива местност"
+ },
+ {
+  "id": 560,
+  "page": 185,
+  "word": "lonesome",
+  "definition": "Sad because of lack of friends or company; lonely.",
+  "synonyms": [
+   "lonely",
+   "solitary",
+   "forlorn"
+  ],
+  "antonyms": [
+   "sociable",
+   "accompanied"
+  ],
+  "translation": "самотен, унил"
+ },
+ {
+  "id": 561,
+  "page": 185,
+  "word": "plodded",
+  "definition": "Walked doggedly and slowly with heavy steps.",
+  "synonyms": [
+   "trudged",
+   "slogged",
+   "tramped"
+  ],
+  "antonyms": "sprinted",
+  "translation": "влачеше се, тътреше се"
+ },
+ {
+  "id": 562,
+  "page": 185,
+  "word": "barren",
+  "definition": "(Of land) too poor to produce much or any vegetation; bleak.",
+  "synonyms": [
+   "unproductive",
+   "infertile",
+   "bleak"
+  ],
+  "antonyms": [
+   "fertile",
+   "lush"
+  ],
+  "translation": "безплоден, неплодороден"
+ },
+ {
+  "id": 563,
+  "page": 185,
+  "word": "stagnant",
+  "definition": "(Of water or air) not flowing; showing no activity.",
+  "synonyms": [
+   "still",
+   "motionless",
+   "sluggish"
+  ],
+  "antonyms": [
+   "flowing",
+   "fresh"
+  ],
+  "translation": "застоял, неподвижен"
+ },
+ {
+  "id": 564,
+  "page": 185,
+  "word": "marshland",
+  "definition": "Land that consists of marshes; wetland.",
+  "synonyms": [
+   "wetlands",
+   "swampland"
+  ],
+  "antonyms": null,
+  "translation": "мочурлива земя"
+ },
+ {
+  "id": 565,
+  "page": 185,
+  "word": "commons",
+  "definition": "A piece of open land for public use, especially in a village.",
+  "synonyms": [
+   "common land",
+   "green"
+  ],
+  "antonyms": null,
+  "translation": "мера, общи пасища"
+ },
+ {
+  "id": 566,
+  "page": 185,
+  "word": "a wraith",
+  "definition": "A ghost or ghostlike image of someone, especially seen shortly before death.",
+  "synonyms": [
+   "ghost",
+   "spectre",
+   "phantom"
+  ],
+  "antonyms": null,
+  "translation": "призрак, привидение"
+ },
+ {
+  "id": 567,
+  "page": 185,
+  "word": "piping",
+  "definition": "The playing of pipes; a thin high sound.",
+  "synonyms": [
+   "piping sound",
+   "shrilling"
+  ],
+  "antonyms": null,
+  "translation": "свирене, цвилене (тънък звук)"
+ },
+ {
+  "id": 568,
+  "page": 185,
+  "word": "vapours",
+  "definition": "Substances diffused or suspended in the air, especially mist or fume.",
+  "synonyms": [
+   "mists",
+   "fumes",
+   "exhalations"
+  ],
+  "antonyms": null,
+  "translation": "пари, изпарения"
+ },
+ {
+  "id": 569,
+  "page": 185,
+  "word": "bleak",
+  "definition": "(Of an area of land) bare, exposed, and not welcoming; harsh.",
+  "synonyms": [
+   "bare",
+   "desolate",
+   "dreary"
+  ],
+  "antonyms": [
+   "lush",
+   "inviting"
+  ],
+  "translation": "пуст, неприветлив, мрачен"
+ },
+ {
+  "id": 570,
+  "page": 186,
+  "word": "earnestness",
+  "definition": "Sincere and intense conviction; seriousness.",
+  "synonyms": [
+   "sincerity",
+   "seriousness",
+   "gravity"
+  ],
+  "antonyms": [
+   "frivolity",
+   "indifference"
+  ],
+  "translation": "сериозност, искреност"
+ },
+ {
+  "id": 571,
+  "page": 186,
+  "word": "undulating",
+  "definition": "Having a smoothly rising and falling form or movement.",
+  "synonyms": [
+   "rolling",
+   "wavy",
+   "rippling"
+  ],
+  "antonyms": [
+   "flat",
+   "level"
+  ],
+  "translation": "вълнообразен, хълмист"
+ },
+ {
+  "id": 572,
+  "page": 186,
+  "word": "dikes",
+  "definition": "Long walls or embankments built to prevent flooding; ditches.",
+  "synonyms": [
+   "embankments",
+   "levees",
+   "dams"
+  ],
+  "antonyms": null,
+  "translation": "диги, насипи"
+ },
+ {
+  "id": 573,
+  "page": 186,
+  "word": "hewn",
+  "definition": "(Past participle of hew) chopped, cut, or shaped with rough strokes.",
+  "synonyms": [
+   "cut",
+   "carved",
+   "chopped"
+  ],
+  "antonyms": null,
+  "translation": "изсечен, отсечен"
+ },
+ {
+  "id": 574,
+  "page": 186,
+  "word": "harpers",
+  "definition": "People who play the harp.",
+  "synonyms": [
+   "harpists",
+   "minstrels"
+  ],
+  "antonyms": null,
+  "translation": "арфисти"
+ },
+ {
+  "id": 575,
+  "page": 187,
+  "word": "lance",
+  "definition": "A long weapon with a wooden shaft and a pointed steel head, used by horsemen.",
+  "synonyms": [
+   "spear",
+   "pike"
+  ],
+  "antonyms": null,
+  "translation": "копие, ланс"
+ },
+ {
+  "id": 576,
+  "page": 187,
+  "word": "dwelleth (verb)",
+  "definition": "(Archaic) dwells; lives or resides.",
+  "synonyms": [
+   "dwells",
+   "resides",
+   "lives"
+  ],
+  "antonyms": null,
+  "translation": "обитава (архаично)"
+ },
+ {
+  "id": 577,
+  "page": 187,
+  "word": "lay",
+  "definition": "A short narrative or lyric poem, especially one meant to be sung.",
+  "synonyms": [
+   "ballad",
+   "song",
+   "ditty"
+  ],
+  "antonyms": null,
+  "translation": "балада, песен"
+ },
+ {
+  "id": 578,
+  "page": 187,
+  "word": "concealment",
+  "definition": "The action of hiding something or preventing it from being known.",
+  "synonyms": [
+   "hiding",
+   "secrecy",
+   "disguise"
+  ],
+  "antonyms": [
+   "exposure",
+   "revelation"
+  ],
+  "translation": "прикриване, укриване"
+ },
+ {
+  "id": 579,
+  "page": 187,
+  "word": "cairn",
+  "definition": "A mound of rough stones built as a memorial or landmark.",
+  "synonyms": [
+   "stone pile",
+   "monument"
+  ],
+  "antonyms": null,
+  "translation": "каменна купчина, кер"
+ },
+ {
+  "id": 580,
+  "page": 187,
+  "word": "piled",
+  "definition": "Heaped or stacked together in a mass.",
+  "synonyms": [
+   "heaped",
+   "stacked",
+   "mounded"
+  ],
+  "antonyms": [
+   "scattered",
+   "spread"
+  ],
+  "translation": "натрупан, наслагван"
+ },
+ {
+  "id": 581,
+  "page": 188,
+  "word": "scorched",
+  "definition": "Burned or made discoloured by heat; dried up.",
+  "synonyms": [
+   "burned",
+   "singed",
+   "charred"
+  ],
+  "antonyms": [
+   "unburned",
+   "fresh"
+  ],
+  "translation": "опърлен, изгорял"
+ },
+ {
+  "id": 582,
+  "page": 188,
+  "word": "shrivelled",
+  "definition": "Wrinkled and contracted, especially due to loss of moisture.",
+  "synonyms": [
+   "wrinkled",
+   "shrunken",
+   "withered"
+  ],
+  "antonyms": [
+   "plump",
+   "fresh"
+  ],
+  "translation": "сбръчкан, изсъхнал"
+ },
+ {
+  "id": 583,
+  "page": 188,
+  "word": "featuresless",
+  "definition": "Lacking distinctive features; uniform or monotonous.",
+  "synonyms": [
+   "plain",
+   "blank",
+   "monotonous"
+  ],
+  "antonyms": [
+   "distinctive",
+   "varied"
+  ],
+  "translation": "без характерни черти, монотонен"
+ },
+ {
+  "id": 584,
+  "page": 188,
+  "word": "ran like a ribbon",
+  "definition": "Stretched or extended in a long, narrow, continuous form.",
+  "synonyms": "stretched like a band",
+  "antonyms": null,
+  "translation": "проточи се като лента"
+ },
+ {
+  "id": 585,
+  "page": 188,
+  "word": "sombre",
+  "definition": "Dark or dull in colour or tone; grave and solemn.",
+  "synonyms": [
+   "dark",
+   "grave",
+   "gloomy"
+  ],
+  "antonyms": [
+   "bright",
+   "cheerful"
+  ],
+  "translation": "мрачен, тъжен"
+ },
+ {
+  "id": 586,
+  "page": 188,
+  "word": "stroke",
+  "definition": "A single act of moving the hand or an object across something; a sudden event.",
+  "synonyms": [
+   "caress",
+   "sweep; blow"
+  ],
+  "antonyms": null,
+  "translation": "движение, ход; галене"
+ },
+ {
+  "id": 587,
+  "page": 189,
+  "word": "hastily",
+  "definition": "With excessive speed or urgency; hurriedly.",
+  "synonyms": [
+   "quickly",
+   "hurriedly",
+   "rapidly"
+  ],
+  "antonyms": [
+   "slowly",
+   "carefully"
+  ],
+  "translation": "набързо, бързо"
+ },
+ {
+  "id": 588,
+  "page": 189,
+  "word": "specks",
+  "definition": "Tiny spots or particles.",
+  "synonyms": [
+   "dots",
+   "flecks",
+   "particles"
+  ],
+  "antonyms": null,
+  "translation": "точици, петънца"
+ },
+ {
+  "id": 589,
+  "page": 192,
+  "word": "hemlock-umbels",
+  "definition": "The flat-topped flower clusters of hemlock plants.",
+  "synonyms": "hemlock flowers",
+  "antonyms": null,
+  "translation": "чадърчета на бучиниш"
+ },
+ {
+  "id": 590,
+  "page": 193,
+  "word": "hemlock-sheaves",
+  "definition": "Bundles of cut hemlock stems and flowers.",
+  "synonyms": "hemlock bundles",
+  "antonyms": null,
+  "translation": "снопи бучиниш"
+ },
+ {
+  "id": 591,
+  "page": 193,
+  "word": "strewn",
+  "definition": "Scattered or spread untidily over a surface or area.",
+  "synonyms": [
+   "scattered",
+   "sprinkled",
+   "littered"
+  ],
+  "antonyms": [
+   "gathered",
+   "tidied"
+  ],
+  "translation": "разпръснат, разхвърлян"
+ },
+ {
+  "id": 592,
+  "page": 193,
+  "word": "untroubling",
+  "definition": "Not causing anxiety, distress, or worry.",
+  "synonyms": [
+   "calming",
+   "soothing",
+   "peaceful"
+  ],
+  "antonyms": [
+   "troubling",
+   "distressing"
+  ],
+  "translation": "неутолним, спокоен (без тревога)"
+ },
+ {
+  "id": 593,
+  "page": 194,
+  "word": "sorrowless",
+  "definition": "Free from sorrow; without sadness.",
+  "synonyms": [
+   "carefree",
+   "joyful",
+   "untroubled"
+  ],
+  "antonyms": [
+   "sorrowful",
+   "mournful"
+  ],
+  "translation": "без скръб, безметежен"
+ },
+ {
+  "id": 594,
+  "page": 195,
+  "word": "eager",
+  "definition": "Strongly wanting to do or have something; enthusiastic.",
+  "synonyms": [
+   "keen",
+   "enthusiastic",
+   "avid"
+  ],
+  "antonyms": [
+   "reluctant",
+   "apathetic"
+  ],
+  "translation": "нетърпелив, жаден"
+ },
+ {
+  "id": 595,
+  "page": 195,
+  "word": "sundering",
+  "definition": "Splitting apart; separating.",
+  "synonyms": [
+   "separating",
+   "dividing",
+   "splitting"
+  ],
+  "antonyms": [
+   "joining",
+   "uniting"
+  ],
+  "translation": "разделяне, разкъсване"
+ },
+ {
+  "id": 596,
+  "page": 196,
+  "word": "advanced",
+  "definition": "Far on or ahead in development or progress; moved forward.",
+  "synonyms": [
+   "progressed",
+   "forward",
+   "developed"
+  ],
+  "antonyms": [
+   "retreated",
+   "primitive"
+  ],
+  "translation": "напреднал, напред"
+ },
+ {
+  "id": 597,
+  "page": 196,
+  "word": "quaking",
+  "definition": "Shaking or trembling, especially from fear.",
+  "synonyms": [
+   "trembling",
+   "shaking",
+   "quivering"
+  ],
+  "antonyms": [
+   "steady",
+   "still"
+  ],
+  "translation": "треперещ, разтреперан"
+ },
+ {
+  "id": 598,
+  "page": 196,
+  "word": "keen",
+  "definition": "Having or showing eagerness or enthusiasm; sharp or piercing.",
+  "synonyms": [
+   "eager",
+   "enthusiastic; sharp"
+  ],
+  "antonyms": "reluctant; dull",
+  "translation": "усърден, остър"
+ },
+ {
+  "id": 599,
+  "page": 196,
+  "word": "mantles",
+  "definition": "Loose sleeveless cloaks or shawls; coverings.",
+  "synonyms": [
+   "cloaks",
+   "capes",
+   "shawls"
+  ],
+  "antonyms": null,
+  "translation": "наметала, мантии"
+ },
+ {
+  "id": 600,
+  "page": 196,
+  "word": "haggard",
+  "definition": "Looking exhausted and unwell, especially from fatigue, worry, or suffering.",
+  "synonyms": [
+   "gaunt",
+   "drawn",
+   "careworn"
+  ],
+  "antonyms": [
+   "fresh",
+   "robust"
+  ],
+  "translation": "изпит, измъчен, изпосталял"
+ }
+]

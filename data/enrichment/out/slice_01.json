@@ -1,0 +1,452 @@
+[
+ {
+  "id": 1,
+  "word": "unobtrusive",
+  "explanationBg": "Който не се набива на очи и не привлича внимание — стои настрана, тихо и скромно.",
+  "explanationEn": "Staying quiet and not attracting attention; easy not to notice.",
+  "exampleEn": "The new student was so unobtrusive that half the class didn't notice her for a week.",
+  "mnemonicBg": "„Ън-ъб-ТРУ-сив“ — представи си мишле, което се промъква покрай стената така тихо, че никой не го забелязва.",
+  "ipa": "/ˌʌnəbˈtruːsɪv/"
+ },
+ {
+  "id": 2,
+  "word": "till (verb)",
+  "explanationBg": "Да обработваш земя — да я ореш и разкопаваш, за да я подготвиш за засаждане на култури.",
+  "explanationEn": "To prepare land for growing crops by ploughing it.",
+  "exampleEn": "Every spring my grandfather tills the small field behind his house before planting tomatoes.",
+  "mnemonicBg": "Звучи точно като „тил“: дядо оре нивата приведен, а слънцето му напича тила.",
+  "ipa": "/tɪl/"
+ },
+ {
+  "id": 3,
+  "word": "haunt",
+  "explanationBg": "Място, където някой постоянно се навърта и обича да прекарва времето си — нещо като негова лична територия.",
+  "explanationEn": "A place that someone visits very often and loves to spend time in.",
+  "exampleEn": "The little café near school is our favourite haunt after exams.",
+  "mnemonicBg": "Haunt значи и „бродя като призрак“: представи си призрак, който всяка вечер цъфва в любимото си кафене — то е неговото свърталище.",
+  "ipa": "/hɔːnt/"
+ },
+ {
+  "id": 4,
+  "word": "forge-bellow",
+  "explanationBg": "Голямо духало в ковачница, с което се вкарва въздух в огъня, за да се разпали още по-силно.",
+  "explanationEn": "A tool that blows air into a blacksmith's fire to make it hotter.",
+  "exampleEn": "At the craft museum we took turns pumping the forge-bellows until the coals glowed orange.",
+  "mnemonicBg": "Bellow ≈ „бълвам“: духалото бълва въздух в ковашкото огнище и пламъците лумват.",
+  "ipa": "/ˈfɔːdʒ ˌbeləʊ/"
+ },
+ {
+  "id": 5,
+  "word": "hand-loom",
+  "explanationBg": "Тъкачен стан, който се задвижва само с ръце, без машина — на такива са тъкали платове едно време.",
+  "explanationEn": "A weaving machine worked by hand instead of by a motor.",
+  "exampleEn": "In craft class we wove bookmarks on a small hand-loom, and mine came out hilariously crooked.",
+  "mnemonicBg": "HAND = ръка: представи си баба пред дървения стан — совалката снове напред-назад: лум, лум, ЛУМ!",
+  "ipa": "/ˈhændluːm/"
+ },
+ {
+  "id": 6,
+  "word": "deft",
+  "explanationBg": "Сръчен и бърз, най-вече с ръцете — прави всичко леко, точно и без излишно пипкане.",
+  "explanationEn": "Quick and skilful, especially with your hands.",
+  "exampleEn": "With a few deft moves she solved the Rubik's cube in under a minute.",
+  "mnemonicBg": "Кратка дума като бързо движение: „фът!“ — деФТ ръце правят фокуса за секунда.",
+  "ipa": "/deft/"
+ },
+ {
+  "id": 7,
+  "word": "blundering",
+  "explanationBg": "Който се движи и действа тромаво и небрежно — блъска се, събаря и постоянно обърква нещо.",
+  "explanationEn": "Acting in a clumsy, careless way and making mistakes.",
+  "exampleEn": "Our blundering goalkeeper tripped over the ball and let in the easiest goal of the season.",
+  "mnemonicBg": "БЛЪНдъринг ≈ „блъскам“: представи си някой, който се блъска във всяка маса по пътя си и събаря чашите.",
+  "ipa": "/ˈblʌndərɪŋ/"
+ },
+ {
+  "id": 8,
+  "word": "elusiveness",
+  "explanationBg": "Качеството на нещо да е трудно за хващане, намиране или описване — все ти се изплъзва в последния момент.",
+  "explanationEn": "The quality of being hard to find, catch, or describe.",
+  "exampleEn": "The elusiveness of the stray cat drove us crazy — every time we got close, it vanished.",
+  "mnemonicBg": "Чуй „и-ЛУ-сив“ — почти като ИЛЮЗИЯ: посягаш да я докоснеш, а тя се изпарява.",
+  "ipa": "/ɪˈluːsɪvnəs/"
+ },
+ {
+  "id": 9,
+  "word": "inimitable",
+  "explanationBg": "Толкова добър и единствен по рода си, че никой не може да го имитира или повтори.",
+  "explanationEn": "So special or good that nobody can copy it.",
+  "exampleEn": "Everyone tried to copy her inimitable laugh, but nobody came close.",
+  "mnemonicBg": "Вътре се крие IMITATE (имитирам) с „не“ отпред: не-имитируем — пробвай да го копираш, няма да стане.",
+  "ipa": "/ɪˈnɪmɪtəbl/"
+ },
+ {
+  "id": 10,
+  "word": "stout",
+  "explanationBg": "Едър и набит, със здраво телосложение; казва се и за човек, който е твърд и не се огъва.",
+  "explanationEn": "Quite heavily built and strong; also firm and brave.",
+  "exampleEn": "The stout little wrestler surprised everyone by pinning the tallest guy in the tournament.",
+  "mnemonicBg": "STOut: чичо на СТО кила, як като дъб — събори го, ако можеш.",
+  "ipa": "/staʊt/"
+ },
+ {
+  "id": 11,
+  "word": "dwindle (verb)",
+  "explanationBg": "Да намаляваш постепенно — малко по малко, докато почти се стопиш.",
+  "explanationEn": "To become smaller or weaker little by little.",
+  "exampleEn": "My phone battery dwindled to three percent before the bus finally came.",
+  "mnemonicBg": "Представи си чертичките на батерията, които гаснат една по една: дуин-дъл… дуин-дъл… 3%.",
+  "ipa": "/ˈdwɪndl/"
+ },
+ {
+  "id": 12,
+  "word": "soles",
+  "explanationBg": "Долната част на ходилата или на обувките — това, което стъпва по земята.",
+  "explanationEn": "The bottom parts of your feet or of your shoes.",
+  "exampleEn": "After the festival my soles ached from dancing all day in flat sneakers.",
+  "mnemonicBg": "Sole звучи като „сол“: стъпваш бос върху разсипана сол и я усещаш точно със стъпалата.",
+  "ipa": "/səʊlz/"
+ },
+ {
+  "id": 13,
+  "word": "apt",
+  "explanationBg": "Уместен, точно на място за дадената ситуация; също и склонен често да прави нещо.",
+  "explanationEn": "Suitable for the situation, or likely to do something.",
+  "exampleEn": "Her nickname for our coach was so apt that the whole team started using it.",
+  "mnemonicBg": "АПТ като АПТека: точното лекарство за точния момент — apt!",
+  "ipa": "/æpt/"
+ },
+ {
+  "id": 14,
+  "word": "jest",
+  "explanationBg": "Шега, закачка или остроумна реплика — нещо казано на майтап, а не на сериозно.",
+  "explanationEn": "A joke or something said for fun.",
+  "exampleEn": "He said it in jest, but half the class actually believed school was cancelled.",
+  "mnemonicBg": "Jest звучи като „жест“: клоунът прави смешен жест и пуска шега.",
+  "ipa": "/dʒest/"
+ },
+ {
+  "id": 15,
+  "word": "estrangement",
+  "explanationBg": "Когато двама близки се отдалечат и спрат да си говорят — между тях става хладно и чуждо.",
+  "explanationEn": "When people who were close are no longer friendly with each other.",
+  "exampleEn": "After years of estrangement, the two sisters finally talked again at a family wedding.",
+  "mnemonicBg": "Вътре се крие STRANGE (странен, чужд): близкият човек изведнъж ти става чужд.",
+  "ipa": "/ɪˈstreɪndʒmənt/"
+ },
+ {
+  "id": 16,
+  "word": "genealogical",
+  "explanationBg": "Свързан с родословието — с проследяването кой от кого произхожда: родители, баби, прадядовци и така назад.",
+  "explanationEn": "Connected with the history of a family and its ancestors.",
+  "exampleEn": "For a school project she drew a genealogical chart going back to her great-great-grandparents.",
+  "mnemonicBg": "ГЕНИ + ЛОГИКА: науката, която подрежда гените на рода в едно голямо семейно дърво.",
+  "ipa": "/ˌdʒiːniəˈlɒdʒɪkl/"
+ },
+ {
+  "id": 17,
+  "word": "westward",
+  "explanationBg": "В посока на запад — натам, накъдето залязва слънцето.",
+  "explanationEn": "Going or facing towards the west.",
+  "exampleEn": "We cycled westward along the coast so we could watch the sunset.",
+  "mnemonicBg": "Каубоите от УЕСТърните винаги яздят към залеза — все westward, все на запад.",
+  "ipa": "/ˈwestwəd/"
+ },
+ {
+  "id": 18,
+  "word": "eaves",
+  "explanationBg": "Краищата на покрива, които стърчат навън над стените — под тях се скриваш при дъжд.",
+  "explanationEn": "The edges of a roof that stick out over the walls.",
+  "exampleEn": "We sheltered under the eaves of the gym until the rain stopped.",
+  "mnemonicBg": "Оттук идва eavesdrop („подслушвам“) — все едно стоиш под стрехата на съседа и слушаш какво си говорят вътре.",
+  "ipa": "/iːvz/"
+ },
+ {
+  "id": 19,
+  "word": "perilous",
+  "explanationBg": "Пълен с опасности и рискове — едно невнимание и можеш да пострадаш.",
+  "explanationEn": "Very dangerous and full of risk.",
+  "exampleEn": "The hike turned perilous near the peak, where the path was just loose rocks and wind.",
+  "mnemonicBg": "PERILous ≈ „перила“: перила слагат точно там, където без тях е опасно.",
+  "ipa": "/ˈperələs/"
+ },
+ {
+  "id": 20,
+  "word": "dwell (verb)",
+  "explanationBg": "Да живееш на дадено място, да го обитаваш — по-книжна дума за „живея“.",
+  "explanationEn": "To live in a place.",
+  "exampleEn": "An old fisherman dwells in the wooden cabin by the lake all year round.",
+  "mnemonicBg": "В думата се крие WELL (кладенец): представи си жабче, което си живее на дъното на кладенеца — d-WELL-ва си там.",
+  "ipa": "/dwel/"
+ },
+ {
+  "id": 21,
+  "word": "chieftain",
+  "explanationBg": "Водачът на племе, род или клан — главният, чиято дума се слуша.",
+  "explanationEn": "The leader of a tribe or clan.",
+  "exampleEn": "In our strategy game, the chieftain decides when the whole clan attacks.",
+  "mnemonicBg": "CHIEF го знаеш — шеф, главатар; добави „-tain“ и става вожд на цяло племе.",
+  "ipa": "/ˈtʃiːftən/"
+ },
+ {
+  "id": 22,
+  "word": "ere",
+  "explanationBg": "Старинна дума за „преди“ — ще я срещнеш в стари книги, балади и приказки, не в днешния говор.",
+  "explanationEn": "An old word that means 'before'.",
+  "exampleEn": "My grandfather loves old-fashioned phrases like 'Be home ere dark, young lady!'",
+  "mnemonicBg": "Произнася се „еър“ като air (въздух): преди да се гмурнеш, гълташ въздух — ere = преди.",
+  "ipa": "/eə(r)/"
+ },
+ {
+  "id": 23,
+  "word": "moor",
+  "explanationBg": "Дива, гола пустош по възвишенията — необработвана земя, обрасла с пирен и ниски храсти, често брулена от вятър.",
+  "explanationEn": "A wild open area of high land with low bushes and no farms.",
+  "exampleEn": "Our camping group crossed a windy moor where nothing grew taller than our knees.",
+  "mnemonicBg": "Звучи като „мор“: пустош, в която сякаш всичко е измряло — само вятърът свисти из храстите.",
+  "ipa": "/mɔː(r)/"
+ },
+ {
+  "id": 24,
+  "word": "marsh",
+  "explanationBg": "Ниска земя край вода, която при дъжд се залива и стои постоянно подгизнала — истинско блато, в което затъваш.",
+  "explanationEn": "Low wet land that floods and stays soggy.",
+  "exampleEn": "We lost our football in the marsh behind the pitch, and nobody dared go get it.",
+  "mnemonicBg": "„Марш през блатото!“ — командват ти, а ти жвакаш в калта: марш-марш, marsh!",
+  "ipa": "/mɑːʃ/"
+ },
+ {
+  "id": 25,
+  "word": "heed",
+  "explanationBg": "Внимание, което обръщаш на съвет или предупреждение — да се вслушаш истински, а не да го пуснеш покрай ушите си.",
+  "explanationEn": "Careful attention you pay to advice or a warning.",
+  "exampleEn": "She paid no heed to the 'wet paint' sign and ruined her favourite white hoodie.",
+  "mnemonicBg": "„Хийд“ звучи като „чуй де!“ — обърни внимание, де!",
+  "ipa": "/hiːd/"
+ },
+ {
+  "id": 26,
+  "word": "the weather has grown milder",
+  "explanationBg": "Израз, с който казваме, че времето е омекнало — не е вече толкова студено и сурово, колкото беше.",
+  "explanationEn": "A phrase meaning the weather has become warmer and less harsh.",
+  "exampleEn": "Now that the weather has grown milder, we finally moved our basketball games back outside.",
+  "mnemonicBg": "MILD ≈ „мил“: времето е станало по-мило с теб — маха ледения вятър и ти праща слънчице.",
+  "ipa": "/ðə ˈweðə həz ɡrəʊn ˈmaɪldə/"
+ },
+ {
+  "id": 27,
+  "word": "ravening",
+  "explanationBg": "Подивял от глад и хукнал да търси плячка — ненаситен като звяр.",
+  "explanationEn": "Extremely hungry and hunting for food.",
+  "exampleEn": "After swim practice we attacked the pizza like a pack of ravening wolves.",
+  "mnemonicBg": "Вътре е RAVEN (гарван): ято изгладнели гарвани се спуска и помита всичко за секунди.",
+  "ipa": "/ˈrævənɪŋ/"
+ },
+ {
+  "id": 28,
+  "word": "hearths",
+  "explanationBg": "Каменните площадки на камините, върху които гори огънят; преносно — самите домове и домашната топлина.",
+  "explanationEn": "The floors of fireplaces; often a symbol for home.",
+  "exampleEn": "The mountain lodge had two huge hearths, and we played cards beside them every evening.",
+  "mnemonicBg": "В HEARTH се крие HEART (сърце): огнището е сърцето на дома.",
+  "ipa": "/hɑːθs/"
+ },
+ {
+  "id": 29,
+  "word": "mathom",
+  "explanationBg": "Така хобитите от книгата наричат вещ, която за нищо не им трябва, но не им дава сърце да я изхвърлят.",
+  "explanationEn": "A thing you never use but cannot make yourself throw away.",
+  "exampleEn": "My drawer is full of mathoms: broken earphones, old keychains, and a fidget spinner I never spin.",
+  "mnemonicBg": "Гледаш вещта, казваш „хъм… може да потрябва“ — и матомът се връща в чекмеджето за още десет години.",
+  "ipa": "/ˈmæθəm/"
+ },
+ {
+  "id": 30,
+  "word": "unwearyingly",
+  "explanationBg": "Неуморно — без да спираш и без да ти пада енергията, все едно умората не те хваща.",
+  "explanationEn": "Without ever getting tired.",
+  "exampleEn": "She practised the same dance move unwearyingly until it looked effortless.",
+  "mnemonicBg": "UN (не) + WEARY (уморен): като робот-прахосмукачка, която бръмчи ли, бръмчи без почивка.",
+  "ipa": "/ʌnˈwɪəriɪŋli/"
+ },
+ {
+  "id": 31,
+  "word": "doughty",
+  "explanationBg": "Смел и упорит, който не се предава — старовремска дума, днес често казвана с лека усмивка.",
+  "explanationEn": "Brave and never giving up; an old-fashioned, often playful word.",
+  "exampleEn": "Our doughty little defender kept chasing every ball even when we were losing five-nil.",
+  "mnemonicBg": "„Дау-ти“ звучи като „Давай, ти!“ — викаш на смелчагата, а той пак се хвърля напред.",
+  "ipa": "/ˈdaʊti/"
+ },
+ {
+  "id": 32,
+  "word": "abode",
+  "explanationBg": "Книжна, малко тържествена дума за дом или жилище — мястото, където живееш.",
+  "explanationEn": "A formal word for the place where someone lives.",
+  "exampleEn": "'Welcome to my humble abode,' he joked, opening the door to his messy room.",
+  "mnemonicBg": "Звучи като „а, боде!“: сядаш върху изскочила пружина на дивана — боде, ама пак е сладко: дом си е.",
+  "ipa": "/əˈbəʊd/"
+ },
+ {
+  "id": 33,
+  "word": "ramify (verb)",
+  "explanationBg": "Да се разклоняваш — от едно начало да тръгват все нови и нови клончета и посоки.",
+  "explanationEn": "To split and spread out like branches.",
+  "exampleEn": "Our group chat ramified into five smaller chats — one for homework, one for memes, and three for drama.",
+  "mnemonicBg": "Представи си дърво с РАМЕне, от които израстват клони на всички страни — РАМИ-фай.",
+  "ipa": "/ˈræmɪfaɪ/"
+ },
+ {
+  "id": 34,
+  "word": "smial",
+  "explanationBg": "Дума на Толкин за уютно жилище, изкопано навътре в хълм — като дупка-къща с топли подземни стаи.",
+  "explanationEn": "A cosy home dug into a hillside, like a burrow with rooms.",
+  "exampleEn": "If I could dig a smial into the hill behind our house, I'd move my whole gaming setup inside.",
+  "mnemonicBg": "Пише се почти като SMILE: вратата на дупката в хълма е кръгла и извита като усмивка.",
+  "ipa": "/smaɪl/"
+ },
+ {
+  "id": 35,
+  "word": "rompers",
+  "explanationBg": "Бебешко гащеризонче от едно парче — блузка и панталонки, съшити заедно, за игра и лазене.",
+  "explanationEn": "A one-piece outfit for a baby or small child.",
+  "exampleEn": "In the old album there's a photo of my brother in yellow rompers, covered in spaghetti.",
+  "mnemonicBg": "Бебе марширува из хола: „ром-пом-пом!“ — с ROM-pers, гащеризончето за лудории.",
+  "ipa": "/ˈrɒmpəz/"
+ },
+ {
+  "id": 36,
+  "word": "cartwright",
+  "explanationBg": "Майстор, който прави и поправя каруци и талиги — стар занаят от времето преди колите.",
+  "explanationEn": "A person who makes and repairs carts and wagons.",
+  "exampleEn": "At the open-air museum a cartwright showed us how wooden cart wheels are fitted together.",
+  "mnemonicBg": "CART (каруца) + WRIGHT (майстор) — помисли за братя Райт: те майсторили самолети, а cartwright майстори каруци.",
+  "ipa": "/ˈkɑːtraɪt/"
+ },
+ {
+  "id": 37,
+  "word": "shed",
+  "explanationBg": "Малка постройка в двора — барака или навес, където се прибират инструменти, колела и какво ли не.",
+  "explanationEn": "A small simple building for storing things.",
+  "exampleEn": "We turned the old garden shed into a tiny studio for recording songs.",
+  "mnemonicBg": "„Шед“ ≈ „шетам“: дядо по цял ден шета из бараката и реди чукове, пирони и стари колела.",
+  "ipa": "/ʃed/"
+ },
+ {
+  "id": 38,
+  "word": "heavy-legged",
+  "explanationBg": "С натежали крака — движиш се бавно и с усилие, сякаш влачиш тежести на глезените.",
+  "explanationEn": "Moving slowly, as if your legs are very heavy.",
+  "exampleEn": "By the last lap of the cross-country race I was heavy-legged and barely jogging.",
+  "mnemonicBg": "HEAVY (тежки) + LEGS (крака): денят след тренировка за крака — слизаш по стълбите като ръждясал робот.",
+  "ipa": "/ˌhevi ˈleɡɪd/"
+ },
+ {
+  "id": 39,
+  "word": "the down",
+  "explanationBg": "Полегат, заоблен тревист хълм — такива меки зелени възвишения има най-вече в Южна Англия.",
+  "explanationEn": "A gentle grassy hill, especially in southern England.",
+  "exampleEn": "We flew kites on the down above the village until the wind died.",
+  "mnemonicBg": "Парадокс за запомняне: DOWN значи „надолу“, а тук е хълм нагоре — изкачваш се по down, за да тичаш после надолу.",
+  "ipa": "/ðə ˈdaʊn/"
+ },
+ {
+  "id": 40,
+  "word": "immemorial",
+  "explanationBg": "Толкова древен, че никой не помни кога е започнал — началото му се губи в мъглата на времето.",
+  "explanationEn": "So old that nobody remembers when it began.",
+  "exampleEn": "Arguing over whose turn it is to wash the dishes is an immemorial tradition in our family.",
+  "mnemonicBg": "IM- (не) + MEMORY (памет): от „незапомнени времена“ — дотам човешката памет просто не стига.",
+  "ipa": "/ˌɪməˈmɔːriəl/"
+ },
+ {
+  "id": 41,
+  "word": "misgivings",
+  "explanationBg": "Тревожни съмнения дали нещо ще мине добре — онова свито чувство в стомаха: „ами ако е грешка?“",
+  "explanationEn": "Worried feelings of doubt about what may happen.",
+  "exampleEn": "I had misgivings about joining the chemistry club, but it turned out to be the best part of my week.",
+  "mnemonicBg": "MIS (грешно) + GIVING (даване): подаваш подаръка и сърцето ти се свива — „дали не сбърках?“",
+  "ipa": "/mɪsˈɡɪvɪŋz/"
+ },
+ {
+  "id": 42,
+  "word": "turf",
+  "explanationBg": "Тревата заедно с горния слой пръст, който корените ѝ държат — зеленият „килим“ на двора или стадиона.",
+  "explanationEn": "Grass with the top layer of soil held together by roots.",
+  "exampleEn": "By half-time the players' boots had torn big chunks out of the turf.",
+  "mnemonicBg": "„Търф“ звучи като ТУФА: изскубваш туфа трева с пръстта — и държиш turf в ръка.",
+  "ipa": "/tɜːf/"
+ },
+ {
+  "id": 43,
+  "word": "clannish",
+  "explanationBg": "Който се събира само със своята групичка или род и не пуска външни хора — затворена компания.",
+  "explanationEn": "Staying close to your own group and shutting others out.",
+  "exampleEn": "The seniors at our school are so clannish that they barely talk to anyone younger.",
+  "mnemonicBg": "От CLAN — като клановете в онлайн игрите: приемат само „своите“, всички други чакат отвън.",
+  "ipa": "/ˈklænɪʃ/"
+ },
+ {
+  "id": 44,
+  "word": "imbibe (verb)",
+  "explanationBg": "Книжна дума за „пия“; преносно — да попиваш знания и идеи като гъба.",
+  "explanationEn": "To drink something, or to soak up ideas and knowledge.",
+  "exampleEn": "On the beach we imbibed litres of lemonade and somehow still felt thirsty.",
+  "mnemonicBg": "В IMBIBE се крие „биб“ като БИБЕрон: бебето смуче и попива всичко.",
+  "ipa": "/ɪmˈbaɪb/"
+ },
+ {
+  "id": 45,
+  "word": "antiquity",
+  "explanationBg": "Далечната древност — времето на старите цивилизации като Гърция и Рим, преди Средновековието.",
+  "explanationEn": "The ancient past, especially before the Middle Ages.",
+  "exampleEn": "Our history teacher makes antiquity sound exciting, full of stories about Greek and Roman teenagers.",
+  "mnemonicBg": "Знаеш „АНТИКА“ — стара ценна вещ; antiquity е цялата епоха, от която идват антиките.",
+  "ipa": "/ænˈtɪkwəti/"
+ },
+ {
+  "id": 46,
+  "word": "pre-eminent",
+  "explanationBg": "Който изпъква над всички останали в своята област — пръв сред първите.",
+  "explanationEn": "Better and more famous than all the others.",
+  "exampleEn": "She is the pre-eminent sprinter in our region; nobody has beaten her for two years.",
+  "mnemonicBg": "Чети го „при-ЕМИНЕМ-т“: като Eminem на сцената — изпъкнал пред всички.",
+  "ipa": "/priˈemɪnənt/"
+ },
+ {
+  "id": 47,
+  "word": "moot",
+  "explanationBg": "Събрание, на което хората се събират да обсъждат и решават общи въпроси — като старинен народен съвет.",
+  "explanationEn": "A meeting where people discuss and decide important matters.",
+  "exampleEn": "Our class held a kind of moot to decide where the end-of-year trip should go.",
+  "mnemonicBg": "„Муут“ — представи си събор на крави: гласуват с дълго „мууу!“ за всяко решение.",
+  "ipa": "/muːt/"
+ },
+ {
+  "id": 48,
+  "word": "muster",
+  "explanationBg": "Сбор на войници на едно място — за проверка, преброяване или подготовка за битка.",
+  "explanationEn": "A gathering of soldiers for inspection or before battle.",
+  "exampleEn": "Before announcing the line-up, the coach called a muster of the whole squad on the pitch.",
+  "mnemonicBg": "МУСтър ≈ МУСкетари: тримата мускетари се строяват за проверка — всички на сбор!",
+  "ipa": "/ˈmʌstə(r)/"
+ },
+ {
+  "id": 49,
+  "word": "reckoning",
+  "explanationBg": "Пресмятане или преценка — смяташ, теглиш чертата и виждаш какво излиза; понякога значи и разчистване на сметки.",
+  "explanationEn": "The act of calculating or judging something; settling accounts.",
+  "exampleEn": "By my reckoning, we need three more wins to reach the playoffs.",
+  "mnemonicBg": "„РЕКъН-инг“ ≈ „рекох“: дядо смята наум и отсича: „Рекох! Толкова прави.“",
+  "ipa": "/ˈrekənɪŋ/"
+ },
+ {
+  "id": 50,
+  "word": "hoards",
+  "explanationBg": "Тайни запаси от пари или ценности, които някой трупа и пази ревниво само за себе си.",
+  "explanationEn": "Secret stores of money or treasures that someone guards.",
+  "exampleEn": "My little brother keeps hoards of Halloween candy hidden under his bed.",
+  "mnemonicBg": "Звучи като „орди“: цели орди златни монети, струпани тайно в пещерата на дракон.",
+  "ipa": "/hɔːdz/"
+ }
+]

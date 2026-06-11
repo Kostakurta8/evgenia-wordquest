@@ -1,0 +1,675 @@
+[
+ {
+  "id": 451,
+  "page": 144,
+  "word": "breeches",
+  "definition": "Short trousers fastened just below the knee.",
+  "synonyms": [
+   "knickerbockers",
+   "britches"
+  ],
+  "antonyms": null,
+  "translation": "бричове, къси панталони"
+ },
+ {
+  "id": 452,
+  "page": 145,
+  "word": "basking",
+  "definition": "Lying exposed to warmth and light, typically for pleasure.",
+  "synonyms": [
+   "sunbathing",
+   "lounging",
+   "soaking up"
+  ],
+  "antonyms": "shivering",
+  "translation": "излежавам се на слънце"
+ },
+ {
+  "id": 453,
+  "page": 146,
+  "word": "garments",
+  "definition": "Articles of clothing.",
+  "synonyms": [
+   "clothes",
+   "attire",
+   "apparel"
+  ],
+  "antonyms": null,
+  "translation": "дрехи, облекло"
+ },
+ {
+  "id": 454,
+  "page": 146,
+  "word": "trot",
+  "definition": "A pace of a horse or quadruped faster than a walk, in which the diagonal legs move together.",
+  "synonyms": [
+   "jog",
+   "lope",
+   "canter"
+  ],
+  "antonyms": [
+   "walk",
+   "gallop"
+  ],
+  "translation": "тръс, бавен бяг"
+ },
+ {
+  "id": 455,
+  "page": 147,
+  "word": "sheaths",
+  "definition": "Close-fitting cover or case for the blade of a knife or sword.",
+  "synonyms": [
+   "scabbards",
+   "cases"
+  ],
+  "antonyms": null,
+  "translation": "ножници, калъфи"
+ },
+ {
+  "id": 456,
+  "page": 147,
+  "word": "virtue",
+  "definition": "Behaviour showing high moral standards; a quality of efficacy or power.",
+  "synonyms": [
+   "goodness",
+   "morality",
+   "righteousness"
+  ],
+  "antonyms": [
+   "vice",
+   "evil"
+  ],
+  "translation": "добродетел; сила, действие"
+ },
+ {
+  "id": 457,
+  "page": 147,
+  "word": "lading",
+  "definition": "The action of loading a ship or vehicle with cargo.",
+  "synonyms": [
+   "loading",
+   "freighting",
+   "cargo"
+  ],
+  "antonyms": "unloading",
+  "translation": "товарене, товар"
+ },
+ {
+  "id": 458,
+  "page": 147,
+  "word": "girth",
+  "definition": "The measurement around the middle of something; a band fastening a saddle.",
+  "synonyms": [
+   "circumference",
+   "width; saddle-strap"
+  ],
+  "antonyms": null,
+  "translation": "обиколка; ремък на седло"
+ },
+ {
+  "id": 459,
+  "page": 147,
+  "word": "gaily",
+  "definition": "In a cheerful or light-hearted manner.",
+  "synonyms": [
+   "merrily",
+   "cheerfully",
+   "happily"
+  ],
+  "antonyms": [
+   "sadly",
+   "mournfully"
+  ],
+  "translation": "весело, бодро"
+ },
+ {
+  "id": 460,
+  "page": 148,
+  "word": "furlongs",
+  "definition": "Units of distance equal to an eighth of a mile (about 201 metres).",
+  "synonyms": "distances",
+  "antonyms": null,
+  "translation": "фърлонги (мерна единица)"
+ },
+ {
+  "id": 461,
+  "page": 148,
+  "word": "pot-holes",
+  "definition": "Holes in a road surface caused by wear or water damage.",
+  "synonyms": [
+   "craters",
+   "holes",
+   "ruts"
+  ],
+  "antonyms": null,
+  "translation": "дупки на пътя"
+ },
+ {
+  "id": 462,
+  "page": 149,
+  "word": "flank",
+  "definition": "The side of a person, animal, or hill; the side of a body of troops.",
+  "synonyms": [
+   "side",
+   "edge",
+   "wing"
+  ],
+  "antonyms": null,
+  "translation": "хълбок, фланг"
+ },
+ {
+  "id": 463,
+  "page": 150,
+  "word": "prancing",
+  "definition": "(Of a horse) springing from the hind legs while moving forward.",
+  "synonyms": [
+   "leaping",
+   "capering",
+   "cavorting"
+  ],
+  "antonyms": "plodding",
+  "translation": "подскачане, гордо стъпване"
+ },
+ {
+  "id": 464,
+  "page": 150,
+  "word": "tamed woodland",
+  "definition": "A wooded area that has been managed or shaped by people.",
+  "synonyms": [
+   "managed forest",
+   "cultivated woods"
+  ],
+  "antonyms": "wild woodland",
+  "translation": "опитомена гора"
+ },
+ {
+  "id": 465,
+  "page": 150,
+  "word": "dwellings",
+  "definition": "Houses, flats, or other places of residence.",
+  "synonyms": [
+   "homes",
+   "residences",
+   "abodes"
+  ],
+  "antonyms": null,
+  "translation": "жилища, обиталища"
+ },
+ {
+  "id": 466,
+  "page": 151,
+  "word": "outsiders",
+  "definition": "People who do not belong to a particular group or area.",
+  "synonyms": [
+   "foreigners",
+   "strangers",
+   "newcomers"
+  ],
+  "antonyms": [
+   "insiders",
+   "locals"
+  ],
+  "translation": "външни хора, чужденци"
+ },
+ {
+  "id": 467,
+  "page": 151,
+  "word": "uncouth",
+  "definition": "Lacking good manners, refinement, or grace.",
+  "synonyms": [
+   "crude",
+   "rude",
+   "boorish"
+  ],
+  "antonyms": [
+   "refined",
+   "polished"
+  ],
+  "translation": "недодялан, груб"
+ },
+ {
+  "id": 468,
+  "page": 151,
+  "word": "scattered",
+  "definition": "Distributed at intervals over an area; sparsely spaced.",
+  "synonyms": [
+   "dispersed",
+   "sprinkled",
+   "strewn"
+  ],
+  "antonyms": [
+   "gathered",
+   "concentrated"
+  ],
+  "translation": "разпръснат, разпилян"
+ },
+ {
+  "id": 469,
+  "page": 151,
+  "word": "prosperous",
+  "definition": "Successful, especially financially; flourishing.",
+  "synonyms": [
+   "thriving",
+   "affluent",
+   "wealthy"
+  ],
+  "antonyms": [
+   "poor",
+   "struggling"
+  ],
+  "translation": "преуспяващ, заможен"
+ },
+ {
+  "id": 470,
+  "page": 151,
+  "word": "lodges",
+  "definition": "Small houses, especially in the country, used as temporary accommodation.",
+  "synonyms": [
+   "cottages",
+   "cabins",
+   "huts"
+  ],
+  "antonyms": null,
+  "translation": "малки къщи, ложи"
+ },
+ {
+  "id": 471,
+  "page": 151,
+  "word": "dike",
+  "definition": "A long wall or embankment built to prevent flooding from the sea.",
+  "synonyms": [
+   "embankment",
+   "levee",
+   "dam"
+  ],
+  "antonyms": null,
+  "translation": "дига, насип"
+ },
+ {
+  "id": 472,
+  "page": 152,
+  "word": "innkeeper",
+  "definition": "A person who owns or manages an inn.",
+  "synonyms": [
+   "landlord",
+   "hotelier",
+   "host"
+  ],
+  "antonyms": "guest",
+  "translation": "ханджия, кръчмар"
+ },
+ {
+  "id": 473,
+  "page": 152,
+  "word": "idle",
+  "definition": "(Of a person) avoiding work; lazy; not active or in use.",
+  "synonyms": [
+   "lazy",
+   "inactive",
+   "unoccupied"
+  ],
+  "antonyms": [
+   "busy",
+   "active"
+  ],
+  "translation": "безделен, мързелив"
+ },
+ {
+  "id": 474,
+  "page": 153,
+  "word": "signboard",
+  "definition": "A board displaying the name of a shop or other establishment.",
+  "synonyms": [
+   "sign",
+   "billboard",
+   "placard"
+  ],
+  "antonyms": null,
+  "translation": "табела, надпис"
+ },
+ {
+  "id": 475,
+  "page": 153,
+  "word": "reared up",
+  "definition": "(Of an animal) rose on its hind legs; stood upright suddenly.",
+  "synonyms": [
+   "rose up",
+   "stood up",
+   "risen up"
+  ],
+  "antonyms": "lay down",
+  "translation": "изправил се на задни крака"
+ },
+ {
+  "id": 476,
+  "page": 153,
+  "word": "hind",
+  "definition": "At the back; rear (especially of an animal’s legs); also a female deer.",
+  "synonyms": [
+   "rear",
+   "back",
+   "posterior"
+  ],
+  "antonyms": [
+   "fore",
+   "front"
+  ],
+  "translation": "заден, задни (крака); сърна"
+ },
+ {
+  "id": 477,
+  "page": 154,
+  "word": "apron",
+  "definition": "A protective garment worn over the front of one’s clothes.",
+  "synonyms": [
+   "pinafore",
+   "smock"
+  ],
+  "antonyms": null,
+  "translation": "престилка"
+ },
+ {
+  "id": 478,
+  "page": 154,
+  "word": "stabling",
+  "definition": "Accommodation for horses; the act of putting a horse in a stable.",
+  "synonyms": [
+   "stables",
+   "housing"
+  ],
+  "antonyms": null,
+  "translation": "конюшни, обори за коне"
+ },
+ {
+  "id": 479,
+  "page": 154,
+  "word": "pours",
+  "definition": "Flows in a continuous stream; rains heavily.",
+  "synonyms": [
+   "streams",
+   "gushes"
+  ],
+  "antonyms": "trickles",
+  "translation": "лее се, тече обилно"
+ },
+ {
+  "id": 480,
+  "page": 154,
+  "word": "woolly-footed",
+  "definition": "Having feet covered with thick hair, like a hobbit; padding softly.",
+  "synonyms": [
+   "furry-footed",
+   "hairy-footed"
+  ],
+  "antonyms": null,
+  "translation": "с космати ходила (хобит)"
+ },
+ {
+  "id": 481,
+  "page": 154,
+  "word": "slow-coach",
+  "definition": "(Informal British) a person who acts or moves slowly.",
+  "synonyms": [
+   "slowpoke",
+   "dawdler",
+   "laggard"
+  ],
+  "antonyms": "quick worker",
+  "translation": "мудник, бавняк"
+ },
+ {
+  "id": 482,
+  "page": 154,
+  "word": "bob out (verb)",
+  "definition": "To appear briefly with a sudden bouncing or popping movement.",
+  "synonyms": [
+   "pop out",
+   "spring out"
+  ],
+  "antonyms": "duck in",
+  "translation": "изскачам, появявам се внезапно"
+ },
+ {
+  "id": 483,
+  "page": 155,
+  "word": "parlour",
+  "definition": "A sitting room in a private house, especially in an inn or for receiving visitors.",
+  "synonyms": [
+   "sitting room",
+   "lounge"
+  ],
+  "antonyms": null,
+  "translation": "гостна, салон"
+ },
+ {
+  "id": 484,
+  "page": 155,
+  "word": "trotting",
+  "definition": "Going at a moderately fast pace, faster than walking.",
+  "synonyms": [
+   "jogging",
+   "loping"
+  ],
+  "antonyms": [
+   "walking",
+   "galloping"
+  ],
+  "translation": "тръс, бяг в тръс"
+ },
+ {
+  "id": 485,
+  "page": 155,
+  "word": "a twinkling",
+  "definition": "A very short time; an instant (\"in a twinkling\").",
+  "synonyms": [
+   "an instant",
+   "a moment",
+   "a flash"
+  ],
+  "antonyms": [
+   "an age",
+   "eternity"
+  ],
+  "translation": "миг, секунда"
+ },
+ {
+  "id": 486,
+  "page": 155,
+  "word": "loaves",
+  "definition": "Quantities of bread baked in single pieces, usually elongated.",
+  "synonyms": "bread-loaves",
+  "antonyms": null,
+  "translation": "самуни, хлябове"
+ },
+ {
+  "id": 487,
+  "page": 155,
+  "word": "dispel",
+  "definition": "To make a doubt, feeling, or belief disappear.",
+  "synonyms": [
+   "banish",
+   "drive away",
+   "dismiss"
+  ],
+  "antonyms": [
+   "arouse",
+   "induce"
+  ],
+  "translation": "разсейвам, разпръсквам"
+ },
+ {
+  "id": 488,
+  "page": 156,
+  "word": "log-fire",
+  "definition": "A fire built using logs of wood as fuel.",
+  "synonyms": [
+   "wood fire",
+   "hearth fire"
+  ],
+  "antonyms": null,
+  "translation": "огън от цепеници"
+ },
+ {
+  "id": 489,
+  "page": 156,
+  "word": "astonishment",
+  "definition": "Great surprise or amazement.",
+  "synonyms": [
+   "amazement",
+   "wonder",
+   "shock"
+  ],
+  "antonyms": [
+   "indifference",
+   "calm"
+  ],
+  "translation": "изумление, удивление"
+ },
+ {
+  "id": 490,
+  "page": 157,
+  "word": "squint-eyed",
+  "definition": "Having eyes that look in different directions; cross-eyed.",
+  "synonyms": [
+   "cross-eyed",
+   "squinting"
+  ],
+  "antonyms": "straight-eyed",
+  "translation": "кривоглед"
+ },
+ {
+  "id": 491,
+  "page": 157,
+  "word": "ill-favoured",
+  "definition": "Having an unpleasant appearance; ugly.",
+  "synonyms": [
+   "ugly",
+   "unattractive",
+   "unsightly"
+  ],
+  "antonyms": [
+   "handsome",
+   "attractive"
+  ],
+  "translation": "грозноват, неугледен"
+ },
+ {
+  "id": 492,
+  "page": 157,
+  "word": "lodgings",
+  "definition": "A rented room or rooms in another person’s house.",
+  "synonyms": [
+   "accommodation",
+   "quarters",
+   "rooms"
+  ],
+  "antonyms": null,
+  "translation": "квартира, нощувка"
+ },
+ {
+  "id": 493,
+  "page": 157,
+  "word": "chalk",
+  "definition": "A soft white rock; a piece used for writing or drawing.",
+  "synonyms": [
+   "limestone",
+   "marker"
+  ],
+  "antonyms": null,
+  "translation": "тебешир, креда"
+ },
+ {
+  "id": 494,
+  "page": 157,
+  "word": "dumpling",
+  "definition": "A small mass of dough cooked by boiling or steaming; (informal) a short, round person.",
+  "synonyms": "doughball; chubby person",
+  "antonyms": null,
+  "translation": "кнедла, топчесто човече"
+ },
+ {
+  "id": 495,
+  "page": 157,
+  "word": "supple",
+  "definition": "Bending and moving easily and gracefully; flexible.",
+  "synonyms": [
+   "flexible",
+   "pliant",
+   "lithe"
+  ],
+  "antonyms": [
+   "stiff",
+   "rigid"
+  ],
+  "translation": "гъвкав, еластичен"
+ },
+ {
+  "id": 496,
+  "page": 157,
+  "word": "shanks",
+  "definition": "The lower parts of the legs, especially between knee and ankle.",
+  "synonyms": [
+   "legs",
+   "lower limbs"
+  ],
+  "antonyms": null,
+  "translation": "пищяли, долна част на крака"
+ },
+ {
+  "id": 497,
+  "page": 158,
+  "word": "flecked",
+  "definition": "Marked or sprinkled with small spots or patches of colour.",
+  "synonyms": [
+   "speckled",
+   "spotted",
+   "dappled"
+  ],
+  "antonyms": [
+   "plain",
+   "unmarked"
+  ],
+  "translation": "на петна, на петънца"
+ },
+ {
+  "id": 498,
+  "page": 158,
+  "word": "stern",
+  "definition": "Serious and unrelenting, especially in the assertion of authority.",
+  "synonyms": [
+   "strict",
+   "severe",
+   "harsh"
+  ],
+  "antonyms": [
+   "lenient",
+   "gentle"
+  ],
+  "translation": "строг, суров"
+ },
+ {
+  "id": 499,
+  "page": 159,
+  "word": "unaccountably",
+  "definition": "In a way that cannot be explained or accounted for.",
+  "synonyms": [
+   "inexplicably",
+   "mysteriously"
+  ],
+  "antonyms": "understandably",
+  "translation": "необяснимо"
+ },
+ {
+  "id": 500,
+  "page": 159,
+  "word": "venture (verb)",
+  "definition": "To undertake a risky or daring journey or course of action.",
+  "synonyms": [
+   "dare",
+   "risk",
+   "attempt"
+  ],
+  "antonyms": "hold back",
+  "translation": "осмелявам се, рискувам"
+ }
+]

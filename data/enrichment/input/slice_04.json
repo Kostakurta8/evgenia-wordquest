@@ -1,0 +1,698 @@
+[
+ {
+  "id": 151,
+  "page": 41,
+  "word": "abominable",
+  "definition": "Causing moral revulsion; terrible or unpleasant.",
+  "synonyms": [
+   "detestable",
+   "dreadful",
+   "awful"
+  ],
+  "antonyms": [
+   "admirable",
+   "pleasant"
+  ],
+  "translation": "отвратителен, ужасен"
+ },
+ {
+  "id": 152,
+  "page": 42,
+  "word": "fireside-story",
+  "definition": "A traditional tale told around the fire, often a folk-tale.",
+  "synonyms": [
+   "folk-tale",
+   "hearth-tale",
+   "yarn"
+  ],
+  "antonyms": null,
+  "translation": "приказка край огнището"
+ },
+ {
+  "id": 153,
+  "page": 42,
+  "word": "dratted",
+  "definition": "(Informal) used to express annoyance; cursed.",
+  "synonyms": [
+   "damned",
+   "confounded",
+   "blasted"
+  ],
+  "antonyms": "blessed",
+  "translation": "проклет, дяволски"
+ },
+ {
+  "id": 154,
+  "page": 42,
+  "word": "rained drink",
+  "definition": "A hobbit-ism: to have drink in such abundance that it seems to fall like rain.",
+  "synonyms": [
+   "flowed freely",
+   "poured"
+  ],
+  "antonyms": null,
+  "translation": "\"валеше\" питие (изобилие)"
+ },
+ {
+  "id": 155,
+  "page": 43,
+  "word": "tramping",
+  "definition": "Walking heavily or noisily for a long distance.",
+  "synonyms": [
+   "trudging",
+   "hiking",
+   "marching"
+  ],
+  "antonyms": null,
+  "translation": "крачене, тежко вървене"
+ },
+ {
+  "id": 156,
+  "page": 43,
+  "word": "outwardly",
+  "definition": "On the surface; with respect to external appearance.",
+  "synonyms": [
+   "externally",
+   "superficially",
+   "apparently"
+  ],
+  "antonyms": [
+   "inwardly",
+   "internally"
+  ],
+  "translation": "външно, на пръв поглед"
+ },
+ {
+  "id": 157,
+  "page": 43,
+  "word": "ominous",
+  "definition": "Giving the impression that something bad is going to happen.",
+  "synonyms": [
+   "threatening",
+   "foreboding",
+   "menacing"
+  ],
+  "antonyms": [
+   "reassuring",
+   "promising"
+  ],
+  "translation": "злокобен, заплашителен"
+ },
+ {
+  "id": 158,
+  "page": 43,
+  "word": "befall (verb)",
+  "definition": "(Of something bad) to happen to; to come to pass.",
+  "synonyms": [
+   "happen",
+   "occur",
+   "transpire"
+  ],
+  "antonyms": null,
+  "translation": "случвам се, сполетявам"
+ },
+ {
+  "id": 159,
+  "page": 43,
+  "word": "well-trodden",
+  "definition": "Often used or visited; followed by many; worn from much walking.",
+  "synonyms": [
+   "beaten",
+   "frequented",
+   "familiar"
+  ],
+  "antonyms": [
+   "untrodden",
+   "unused"
+  ],
+  "translation": "утъпкан, утвърден"
+ },
+ {
+  "id": 160,
+  "page": 43,
+  "word": "afield",
+  "definition": "Away from home; to or at a distance.",
+  "synonyms": [
+   "abroad",
+   "far",
+   "distant"
+  ],
+  "antonyms": [
+   "home",
+   "near"
+  ],
+  "translation": "надалеч, в далечни земи"
+ },
+ {
+  "id": 161,
+  "page": 43,
+  "word": "wayfarer",
+  "definition": "A person who travels on foot; a traveller.",
+  "synonyms": [
+   "traveller",
+   "wanderer",
+   "pilgrim"
+  ],
+  "antonyms": [
+   "native",
+   "resident"
+  ],
+  "translation": "пътник, странник"
+ },
+ {
+  "id": 162,
+  "page": 44,
+  "word": "disquieting",
+  "definition": "Inducing feelings of anxiety or worry.",
+  "synonyms": [
+   "unsettling",
+   "troubling",
+   "worrying"
+  ],
+  "antonyms": [
+   "reassuring",
+   "comforting"
+  ],
+  "translation": "тревожен, обезпокоителен"
+ },
+ {
+  "id": 163,
+  "page": 45,
+  "word": "elm",
+  "definition": "A tall deciduous tree with rough serrated leaves.",
+  "synonyms": "tree (Ulmus)",
+  "antonyms": null,
+  "translation": "бряст (дърво)"
+ },
+ {
+  "id": 164,
+  "page": 45,
+  "word": "moonshine",
+  "definition": "The light of the moon; also: foolish talk or ideas.",
+  "synonyms": "moonlight; nonsense",
+  "antonyms": "sunshine; sense",
+  "translation": "лунна светлина; глупости"
+ },
+ {
+  "id": 165,
+  "page": 46,
+  "word": "careworn",
+  "definition": "Tired and unhappy because of prolonged worry.",
+  "synonyms": [
+   "haggard",
+   "worn",
+   "weary"
+  ],
+  "antonyms": [
+   "carefree",
+   "fresh"
+  ],
+  "translation": "изтерзан от грижи, измъчен"
+ },
+ {
+  "id": 166,
+  "page": 47,
+  "word": "potent",
+  "definition": "Having great power, influence, or effect.",
+  "synonyms": [
+   "powerful",
+   "strong",
+   "mighty"
+  ],
+  "antonyms": [
+   "weak",
+   "ineffective"
+  ],
+  "translation": "мощен, силен"
+ },
+ {
+  "id": 167,
+  "page": 47,
+  "word": "weariness",
+  "definition": "Extreme tiredness; reluctance to see or experience any more of something.",
+  "synonyms": [
+   "fatigue",
+   "exhaustion",
+   "tiredness"
+  ],
+  "antonyms": [
+   "energy",
+   "vigour"
+  ],
+  "translation": "умора, изнемога"
+ },
+ {
+  "id": 168,
+  "page": 49,
+  "word": "hitherto",
+  "definition": "Until now or until the point in time under discussion.",
+  "synonyms": [
+   "previously",
+   "formerly",
+   "until now"
+  ],
+  "antonyms": [
+   "henceforth",
+   "hereafter"
+  ],
+  "translation": "досега, дотогава"
+ },
+ {
+  "id": 169,
+  "page": 49,
+  "word": "breches-pocket",
+  "definition": "A pocket in breeches (knee-length trousers).",
+  "synonyms": "trouser-pocket",
+  "antonyms": null,
+  "translation": "джоб на бричове"
+ },
+ {
+  "id": 170,
+  "page": 50,
+  "word": "tongs",
+  "definition": "An instrument with two movable arms joined at one end, used for picking up objects.",
+  "synonyms": [
+   "pincers",
+   "pliers",
+   "grippers"
+  ],
+  "antonyms": null,
+  "translation": "клещи, маша"
+ },
+ {
+  "id": 171,
+  "page": 50,
+  "word": "shears",
+  "definition": "A cutting instrument resembling large scissors.",
+  "synonyms": [
+   "scissors",
+   "clippers",
+   "cutters"
+  ],
+  "antonyms": null,
+  "translation": "ножици (големи)"
+ },
+ {
+  "id": 172,
+  "page": 50,
+  "word": "clack",
+  "definition": "A short, sharp sound, as made by hard objects striking each other.",
+  "synonyms": [
+   "click",
+   "tap",
+   "snap"
+  ],
+  "antonyms": null,
+  "translation": "тракане, чукане"
+ },
+ {
+  "id": 173,
+  "page": 50,
+  "word": "pen strokes",
+  "definition": "Lines or marks made with a single movement of a pen.",
+  "synonyms": [
+   "strokes",
+   "lines",
+   "writing"
+  ],
+  "antonyms": null,
+  "translation": "щрихи с перо"
+ },
+ {
+  "id": 174,
+  "page": 51,
+  "word": "lore-masters",
+  "definition": "Those skilled in or keepers of traditional knowledge, especially historical or magical.",
+  "synonyms": [
+   "sages",
+   "scholars",
+   "wise-men"
+  ],
+  "antonyms": [
+   "novices",
+   "ignoramuses"
+  ],
+  "translation": "майстори на знанието, мъдреци"
+ },
+ {
+  "id": 175,
+  "page": 51,
+  "word": "fastness",
+  "definition": "A secure place well protected by natural features; a stronghold.",
+  "synonyms": [
+   "stronghold",
+   "fortress",
+   "citadel"
+  ],
+  "antonyms": null,
+  "translation": "твърдина, крепост"
+ },
+ {
+  "id": 176,
+  "page": 51,
+  "word": "ensnare (verb)",
+  "definition": "To catch in or as in a trap.",
+  "synonyms": [
+   "trap",
+   "entrap",
+   "snare"
+  ],
+  "antonyms": [
+   "free",
+   "release"
+  ],
+  "translation": "улавям, омотавам в капан"
+ },
+ {
+  "id": 177,
+  "page": 51,
+  "word": "dominion",
+  "definition": "Sovereignty or control; the territory of a sovereign or government.",
+  "synonyms": [
+   "sovereignty",
+   "rule",
+   "realm"
+  ],
+  "antonyms": "subordination",
+  "translation": "владичество, владение"
+ },
+ {
+  "id": 178,
+  "page": 52,
+  "word": "Ringwraiths",
+  "definition": "The Nine Riders, undead servants of Sauron, bound by the Nine Rings.",
+  "synonyms": [
+   "Nazgûl",
+   "Black Riders",
+   "wraiths"
+  ],
+  "antonyms": null,
+  "translation": "Пръстеновити призраци, Назгули"
+ },
+ {
+  "id": 179,
+  "page": 52,
+  "word": "wrought (verb)",
+  "definition": "(Archaic past of \"work\") made, shaped, or formed; especially with care.",
+  "synonyms": [
+   "made",
+   "crafted",
+   "fashioned"
+  ],
+  "antonyms": null,
+  "translation": "изработен, изкован"
+ },
+ {
+  "id": 180,
+  "page": 52,
+  "word": "valour",
+  "definition": "Great courage in the face of danger, especially in battle.",
+  "synonyms": [
+   "bravery",
+   "courage",
+   "heroism"
+  ],
+  "antonyms": [
+   "cowardice",
+   "fear"
+  ],
+  "translation": "доблест, храброст"
+ },
+ {
+  "id": 181,
+  "page": 52,
+  "word": "waylay (verb)",
+  "definition": "To stop or intercept someone in order to attack or rob them.",
+  "synonyms": [
+   "ambush",
+   "intercept",
+   "accost"
+  ],
+  "antonyms": null,
+  "translation": "причаквам, нападам из засада"
+ },
+ {
+  "id": 182,
+  "page": 53,
+  "word": "reeds",
+  "definition": "Tall slender grasses that grow in marshes or wet places.",
+  "synonyms": [
+   "rushes",
+   "water-grass"
+  ],
+  "antonyms": null,
+  "translation": "тръстики"
+ },
+ {
+  "id": 183,
+  "page": 53,
+  "word": "repute",
+  "definition": "The opinion generally held of someone or something; reputation.",
+  "synonyms": [
+   "reputation",
+   "standing",
+   "renown"
+  ],
+  "antonyms": [
+   "disrepute",
+   "infamy"
+  ],
+  "translation": "репутация, добро име"
+ },
+ {
+  "id": 184,
+  "page": 53,
+  "word": "inquisitive",
+  "definition": "Curious or eager to learn; unduly curious about others’ affairs.",
+  "synonyms": [
+   "curious",
+   "prying",
+   "nosy"
+  ],
+  "antonyms": [
+   "indifferent",
+   "uninterested"
+  ],
+  "translation": "любопитен, изпитателен"
+ },
+ {
+  "id": 185,
+  "page": 54,
+  "word": "keen-eared",
+  "definition": "Having sharp or acute hearing.",
+  "synonyms": [
+   "sharp-eared",
+   "attentive"
+  ],
+  "antonyms": [
+   "hard of hearing",
+   "deaf"
+  ],
+  "translation": "с остър слух"
+ },
+ {
+  "id": 186,
+  "page": 54,
+  "word": "stature",
+  "definition": "A person’s natural height; importance or reputation gained by ability.",
+  "synonyms": [
+   "height",
+   "build; standing",
+   "status"
+  ],
+  "antonyms": "shortness; insignificance",
+  "translation": "ръст, осанка; авторитет"
+ },
+ {
+  "id": 187,
+  "page": 54,
+  "word": "gurgling",
+  "definition": "Making a hollow bubbling sound, like water flowing through a narrow space.",
+  "synonyms": [
+   "bubbling",
+   "babbling",
+   "burbling"
+  ],
+  "antonyms": null,
+  "translation": "бълбукащ, шуртящ"
+ },
+ {
+  "id": 188,
+  "page": 54,
+  "word": "maggot",
+  "definition": "A soft-bodied legless larva of a fly or other insect; also used as a surname.",
+  "synonyms": [
+   "grub",
+   "larva"
+  ],
+  "antonyms": null,
+  "translation": "червей, ларва"
+ },
+ {
+  "id": 189,
+  "page": 56,
+  "word": "Orc",
+  "definition": "A member of an imaginary race of evil, monstrous goblin-like creatures (Tolkien).",
+  "synonyms": [
+   "goblin",
+   "monster"
+  ],
+  "antonyms": null,
+  "translation": "орк"
+ },
+ {
+  "id": 190,
+  "page": 56,
+  "word": "sift",
+  "definition": "To put through a sieve to remove lumps; to examine thoroughly.",
+  "synonyms": [
+   "sieve",
+   "strain",
+   "screen"
+  ],
+  "antonyms": [
+   "combine",
+   "mix"
+  ],
+  "translation": "пресявам, проверявам внимателно"
+ },
+ {
+  "id": 191,
+  "page": 57,
+  "word": "snivelling",
+  "definition": "Crying or whining in a weak, snuffling way; complaining tearfully.",
+  "synonyms": [
+   "whining",
+   "whimpering",
+   "sobbing"
+  ],
+  "antonyms": null,
+  "translation": "хленчене, скимтене"
+ },
+ {
+  "id": 192,
+  "page": 57,
+  "word": "snarling",
+  "definition": "Making an aggressive growl with bared teeth; speaking in an angry way.",
+  "synonyms": [
+   "growling",
+   "snapping",
+   "barking"
+  ],
+  "antonyms": [
+   "purring",
+   "soothing"
+  ],
+  "translation": "ръмжене, озъбване"
+ },
+ {
+  "id": 193,
+  "page": 58,
+  "word": "padding",
+  "definition": "Soft material used to fill or protect something; also walking softly.",
+  "synonyms": [
+   "cushioning",
+   "stuffing"
+  ],
+  "antonyms": null,
+  "translation": "тапицерия, пълнеж; меко стъпване"
+ },
+ {
+  "id": 194,
+  "page": 61,
+  "word": "dint",
+  "definition": "A dent or hollow in a surface; by dint of = by means of.",
+  "synonyms": [
+   "dent",
+   "indentation; means"
+  ],
+  "antonyms": null,
+  "translation": "вдлъбнатина; чрез (by dint of)"
+ },
+ {
+  "id": 195,
+  "page": 62,
+  "word": "profound",
+  "definition": "Very great or intense; showing great depth of knowledge or insight.",
+  "synonyms": [
+   "deep",
+   "intense",
+   "thoughtful"
+  ],
+  "antonyms": [
+   "shallow",
+   "superficial"
+  ],
+  "translation": "дълбок, проникновен"
+ },
+ {
+  "id": 196,
+  "page": 62,
+  "word": "fabled",
+  "definition": "Famous, especially by reputation; mythical or legendary.",
+  "synonyms": [
+   "legendary",
+   "mythical",
+   "renowned"
+  ],
+  "antonyms": [
+   "unknown",
+   "obscure"
+  ],
+  "translation": "легендарен, прочут"
+ },
+ {
+  "id": 197,
+  "page": 62,
+  "word": "foothold",
+  "definition": "A place where one’s foot can be lodged to support one’s weight; a secure position.",
+  "synonyms": [
+   "footing",
+   "grip",
+   "hold"
+  ],
+  "antonyms": null,
+  "translation": "опора за крак, опорна точка"
+ },
+ {
+  "id": 198,
+  "page": 62,
+  "word": "uprooted",
+  "definition": "Pulled up by the roots; removed from a customary place.",
+  "synonyms": [
+   "displaced",
+   "dislodged",
+   "torn-up"
+  ],
+  "antonyms": [
+   "rooted",
+   "established"
+  ],
+  "translation": "изкоренен, изтръгнат"
+ },
+ {
+  "id": 199,
+  "page": 62,
+  "word": "embers",
+  "definition": "Small pieces of burning or glowing coal or wood in a dying fire.",
+  "synonyms": [
+   "cinders",
+   "coals",
+   "ashes"
+  ],
+  "antonyms": null,
+  "translation": "жарава, въглени"
+ },
+ {
+  "id": 200,
+  "page": 63,
+  "word": "dart",
+  "definition": "A small pointed missile thrown or shot; also a sudden swift movement.",
+  "synonyms": [
+   "arrow",
+   "bolt; dash"
+  ],
+  "antonyms": null,
+  "translation": "стрела, копие; стремително движение"
+ }
+]

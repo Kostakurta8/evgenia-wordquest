@@ -1,0 +1,452 @@
+[
+ {
+  "id": 551,
+  "word": "doublings",
+  "explanationBg": "Извивки и резки завои — например когато пътека или река криволичи ту насам, ту натам.",
+  "explanationEn": "Twists and turns, for example in a path or a river.",
+  "exampleEn": "The mountain trail had so many doublings that we lost all sense of direction.",
+  "mnemonicBg": "В doublings се крие double („двойно“): пътеката се сгъва на две — завой, пак завой, като двойно прегъната панделка.",
+  "ipa": "/ˈdʌblɪŋz/"
+ },
+ {
+  "id": 552,
+  "word": "warbling",
+  "explanationBg": "Пеене на птица с високи, трептящи тонове, които се преливат един в друг — нежно чуруликане с трели.",
+  "explanationEn": "Singing with high, shaky musical notes, like a bird.",
+  "exampleEn": "We woke up to a blackbird warbling outside our tent at sunrise.",
+  "mnemonicBg": "„Уор-БЛИНГ“ — представи си птиче с лъскав „блинг“ медальон, което се фука на клона и сипе трели.",
+  "ipa": "/ˈwɔːblɪŋ/"
+ },
+ {
+  "id": 553,
+  "word": "dry-footed",
+  "explanationBg": "Да преминеш през вода или кално място, без да си намокриш краката — да минеш „на сухо“.",
+  "explanationEn": "Crossing or walking somewhere without getting your feet wet.",
+  "exampleEn": "We hopped across the stepping stones and reached the other bank dry-footed.",
+  "mnemonicBg": "Dry = сухо, foot = крак: скачаш по камъните като нинджа и маратонките ти остават сухи.",
+  "ipa": "/ˌdraɪˈfʊtɪd/"
+ },
+ {
+  "id": 554,
+  "word": "quagmires",
+  "explanationBg": "Меки, блатисти места, където земята поддава под краката ти и можеш да затънеш.",
+  "explanationEn": "Soft, muddy areas of ground that sink under your feet.",
+  "exampleEn": "After a week of rain, the fields around our campsite turned into quagmires that swallowed our trainers.",
+  "mnemonicBg": "„КВАГ-майър“ — чуй „ква“: където жабата квака, там е quagmire — стъпиш ли, затъваш.",
+  "ipa": "/ˈkwɒɡmaɪəz/"
+ },
+ {
+  "id": 555,
+  "word": "midges",
+  "explanationBg": "Дребни хвърчащи мушици, които се събират на цели рояци, най-вече около вода.",
+  "explanationEn": "Tiny flies that gather in big swarms, especially near water.",
+  "exampleEn": "A cloud of midges attacked us the moment we sat down by the lake.",
+  "mnemonicBg": "Midges звучи като „мижи“: рояк мушици ти налита в очите и ти мижиш, за да се спасиш.",
+  "ipa": "/ˈmɪdʒɪz/"
+ },
+ {
+  "id": 556,
+  "word": "tussocks",
+  "explanationBg": "Малки, гъсти китки трева, които стърчат над земята като бухнали възглавнички.",
+  "explanationEn": "Small thick clumps of grass that stick up from the ground.",
+  "exampleEn": "The meadow was full of tussocks, so running across it felt like an obstacle course.",
+  "mnemonicBg": "Tussock звучи почти като „туфичка“ — туфа трева, щръкнала като рошава коса след сън.",
+  "ipa": "/ˈtʌsəks/"
+ },
+ {
+  "id": 557,
+  "word": "frantic",
+  "explanationBg": "Обезумял от страх, тревога или друго силно чувство — в пълна паника, без капка спокойствие.",
+  "explanationEn": "So worried, scared, or excited that you cannot stay calm.",
+  "exampleEn": "I was frantic when I couldn't find my phone five minutes before the exam.",
+  "mnemonicBg": "„ФРАН-тик“ — Франи с нервен тик търчи из стаята минута преди изпита: паника на макс.",
+  "ipa": "/ˈfræntɪk/"
+ },
+ {
+  "id": 558,
+  "word": "straggling",
+  "explanationBg": "Разпилян безредно върху голяма площ; или влачещ се най-отзад, изостанал от групата.",
+  "explanationEn": "Spread out in a messy way, or falling behind the rest of a group.",
+  "exampleEn": "A few straggling runners crossed the finish line long after the rest of the class.",
+  "mnemonicBg": "Представи си екскурзия: групата отпред, а двама се мъкнат най-отзад с телефони в ръка — те са straggling.",
+  "ipa": "/ˈstræɡlɪŋ/"
+ },
+ {
+  "id": 559,
+  "word": "wilderness",
+  "explanationBg": "Дива, необитаема и негостоприемна местност — без хора, къщи и пътища, само природа.",
+  "explanationEn": "A wild area with no people, houses, or farms.",
+  "exampleEn": "Our scout camp was deep in the wilderness, two hours from the nearest shop.",
+  "mnemonicBg": "В wilderness няма Wi-Fi — само wild („диво“): пустош без хора и без обхват.",
+  "ipa": "/ˈwɪldənəs/"
+ },
+ {
+  "id": 560,
+  "word": "lonesome",
+  "explanationBg": "Тъжен, защото си сам и ти липсва компания — самотен и оклюмал.",
+  "explanationEn": "Feeling sad because you are alone.",
+  "exampleEn": "The first week at the new school felt pretty lonesome until I met Maya.",
+  "mnemonicBg": "Lonesome завършва като „сам съм“: лоун-СЪМ — сам съм и ми е криво.",
+  "ipa": "/ˈləʊnsəm/"
+ },
+ {
+  "id": 561,
+  "word": "plodded",
+  "explanationBg": "Вървеше бавно, упорито и с тежки стъпки — мъкнеше се напред въпреки умората.",
+  "explanationEn": "Walked slowly and heavily, without giving up.",
+  "exampleEn": "We plodded up the last hill with our heavy backpacks, dreaming of pizza.",
+  "mnemonicBg": "„ПЛОД-ид“ — мъкнеш чувал с плодове и стъпваш тежко: плод… плод… plodded.",
+  "ipa": "/ˈplɒdɪd/"
+ },
+ {
+  "id": 562,
+  "word": "barren",
+  "explanationBg": "За земя — толкова бедна, че по нея почти нищо не расте; гола и пуста.",
+  "explanationEn": "Land that is too poor for plants to grow on.",
+  "exampleEn": "Nothing grew in that barren corner of the garden, no matter what we planted.",
+  "mnemonicBg": "„Барен“ се римува с „бурен“: на barren земя не никне дори бурен.",
+  "ipa": "/ˈbærən/"
+ },
+ {
+  "id": 563,
+  "word": "stagnant",
+  "explanationBg": "За вода или въздух — който не тече и стои на едно място; без движение, често с мирис на застояло.",
+  "explanationEn": "Not moving or flowing, like old water in a pond.",
+  "exampleEn": "The water in the abandoned pool was stagnant and smelled awful.",
+  "mnemonicBg": "Като „стагнация“ — всичко е спряло: водата стои, не мърда и мирише на застояло.",
+  "ipa": "/ˈstæɡnənt/"
+ },
+ {
+  "id": 564,
+  "word": "marshland",
+  "explanationBg": "Земя, покрита с блата и мочури — мокра, мека и кална, с висока трева и вода навсякъде.",
+  "explanationEn": "An area of soft, wet land full of marshes.",
+  "exampleEn": "The birdwatching club visits the marshland every spring to photograph the herons.",
+  "mnemonicBg": "Marsh звучи като „марш!“: „Марш в калта!“ — и цопваш в мочурището.",
+  "ipa": "/ˈmɑːʃlænd/"
+ },
+ {
+  "id": 565,
+  "word": "commons",
+  "explanationBg": "Открито място в село или градче, което е общо за всички — всеки може да го ползва за паша, игри или разходка.",
+  "explanationEn": "Open land in a village or town that everyone can use.",
+  "exampleEn": "After school we meet on the commons to kick a ball around.",
+  "mnemonicBg": "Commons идва от common („общ“) — като „комуна“: общата поляна на цялото село.",
+  "ipa": "/ˈkɒmənz/"
+ },
+ {
+  "id": 566,
+  "word": "a wraith",
+  "explanationBg": "Призрак или призрачно видение на човек — според старите поверия се появява малко преди смъртта му.",
+  "explanationEn": "A ghost, or a ghost-like image of a person.",
+  "exampleEn": "In the horror game, a pale wraith drifts through the walls of the old mansion.",
+  "mnemonicBg": "Wraith звучи като „рейт“ (rate): призрак, който ти дава пет звезди рейтинг и се стопява през стената.",
+  "ipa": "/reɪθ/"
+ },
+ {
+  "id": 567,
+  "word": "piping",
+  "explanationBg": "Свирене на свирки или гайди; също така тънък, висок звук — като писукане.",
+  "explanationEn": "The sound of playing pipes, or any thin, high sound.",
+  "exampleEn": "We heard the piping of a flute coming from the music room.",
+  "mnemonicBg": "Pipe = тръба: духни през тръбичка и излиза тънко „пиииип“ — това е piping.",
+  "ipa": "/ˈpaɪpɪŋ/"
+ },
+ {
+  "id": 568,
+  "word": "vapours",
+  "explanationBg": "Изпарения, мъгла или дим, които се носят разтворени във въздуха.",
+  "explanationEn": "Mist, steam, or fumes floating in the air.",
+  "exampleEn": "Strange vapours rose from the chemistry teacher's demonstration, so we all stepped back.",
+  "mnemonicBg": "„ВЕЙ-пърс“ — като облачето от вейп: пара, която се носи и стопява във въздуха.",
+  "ipa": "/ˈveɪpəz/"
+ },
+ {
+  "id": 569,
+  "word": "bleak",
+  "explanationBg": "За местност — гола, брулена от вятъра и неприветлива; сурова и мрачна на вид.",
+  "explanationEn": "Bare, cold-looking, and not welcoming.",
+  "exampleEn": "The beach looked bleak in November — grey sky, empty sand, icy wind.",
+  "mnemonicBg": "Bleak звучи като „блед“: бледа, гола и мрачна земя без капка цвят.",
+  "ipa": "/bliːk/"
+ },
+ {
+  "id": 570,
+  "word": "earnestness",
+  "explanationBg": "Искрена и дълбока убеденост; сериозност, с която човек влага цялото си сърце в нещо.",
+  "explanationEn": "Deep sincerity and seriousness about something.",
+  "exampleEn": "She talked about the recycling project with such earnestness that even the back row listened.",
+  "mnemonicBg": "Представи си най-сериозния отличник Ърнест (Earnest): говори искрено и никога не се шегува.",
+  "ipa": "/ˈɜːnɪstnəs/"
+ },
+ {
+  "id": 571,
+  "word": "undulating",
+  "explanationBg": "Който плавно се издига и спуска като вълни — например хълмист терен или полюшващо се жито.",
+  "explanationEn": "Rising and falling smoothly, like waves.",
+  "exampleEn": "The cycling route winds through undulating hills outside the city.",
+  "mnemonicBg": "Като „ондулация“ на коса — вълни нагоре-надолу: undulating е вълнист като къдрици.",
+  "ipa": "/ˈʌndjʊleɪtɪŋ/"
+ },
+ {
+  "id": 572,
+  "word": "dikes",
+  "explanationBg": "Дълги стени или насипи, строени да спират наводнения; понякога така се наричат и изкопани ровове.",
+  "explanationEn": "Long walls of earth built to stop water from flooding the land.",
+  "exampleEn": "On our trip to the Netherlands we cycled along the dikes that hold back the sea.",
+  "mnemonicBg": "Лесно: dike = дига — почти същата дума: стена-насип срещу водата.",
+  "ipa": "/daɪks/"
+ },
+ {
+  "id": 573,
+  "word": "hewn",
+  "explanationBg": "Изсечен или издялан с груби удари — за камък или дърво, обработени с брадва или длето.",
+  "explanationEn": "Cut or shaped roughly with a tool like an axe.",
+  "exampleEn": "The benches around the campfire were hewn from old logs.",
+  "mnemonicBg": "„ХЮ-ън“ — дървар замахва: „хън!“ — и дънерът е издялан. Хън → hewn.",
+  "ipa": "/hjuːn/"
+ },
+ {
+  "id": 574,
+  "word": "harpers",
+  "explanationBg": "Хора, които свирят на арфа — старинно название на арфистите.",
+  "explanationEn": "People who play the harp.",
+  "exampleEn": "Two harpers opened the school concert with a surprisingly cool duet.",
+  "mnemonicBg": "Harp = арфа (само с „х“ отпред): harpers са хората с арфите.",
+  "ipa": "/ˈhɑːpəz/"
+ },
+ {
+  "id": 575,
+  "word": "lance",
+  "explanationBg": "Дълго оръжие с дървена дръжка и остър стоманен връх — копието на конните воини и рицарите.",
+  "explanationEn": "A long spear used by soldiers riding horses.",
+  "exampleEn": "At the museum we tried lifting a knight's lance, and it was heavier than my school bag.",
+  "mnemonicBg": "Като рицаря Ланселот: Ланс-елот никога не излиза без своя lance.",
+  "ipa": "/lɑːns/"
+ },
+ {
+  "id": 576,
+  "word": "dwelleth (verb)",
+  "explanationBg": "Старинна форма на „dwells“ — означава „живее, обитава“; среща се в стари песни и предания.",
+  "explanationEn": "An old-fashioned way to say 'dwells', meaning lives somewhere.",
+  "exampleEn": "The riddle in our escape room read: 'Here dwelleth the keeper of the final key.'",
+  "mnemonicBg": "„ДУЕЛ-ет“ — в замъка обитава рицар, който кани всеки гост на дуел: тук живее дуелистът.",
+  "ipa": "/ˈdwelɪθ/"
+ },
+ {
+  "id": 577,
+  "word": "lay",
+  "explanationBg": "Кратка поема или песен, която разказва история — старинна дума за балада.",
+  "explanationEn": "A short poem or song that tells a story.",
+  "exampleEn": "For the talent show she turned an old folk lay into a modern pop ballad.",
+  "mnemonicBg": "Lay звучи като „лей“: певецът лее песен — баладата се лее от сцената.",
+  "ipa": "/leɪ/"
+ },
+ {
+  "id": 578,
+  "word": "concealment",
+  "explanationBg": "Скриването на нещо — действието, с което пазиш нещо да не бъде видяно или узнато.",
+  "explanationEn": "The act of hiding something so others cannot see or know it.",
+  "exampleEn": "The concealment of the surprise party meant hiding a whole cake in my locker.",
+  "mnemonicBg": "Вътре се чува seal („печат“): запечатваш тайната в плик и никой не я узнава.",
+  "ipa": "/kənˈsiːlmənt/"
+ },
+ {
+  "id": 579,
+  "word": "cairn",
+  "explanationBg": "Купчина от грубо натрупани камъни, издигната за спомен или като знак — например да бележи пътека в планината.",
+  "explanationEn": "A pile of stones built as a marker or a memorial.",
+  "exampleEn": "We followed the stone cairns to find the trail back down the mountain.",
+  "mnemonicBg": "Представи си леля Карън, която реди камъче върху камъче на върха — купчината на Карън е cairn.",
+  "ipa": "/keən/"
+ },
+ {
+  "id": 580,
+  "word": "piled",
+  "explanationBg": "Натрупан на куп — много неща, струпани едно върху друго.",
+  "explanationEn": "Put together in a heap or stack.",
+  "exampleEn": "Dirty clothes piled up in my room until Mum declared a state of emergency.",
+  "mnemonicBg": "Pie + pie + pie = piled: кула от пайове, натрупани един върху друг.",
+  "ipa": "/paɪld/"
+ },
+ {
+  "id": 581,
+  "word": "scorched",
+  "explanationBg": "Обгорен или потъмнял от силна топлина; изсъхнал от жега — като трева след горещо лято.",
+  "explanationEn": "Burned or dried out by strong heat.",
+  "exampleEn": "I scorched my toast again because I was watching videos instead of the toaster.",
+  "mnemonicBg": "Звучи като „с коричка“: забравиш ли филийката в тостера, излиза scorched — с черна коричка.",
+  "ipa": "/skɔːtʃt/"
+ },
+ {
+  "id": 582,
+  "word": "shrivelled",
+  "explanationBg": "Сбръчкан и свит, защото е изгубил влагата си — изсъхнал като стафида.",
+  "explanationEn": "Wrinkled and smaller because it has dried out.",
+  "exampleEn": "I found a shrivelled orange at the bottom of my school bag from last term.",
+  "mnemonicBg": "В shrivelled чуй „се свил“: гроздето се свило, свило — и станало стафида.",
+  "ipa": "/ˈʃrɪvəld/"
+ },
+ {
+  "id": 583,
+  "word": "featuresless",
+  "explanationBg": "Без отличителни черти — еднообразен и монотонен, без нищо, по което да го запомниш.",
+  "explanationEn": "Plain and all the same, with nothing special to notice.",
+  "exampleEn": "The new mall is a featureless grey box compared to the old town square.",
+  "mnemonicBg": "Feature = черта, -less = без: лице без черти — гладко и скучно като яйце.",
+  "ipa": "/ˈfiːtʃələs/"
+ },
+ {
+  "id": 584,
+  "word": "ran like a ribbon",
+  "explanationBg": "Проточи се като дълга, тясна и непрекъсната ивица — така описваме път или река, виещи се през пейзажа.",
+  "explanationEn": "Stretched out long and narrow, like a ribbon.",
+  "exampleEn": "From the cable car, the river ran like a ribbon through the green valley.",
+  "mnemonicBg": "Ribbon = панделка: дръпни панделката от подаръка и я пусни по пода — пътят се вие точно като нея.",
+  "ipa": "/ˌræn laɪk ə ˈrɪbən/"
+ },
+ {
+  "id": 585,
+  "word": "sombre",
+  "explanationBg": "Тъмен или убит на цвят; също и мрачен, сериозен и тъжен по настроение.",
+  "explanationEn": "Dark in colour, or serious and sad in mood.",
+  "exampleEn": "The locker room was sombre after we lost the final on penalties.",
+  "mnemonicBg": "Като „сомбреро“, но наобратно: вместо слънчева шапка — тъмен, мрачен облак над главата.",
+  "ipa": "/ˈsɒmbə/"
+ },
+ {
+  "id": 586,
+  "word": "stroke",
+  "explanationBg": "Едно движение на ръката или на предмет по нещо — замах, щрих или погалване; понякога значи и внезапно събитие.",
+  "explanationEn": "One movement of your hand or a tool across something.",
+  "exampleEn": "With one stroke of the brush she fixed the whole sky in her painting.",
+  "mnemonicBg": "В stroke чуй „щрих“: един замах на четката = един щрих.",
+  "ipa": "/strəʊk/"
+ },
+ {
+  "id": 587,
+  "word": "hastily",
+  "explanationBg": "Прекалено бързо и припряно — както правим нещата, когато закъсняваме и нямаме време.",
+  "explanationEn": "Very quickly, in a hurried way.",
+  "exampleEn": "I hastily shoved my books into my bag when the bus showed up early.",
+  "mnemonicBg": "„ХЕЙСТ-или“ — „Хайде, или ще закъснеем!“ — и всичко става на бегом.",
+  "ipa": "/ˈheɪstɪli/"
+ },
+ {
+  "id": 588,
+  "word": "specks",
+  "explanationBg": "Съвсем мънички петънца или частици — точици, които едва се виждат.",
+  "explanationEn": "Very small spots or bits of something.",
+  "exampleEn": "After art class there were specks of blue paint all over my sleeves.",
+  "mnemonicBg": "Specks звучи като „спекс“ (очила): точици прах по стъклата — бършеш, а петънцата остават.",
+  "ipa": "/speks/"
+ },
+ {
+  "id": 589,
+  "word": "hemlock-umbels",
+  "explanationBg": "Плоските съцветия-чадърчета на отровното растение бучиниш — много дребни бели цветчета, събрани заедно.",
+  "explanationEn": "The flat, umbrella-shaped flower clusters of the hemlock plant.",
+  "exampleEn": "In biology class we sketched hemlock-umbels and learned never to touch the plant itself.",
+  "mnemonicBg": "Umbel идва от „умбрела“ (чадър): цветчетата на бучиниша са наредени като малки отворени чадърчета.",
+  "ipa": "/ˈhemlɒk ˌʌmbəlz/"
+ },
+ {
+  "id": 590,
+  "word": "hemlock-sheaves",
+  "explanationBg": "Снопи от отрязани стъбла и цветове на бучиниш, вързани заедно като житни снопи.",
+  "explanationEn": "Bundles of cut hemlock plants tied together.",
+  "exampleEn": "The gardener carried away hemlock-sheaves after clearing the overgrown path.",
+  "mnemonicBg": "Sheaf звучи като „шеф“: шефът в кухнята връзва магданоза на снопчета — sheaves са снопи.",
+  "ipa": "/ˈhemlɒk ˌʃiːvz/"
+ },
+ {
+  "id": 591,
+  "word": "strewn",
+  "explanationBg": "Разпилян безредно по някаква повърхност или място — пръснат навсякъде без ред.",
+  "explanationEn": "Scattered messily over an area.",
+  "exampleEn": "Crisps and controllers were strewn across the floor after the sleepover.",
+  "mnemonicBg": "Чуй „с трохи“: масата след купон е strewn — посипана с трохи и салфетки навсякъде.",
+  "ipa": "/struːn/"
+ },
+ {
+  "id": 592,
+  "word": "untroubling",
+  "explanationBg": "Който не носи тревога, страдание или притеснение — оставя те напълно спокоен.",
+  "explanationEn": "Not causing any worry or stress.",
+  "exampleEn": "The test turned out to be untroubling — just two pages of easy questions.",
+  "mnemonicBg": "Trouble = проблем, un- = без: un-trouble-ing — нещо „без проблем“, което не буди тревога.",
+  "ipa": "/ʌnˈtrʌblɪŋ/"
+ },
+ {
+  "id": 593,
+  "word": "sorrowless",
+  "explanationBg": "Без капка тъга — състояние, в което скръбта просто я няма.",
+  "explanationEn": "Completely free from sadness.",
+  "exampleEn": "Those sorrowless summer days at my grandparents' house felt endless.",
+  "mnemonicBg": "Sorrow (скръб) + less (без): тъгата се изпарява като локва на слънце — ден без скръб.",
+  "ipa": "/ˈsɒrəʊləs/"
+ },
+ {
+  "id": 594,
+  "word": "eager",
+  "explanationBg": "Който силно желае нещо и няма търпение да го направи или получи — въодушевен и запален.",
+  "explanationEn": "Wanting to do or have something very much.",
+  "exampleEn": "Everyone was eager to try the new ramen place after school.",
+  "mnemonicBg": "„ИЙ-гър“ — като запален геймър: няма търпение да пробва новата игра още в полунощ.",
+  "ipa": "/ˈiːɡə/"
+ },
+ {
+  "id": 595,
+  "word": "sundering",
+  "explanationBg": "Разцепване или разделяне на части — когато нещо цяло се разкъсва на две.",
+  "explanationEn": "Splitting or breaking something apart.",
+  "exampleEn": "The earthquake left a deep crack sundering the old playground in two.",
+  "mnemonicBg": "Sunder звучи като thunder (гръм): светкавицата разцепва небето на две.",
+  "ipa": "/ˈsʌndərɪŋ/"
+ },
+ {
+  "id": 596,
+  "word": "advanced",
+  "explanationBg": "Напреднал — стигнал далеч в развитието или напредъка си; придвижен напред.",
+  "explanationEn": "Far ahead in progress, or moved forward.",
+  "exampleEn": "She moved up to the advanced swimming group after just one season.",
+  "mnemonicBg": "Чуй „аванс“: който получи аванс, е крачка напред — advanced.",
+  "ipa": "/ədˈvɑːnst/"
+ },
+ {
+  "id": 597,
+  "word": "quaking",
+  "explanationBg": "Който се тресе и трепери — най-често от страх.",
+  "explanationEn": "Shaking or trembling, usually from fear.",
+  "exampleEn": "I was quaking backstage before my solo in the school concert.",
+  "mnemonicBg": "Като earthquake (земетресение): коленете ти правят мини земетръс — трепериш от страх.",
+  "ipa": "/ˈkweɪkɪŋ/"
+ },
+ {
+  "id": 598,
+  "word": "keen",
+  "explanationBg": "Изпълнен с желание и ентусиазъм за нещо; за острие, звук или вятър — остър, пронизващ.",
+  "explanationEn": "Very enthusiastic about something; or sharp and piercing.",
+  "exampleEn": "Marko is so keen on basketball that he turns up an hour before practice.",
+  "mnemonicBg": "Чуй „кинжал“: keen е остър като кинжал — и желанието е също толкова остро.",
+  "ipa": "/kiːn/"
+ },
+ {
+  "id": 599,
+  "word": "mantles",
+  "explanationBg": "Широки наметала без ръкави — пелерини или мантии, които се мятат върху раменете; в по-широк смисъл — покривала.",
+  "explanationEn": "Loose capes or cloaks worn over the shoulders.",
+  "exampleEn": "For the cosplay contest we sewed dark mantles out of old curtains.",
+  "mnemonicBg": "Лесно: mantle = мантия — мяташ мантията на раменете като супергерой.",
+  "ipa": "/ˈmæntlz/"
+ },
+ {
+  "id": 600,
+  "word": "haggard",
+  "explanationBg": "Който изглежда изтощен и зле — с изпито, измъчено лице от умора, тревоги или страдание.",
+  "explanationEn": "Looking very tired and unwell from stress or lack of sleep.",
+  "exampleEn": "After the all-night gaming marathon he came to school looking completely haggard.",
+  "mnemonicBg": "Представи си Хагрид след изпитна сесия: блед, рошав и скапан — haggard.",
+  "ipa": "/ˈhæɡəd/"
+ }
+]

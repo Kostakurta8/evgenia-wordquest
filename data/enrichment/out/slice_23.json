@@ -1,0 +1,452 @@
+[
+ {
+  "id": 1101,
+  "word": "glen",
+  "explanationBg": "Тясна долина, сгушена между хълмове — тази дума се използва най-вече за пейзажите на Шотландия и Ирландия.",
+  "explanationEn": "A narrow valley between hills, especially in Scotland or Ireland.",
+  "exampleEn": "On our hiking trip we camped in a quiet glen beside a stream.",
+  "mnemonicBg": "Представи си шотландец на име Глен с гайда, който живее в тясна зелена долина — Глен от глена.",
+  "ipa": "/ɡlen/"
+ },
+ {
+  "id": 1102,
+  "word": "torrent",
+  "explanationBg": "Буен и мощен воден поток, който се носи с голяма скорост — например придошла река след пороен дъжд.",
+  "explanationEn": "A very fast and powerful flow of water.",
+  "exampleEn": "After the storm, the little creek behind the school turned into a roaring torrent.",
+  "mnemonicBg": "Знаеш „торент“ от интернет — както файловете се леят на поток, така torrent е буен поток вода.",
+  "ipa": "/ˈtɒrənt/"
+ },
+ {
+  "id": 1103,
+  "word": "outflung",
+  "explanationBg": "Рязко изхвърлен или протегнат навън — например ръце, широко разперени встрани.",
+  "explanationEn": "Stretched or thrown out to the side or forward.",
+  "exampleEn": "She crossed the finish line with outflung arms, screaming with joy.",
+  "mnemonicBg": "Out (навън) + flung (метнат) — гимнастичка завършва съчетанието си с ръце, метнати широко навън: та-дааа!",
+  "ipa": "/ˌaʊtˈflʌŋ/"
+ },
+ {
+  "id": 1104,
+  "word": "descried",
+  "explanationBg": "Съзря, забеляза нещо отдалеч — обикновено след дълго взиране, когато то едва се различава.",
+  "explanationEn": "Saw or noticed something far away.",
+  "exampleEn": "From the top of the Ferris wheel, we descried our school on the other side of town.",
+  "mnemonicBg": "Ди-СКРАЙД — взираш се към далечния КРАЙ на хоризонта и точно там съзираш мъничката точица.",
+  "ipa": "/dɪˈskraɪd/"
+ },
+ {
+  "id": 1105,
+  "word": "recede (verb)",
+  "explanationBg": "Да се отдръпваш и отдалечаваш постепенно — както вълна се връща обратно в морето или шум, който бавно заглъхва.",
+  "explanationEn": "To move back or become more distant.",
+  "exampleEn": "We watched the storm clouds slowly recede until the sky over the beach was clear again.",
+  "mnemonicBg": "Сети се за чело, от което косата бавно „отстъпва“ назад — на английски косата буквално recede-ва.",
+  "ipa": "/rɪˈsiːd/"
+ },
+ {
+  "id": 1106,
+  "word": "mere",
+  "explanationBg": "Поетична, старинна дума за езеро или тих вир — ще я срещнеш в стари книги и балади.",
+  "explanationEn": "An old or poetic word for a lake or small pond.",
+  "exampleEn": "The campsite map marked a small mere where we could swim before sunset.",
+  "mnemonicBg": "Mere звучи почти като „мир“ — тихо огледално езеро, в което цари пълен мир.",
+  "ipa": "/mɪə/"
+ },
+ {
+  "id": 1107,
+  "word": "spear-head",
+  "explanationBg": "Острият метален връх на копие; в преносен смисъл — човекът или групата, която върви най-отпред и води атаката или каузата.",
+  "explanationEn": "The sharp tip of a spear, or the person or group leading something.",
+  "exampleEn": "Maya became the spear-head of our school's recycling campaign and got the whole class involved.",
+  "mnemonicBg": "Spear (копие) + head (глава) — главата на копието лети първа, както водачът върви пред всички.",
+  "ipa": "/ˈspɪəhed/"
+ },
+ {
+  "id": 1108,
+  "word": "unruffled",
+  "explanationBg": "Спокоен и невъзмутим, когото нищо не може да разтревожи; за вода — гладка, без нито една вълничка.",
+  "explanationEn": "Completely calm and not upset or disturbed.",
+  "exampleEn": "Even when the Wi-Fi died during her online exam, Nia stayed totally unruffled.",
+  "mnemonicBg": "Ruffled значи накъдрен на вълнички — un-ruffled е езеро без нито една вълничка: пълно спокойствие.",
+  "ipa": "/ʌnˈrʌfld/"
+ },
+ {
+  "id": 1109,
+  "word": "shelving",
+  "explanationBg": "Който се спуска плавно и полегато — като бряг, който постепенно потъва към дълбокото.",
+  "explanationEn": "Sloping downwards in a gentle, gradual way.",
+  "exampleEn": "The shelving beach let the little kids wade far out before the water got deep.",
+  "mnemonicBg": "Shelf значи рафт — представи си рафтове, наредени като стъпала, които полека слизат към дълбокото.",
+  "ipa": "/ˈʃelvɪŋ/"
+ },
+ {
+  "id": 1110,
+  "word": "hasten",
+  "explanationBg": "Да побързаш да направиш нещо или да се движиш забързано, защото времето не чака.",
+  "explanationEn": "To hurry or do something quickly.",
+  "exampleEn": "When the bell rang, we hastened to the gym to grab the best spots for the assembly.",
+  "mnemonicBg": "„Хей, СЪН!“ — така викаш на съня си, докато тичаш за автобуса: няма време за дрямка, бързам!",
+  "ipa": "/ˈheɪsn/"
+ },
+ {
+  "id": 1111,
+  "word": "whin",
+  "explanationBg": "Бодлив вечнозелен храст с яркожълти цветчета, който расте по голи хълмове — на български му казват жълтуга.",
+  "explanationEn": "A prickly bush with bright yellow flowers, also called gorse.",
+  "exampleEn": "Our football rolled into a patch of whin, and nobody wanted to reach into the spiky bush.",
+  "mnemonicBg": "Whin звучи като win (печеля) — ама опитай да „спечелиш“ топката обратно от бодливия храст и виж кой печели.",
+  "ipa": "/wɪn/"
+ },
+ {
+  "id": 1112,
+  "word": "lowlands",
+  "explanationBg": "Ниските, равнинни земи на една страна — обратното на планините и високите места.",
+  "explanationEn": "Flat, low areas of land, the opposite of mountains.",
+  "exampleEn": "After skiing in the mountains, it felt weirdly warm when we drove back down to the lowlands.",
+  "mnemonicBg": "Low (ниско) + lands (земи) — ниските земи, където реките се ширят, а планините остават на хоризонта.",
+  "ipa": "/ˈləʊləndz/"
+ },
+ {
+  "id": 1113,
+  "word": "birches",
+  "explanationBg": "Брези — стройни, издръжливи дървета с тънка бяла или сребриста кора, която се бели на ленти.",
+  "explanationEn": "Tall thin trees with white bark that peels off in strips.",
+  "exampleEn": "The path to the lake ran between tall white birches that glowed in the evening light.",
+  "mnemonicBg": "Бърчес — кората на брезата се „бърчи“ и се бели на тънки бели лентички.",
+  "ipa": "/ˈbɜːtʃɪz/"
+ },
+ {
+  "id": 1114,
+  "word": "spent",
+  "explanationBg": "Напълно изразходван или изтощен — останал без капчица сила или енергия.",
+  "explanationEn": "Completely used up, or so tired that no energy is left.",
+  "exampleEn": "After the penalty shoot-out, the whole team collapsed on the grass, totally spent.",
+  "mnemonicBg": "От spend (харча) — енергията ти е като джобни пари: похарчиш ли всичко, оставаш spent — на нула.",
+  "ipa": "/spent/"
+ },
+ {
+  "id": 1115,
+  "word": "encircling",
+  "explanationBg": "Който обгражда нещо отвсякъде и образува кръг около него.",
+  "explanationEn": "Going all the way around something like a circle.",
+  "exampleEn": "An encircling crowd gathered around the street dancer, phones held high.",
+  "mnemonicBg": "Вътре се крие circle (кръг) — представи си хоро, което се затваря в кръг около теб.",
+  "ipa": "/ɪnˈsɜːklɪŋ/"
+ },
+ {
+  "id": 1116,
+  "word": "pace",
+  "explanationBg": "Една крачка при ходене или тичане; също и темпото — скоростта, с която се движиш или работиш.",
+  "explanationEn": "One step when you walk, or the speed at which you move or do something.",
+  "exampleEn": "Coach told me to slow my pace for the first lap and sprint the last one.",
+  "mnemonicBg": "Pace звучи като „пес“ — твоят пес дърпа каишката и сам определя крачката и темпото на разходката.",
+  "ipa": "/peɪs/"
+ },
+ {
+  "id": 1117,
+  "word": "green-hued",
+  "explanationBg": "Който има зелен цвят или зеленикав оттенък.",
+  "explanationEn": "Having a green colour or a slight green tint.",
+  "exampleEn": "The pool looked green-hued in my photos because of the underwater lights.",
+  "mnemonicBg": "Hue (хю) значи оттенък — представи си инстаграм филтър на име Хю, който облива всичко в зелено.",
+  "ipa": "/ˌɡriːnˈhjuːd/"
+ },
+ {
+  "id": 1118,
+  "word": "harts-tongue",
+  "explanationBg": "Папрат с дълги, тесни и лъскави листа, прилични на езици — на български я наричат „еленов език“.",
+  "explanationEn": "A fern whose long narrow leaves look like tongues.",
+  "exampleEn": "On the biology field trip we photographed a harts-tongue growing out of a shady wall.",
+  "mnemonicBg": "Hart е старинно „елен“, tongue е „език“ — листата стърчат като изплезени еленски езичета.",
+  "ipa": "/ˈhɑːts tʌŋ/"
+ },
+ {
+  "id": 1119,
+  "word": "whortle-berry",
+  "explanationBg": "Дребен тъмносин горски плод от ниско храстче — вид боровинка, която береш направо в планината.",
+  "explanationEn": "A small dark blue wild berry, similar to a blueberry.",
+  "exampleEn": "We came back from the mountain hike with purple fingers from picking whortle-berries.",
+  "mnemonicBg": "Уъртъл-БЕРИ — върти се из храсталака и БЕРИ боровинки, докато пръстите ти станат лилави!",
+  "ipa": "/ˈwɜːtl ˌberi/"
+ },
+ {
+  "id": 1120,
+  "word": "westering",
+  "explanationBg": "Който клони към запад — казва се за слънцето, когато следобед бавно се смъква към залеза.",
+  "explanationEn": "Moving down towards the west, used about the sun late in the day.",
+  "exampleEn": "We timed our beach volleyball game to finish under the westering sun.",
+  "mnemonicBg": "Вътре е west (запад) — следобед слънцето си купува билет на запад и бавно пътува към залеза.",
+  "ipa": "/ˈwestərɪŋ/"
+ },
+ {
+  "id": 1121,
+  "word": "tend to (verb)",
+  "explanationBg": "Имам навик или склонност често да правя нещо; може да означава и да се грижа за някого или нещо.",
+  "explanationEn": "To usually do something, or to take care of someone or something.",
+  "exampleEn": "I tend to leave my homework for Sunday night, and I always regret it.",
+  "mnemonicBg": "Сети се за „тенденция“ — tend to е личната ти тенденция: нещото, което обикновено правиш.",
+  "ipa": "/tend tuː/"
+ },
+ {
+  "id": 1122,
+  "word": "grave",
+  "explanationBg": "Много сериозен и тревожен — за положение, което буди безпокойство, или за човек с мрачно и тържествено изражение.",
+  "explanationEn": "Very serious and worrying.",
+  "exampleEn": "The principal's grave voice on the intercom made everyone go quiet immediately.",
+  "mnemonicBg": "На английски grave е и „гроб“ — гробна сериозност: толкова сериозно, че никой не смее да гъкне.",
+  "ipa": "/ɡreɪv/"
+ },
+ {
+  "id": 1123,
+  "word": "athelas",
+  "explanationBg": "Лечебно растение от измисления свят на Толкин — рядка билка с целебна сила, наричана още „царски лист“.",
+  "explanationEn": "A healing plant from Tolkien's fantasy world, also called kingsfoil.",
+  "exampleEn": "In our role-playing game, my healer character keeps athelas in her bag for emergencies.",
+  "mnemonicBg": "Чуй „ателие“ в athelas — билката е зелено ателие, което кърпи раните бод по бод като шивач.",
+  "ipa": "/ˈæθəlæs/"
+ },
+ {
+  "id": 1124,
+  "word": "tinkle",
+  "explanationBg": "Тъничък, кратък и звънлив звук — като звънчето на котка или лъжичка, докоснала ръба на чаша.",
+  "explanationEn": "A light, high ringing sound like a small bell.",
+  "exampleEn": "I heard the tinkle of my cat's bell a second before she jumped on my keyboard.",
+  "mnemonicBg": "ТИН-къл — чуваш ли го? „Тин-тин!“ — тъничкият гласец на мъничко звънче.",
+  "ipa": "/ˈtɪŋkl/"
+ },
+ {
+  "id": 1125,
+  "word": "hides",
+  "explanationBg": "Кожи на едри животни — особено обработени, от каквито се правят кожени изделия.",
+  "explanationEn": "The skins of big animals, often used to make leather.",
+  "exampleEn": "At the history museum we touched real buffalo hides from the old trading days.",
+  "mnemonicBg": "Hide значи и „крия“ — кожата е това, което скрива животното: кожите са скривалищата на тялото.",
+  "ipa": "/haɪdz/"
+ },
+ {
+  "id": 1126,
+  "word": "undervalued",
+  "explanationBg": "Оценен по-ниско, отколкото наистина струва — стойността или талантът му остават незабелязани.",
+  "explanationEn": "Given less value or respect than it really deserves.",
+  "exampleEn": "The bassist is the most undervalued member of the band, but the songs fall apart without her.",
+  "mnemonicBg": "Under (под) + value (стойност) — сложили са етикет с цена ПОД истинската: стоката струва много повече.",
+  "ipa": "/ˌʌndəˈvæljuːd/"
+ },
+ {
+  "id": 1127,
+  "word": "patter",
+  "explanationBg": "Леко, ситно и повтарящо се потропване — като дъждовни капки по прозореца или бързи стъпчици.",
+  "explanationEn": "A series of quick, light tapping sounds.",
+  "exampleEn": "The patter of rain on the tent kept us awake half the night at camp.",
+  "mnemonicBg": "Патър ~ „пат-пат-пат“ — ситните стъпчици на пате, което тича по паркета.",
+  "ipa": "/ˈpætə/"
+ },
+ {
+  "id": 1128,
+  "word": "poplars",
+  "explanationBg": "Тополи — високи и стройни дървета със сива кора, които често растат в дълги редици край пътища и реки.",
+  "explanationEn": "Tall, thin trees that often grow in straight rows.",
+  "exampleEn": "A long line of poplars marks the edge of the football field in our village.",
+  "mnemonicBg": "Чуй приликата: поПЛАр — тоПОЛА; все едно някой е разбъркал буквите на тополата.",
+  "ipa": "/ˈpɒpləz/"
+ },
+ {
+  "id": 1129,
+  "word": "fallow",
+  "explanationBg": "За нива: изорана, но нарочно оставена незасята за един сезон, за да си почине почвата и да стане отново плодородна.",
+  "explanationEn": "Farmland left without crops for a season so the soil can rest.",
+  "exampleEn": "Grandpa leaves one field fallow every year so the soil can recover.",
+  "mnemonicBg": "Fallow ~ „фалирала“ нива — година без реколта, нула продукция, но после се връща по-богата от всякога.",
+  "ipa": "/ˈfæləʊ/"
+ },
+ {
+  "id": 1130,
+  "word": "darkening",
+  "explanationBg": "Постепенно потъмняване — когато светлината гасне и всичко наоколо става все по-тъмно.",
+  "explanationEn": "Becoming darker and losing light.",
+  "exampleEn": "The darkening sky told us to pack up the picnic fast.",
+  "mnemonicBg": "Денят бавно превключва на тъмен режим — darkening, точно като dark mode на телефона.",
+  "ipa": "/ˈdɑːkənɪŋ/"
+ },
+ {
+  "id": 1131,
+  "word": "stir (verb)",
+  "explanationBg": "Да помръднеш съвсем леко; също и да разбъркваш течност с кръгови движения — като захар в чай.",
+  "explanationEn": "To move a little, or to mix a liquid with circular movements.",
+  "exampleEn": "Stir the hot chocolate slowly or the cocoa will stick to the bottom.",
+  "mnemonicBg": "Лъжичката в чашата прави „стър-стър“ — stir: бъркаш, докато захарта изчезне.",
+  "ipa": "/stɜː/"
+ },
+ {
+  "id": 1132,
+  "word": "scale (verb)",
+  "explanationBg": "Да се изкатериш по нещо високо и стръмно — стена, скала или ограда.",
+  "explanationEn": "To climb up something high and steep.",
+  "exampleEn": "In bouldering class I finally scaled the orange route without slipping.",
+  "mnemonicBg": "Scale звучи като „скала“ — а какво правиш със скалата? Катериш я!",
+  "ipa": "/skeɪl/"
+ },
+ {
+  "id": 1133,
+  "word": "unscathed",
+  "explanationBg": "Невредим — измъкнал се от опасност без драскотина и без никаква щета.",
+  "explanationEn": "Not hurt or damaged at all.",
+  "exampleEn": "My phone slid down the whole staircase and somehow came out unscathed.",
+  "mnemonicBg": "Ън-СКЕЙ-тд — скейтър пада зрелищно, скача на крака и… нито драскотина: un-skate-d!",
+  "ipa": "/ʌnˈskeɪðd/"
+ },
+ {
+  "id": 1134,
+  "word": "tree-clad",
+  "explanationBg": "Целият покрит с дървета — за хълм или склон, обрасъл с гора.",
+  "explanationEn": "Covered with trees.",
+  "exampleEn": "The drone shot showed tree-clad hills rolling all the way to the sea.",
+  "mnemonicBg": "Clad е старинно „облечен“ — хълмът се е облякъл в дървета като в дебело зелено палто.",
+  "ipa": "/ˈtriːklæd/"
+ },
+ {
+  "id": 1135,
+  "word": "linden-tree",
+  "explanationBg": "Липа — дърво със сърцевидни листа и ухаещи цветчета, от които се прави липов чай.",
+  "explanationEn": "A tree with heart-shaped leaves, known in English as a lime tree.",
+  "exampleEn": "Our street smells amazing in June when the linden-trees bloom.",
+  "mnemonicBg": "ЛИнден — ЛИпа: и двете почват с „ли“, а под липата те чака чаша липов чай при леля Линда.",
+  "ipa": "/ˈlɪndən triː/"
+ },
+ {
+  "id": 1136,
+  "word": "passes",
+  "explanationBg": "Планински проходи — местата, където път или пътека успява да мине през планината между върховете.",
+  "explanationEn": "Routes that lead over or through mountains.",
+  "exampleEn": "In winter, snow often closes the high passes, so the bus takes the long way around.",
+  "mnemonicBg": "От pass (минавам) — проходът е „пропускът“ на планината: единственото място, откъдето те пуска да минеш.",
+  "ipa": "/ˈpɑːsɪz/"
+ },
+ {
+  "id": 1137,
+  "word": "overhung",
+  "explanationBg": "Надвиснал над нещо — като скала или клони, щръкнали точно над главата ти.",
+  "explanationEn": "Hanging or sticking out over something.",
+  "exampleEn": "Thick branches overhung the bike path, so we ducked as we sped through.",
+  "mnemonicBg": "Over (над) + hung (висял) — съседският балкон, надвиснал над двора като козирка.",
+  "ipa": "/ˌəʊvəˈhʌŋ/"
+ },
+ {
+  "id": 1138,
+  "word": "cluster",
+  "explanationBg": "Групичка от подобни неща или хора, събрани плътно едно до друго — като зрънцата на грозд.",
+  "explanationEn": "A small group of similar things very close together.",
+  "exampleEn": "A cluster of fans waited by the stage door hoping for selfies.",
+  "mnemonicBg": "Представи си чепка грозде — клъц! — и държиш цяла групичка зрънца наведнъж: cluster.",
+  "ipa": "/ˈklʌstə/"
+ },
+ {
+  "id": 1139,
+  "word": "Mellyrn",
+  "explanationBg": "Дума от света на Толкин — множественото число на „малорн“: високи дървета със златни листа и сребристи стволове.",
+  "explanationEn": "In Tolkien's fantasy world, the plural of mallorn, tall trees with golden leaves.",
+  "exampleEn": "For the fantasy art contest, Lily painted silver-trunked mellyrn with golden leaves.",
+  "mnemonicBg": "МЕЛирн ~ „мелирани“ — цяла гора с мелирани корони: златни кичури по върховете на дърветата.",
+  "ipa": "/ˈmelɪrn/"
+ },
+ {
+  "id": 1140,
+  "word": "perch",
+  "explanationBg": "Пръчка или клонче, на което птица каца да си почине; също и високо, понякога несигурно местенце за сядане.",
+  "explanationEn": "A branch or bar where a bird sits, or any high place to sit.",
+  "exampleEn": "From her perch on the top bunk, my sister sees everything that happens in the room.",
+  "mnemonicBg": "Perch ~ „пръчка“ — почти една и съща дума, и точно на пръчката каца птицата.",
+  "ipa": "/pɜːtʃ/"
+ },
+ {
+  "id": 1141,
+  "word": "bole",
+  "explanationBg": "Стволът на дървото — дебелата основна част от земята до първите клони.",
+  "explanationEn": "The main trunk of a tree.",
+  "exampleEn": "We leaned our bikes against the thick bole of the old oak and went swimming.",
+  "mnemonicBg": "Боул като боулинг — гората е гигантска писта, а всеки ствол е кегла, която никой не може да събори.",
+  "ipa": "/bəʊl/"
+ },
+ {
+  "id": 1142,
+  "word": "mallorn-treen",
+  "explanationBg": "Рядка дума от книгите на Толкин — означава „направен от дървото малорн“ или свързан с него.",
+  "explanationEn": "Made from or related to mallorn trees in Tolkien's stories.",
+  "exampleEn": "At the fantasy convention, one stall sold mallorn-treen bowls carved from golden wood.",
+  "mnemonicBg": "-treen е старинно „дървен“ — както „златен“ идва от злато, така mallorn-treen значи „малорнов“.",
+  "ipa": "/ˈmælɔːn triːn/"
+ },
+ {
+  "id": 1143,
+  "word": "haltingly",
+  "explanationBg": "Колебливо, със запъване и чести паузи — както се говори чужд език, който тепърва учиш.",
+  "explanationEn": "Slowly and with many pauses, not smoothly.",
+  "exampleEn": "He haltingly explained to the teacher why his project folder was empty.",
+  "mnemonicBg": "Halt значи „стоп“ — реч на пресекулки: три думи… стоп… още две… стоп… и пак.",
+  "ipa": "/ˈhɔːltɪŋli/"
+ },
+ {
+  "id": 1144,
+  "word": "sundered",
+  "explanationBg": "Разделен, разцепен на части — насилствено откъснат от нещо, с което е бил едно цяло.",
+  "explanationEn": "Split apart or separated by force.",
+  "exampleEn": "The group chat was sundered into two rival chats after the big argument.",
+  "mnemonicBg": "Римува се с thunder (гръм) — представи си гръм, който разцепва старото дърво точно на две половини.",
+  "ipa": "/ˈsʌndəd/"
+ },
+ {
+  "id": 1145,
+  "word": "liking",
+  "explanationBg": "Чувство на симпатия или предпочитание — когато някой или нещо искрено ти допада.",
+  "explanationEn": "A feeling of enjoying or being fond of someone or something.",
+  "exampleEn": "I have developed a liking for spicy ramen since Mia made me try hers.",
+  "mnemonicBg": "От like — всеки лайк, който раздаваш в инстаграм, е мъничко публично liking.",
+  "ipa": "/ˈlaɪkɪŋ/"
+ },
+ {
+  "id": 1146,
+  "word": "refuge",
+  "explanationBg": "Закрила и сигурно място — там, където си на завет от опасност, преследване или неприятности.",
+  "explanationEn": "A safe place or protection from danger or trouble.",
+  "exampleEn": "When the hail started mid-match, the bus stop became our refuge.",
+  "mnemonicBg": "Знаеш refugee (бежанец) — refuge е точно това, което бежанецът търси: сигурен подслон.",
+  "ipa": "/ˈrefjuːdʒ/"
+ },
+ {
+  "id": 1147,
+  "word": "drift",
+  "explanationBg": "Бавно, плавно носене в една посока; също и куп сняг или листа, натрупани от вятъра.",
+  "explanationEn": "A slow steady movement, or a pile of snow or leaves made by the wind.",
+  "exampleEn": "After the blizzard we jumped off the porch into a huge snow drift.",
+  "mnemonicBg": "Дрифт като при колите — плавно носене встрани; и снегът дрифтира с вятъра, докато се натрупа на пряспа.",
+  "ipa": "/drɪft/"
+ },
+ {
+  "id": 1148,
+  "word": "lug up",
+  "explanationBg": "Да мъкнеш нещо тежко нагоре с пъшкане и усилие — например куфар по стълбите.",
+  "explanationEn": "To carry or pull something heavy upwards with effort.",
+  "exampleEn": "Every summer we lug up firewood to our grandparents' mountain cabin.",
+  "mnemonicBg": "Лъг-ъп звучи като пъшкане „ъх-ъп!“ — звукът на всяко стъпало, докато мъкнеш тежкия куфар нагоре.",
+  "ipa": "/ˌlʌɡ ˈʌp/"
+ },
+ {
+  "id": 1149,
+  "word": "bird-loft",
+  "explanationBg": "Високо помещение или таванче, където птици нощуват и гнездят — нещо като гълъбарник.",
+  "explanationEn": "A high room or space where birds sleep and rest.",
+  "exampleEn": "My uncle keeps racing pigeons in a bird-loft above the garage.",
+  "mnemonicBg": "Лофт е модерно таванско студио — bird-loft е лофт апартамент, ама за гълъби.",
+  "ipa": "/ˈbɜːd lɒft/"
+ },
+ {
+  "id": 1150,
+  "word": "lulled (verb)",
+  "explanationBg": "Успокоен или приспан — унесен от нещо тихо и равномерно, както люлеенето приспива бебе.",
+  "explanationEn": "Made calm or sleepy by something gentle.",
+  "exampleEn": "The rocking of the night train lulled half the class to sleep on the school trip.",
+  "mnemonicBg": "Лъл ~ „люлка“ и „лю-лю-лю“ — люлееш бебето, припяваш му и то заспива: lulled.",
+  "ipa": "/lʌld/"
+ }
+]

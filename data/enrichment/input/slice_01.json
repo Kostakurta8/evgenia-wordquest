@@ -1,0 +1,721 @@
+[
+ {
+  "id": 1,
+  "page": 1,
+  "word": "unobtrusive",
+  "definition": "Not conspicuous or attracting attention; modest in appearance or behaviour.",
+  "synonyms": [
+   "inconspicuous",
+   "unassuming",
+   "modest"
+  ],
+  "antonyms": [
+   "conspicuous",
+   "obtrusive"
+  ],
+  "translation": "незабележим, скромен"
+ },
+ {
+  "id": 2,
+  "page": 1,
+  "word": "till (verb)",
+  "definition": "To prepare and cultivate land for crops by ploughing and harrowing.",
+  "synonyms": [
+   "cultivate",
+   "plough",
+   "work"
+  ],
+  "antonyms": [
+   "neglect",
+   "abandon"
+  ],
+  "translation": "обработвам (земя), ора"
+ },
+ {
+  "id": 3,
+  "page": 1,
+  "word": "haunt",
+  "definition": "A place frequently visited by a particular person or kind of person.",
+  "synonyms": [
+   "retreat",
+   "hangout",
+   "refuge"
+  ],
+  "antonyms": null,
+  "translation": "свърталище, любимо място"
+ },
+ {
+  "id": 4,
+  "page": 1,
+  "word": "forge-bellow",
+  "definition": "A bellows used at a forge to blow air onto a fire and intensify the heat.",
+  "synonyms": [
+   "blower",
+   "air-pump"
+  ],
+  "antonyms": null,
+  "translation": "духало за ковашко огнище"
+ },
+ {
+  "id": 5,
+  "page": 1,
+  "word": "hand-loom",
+  "definition": "A loom worked by hand rather than mechanically, used for weaving cloth.",
+  "synonyms": [
+   "weaving frame",
+   "manual loom"
+  ],
+  "antonyms": "power loom",
+  "translation": "ръчен стан, ръчен тъкачен стан"
+ },
+ {
+  "id": 6,
+  "page": 1,
+  "word": "deft",
+  "definition": "Skilful and quick, especially with the hands; neat and dexterous.",
+  "synonyms": [
+   "dexterous",
+   "adroit",
+   "skilful"
+  ],
+  "antonyms": [
+   "clumsy",
+   "awkward"
+  ],
+  "translation": "сръчен, ловък"
+ },
+ {
+  "id": 7,
+  "page": 1,
+  "word": "blundering",
+  "definition": "Acting in a clumsy and careless way, making mistakes.",
+  "synonyms": [
+   "clumsy",
+   "bungling",
+   "awkward"
+  ],
+  "antonyms": [
+   "graceful",
+   "careful"
+  ],
+  "translation": "непохватен, тромав"
+ },
+ {
+  "id": 8,
+  "page": 2,
+  "word": "elusiveness",
+  "definition": "The quality of being difficult to find, catch, or describe.",
+  "synonyms": [
+   "evasiveness",
+   "intangibility"
+  ],
+  "antonyms": [
+   "directness",
+   "openness"
+  ],
+  "translation": "неуловимост, недостижимост"
+ },
+ {
+  "id": 9,
+  "page": 2,
+  "word": "inimitable",
+  "definition": "So good or unusual as to be impossible to copy; unique.",
+  "synonyms": [
+   "unique",
+   "matchless",
+   "peerless"
+  ],
+  "antonyms": [
+   "ordinary",
+   "common"
+  ],
+  "translation": "неповторим, неподражаем"
+ },
+ {
+  "id": 10,
+  "page": 2,
+  "word": "stout",
+  "definition": "Rather fat or of heavy build; also sturdy and resolute.",
+  "synonyms": [
+   "sturdy",
+   "robust",
+   "plump"
+  ],
+  "antonyms": [
+   "thin",
+   "frail",
+   "weak"
+  ],
+  "translation": "набит, едър, як"
+ },
+ {
+  "id": 11,
+  "page": 2,
+  "word": "dwindle (verb)",
+  "definition": "To diminish gradually in size, amount, or strength.",
+  "synonyms": [
+   "diminish",
+   "shrink",
+   "decrease"
+  ],
+  "antonyms": [
+   "grow",
+   "increase",
+   "expand"
+  ],
+  "translation": "намалявам, смалявам се"
+ },
+ {
+  "id": 12,
+  "page": 2,
+  "word": "soles",
+  "definition": "The undersides of the feet or of footwear that touches the ground.",
+  "synonyms": [
+   "undersides",
+   "footbeds"
+  ],
+  "antonyms": "uppers",
+  "translation": "стъпала (на крака), подметки"
+ },
+ {
+  "id": 13,
+  "page": 2,
+  "word": "apt",
+  "definition": "Appropriate or suitable in the circumstances; inclined or likely to do something.",
+  "synonyms": [
+   "suitable",
+   "fitting",
+   "inclined"
+  ],
+  "antonyms": [
+   "unsuitable",
+   "inappropriate"
+  ],
+  "translation": "подходящ, склонен"
+ },
+ {
+  "id": 14,
+  "page": 2,
+  "word": "jest",
+  "definition": "A thing said or done for amusement; a joke or witty remark.",
+  "synonyms": [
+   "joke",
+   "quip",
+   "witticism"
+  ],
+  "antonyms": "seriousness",
+  "translation": "шега, закачка"
+ },
+ {
+  "id": 15,
+  "page": 2,
+  "word": "estrangement",
+  "definition": "The state of being no longer on friendly terms with someone; alienation.",
+  "synonyms": [
+   "alienation",
+   "separation",
+   "rift"
+  ],
+  "antonyms": [
+   "reconciliation",
+   "intimacy"
+  ],
+  "translation": "отчуждение, охладняване"
+ },
+ {
+  "id": 16,
+  "page": 3,
+  "word": "genealogical",
+  "definition": "Relating to the study or tracing of family descent and ancestry.",
+  "synonyms": [
+   "ancestral",
+   "hereditary",
+   "lineal"
+  ],
+  "antonyms": null,
+  "translation": "родословен, генеалогичен"
+ },
+ {
+  "id": 17,
+  "page": 3,
+  "word": "westward",
+  "definition": "Towards the west; in a western direction.",
+  "synonyms": [
+   "occidental",
+   "westbound"
+  ],
+  "antonyms": "eastward",
+  "translation": "на запад, в западна посока"
+ },
+ {
+  "id": 18,
+  "page": 3,
+  "word": "eaves",
+  "definition": "The part of a roof that meets or overhangs the walls of a building.",
+  "synonyms": [
+   "overhang",
+   "roof-edge"
+  ],
+  "antonyms": null,
+  "translation": "стрехи"
+ },
+ {
+  "id": 19,
+  "page": 3,
+  "word": "perilous",
+  "definition": "Full of danger or risk; very dangerous.",
+  "synonyms": [
+   "dangerous",
+   "hazardous",
+   "risky"
+  ],
+  "antonyms": [
+   "safe",
+   "secure"
+  ],
+  "translation": "опасен, рискован"
+ },
+ {
+  "id": 20,
+  "page": 3,
+  "word": "dwell (verb)",
+  "definition": "To live in or at a specified place; to reside.",
+  "synonyms": [
+   "reside",
+   "inhabit",
+   "live"
+  ],
+  "antonyms": [
+   "leave",
+   "depart"
+  ],
+  "translation": "обитавам, живея"
+ },
+ {
+  "id": 21,
+  "page": 4,
+  "word": "chieftain",
+  "definition": "The leader of a people, clan, or tribe.",
+  "synonyms": [
+   "leader",
+   "head",
+   "chief"
+  ],
+  "antonyms": [
+   "follower",
+   "subordinate"
+  ],
+  "translation": "вожд, главатар"
+ },
+ {
+  "id": 22,
+  "page": 4,
+  "word": "ere",
+  "definition": "Before (archaic or literary).",
+  "synonyms": [
+   "before",
+   "prior to"
+  ],
+  "antonyms": "after",
+  "translation": "преди (архаично)"
+ },
+ {
+  "id": 23,
+  "page": 5,
+  "word": "moor",
+  "definition": "A tract of open uncultivated upland, typically covered with heather.",
+  "synonyms": [
+   "heath",
+   "moorland",
+   "fells"
+  ],
+  "antonyms": "cultivated land",
+  "translation": "мочурище, пустош, тресавище"
+ },
+ {
+  "id": 24,
+  "page": 5,
+  "word": "marsh",
+  "definition": "An area of low-lying land that is flooded in wet seasons and remains waterlogged.",
+  "synonyms": [
+   "swamp",
+   "bog",
+   "wetland"
+  ],
+  "antonyms": [
+   "desert",
+   "drylands"
+  ],
+  "translation": "блато, мочурище"
+ },
+ {
+  "id": 25,
+  "page": 5,
+  "word": "heed",
+  "definition": "Careful attention paid to advice or a warning.",
+  "synonyms": [
+   "attention",
+   "notice",
+   "regard"
+  ],
+  "antonyms": [
+   "disregard",
+   "neglect"
+  ],
+  "translation": "внимание, обръщане на внимание"
+ },
+ {
+  "id": 26,
+  "page": 5,
+  "word": "the weather has grown milder",
+  "definition": "A phrase meaning the weather has become less harsh or warmer than before.",
+  "synonyms": [
+   "climate has eased",
+   "weather has softened"
+  ],
+  "antonyms": "weather has worsened",
+  "translation": "времето е станало по-меко"
+ },
+ {
+  "id": 27,
+  "page": 5,
+  "word": "ravening",
+  "definition": "Extremely hungry and seeking prey; voracious.",
+  "synonyms": [
+   "ravenous",
+   "voracious",
+   "predatory"
+  ],
+  "antonyms": [
+   "sated",
+   "gentle"
+  ],
+  "translation": "хищен, ненаситен"
+ },
+ {
+  "id": 28,
+  "page": 6,
+  "word": "hearths",
+  "definition": "The floors or surfaces of fireplaces; symbolically, the homes themselves.",
+  "synonyms": [
+   "fireplaces",
+   "firesides"
+  ],
+  "antonyms": null,
+  "translation": "огнища"
+ },
+ {
+  "id": 29,
+  "page": 6,
+  "word": "mathom",
+  "definition": "In Hobbit-speech, anything they have no immediate use for but are unwilling to throw away.",
+  "synonyms": [
+   "trinket",
+   "keepsake",
+   "curio"
+  ],
+  "antonyms": "necessity",
+  "translation": "матом (хобитска дрънкулка, ненужна вещ)"
+ },
+ {
+  "id": 30,
+  "page": 6,
+  "word": "unwearyingly",
+  "definition": "In a tireless manner; without growing weary.",
+  "synonyms": [
+   "tirelessly",
+   "indefatigably"
+  ],
+  "antonyms": [
+   "wearily",
+   "exhaustedly"
+  ],
+  "translation": "неуморно"
+ },
+ {
+  "id": 31,
+  "page": 6,
+  "word": "doughty",
+  "definition": "Brave and persistent (often used humorously or in archaic tone).",
+  "synonyms": [
+   "brave",
+   "valiant",
+   "courageous"
+  ],
+  "antonyms": [
+   "cowardly",
+   "timid"
+  ],
+  "translation": "смел, доблестен"
+ },
+ {
+  "id": 32,
+  "page": 6,
+  "word": "abode",
+  "definition": "A place of residence; a house or home (formal or literary).",
+  "synonyms": [
+   "dwelling",
+   "residence",
+   "home"
+  ],
+  "antonyms": null,
+  "translation": "жилище, обиталище"
+ },
+ {
+  "id": 33,
+  "page": 6,
+  "word": "ramify (verb)",
+  "definition": "To form branches or subdivisions; to spread out into branches.",
+  "synonyms": [
+   "branch out",
+   "diverge",
+   "spread"
+  ],
+  "antonyms": [
+   "converge",
+   "unite"
+  ],
+  "translation": "разклонявам се"
+ },
+ {
+  "id": 34,
+  "page": 6,
+  "word": "smial",
+  "definition": "A hobbit-hole; a burrow-like dwelling dug into a hillside (Tolkien usage).",
+  "synonyms": [
+   "burrow",
+   "hobbit-hole"
+  ],
+  "antonyms": null,
+  "translation": "смиал (хобитско жилище в хълм)"
+ },
+ {
+  "id": 35,
+  "page": 6,
+  "word": "rompers",
+  "definition": "A young child’s one-piece outer garment combining shirt and shorts.",
+  "synonyms": [
+   "overalls",
+   "playsuit"
+  ],
+  "antonyms": null,
+  "translation": "детски гащеризон"
+ },
+ {
+  "id": 36,
+  "page": 6,
+  "word": "cartwright",
+  "definition": "A person whose job is to make and repair carts and wagons.",
+  "synonyms": [
+   "wagon-maker",
+   "wheelwright"
+  ],
+  "antonyms": null,
+  "translation": "каруцар, майстор на каруци"
+ },
+ {
+  "id": 37,
+  "page": 6,
+  "word": "shed",
+  "definition": "A simple roofed structure used for storage or shelter.",
+  "synonyms": [
+   "outbuilding",
+   "shack",
+   "hut"
+  ],
+  "antonyms": null,
+  "translation": "навес, барака"
+ },
+ {
+  "id": 38,
+  "page": 6,
+  "word": "heavy-legged",
+  "definition": "Walking slowly and with effort, as if the legs are weighted; sluggish.",
+  "synonyms": [
+   "sluggish",
+   "plodding",
+   "weary-footed"
+  ],
+  "antonyms": [
+   "light-footed",
+   "nimble"
+  ],
+  "translation": "натежал, тромав в ходенето"
+ },
+ {
+  "id": 39,
+  "page": 6,
+  "word": "the down",
+  "definition": "A gently rolling hill, especially of chalk grassland in southern England.",
+  "synonyms": [
+   "hill",
+   "ridge",
+   "upland"
+  ],
+  "antonyms": [
+   "valley",
+   "dale"
+  ],
+  "translation": "хълмиста местност, рид"
+ },
+ {
+  "id": 40,
+  "page": 7,
+  "word": "immemorial",
+  "definition": "Originating in the distant past; very old.",
+  "synonyms": [
+   "ancient",
+   "time-honoured",
+   "age-old"
+  ],
+  "antonyms": [
+   "modern",
+   "recent"
+  ],
+  "translation": "незапомнен, древен"
+ },
+ {
+  "id": 41,
+  "page": 7,
+  "word": "misgivings",
+  "definition": "Feelings of doubt or apprehension about a future event.",
+  "synonyms": [
+   "doubts",
+   "qualms",
+   "reservations"
+  ],
+  "antonyms": [
+   "confidence",
+   "certainty"
+  ],
+  "translation": "опасения, съмнения"
+ },
+ {
+  "id": 42,
+  "page": 7,
+  "word": "turf",
+  "definition": "Grass and the surface layer of earth held together by its roots.",
+  "synonyms": [
+   "sod",
+   "grass",
+   "sward"
+  ],
+  "antonyms": null,
+  "translation": "чим, тревна морава"
+ },
+ {
+  "id": 43,
+  "page": 7,
+  "word": "clannish",
+  "definition": "Tending to associate closely with one’s own group and exclude others.",
+  "synonyms": [
+   "cliquish",
+   "tribal",
+   "insular"
+  ],
+  "antonyms": [
+   "open",
+   "inclusive"
+  ],
+  "translation": "затворен в рода/клана, кланов"
+ },
+ {
+  "id": 44,
+  "page": 8,
+  "word": "imbibe (verb)",
+  "definition": "To drink, especially alcohol; also to absorb ideas or knowledge.",
+  "synonyms": [
+   "drink",
+   "consume",
+   "absorb"
+  ],
+  "antonyms": [
+   "abstain",
+   "expel"
+  ],
+  "translation": "пия, поглъщам (течност, знание)"
+ },
+ {
+  "id": 45,
+  "page": 8,
+  "word": "antiquity",
+  "definition": "The ancient past, especially the period before the Middle Ages.",
+  "synonyms": [
+   "ancient times",
+   "olden days"
+  ],
+  "antonyms": [
+   "modernity",
+   "present"
+  ],
+  "translation": "древност, старина"
+ },
+ {
+  "id": 46,
+  "page": 9,
+  "word": "pre-eminent",
+  "definition": "Surpassing all others; very distinguished in some way.",
+  "synonyms": [
+   "foremost",
+   "leading",
+   "outstanding"
+  ],
+  "antonyms": [
+   "inferior",
+   "undistinguished"
+  ],
+  "translation": "изтъкнат, най-изтъкнат"
+ },
+ {
+  "id": 47,
+  "page": 10,
+  "word": "moot",
+  "definition": "An assembly of people, especially one for legal or governmental discussion.",
+  "synonyms": [
+   "assembly",
+   "meeting",
+   "council"
+  ],
+  "antonyms": null,
+  "translation": "събор, съвет"
+ },
+ {
+  "id": 48,
+  "page": 10,
+  "word": "muster",
+  "definition": "A formal gathering of troops, especially for inspection or to prepare for battle.",
+  "synonyms": [
+   "assembly",
+   "rally",
+   "gathering"
+  ],
+  "antonyms": "dispersal",
+  "translation": "сбор, мобилизация"
+ },
+ {
+  "id": 49,
+  "page": 11,
+  "word": "reckoning",
+  "definition": "The action of calculating or estimating something; settling of accounts.",
+  "synonyms": [
+   "calculation",
+   "computation",
+   "judgement"
+  ],
+  "antonyms": null,
+  "translation": "пресмятане, разчет"
+ },
+ {
+  "id": 50,
+  "page": 11,
+  "word": "hoards",
+  "definition": "Stocks or stores of money or valued objects, typically secret or carefully guarded.",
+  "synonyms": [
+   "stockpiles",
+   "caches",
+   "stashes"
+  ],
+  "antonyms": null,
+  "translation": "съкровища, запаси"
+ }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "id": 101,
+  "word": "engrossing",
+  "explanationBg": "Толкова интересен и увличащ, че те грабва изцяло — забравяш всичко около себе си, докато четеш или гледаш.",
+  "explanationEn": "So interesting that it takes all your attention.",
+  "exampleEn": "The mystery game was so engrossing that we missed our bus stop.",
+  "mnemonicBg": "Чуй „грос“ като в „гросмайстор“ — потънал в шахматната партия, светът изчезва: точно това прави една engrossing книга.",
+  "ipa": "/ɪnˈɡrəʊsɪŋ/"
+ },
+ {
+  "id": 102,
+  "word": "nibbling",
+  "explanationBg": "Ядене на съвсем малки хапки — гризваш по мъничко, бавно и внимателно, вместо да лапаш наведнъж.",
+  "explanationEn": "Eating something with small, gentle bites.",
+  "exampleEn": "She watched the whole film, nibbling at the same slice of pizza for half an hour.",
+  "mnemonicBg": "Представи си хамстерче: гриз-гриз-гриз по трошичка — nibbling е точно това ситно, кротко гризкане.",
+  "ipa": "/ˈnɪblɪŋ/"
+ },
+ {
+  "id": 103,
+  "word": "dainties",
+  "explanationBg": "Малки, изискани и много вкусни неща за хапване — дребни сладкиши и деликатеси, които са истинско удоволствие.",
+  "explanationEn": "Small pieces of especially tasty, fine food.",
+  "exampleEn": "At the school fair, the French club sold little dainties like macarons and mini tarts.",
+  "mnemonicBg": "Звучи като „дай ни ти!“ — „Дай ни тия сладки!“ — мъничките вкусотии, към които всички посягат първо.",
+  "ipa": "/ˈdeɪntiz/"
+ },
+ {
+  "id": 104,
+  "word": "impromptu",
+  "explanationBg": "Направен в момента, без никаква подготовка или репетиция — просто се случва спонтанно, на мига.",
+  "explanationEn": "Done suddenly, without any planning or practice.",
+  "exampleEn": "Our picnic turned into an impromptu football match when someone brought a ball.",
+  "mnemonicBg": "Чуй „импро“ като в „импро театър“ — без сценарий, без репетиция, всичко се ражда на мига.",
+  "ipa": "/ɪmˈprɒmptjuː/"
+ },
+ {
+  "id": 105,
+  "word": "vigorous",
+  "explanationBg": "Силен, здрав и пълен с енергия — човек или движение, в което има живот и мощ.",
+  "explanationEn": "Strong, healthy and full of energy.",
+  "exampleEn": "A vigorous warm-up before practice keeps you from pulling a muscle.",
+  "mnemonicBg": "Чуй „игър“ във „ви-ГЪР-ъс“ — почти „тигър“: енергичен и силен като тигър на сутрешен крос.",
+  "ipa": "/ˈvɪɡərəs/"
+ },
+ {
+  "id": 106,
+  "word": "obstinate",
+  "explanationBg": "Който твърдоглаво отказва да промени мнението или решението си, каквото и да му казваш.",
+  "explanationEn": "Refusing to change your mind, no matter what.",
+  "exampleEn": "My obstinate little brother refuses to wear a jacket even in December.",
+  "mnemonicBg": "„Об-СТЕНА-т“ — инат като СТЕНА: блъскаш, говориш, молиш — не помръдва.",
+  "ipa": "/ˈɒbstɪnət/"
+ },
+ {
+  "id": 107,
+  "word": "imminent",
+  "explanationBg": "Който всеки момент ще се случи — толкова е близо, че почти го усещаш как идва.",
+  "explanationEn": "Going to happen very soon.",
+  "exampleEn": "With exams imminent, the library suddenly got crowded.",
+  "mnemonicBg": "„И-МИНЪНТ“ — до МИНУТА ще се случи: толкова е наблизо, че вече чуваш стъпките му.",
+  "ipa": "/ˈɪmɪnənt/"
+ },
+ {
+  "id": 108,
+  "word": "flabbergasted",
+  "explanationBg": "Толкова изненадан, че оставаш с отворена уста и не можеш да кажеш и дума.",
+  "explanationEn": "Extremely surprised; almost unable to speak.",
+  "exampleEn": "I was flabbergasted when my quiet friend won the school rap battle.",
+  "mnemonicBg": "„ФЛАБЪ-ГАСТ-ед“ — изненадата сякаш ти ГАСи мозъка за секунда и оставаш зяпнал.",
+  "ipa": "/ˈflæbəɡɑːstɪd/"
+ },
+ {
+  "id": 109,
+  "word": "stamp (verb)",
+  "explanationBg": "Да тропнеш силно с крак по земята или върху нещо — от яд, нетърпение или за да го смачкаш.",
+  "explanationEn": "To hit the ground hard with your foot.",
+  "exampleEn": "She stamped her foot in frustration when the Wi-Fi dropped during the final boss.",
+  "mnemonicBg": "Знаеш stamp като пощенска марка — тук „подпечатваш“ пода с крак: ТУП! Печат от подметка.",
+  "ipa": "/ˈstæmp/"
+ },
+ {
+  "id": 110,
+  "word": "indignant",
+  "explanationBg": "Ядосан и засегнат, защото усещаш, че нещо е несправедливо — възмущението те изпълва.",
+  "explanationEn": "Angry because something seems unfair.",
+  "exampleEn": "She got indignant when the teacher blamed the whole class for one person's prank.",
+  "mnemonicBg": "Вътре се крие „дигн“ от dignity (достойнство) — настъпили са достойнството ти и кипваш: несправедливо е!",
+  "ipa": "/ɪnˈdɪɡnənt/"
+ },
+ {
+  "id": 111,
+  "word": "briskly",
+  "explanationBg": "Бързо, живо и с енергия — без бавене и мотаене.",
+  "explanationEn": "Quickly and with energy.",
+  "exampleEn": "We walked briskly to school because the first bell had already rung.",
+  "mnemonicBg": "„Бриск“ звучи като „бриз“ — движиш се свежо и пъргаво като утринен морски бриз.",
+  "ipa": "/ˈbrɪskli/"
+ },
+ {
+  "id": 112,
+  "word": "din",
+  "explanationBg": "Силен, неприятен шум, който продължава дълго и не ти дава покой — глъчка, тропот и викове наведнъж.",
+  "explanationEn": "A loud, unpleasant noise that goes on and on.",
+  "exampleEn": "Over the din of the cafeteria, I could barely hear my friend's story.",
+  "mnemonicBg": "ДИН! ДИН! ДИН! — като камбана и тенджери едновременно: непрекъсната, оглушителна врява.",
+  "ipa": "/ˈdɪn/"
+ },
+ {
+  "id": 113,
+  "word": "tissue-paper",
+  "explanationBg": "Много тънка и мека хартия, с която се опаковат подаръци или се пазят чупливи и нежни предмети.",
+  "explanationEn": "Very thin, soft paper for wrapping presents or delicate things.",
+  "exampleEn": "I wrapped Mum's birthday mug in layers of tissue-paper so it wouldn't break.",
+  "mnemonicBg": "„Тишу“ — като меките кърпички tissues: същата нежна, тъничка хартийка, но за опаковане на подаръци.",
+  "ipa": "/ˈtɪʃuː ˌpeɪpə/"
+ },
+ {
+  "id": 114,
+  "word": "scabbard",
+  "explanationBg": "Калъфът, в който се прибира острието на меч или кинжал, за да е защитено и безопасно.",
+  "explanationEn": "A cover that holds and protects the blade of a sword.",
+  "exampleEn": "For her cosplay, she made a silver scabbard out of cardboard to hold the foam sword.",
+  "mnemonicBg": "Звучи почти като „шкаф-ърд“ — личният „шкаф“ на меча: прибираш острието вътре, за да спи.",
+  "ipa": "/ˈskæbəd/"
+ },
+ {
+  "id": 115,
+  "word": "moth-balls",
+  "explanationBg": "Малки бели топчета със силна миризма, които се слагат при дрехите в гардероба, за да гонят молците.",
+  "explanationEn": "Small strong-smelling balls kept with clothes to keep moths away.",
+  "exampleEn": "When we opened Grandma's old suitcase, the smell of moth-balls filled the room.",
+  "mnemonicBg": "Moth значи „молец“ — топчета-бодигардове на пуловерите: миришат на бабин гардероб и гонят молците.",
+  "ipa": "/ˈmɒθ bɔːlz/"
+ },
+ {
+  "id": 116,
+  "word": "patched",
+  "explanationBg": "Закърпен — върху скъсаното или протритото място е пришито парче плат, което го покрива.",
+  "explanationEn": "Repaired with a piece of material sewn over a hole.",
+  "exampleEn": "His favourite jeans are patched at both knees from years of skateboarding falls.",
+  "mnemonicBg": "Като patch в игрите — кръпка, която запушва дупка: тук кръпката е истинско парче плат върху скъсаните дънки.",
+  "ipa": "/ˈpætʃt/"
+ },
+ {
+  "id": 117,
+  "word": "weatherstained",
+  "explanationBg": "С петна и избеляла повърхност от дълго стоене навън — дъждът, слънцето и вятърът са оставили следите си.",
+  "explanationEn": "Marked and faded because it stayed outside in rain and sun for a long time.",
+  "exampleEn": "The weatherstained picnic table by the courts has gone grey after years of sun and rain.",
+  "mnemonicBg": "Разглоби я: weather (време) + stained (изцапан) — времето е „изцапало“ дървото с дъжд, слънце и вятър.",
+  "ipa": "/ˈweðəsteɪnd/"
+ },
+ {
+  "id": 118,
+  "word": "busybody",
+  "explanationBg": "Човек, който постоянно си пъха носа в чуждите работи и се меси, без никой да го е молил.",
+  "explanationEn": "A person who is too interested in other people's business.",
+  "exampleEn": "The class busybody somehow knew about the surprise party before the birthday girl did.",
+  "mnemonicBg": "Busy (зает) + body (човек) — уж „много зает“… но с чуждите работи: носът му е във всяка паница.",
+  "ipa": "/ˈbɪzibɒdi/"
+ },
+ {
+  "id": 119,
+  "word": "confounded",
+  "explanationBg": "Дума, с която изпускаш яда си — нещо като „проклет“ или „пуст да е“. Може да значи и „напълно объркан“.",
+  "explanationEn": "A word people say when they are annoyed; it can also mean totally confused.",
+  "exampleEn": "Where is my confounded charger? My phone is at one percent!",
+  "mnemonicBg": "„Кон-ФАУНДЕД“ — обърканият КОН се мотае из двора, а ти мърмориш: „Проклетият кон!“ — двете значения в едно.",
+  "ipa": "/kənˈfaʊndɪd/"
+ },
+ {
+  "id": 120,
+  "word": "badgering",
+  "explanationBg": "Постоянно повтаряне на едно и също искане — врънкаш и досаждаш на някого, докато не се предаде.",
+  "explanationEn": "Asking someone again and again until they get annoyed.",
+  "exampleEn": "He kept badgering his parents for a gaming chair until his birthday finally came.",
+  "mnemonicBg": "Badger е язовец — представи си язовец, който те ръчка с муцунка на всеки пет секунди: „Хайде де! Хайде де!“",
+  "ipa": "/ˈbædʒərɪŋ/"
+ },
+ {
+  "id": 121,
+  "word": "oddments",
+  "explanationBg": "Дребни останали неща — парченца, изрезки и джунджурии, особено от плат, които не са част от нищо цяло.",
+  "explanationEn": "Small leftover bits and pieces, especially of cloth.",
+  "exampleEn": "Her sewing box was full of oddments of bright cloth left over from old projects.",
+  "mnemonicBg": "Odd значи „несдвоен, странен“ — чекмеджето с несдвоени чорапи, копчета и парченца плат: oddments.",
+  "ipa": "/ˈɒdmənts/"
+ },
+ {
+  "id": 122,
+  "word": "obstinately",
+  "explanationBg": "Упорито и твърдоглаво — без да отстъпиш и милиметър, каквото и да ти говорят.",
+  "explanationEn": "In a stubborn way, refusing to change.",
+  "exampleEn": "She obstinately replayed the same level for hours, refusing to look up a walkthrough.",
+  "mnemonicBg": "Чуй „стена“ в „об-СТЕНА-тли“ — стоиш като стена и не мърдаш от своето.",
+  "ipa": "/ˈɒbstɪnətli/"
+ },
+ {
+  "id": 123,
+  "word": "hilt",
+  "explanationBg": "Дръжката на меч или кинжал — частта, за която го хващаш.",
+  "explanationEn": "The handle of a sword or dagger.",
+  "exampleEn": "In fencing club, the coach showed us how to grip the hilt without squeezing too hard.",
+  "mnemonicBg": "„Хилт“ звучи като „хилка“ — хващаш меча за „хилката“: дръжката, не острието!",
+  "ipa": "/ˈhɪlt/"
+ },
+ {
+  "id": 124,
+  "word": "ruefully",
+  "explanationBg": "Със съжаление и лека тъга, често примесени с усмивка — както когато се смееш на собствената си грешка.",
+  "explanationEn": "In a way that shows regret, often with a small sad smile.",
+  "exampleEn": "He grinned ruefully after scoring an own goal in the last minute.",
+  "mnemonicBg": "Чуй „руини“ — гледаш руините на плана си, въздъхваш и се усмихваш тъжно: ruefully.",
+  "ipa": "/ˈruːfəli/"
+ },
+ {
+  "id": 125,
+  "word": "trot down (verb)",
+  "explanationBg": "Да прескочиш донякъде с бърза, лека крачка — отиваш си спокойно, но чевръсто, без да се влачиш.",
+  "explanationEn": "To go somewhere quickly and casually on foot.",
+  "exampleEn": "After the last lesson we trotted down to the bakery before it closed.",
+  "mnemonicBg": "Trot е конски тръс — припкаш надолу по улицата в лек тръс: туп-туп-туп до магазина и обратно.",
+  "ipa": "/ˌtrɒt ˈdaʊn/"
+ },
+ {
+  "id": 126,
+  "word": "hedge",
+  "explanationBg": "Ограда от гъсто израснали храсти — жива стена от зеленина около двор или градина.",
+  "explanationEn": "A line of bushes growing close together like a fence.",
+  "exampleEn": "Our football kept flying over the hedge into the neighbour's garden.",
+  "mnemonicBg": "Сети се за hedgehog (таралеж) — „животинчето на живия плет“: hedge е зеленият плет, в който той шумоли.",
+  "ipa": "/ˈhedʒ/"
+ },
+ {
+  "id": 127,
+  "word": "wheel-barrow",
+  "explanationBg": "Малка градинска количка с едно колело отпред, която буташ за двете дръжки отзад.",
+  "explanationEn": "A small one-wheeled cart that you push by two handles.",
+  "exampleEn": "We raced across the yard, one of us pushing the other in a wheel-barrow.",
+  "mnemonicBg": "Wheel = колело — количка с ЕДНО-единствено колело, която се клатушка като пингвин с тежък товар.",
+  "ipa": "/ˈwiːl ˌbærəʊ/"
+ },
+ {
+  "id": 128,
+  "word": "inadvertently",
+  "explanationBg": "Без да искаш и без да забележиш — става по невнимание, а не нарочно.",
+  "explanationEn": "By accident, without meaning to.",
+  "exampleEn": "I inadvertently liked a photo from 2019 while scrolling through her profile.",
+  "mnemonicBg": "Чуй „върт“ в „инад-ВЪРТ-ънтли“ — нещо се завърта само, без да искаш: опа, неволно стана!",
+  "ipa": "/ˌɪnədˈvɜːtəntli/"
+ },
+ {
+  "id": 129,
+  "word": "cracker-paper",
+  "explanationBg": "Шарената хартия от коледна „пиратка“ — британска празнична бомбичка с изненада вътре. Двама я дърпат от двете страни, тя гръмва и хартията остава по масата.",
+  "explanationEn": "The colourful paper around a Christmas cracker.",
+  "exampleEn": "After Christmas lunch, the floor was covered in torn cracker-paper and tiny plastic toys.",
+  "mnemonicBg": "Crack = „пук!“ — хартийката, която остава след пук-а на коледната пиратка: шарен спомен от гърмежа.",
+  "ipa": "/ˈkrækə ˌpeɪpə/"
+ },
+ {
+  "id": 130,
+  "word": "convex mirror",
+  "explanationBg": "Огледало, което е издуто навън — показва по-широка картина, но образът в него изглежда по-малък.",
+  "explanationEn": "A mirror that curves outwards and shows a wider but smaller picture.",
+  "exampleEn": "The convex mirror at the blind corner of the bike path shows you if anyone is coming.",
+  "mnemonicBg": "Convex = изпъкнал — представи си огледало с издуто „коремче“ напред, затова вижда нашироко.",
+  "ipa": "/ˌkɒnveks ˈmɪrə/"
+ },
+ {
+  "id": 131,
+  "word": "shapely",
+  "explanationBg": "С красива, добре оформена фигура или форма — всичко е в правилните пропорции.",
+  "explanationEn": "Having an attractive, well-proportioned shape.",
+  "exampleEn": "In art class she turned a lump of clay into a surprisingly shapely vase.",
+  "mnemonicBg": "Shape (форма) + -ly — нещо „с форма“: изваяно сякаш от скулптор, всичко на мястото си.",
+  "ipa": "/ˈʃeɪpli/"
+ },
+ {
+  "id": 132,
+  "word": "contributor",
+  "explanationBg": "Човек, който дава нещо — често пари — за да помогне дадена кауза или начинание да успее.",
+  "explanationEn": "Someone who gives something, often money, to help a cause.",
+  "exampleEn": "Every contributor to the school fundraiser got their name on the thank-you wall.",
+  "mnemonicBg": "Вътре е tribute (дар, принос) — con-TRIBUT-or е човекът, който носи своя принос в общата каса.",
+  "ipa": "/kənˈtrɪbjʊtə/"
+ },
+ {
+  "id": 133,
+  "word": "clutter up (verb)",
+  "explanationBg": "Да затрупаш някое място с купища разхвърляни вещи, докато стане тясно и разбъркано.",
+  "explanationEn": "To fill a place with too many untidy things.",
+  "exampleEn": "Old worksheets and empty bottles clutter up my desk by the end of every week.",
+  "mnemonicBg": "„КЛЪТЪР“ — представи си КУПчини, които се КЛАТушкат на бюрото: още едно нещо и всичко пада!",
+  "ipa": "/ˌklʌtər ˈʌp/"
+ },
+ {
+  "id": 134,
+  "word": "spade",
+  "explanationBg": "Инструмент за копаене — дълга дръжка с плоско метално острие, с което обръщаш пръстта.",
+  "explanationEn": "A digging tool with a flat metal blade and a long handle.",
+  "exampleEn": "Grab a spade — we're digging a fire pit at the campsite tonight.",
+  "mnemonicBg": "Пиката от картите се казва spade — копаеш с гигантска карта „пика“: формата ѝ е точно като острие на лопата.",
+  "ipa": "/ˈspeɪd/"
+ },
+ {
+  "id": 135,
+  "word": "ointment",
+  "explanationBg": "Гъст, мазен крем, който се маже върху кожата, за да лекува рани, раздразнения или болки.",
+  "explanationEn": "A smooth oily cream you rub on the skin to heal it.",
+  "exampleEn": "The nurse put some ointment on my scraped elbow after I fell off my bike.",
+  "mnemonicBg": "„ОЙ-нтмънт“ — мехлемът за „ой!“ моментите: одраскаш се, извикаш „ой!“ и те намазват.",
+  "ipa": "/ˈɔɪntmənt/"
+ },
+ {
+  "id": 136,
+  "word": "creaking joints",
+  "explanationBg": "Стави, които сякаш скърцат при движение — обикновено от възраст или схващане, като несмазана врата.",
+  "explanationEn": "Joints in the body that feel stiff and seem to make noise when you move.",
+  "exampleEn": "After two hours of gaming on the floor, I stood up with creaking joints like an old man.",
+  "mnemonicBg": "Creak е „скръъц“ — дядовата врата и дядовите колене скърцат с един и същи звук.",
+  "ipa": "/ˌkriːkɪŋ ˈdʒɔɪnts/"
+ },
+ {
+  "id": 137,
+  "word": "capitol fellow",
+  "explanationBg": "Мил старовремски израз за чудесен, свестен човек — все едно да кажеш „златен човек“.",
+  "explanationEn": "An old-fashioned, friendly way to say someone is an excellent person.",
+  "exampleEn": "Everyone says our bus driver is a capitol fellow because he waits for late students with a smile.",
+  "mnemonicBg": "Пише се почти като Capitol (сградата на Конгреса в САЩ), но класическият израз е capital fellow — „капитален“ пич, злато човек!",
+  "ipa": "/ˌkæpɪtl ˈfeləʊ/"
+ },
+ {
+  "id": 138,
+  "word": "glass bead",
+  "explanationBg": "Малко стъклено топче с дупчица по средата, през която се нанизва конец — за гривни и огърлици.",
+  "explanationEn": "A small glass ball with a hole so you can put it on a string.",
+  "exampleEn": "She slid one more glass bead onto the friendship bracelet and tied it off.",
+  "mnemonicBg": "Представи си БЕДуин с гердан от блестящи стъклени топченца — bead = мънисто с дупчица за конеца.",
+  "ipa": "/ˌɡlɑːs ˈbiːd/"
+ },
+ {
+  "id": 139,
+  "word": "indisposed",
+  "explanationBg": "Леко болен и неразположен; може да значи и че нямаш желание да направиш нещо.",
+  "explanationEn": "Slightly ill, or unwilling to do something.",
+  "exampleEn": "Our maths teacher was indisposed today, so the substitute let us revise quietly.",
+  "mnemonicBg": "Disposed = „разположен“, а in- го обръща — НЕразположен: свит под одеялото с чай и сериал.",
+  "ipa": "/ˌɪndɪˈspəʊzd/"
+ },
+ {
+  "id": 140,
+  "word": "foil (verb)",
+  "explanationBg": "Да провалиш нечий план или опит — да попречиш на нещо лошо да успее.",
+  "explanationEn": "To stop someone's plan from succeeding.",
+  "exampleEn": "The librarian foiled our plan to sneak snacks into the study room.",
+  "mnemonicBg": "Foil е и „фолио“ — увиваш злия план в алуминиево фолио и го заключваш в хладилника: провален е!",
+  "ipa": "/ˈfɔɪl/"
+ },
+ {
+  "id": 141,
+  "word": "fiddle sticks",
+  "explanationBg": "Възклицание, с което показваш несъгласие или раздразнение — нещо като „глупости!“ или „ами!“.",
+  "explanationEn": "An old exclamation meaning nonsense, or showing annoyance.",
+  "exampleEn": "Fiddle sticks! I left my PE kit on the bus again.",
+  "mnemonicBg": "Буквално „цигулкови пръчици“ — баба размахва ръце като диригент и отсича: „Fiddle sticks! Глупости!“",
+  "ipa": "/ˈfɪdl stɪks/"
+ },
+ {
+  "id": 142,
+  "word": "nooks",
+  "explanationBg": "Малки уютни кътчета и ъгълчета — скрити местенца, където можеш да се сгушиш на спокойствие.",
+  "explanationEn": "Small quiet corners where you can hide away.",
+  "exampleEn": "The new library has reading nooks with beanbags where you can disappear for hours.",
+  "mnemonicBg": "Запомни римата book + nook — книжка в кътчето: двете думи са родени една за друга.",
+  "ipa": "/ˈnʊks/"
+ },
+ {
+  "id": 143,
+  "word": "premises",
+  "explanationBg": "Сграда заедно с двора и пристройките към нея — целият имот, гледан като едно цяло.",
+  "explanationEn": "A building together with its land and smaller buildings.",
+  "exampleEn": "Skateboarding is not allowed on the school premises, so we go to the park instead.",
+  "mnemonicBg": "Чуй „при мисис“ — отиваш „при мисис“: в нейната къща, с двора и бараката — в нейните premises.",
+  "ipa": "/ˈpremɪsɪz/"
+ },
+ {
+  "id": 144,
+  "word": "tussle",
+  "explanationBg": "Енергично боричкане или сборичкване — кратка борба, в която двама се дърпат и блъскат.",
+  "explanationEn": "A short, energetic fight or struggle.",
+  "exampleEn": "There was a brief tussle for the last slice of pizza at the sleepover.",
+  "mnemonicBg": "„ТЪСЪЛ“ звучи като „търкул“ — двама се търкулват на килима в шеговито боричкане за дистанционното.",
+  "ipa": "/ˈtʌsl/"
+ },
+ {
+  "id": 145,
+  "word": "excavation",
+  "explanationBg": "Внимателно и систематично копаене, при което пръстта се изнася от дадено място — както правят археолозите.",
+  "explanationEn": "Careful, organised digging to remove earth from a place.",
+  "exampleEn": "At archaeology camp we joined a real excavation and brushed soil off Roman pottery.",
+  "mnemonicBg": "„Екс-КАВА-ция“ — почти „изКОПАция“: археолози с четчици вадят пръстта слой по слой.",
+  "ipa": "/ˌekskəˈveɪʃn/"
+ },
+ {
+  "id": 146,
+  "word": "battering",
+  "explanationBg": "Многократно силно удряне — поредица от тежки удари или щетите, които те нанасят.",
+  "explanationEn": "Repeated heavy hits, or the damage they cause.",
+  "exampleEn": "The old school minibus has taken a battering from years of away games.",
+  "mnemonicBg": "Bat е бухалка — battering е „бухалкане“: бум-бум-бум, удар след удар, докато нещо омекне.",
+  "ipa": "/ˈbætərɪŋ/"
+ },
+ {
+  "id": 147,
+  "word": "pony-trap",
+  "explanationBg": "Малка двуколесна каручка, теглена от пони — старовремски начин за разходка и превоз.",
+  "explanationEn": "A small two-wheeled carriage pulled by a pony.",
+  "exampleEn": "At the farm festival, kids queued up for a ride in the pony-trap.",
+  "mnemonicBg": "Не е „капан (trap) за понита“! Тук trap е каручка — пони с мини-кабриолет за двама.",
+  "ipa": "/ˈpəʊni træp/"
+ },
+ {
+  "id": 148,
+  "word": "curdle (verb)",
+  "explanationBg": "Когато течност като млякото се пресича — разделя се на бучки и водниста част, вместо да остане гладка.",
+  "explanationEn": "To turn into lumps instead of staying smooth, like spoiled milk.",
+  "exampleEn": "The milk curdled when I added lemon juice to my pancake batter.",
+  "mnemonicBg": "Curl са къдрици — млякото се „накъдря“ на бучки, когато се пресече: curdle.",
+  "ipa": "/ˈkɜːdl/"
+ },
+ {
+  "id": 149,
+  "word": "pester (verb)",
+  "explanationBg": "Да досаждаш на някого с постоянни молби, въпроси или прекъсвания, докато го изкараш от търпение.",
+  "explanationEn": "To annoy someone by asking for things again and again.",
+  "exampleEn": "My cousin pestered me all weekend to teach him my skateboard tricks.",
+  "mnemonicBg": "„ПЕС-тър“ — пес, който те дърпа за крачола: „Дай! Дай! Дай!“ — докато не му дадеш бисквитката.",
+  "ipa": "/ˈpestə/"
+ },
+ {
+  "id": 150,
+  "word": "nuisance",
+  "explanationBg": "Човек или нещо, което ти създава неудобство и постоянно те дразни — истинска досада.",
+  "explanationEn": "A person or thing that annoys you or causes trouble.",
+  "exampleEn": "Pop-up ads are such a nuisance when you're trying to watch a tutorial.",
+  "mnemonicBg": "„НЮ-сънс“ звучи като „новият съсед“ — онзи с бормашината в неделя сутрин: жива, ходеща досада.",
+  "ipa": "/ˈnjuːsns/"
+ }
+]

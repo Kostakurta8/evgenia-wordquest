@@ -1,0 +1,452 @@
+[
+ {
+  "id": 501,
+  "word": "ostler",
+  "explanationBg": "Така едно време са наричали човека в хана, който се грижи за конете на гостите — разседлава ги, храни ги и ги прибира в конюшнята.",
+  "explanationEn": "A man who worked at an inn and looked after the guests' horses.",
+  "exampleEn": "On our school trip to the open-air museum, an actor played the ostler and let us help brush the horses.",
+  "mnemonicBg": "Звучи почти като „осел-ър“ — представи си коняря в хана, който по погрешка вкарва осел при конете на гостите.",
+  "ipa": "/ˈɒslə/"
+ },
+ {
+  "id": 502,
+  "word": "rear",
+  "explanationBg": "Задната част на нещо — на автобус, кола или сграда. Като глагол значи и да отглеждаш деца или малки животни.",
+  "explanationEn": "The back part of something; as a verb, to raise children or young animals.",
+  "exampleEn": "We always grab the seats at the rear of the bus so we can chat in peace.",
+  "mnemonicBg": "Сети се за „rear-view mirror“ — огледалото в колата, което гледа точно НАЗАД.",
+  "ipa": "/rɪə/"
+ },
+ {
+  "id": 503,
+  "word": "capering",
+  "explanationBg": "Весело подскачане и лудуване — като козле на поляна, което скача насам-натам от чиста радост.",
+  "explanationEn": "Jumping and dancing around in a playful, happy way.",
+  "exampleEn": "The puppy started capering around the yard the second we picked up its leash.",
+  "mnemonicBg": "„Caper“ и „каприз“ идват от една и съща дума за коза — представи си капризно козле, което подскача и лудува.",
+  "ipa": "/ˈkeɪpərɪŋ/"
+ },
+ {
+  "id": 504,
+  "word": "swarthy",
+  "explanationBg": "Мургав — с тъмна кожа или тъмен тен, най-вече на лицето.",
+  "explanationEn": "Having naturally dark skin, especially on the face.",
+  "exampleEn": "The lifeguard was a tall, swarthy young man who seemed to live on the beach.",
+  "mnemonicBg": "Сети се за Арнолд ШВАРЦ-енегер — „шварц“ значи черен, а swarthy е човек с тъмна, мургава кожа.",
+  "ipa": "/ˈswɔːði/"
+ },
+ {
+  "id": 505,
+  "word": "conflicting accounts",
+  "explanationBg": "Разкази за едно и също събитие, които си противоречат — всеки свидетел разправя различна версия и историите не се връзват.",
+  "explanationEn": "Different reports about the same event that do not agree with each other.",
+  "exampleEn": "The teacher heard so many conflicting accounts of the corridor fight that she gave up finding the truth.",
+  "mnemonicBg": "Конфликт между разказите — версиите се „карат“ помежду си и не могат да се разберат коя е вярната.",
+  "ipa": "/kənˈflɪktɪŋ əˈkaʊnts/"
+ },
+ {
+  "id": 506,
+  "word": "crocks",
+  "explanationBg": "Глинени гърнета и делви — съдове от печена глина, в които някога са държали мляко, мед или туршия.",
+  "explanationEn": "Pots and jars made of baked clay.",
+  "exampleEn": "Grandma still keeps her homemade pickles in heavy crocks in the cellar.",
+  "mnemonicBg": "„Крок!“ — звукът, когато глинено гърне се чукне в друго; crocks са точно такива гърнета.",
+  "ipa": "/krɒks/"
+ },
+ {
+  "id": 507,
+  "word": "faggots",
+  "explanationBg": "Снопчета съчки, вързани заедно, за да се пали с тях огън — едно време така са носели дървата за горене.",
+  "explanationEn": "Bundles of sticks tied together for burning on a fire.",
+  "exampleEn": "We tied the dry twigs into faggots so the campfire would light faster.",
+  "mnemonicBg": "Представи си музикалния ФАГОТ, само че направен от съчки — стегнат дълъг сноп дръвца за огъня.",
+  "ipa": "/ˈfæɡəts/"
+ },
+ {
+  "id": 508,
+  "word": "rascal",
+  "explanationBg": "Палавник и хитрец — най-често дете, което прави бели, но е толкова чаровно, че не можеш да му се сърдиш дълго. Казва се и за непочтен човек.",
+  "explanationEn": "A cheeky person, often a child, who plays tricks and gets into mischief.",
+  "exampleEn": "My little brother is a proper rascal — he hid my phone and recorded me searching for it.",
+  "mnemonicBg": "РАЗ-КАЛ-ян хлапак — пак е газил в калта, хили се до уши и вече крои следващата беля: rascal.",
+  "ipa": "/ˈrɑːskəl/"
+ },
+ {
+  "id": 509,
+  "word": "rogue",
+  "explanationBg": "Мошеник — човек без задръжки, който лъже и мами за своя изгода. Понякога се казва и по-меко, за чаровен немирник.",
+  "explanationEn": "A dishonest person who tricks others; sometimes a charming troublemaker.",
+  "exampleEn": "The man selling 'brand new' earbuds at the market turned out to be a rogue — they died in two days.",
+  "mnemonicBg": "Звучи като „рог“ — щом намисли измама, на мошеника му никнат дяволски рогчета: rogue.",
+  "ipa": "/rəʊɡ/"
+ },
+ {
+  "id": 510,
+  "word": "scowl",
+  "explanationBg": "Сърдито, навъсено изражение — смръщени вежди и поглед, който казва „не ме закачай“.",
+  "explanationEn": "An angry frown on someone's face.",
+  "exampleEn": "Maria's smile turned into a scowl when the teacher announced a surprise test.",
+  "mnemonicBg": "Вътре се крие „owl“ (сова) — представи си навъсена сова, която те гледа мрачно изпод вежди: scOWL.",
+  "ipa": "/skaʊl/"
+ },
+ {
+  "id": 511,
+  "word": "vagabonds",
+  "explanationBg": "Скитници — хора без постоянен дом и работа, които бродят от място на място и никъде не се задържат.",
+  "explanationEn": "People who wander from place to place with no fixed home or job.",
+  "exampleEn": "In the summer we joked about becoming vagabonds and hiking across Europe with one backpack.",
+  "mnemonicBg": "На български си имаме същата дума — „вагабонтин“: скитник, който броди където му видят очите.",
+  "ipa": "/ˈvæɡəbɒndz/"
+ },
+ {
+  "id": 512,
+  "word": "rascally",
+  "explanationBg": "Хитро и дяволито, по маниера на палавник — с лека доза непочтеност, но повече закачка.",
+  "explanationEn": "Behaving like a rascal — playful, cheeky and a bit dishonest.",
+  "exampleEn": "That rascally cat from next door steals socks from half the street.",
+  "mnemonicBg": "Просто „rascal“ + „-ly“: всичко, направено като от разкаляния палавник — хитро, дяволито, мошенически.",
+  "ipa": "/ˈrɑːskəli/"
+ },
+ {
+  "id": 513,
+  "word": "sneering",
+  "explanationBg": "Който гледа или говори с крива усмивка и презрение — все едно ти казва, че си под нивото му.",
+  "explanationEn": "Smiling or speaking in a mocking way that shows contempt.",
+  "exampleEn": "His sneering comments every time someone makes a mistake ruin the whole class chat.",
+  "mnemonicBg": "„Sneer“ започва като „snake“ — представи си змия с крива, подигравателна усмивчица, която те гледа отвисоко.",
+  "ipa": "/ˈsnɪərɪŋ/"
+ },
+ {
+  "id": 514,
+  "word": "cleft",
+  "explanationBg": "Цепнатина или процеп — тясно разделение между две части, например в скала или на брадичката.",
+  "explanationEn": "A narrow split or crack between two parts of something.",
+  "exampleEn": "We wedged the climbing rope into a cleft in the rock before going down.",
+  "mnemonicBg": "„Клъц!“ — ножицата клъцва и оставя тесен процеп: cleft звучи точно като бързо „клъц“.",
+  "ipa": "/kleft/"
+ },
+ {
+  "id": 515,
+  "word": "hasty",
+  "explanationBg": "Прибързан — направен на крак, без да се помисли. От такова бързане често се раждат глупави грешки.",
+  "explanationEn": "Done too quickly, without enough thought.",
+  "exampleEn": "My hasty answer on the last question cost me five points.",
+  "mnemonicBg": "„Хей-СТОЙ!“ — викаш на припрения приятел, хукнал нанякъде, преди да е чул целия план: hasty.",
+  "ipa": "/ˈheɪsti/"
+ },
+ {
+  "id": 516,
+  "word": "plight",
+  "explanationBg": "Тежко, окаяно положение — беда, в която някой е закъсал и от която трудно ще се измъкне сам.",
+  "explanationEn": "A difficult or dangerous situation that someone is in.",
+  "exampleEn": "The documentary showed the plight of stray dogs left out in the cold.",
+  "mnemonicBg": "Като „flight“ без F: самолетът излита, а ти оставаш на летището без билет и багаж — ето това е plight.",
+  "ipa": "/plaɪt/"
+ },
+ {
+  "id": 517,
+  "word": "pate",
+  "explanationBg": "Шеговита, старомодна дума за главата — най-вече за темето, горната ѝ част.",
+  "explanationEn": "A person's head, especially the top of it.",
+  "exampleEn": "Dad rubbed sunscreen on his bald pate before the beach volleyball game.",
+  "mnemonicBg": "Пише се като „пате“ — представи си жълто пате, кацнало върху голото теме на чичо ти.",
+  "ipa": "/peɪt/"
+ },
+ {
+  "id": 518,
+  "word": "uptake",
+  "explanationBg": "Бързината, с която схващаш нещо ново — за човек, който загрява моментално, се казва, че е бърз в схващането.",
+  "explanationEn": "How quickly someone understands new information.",
+  "exampleEn": "Lena is so quick on the uptake that she learned the new card game in one round.",
+  "mnemonicBg": "Up + take: мозъкът „взема нагоре“ информацията като асансьор — щом стигне горе, лампичката светва.",
+  "ipa": "/ˈʌpteɪk/"
+ },
+ {
+  "id": 519,
+  "word": "spooks",
+  "explanationBg": "Призраци и духове — съществата от страшните истории, които уж се появяват нощем.",
+  "explanationEn": "Ghosts or spirits.",
+  "exampleEn": "We told stories about spooks around the campfire until nobody dared walk to the tents alone.",
+  "mnemonicBg": "Знаеш „spooky“ от Хелоуин — spooks са самите призрачета, които изскачат с „Буу!“.",
+  "ipa": "/spuːks/"
+ },
+ {
+  "id": 520,
+  "word": "promptly",
+  "explanationBg": "Незабавно, без никакво бавене — нещо става на момента, веднага.",
+  "explanationEn": "Immediately, without delay.",
+  "exampleEn": "She answered my message so promptly that I had not even locked my phone.",
+  "mnemonicBg": "Като промпт към чатбот — пращаш го и отговорът цъфва НА СЕКУНДАТА: promptly.",
+  "ipa": "/ˈprɒmptli/"
+ },
+ {
+  "id": 521,
+  "word": "lumber-room",
+  "explanationBg": "Стая за стари и ненужни вещи — там се трупат счупени столове, кашони и прашни куфари.",
+  "explanationEn": "A room where people store old things they no longer use.",
+  "exampleEn": "We found Mum's old vinyl records in the lumber-room behind a broken wardrobe.",
+  "mnemonicBg": "Room = стая, lumber = стари дъски и мебели: стаята-пенсия, където вехториите отиват да си доживеят.",
+  "ipa": "/ˈlʌmbə ruːm/"
+ },
+ {
+  "id": 522,
+  "word": "wearies (verb)",
+  "explanationBg": "Уморява или изтощава — изцежда ти силите или търпението, докато съвсем ти писне.",
+  "explanationEn": "Makes someone tired or bored.",
+  "exampleEn": "Studying for three tests in one week wearies even the best students.",
+  "mnemonicBg": "Произнеси го с прозявка — „уиъ-риз“ — звучи като човек, на когото вече не му останаха сили: wearies = уморява.",
+  "ipa": "/ˈwɪəriz/"
+ },
+ {
+  "id": 523,
+  "word": "daunted",
+  "explanationBg": "Обезкуражен и поуплашен от нещо, което изглежда прекалено трудно — ръцете ти увисват още преди да си започнал.",
+  "explanationEn": "Feeling discouraged or a bit scared by something difficult.",
+  "exampleEn": "I felt daunted by the size of the climbing wall, but I still reached the top.",
+  "mnemonicBg": "Чуй „down“ вътре — нещо те смъква надолу духом и ти идва да се откажеш: daunted.",
+  "ipa": "/ˈdɔːntɪd/"
+ },
+ {
+  "id": 524,
+  "word": "tidings",
+  "explanationBg": "Старовремска дума за новини и вести — онова, което вестоносецът идва да съобщи.",
+  "explanationEn": "An old word for news.",
+  "exampleEn": "Grandpa always asks for tidings from school when I visit him on Sundays.",
+  "mnemonicBg": "Като прилива („tide“) новините идват на вълни — tidings са вести, които доплуват до теб.",
+  "ipa": "/ˈtaɪdɪŋz/"
+ },
+ {
+  "id": 525,
+  "word": "hindered",
+  "explanationBg": "Спъван, забавян — нещо ти пречи да вървиш напред или да си свършиш работата гладко.",
+  "explanationEn": "Slowed down or blocked from making progress.",
+  "exampleEn": "Our hike was hindered by deep mud that grabbed our trainers at every step.",
+  "mnemonicBg": "„Хиндърд“ — все едно някой те е хванал за раницата и те дърпа назад, докато ти напираш напред.",
+  "ipa": "/ˈhɪndəd/"
+ },
+ {
+  "id": 526,
+  "word": "clutch",
+  "explanationBg": "Здраво стискане, хватка — сграбчваш нещо и не го пускаш. Така се нарича и малка дамска чанта, която се носи стисната в ръка.",
+  "explanationEn": "A very tight hold or grip on something.",
+  "exampleEn": "The goalkeeper kept the ball in such a firm clutch that nobody could knock it free.",
+  "mnemonicBg": "Геймърите казват „клъч момент“ — стискаш контролера до побеляване и удържаш сам: clutch = желязна хватка.",
+  "ipa": "/klʌtʃ/"
+ },
+ {
+  "id": 527,
+  "word": "wretches",
+  "explanationBg": "Клетници — нещастни хора, за които ти става мъчно; казано със злоба, значи и жалки негодници.",
+  "explanationEn": "Poor, unhappy people; or people you despise.",
+  "exampleEn": "The kittens looked like tiny soaked wretches after the storm, so we dried them with a towel.",
+  "mnemonicBg": "„Речиз“ — представи си подгизнали клетници край реката, които мърморят тъжни речи под носа си.",
+  "ipa": "/ˈretʃɪz/"
+ },
+ {
+  "id": 528,
+  "word": "pondering",
+  "explanationBg": "Дълго и внимателно мислене — въртиш въпроса в главата си от всички страни, преди да решиш.",
+  "explanationEn": "Thinking about something slowly and carefully.",
+  "exampleEn": "I spent the whole bus ride pondering whether to join the volleyball team or the drama club.",
+  "mnemonicBg": "Седнал ПОД ДЪРвото като мислител — ponder-ing: дълбоко размишляване на сянка.",
+  "ipa": "/ˈpɒndərɪŋ/"
+ },
+ {
+  "id": 529,
+  "word": "bolster",
+  "explanationBg": "Дълга, твърда възглавница, която се слага под обикновената за опора — като мек валяк по цялата ширина на леглото.",
+  "explanationEn": "A long, firm pillow that supports your normal pillow.",
+  "exampleEn": "The hotel bed had a giant bolster, so I used it as a wall against my snoring brother.",
+  "mnemonicBg": "БОЛярска възглавница — болярите се изтягали върху дълги, твърди възглавници-валяци: bolster.",
+  "ipa": "/ˈbəʊlstə/"
+ },
+ {
+  "id": 530,
+  "word": "penetrated",
+  "explanationBg": "Проникнал — успял да си пробие път навътре или да мине през нещо въпреки преградата.",
+  "explanationEn": "Managed to force a way into or through something.",
+  "exampleEn": "The cold penetrated my jacket before the ski lift reached the top.",
+  "mnemonicBg": "Представи си монетка, която се промушва през тесния процеп на касичката — penetrate: прониквам.",
+  "ipa": "/ˈpenɪtreɪtɪd/"
+ },
+ {
+  "id": 531,
+  "word": "stealth",
+  "explanationBg": "Тихо, скрито действие или промъкване — правиш нещо така, че никой да не те усети.",
+  "explanationEn": "Moving or acting quietly and secretly so nobody notices.",
+  "exampleEn": "He finished the whole level in stealth, without alerting a single guard.",
+  "mnemonicBg": "Знаеш stealth мисиите в игрите — промъкваш се приведен и безшумен и никой не те засича.",
+  "ipa": "/stelθ/"
+ },
+ {
+  "id": 532,
+  "word": "unsheathed",
+  "explanationBg": "Изваден от ножницата или калъфа — за меч или нож, който вече е оголен и готов за действие.",
+  "explanationEn": "Pulled out of its cover, ready for use (usually a blade).",
+  "exampleEn": "The chef unsheathed his favourite knife and sliced the tomatoes like a TV star.",
+  "mnemonicBg": "Чуй „шиш“ по средата — изваждаш лъскавия шиш от калъфа му: un-ШИЙТ-d, оголен и готов.",
+  "ipa": "/ʌnˈʃiːðd/"
+ },
+ {
+  "id": 533,
+  "word": "timbers",
+  "explanationBg": "Дървени греди и дебели дъски — едрият строителен материал за къщи, покриви и кораби.",
+  "explanationEn": "Large wooden beams or planks used for building.",
+  "exampleEn": "The old gym's roof timbers creak whenever the wind picks up.",
+  "mnemonicBg": "„ТИМБЪР!“ — викът при падащо отсечено дърво (познат и от Minecraft); от тези дървета стават гредите: timbers.",
+  "ipa": "/ˈtɪmbəz/"
+ },
+ {
+  "id": 534,
+  "word": "perish",
+  "explanationBg": "Да загинеш — да умреш внезапно, обикновено при бедствие, студ или катастрофа.",
+  "explanationEn": "To die, especially suddenly or in a disaster.",
+  "exampleEn": "Without water even the toughest cactus on my windowsill will perish.",
+  "mnemonicBg": "Ако ПЕРЕШ телефона си в пералнята, той ще perish — загива геройски на 40 градуса.",
+  "ipa": "/ˈperɪʃ/"
+ },
+ {
+  "id": 535,
+  "word": "clang",
+  "explanationBg": "Силен, кънтящ метален звук — като удар на камбана или изтървана тенджера върху плочки.",
+  "explanationEn": "A loud ringing sound made by metal hitting something.",
+  "exampleEn": "The clang of the school bell made the whole corridor jump.",
+  "mnemonicBg": "КЛАНГ! — думата сама си прави звука: изтърви металната тава и я чуй как се представя по име.",
+  "ipa": "/klæŋ/"
+ },
+ {
+  "id": 536,
+  "word": "bolsters",
+  "explanationBg": "Дълги, твърди възглавници за опора — нареждат се по ширината на леглото или зад гърба.",
+  "explanationEn": "Long, firm pillows used for support.",
+  "exampleEn": "We lined up the sofa bolsters into a wall for our movie-night fort.",
+  "mnemonicBg": "Пак болярските възглавници — цял куп дълги, твърди валяци, наредени на леглото: bolsters.",
+  "ipa": "/ˈbəʊlstəz/"
+ },
+ {
+  "id": 537,
+  "word": "mat",
+  "explanationBg": "Постелка от груб или дебел материал, която стои на пода — пред врата, в банята или за тренировка.",
+  "explanationEn": "A piece of thick material that you put on the floor.",
+  "exampleEn": "Coach told us to wipe our trainers on the mat before stepping into the hall.",
+  "mnemonicBg": "Знаеш „йога мат“ — постелката за пода; баба би ѝ казала рогозка.",
+  "ipa": "/mæt/"
+ },
+ {
+  "id": 538,
+  "word": "dismay",
+  "explanationBg": "Смут и тревога от неприятна изненада — оставаш слисан, защото нещата изведнъж тръгват на зле.",
+  "explanationEn": "A worried, unhappy feeling caused by an unpleasant surprise.",
+  "exampleEn": "To my dismay, the concert sold out while my payment was still loading.",
+  "mnemonicBg": "Чуй „май“ вътре — „МАЙко мила!“ възкликваш при лошата изненада: dis-MAY.",
+  "ipa": "/dɪsˈmeɪ/"
+ },
+ {
+  "id": 539,
+  "word": "defiantly",
+  "explanationBg": "Непокорно, напук — с цялото си поведение показваш, че няма да се подчиниш, и то пред очите на всички.",
+  "explanationEn": "In a bold way that shows you refuse to obey.",
+  "exampleEn": "She defiantly kept her headphones on after the coach told everyone to line up.",
+  "mnemonicBg": "Представи си я как ДЕФИлира с вирната брадичка точно покрай забранителната табела — defiantly, напук.",
+  "ipa": "/dɪˈfaɪəntli/"
+ },
+ {
+  "id": 540,
+  "word": "trespassing",
+  "explanationBg": "Влизане в чужд имот без разрешение — да прескочиш ограда или да минеш през двор, където нямаш работа.",
+  "explanationEn": "Going onto someone's land without permission.",
+  "exampleEn": "The farmer yelled that we were trespassing when we hopped the fence after our ball.",
+  "mnemonicBg": "ТРЯС + pass: минаваш през чуждия двор, оградата прави „тряс“ и кучето вече тича към теб.",
+  "ipa": "/ˈtrespəsɪŋ/"
+ },
+ {
+  "id": 541,
+  "word": "uneventful",
+  "explanationBg": "Спокоен, без особени случки — ден или пътуване, в които не става нищо вълнуващо (а понякога точно това е хубавото).",
+  "explanationEn": "Quiet and ordinary, with nothing exciting happening.",
+  "exampleEn": "The flight home was completely uneventful — I slept the whole way.",
+  "mnemonicBg": "Un + event: ден без нито един „ивент“ в календара — нула случки, нула драма.",
+  "ipa": "/ˌʌnɪˈventfəl/"
+ },
+ {
+  "id": 542,
+  "word": "dejected",
+  "explanationBg": "Унил и без капка настроение — главата клюмва, раменете увисват, духът е на нулата.",
+  "explanationEn": "Feeling very sad and without hope.",
+  "exampleEn": "The team walked off dejected after losing the final on penalties.",
+  "mnemonicBg": "Като „eject“ в игрите — животът те е изхвърлил от мача и седиш унил на пейката: dejected.",
+  "ipa": "/dɪˈdʒektɪd/"
+ },
+ {
+  "id": 543,
+  "word": "commotion",
+  "explanationBg": "Шумна суматоха — викове, тичане и блъсканица, при които никой не разбира какво всъщност става.",
+  "explanationEn": "A lot of noise and confused movement.",
+  "exampleEn": "A wasp in the cafeteria caused a huge commotion at lunch.",
+  "mnemonicBg": "Co + motion: всички в движение едновременно — стаята кипва като разклатена газирана вода: commotion.",
+  "ipa": "/kəˈməʊʃən/"
+ },
+ {
+  "id": 544,
+  "word": "raid",
+  "explanationBg": "Внезапно, светкавично нападение — връхлиташ изненадващо, удряш бързо и изчезваш.",
+  "explanationEn": "A quick surprise attack on a place.",
+  "exampleEn": "Our clan planned a midnight raid on the rival base in the game.",
+  "mnemonicBg": "Знаеш „рейд“ от игрите — изненадващ удар по чуждата база; точно това значи и на английски.",
+  "ipa": "/reɪd/"
+ },
+ {
+  "id": 545,
+  "word": "astir",
+  "explanationBg": "Раздвижен и буден — всичко живо е на крак, нещо се случва и никой вече не спи.",
+  "explanationEn": "Awake and moving around; full of activity.",
+  "exampleEn": "By six in the morning the campsite was astir with people packing their tents.",
+  "mnemonicBg": "A + stir (разбърквам): все едно гигантска лъжица е разбъркала къщата и всички са се завъртели на крак.",
+  "ipa": "/əˈstɜː/"
+ },
+ {
+  "id": 546,
+  "word": "sallow",
+  "explanationBg": "Болнаво жълтеникав тен на лицето — кожа без свежест, която издава умора или болест.",
+  "explanationEn": "Having slightly yellow, unhealthy-looking skin.",
+  "exampleEn": "After a week of flu his face looked sallow in every photo.",
+  "mnemonicBg": "Звучи като „САЛо“ — жълтеникаво-бледо като стара сланина: sallow тен.",
+  "ipa": "/ˈsæləʊ/"
+ },
+ {
+  "id": 547,
+  "word": "scornful",
+  "explanationBg": "Изпълнен с презрение — гледаш или говориш така, сякаш отсреща стои нещо жалко и недостойно.",
+  "explanationEn": "Showing that you think someone deserves no respect.",
+  "exampleEn": "Her scornful look when I mentioned my favourite band honestly stung.",
+  "mnemonicBg": "Презрителен като СКОРпион с вдигната опашка — гледа те отвисоко и съска: scornful.",
+  "ipa": "/ˈskɔːnfəl/"
+ },
+ {
+  "id": 548,
+  "word": "strode on",
+  "explanationBg": "Продължи напред с дълги, решителни крачки — без спиране и без обръщане назад.",
+  "explanationEn": "Kept walking forward with long, confident steps.",
+  "exampleEn": "Ignoring the rain, the coach strode on across the pitch to check the goal.",
+  "mnemonicBg": "Като войник в СТРОя — дълги, отсечени крачки все напред: strode on.",
+  "ipa": "/ˌstrəʊd ˈɒn/"
+ },
+ {
+  "id": 549,
+  "word": "stragglers",
+  "explanationBg": "Тези, които се влачат най-отзад и изостават от групата — последните, които всички чакат.",
+  "explanationEn": "People who fall behind the rest of the group.",
+  "exampleEn": "The teacher stood at the museum door, counting the stragglers from our class.",
+  "mnemonicBg": "Чуй как „стръ-гъл-ърс“ стържат с подметки по асфалта — влачат се последни и едва пъплят.",
+  "ipa": "/ˈstræɡləz/"
+ },
+ {
+  "id": 550,
+  "word": "marshes",
+  "explanationBg": "Ниски, блатисти земи, които се наводняват през дъждовните сезони — меки, мокри и обрасли с тръстика.",
+  "explanationEn": "Low, wet land that floods in rainy seasons.",
+  "exampleEn": "On the biology field trip we watched herons hunting frogs in the marshes.",
+  "mnemonicBg": "„МАРШ през блатото!“ — и обувките тръгват с жвак-жвак през мочурищата: marshes.",
+  "ipa": "/ˈmɑːʃɪz/"
+ }
+]

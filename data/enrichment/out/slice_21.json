@@ -1,0 +1,452 @@
+[
+ {
+  "id": 1001,
+  "word": "coiling",
+  "explanationBg": "Когато нещо се навива на кръгове или спирали — като змия, която се увива, или кабел, който намотаваш около ръката си.",
+  "explanationEn": "Winding or moving around in rings or spirals.",
+  "exampleEn": "She sat coiling her charger cable around her wrist while waiting for the bus.",
+  "mnemonicBg": "„Койл“ звучи като „кой ли?“ — змията се навива на спирала и съска: „Кой ли смее да ме развие?“",
+  "ipa": "/ˈkɔɪlɪŋ/"
+ },
+ {
+  "id": 1002,
+  "word": "dully",
+  "explanationBg": "По скучен и безжизнен начин — без блясък, без интерес, с празен поглед.",
+  "explanationEn": "In a boring, lifeless way, without brightness or interest.",
+  "exampleEn": "He stared dully at the maths worksheet, still sleepy from last night's gaming.",
+  "mnemonicBg": "„Дъли“ звучи като „дълъг“ — часът е толкова дълъг, че гледаш тъпо и безизразно в стената.",
+  "ipa": "/ˈdʌli/"
+ },
+ {
+  "id": 1003,
+  "word": "ponderous",
+  "explanationBg": "Тежък и тромав — движи се бавно и непохватно заради огромната си тежест; казва се и за нещо мудно и скучно.",
+  "explanationEn": "Heavy, slow, and clumsy; moving with great effort.",
+  "exampleEn": "The ponderous old school bus groaned up the hill slower than we could walk.",
+  "mnemonicBg": "„Пондерус“ — представи си слон, изял тон понички, който се клатушка тежко и тромаво.",
+  "ipa": "/ˈpɒndərəs/"
+ },
+ {
+  "id": 1004,
+  "word": "boulders",
+  "explanationBg": "Огромни камъни, заоблени от вятъра и водата — толкова големи, че не можеш да ги помръднеш.",
+  "explanationEn": "Very large, usually rounded rocks, too big to lift.",
+  "exampleEn": "We climbed over giant boulders by the river to reach the best swimming spot.",
+  "mnemonicBg": "„Боулдърс“ звучи като „боулинг“ — представи си великани, които играят боулинг с грамадни заоблени камъни.",
+  "ipa": "/ˈbəʊldəz/"
+ },
+ {
+  "id": 1005,
+  "word": "fouler",
+  "explanationBg": "Още по-гаден, по-мръсен или по-вонящ от нещо друго — когато едното е противно, а това е дори по-зле.",
+  "explanationEn": "More disgusting, dirty, or unpleasant than something else.",
+  "exampleEn": "The smell in the locker room was even fouler after the rainy match.",
+  "mnemonicBg": "Помисли за „фаул“ във футбола — грозна игра; fouler значи още по-грозно и по-гадно от това.",
+  "ipa": "/ˈfaʊlə/"
+ },
+ {
+  "id": 1006,
+  "word": "magnified",
+  "explanationBg": "Направен да изглежда по-голям, отколкото е в действителност — както лупата увеличава дребните букви.",
+  "explanationEn": "Made to look much bigger than it really is.",
+  "exampleEn": "Under the microscope the tiny ant looked magnified into a scary monster.",
+  "mnemonicBg": "В думата се крие „маг“ — магьосник, който с лупата си уголемява всичко, до което се докосне.",
+  "ipa": "/ˈmæɡnɪfaɪd/"
+ },
+ {
+  "id": 1007,
+  "word": "arched passage",
+  "explanationBg": "Коридор или проход, чийто таван е извит в дъга — отгоре го покрива арка като в стар замък.",
+  "explanationEn": "A corridor or walkway with a curved arch over it.",
+  "exampleEn": "We took photos under the arched passage between the two school buildings.",
+  "mnemonicBg": "„Арчд“ идва от „арка“ — представи си коридор от арки, наредени една след друга като врати на замък.",
+  "ipa": "/ˌɑːtʃt ˈpæsɪdʒ/"
+ },
+ {
+  "id": 1008,
+  "word": "clutching arm",
+  "explanationBg": "Ръка, която сграбчва здраво и не пуска — стиска те, сякаш иска да те задържи само за себе си.",
+  "explanationEn": "An arm that grabs and holds something very tightly.",
+  "exampleEn": "On the rollercoaster my little brother's clutching arm nearly squeezed the air out of me.",
+  "mnemonicBg": "„Клъчинг“ звучи като „клещи“ — ръка-клещи, която щраква около теб и не пуска.",
+  "ipa": "/ˈklʌtʃɪŋ ɑːm/"
+ },
+ {
+  "id": 1009,
+  "word": "descend",
+  "explanationBg": "Да се движиш надолу — да слизаш по стълби или склон, или да се спускаш плавно от високо.",
+  "explanationEn": "To go or move down from a higher place.",
+  "exampleEn": "The plane began to descend, and the whole city sparkled below us.",
+  "mnemonicBg": "„Ди-СЕНД“ — чуй „де, СЛЕЗни де!“: баба те вика да слезеш най-после от черешата.",
+  "ipa": "/dɪˈsend/"
+ },
+ {
+  "id": 1010,
+  "word": "currents",
+  "explanationBg": "Потоци вода или въздух, които се движат в определена посока — например морските и въздушните течения.",
+  "explanationEn": "Streams of water or air moving in one direction.",
+  "exampleEn": "Strong currents carried our beach ball far from the shore in minutes.",
+  "mnemonicBg": "„Кърънтс“ звучи като „куриери“ — теченията са куриерите на морето: разнасят всичко по своя маршрут.",
+  "ipa": "/ˈkʌrənts/"
+ },
+ {
+  "id": 1011,
+  "word": "issuing",
+  "explanationBg": "Който излиза или блика отнякъде — като дим, виещ се от комин, или вода, бликаща от извор.",
+  "explanationEn": "Coming out of a place, like smoke or water flowing out.",
+  "exampleEn": "We saw steam issuing from under the hood of the bus and told the driver.",
+  "mnemonicBg": "„Ишшшю-инг“ — звукът на пара, която със съскане „шшш“ излиза навън от чайника.",
+  "ipa": "/ˈɪʃuːɪŋ/"
+ },
+ {
+  "id": 1012,
+  "word": "half-guessed",
+  "explanationBg": "Нещо, за което само наполовина се досещаш — усещаш го смътно, без да го знаеш докрай.",
+  "explanationEn": "Only partly sensed or understood, not fully known.",
+  "exampleEn": "Her surprise party stayed half-guessed — I felt something was coming, but not what.",
+  "mnemonicBg": "„Гест“ звучи като „гост“ — гост, когото зърваш наполовина зад вратата и само се досещаш кой е.",
+  "ipa": "/ˌhɑːf ˈɡest/"
+ },
+ {
+  "id": 1013,
+  "word": "bewildering",
+  "explanationBg": "Толкова объркващ, че ти се завърта главата и не знаеш откъде да започнеш.",
+  "explanationEn": "Very confusing and hard to understand.",
+  "exampleEn": "The new mall is so bewildering that we got lost twice before finding the cinema.",
+  "mnemonicBg": "В думата се крие „wild“ (див) — мислите ти хукват като диви зайци във всички посоки и се объркваш.",
+  "ipa": "/bɪˈwɪldərɪŋ/"
+ },
+ {
+  "id": 1014,
+  "word": "intricate",
+  "explanationBg": "Много сложен и пълен с дребни детайли — частите му са така преплетени, че трябва внимание, за да ги проследиш.",
+  "explanationEn": "Very complicated, with many small connected details.",
+  "exampleEn": "She spent an hour braiding an intricate pattern into her friend's hair.",
+  "mnemonicBg": "„Интрикът“ звучи като „интрига“ — интригите са заплетени и сложни като паяжина.",
+  "ipa": "/ˈɪntrɪkət/"
+ },
+ {
+  "id": 1015,
+  "word": "pitfalls",
+  "explanationBg": "Скрити опасности или трудности, които не очакваш — невидими капани по пътя към целта.",
+  "explanationEn": "Hidden dangers or problems that you do not expect.",
+  "exampleEn": "The coach warned us about the pitfalls of skipping warm-up before a game.",
+  "mnemonicBg": "„Пит“ е яма, „фол“ е падане — вървиш си спокойно и хоп: пропадаш в скрита яма.",
+  "ipa": "/ˈpɪtfɔːlz/"
+ },
+ {
+  "id": 1016,
+  "word": "chasms",
+  "explanationBg": "Дълбоки цепнатини в земята или скалите — пропасти, чието дъно почти не се вижда.",
+  "explanationEn": "Very deep cracks or openings in the ground or rock.",
+  "exampleEn": "In the canyon we dropped pebbles into the chasms and never heard them land.",
+  "mnemonicBg": "Чете се „КАЗ-ъмс“ — викни в пропастта и ехото ти връща: „каз-ъм… каз-ъм…“",
+  "ipa": "/ˈkæzəmz/"
+ },
+ {
+  "id": 1017,
+  "word": "dreadful",
+  "explanationBg": "Ужасен и страшен — нещо, което всява страх, носи страдание или е просто кошмарно лошо.",
+  "explanationEn": "Very bad, terrible, or frightening.",
+  "exampleEn": "The weather was dreadful, so our football match got cancelled at half-time.",
+  "mnemonicBg": "„Дредфул“ — представи си чудовище с дредове на главата: изглежда ужасно страшно.",
+  "ipa": "/ˈdredfəl/"
+ },
+ {
+  "id": 1018,
+  "word": "churning",
+  "explanationBg": "Когато нещо се мята и бърка бурно — като кипнала вода или стомах, който се обръща от вълнение.",
+  "explanationEn": "Moving or stirring around violently, like rough water.",
+  "exampleEn": "My stomach was churning before the penalty shoot-out.",
+  "mnemonicBg": "„Чърнинг“ — чуй „чър-чър“: пералня на центрофуга, в която всичко се върти и бърка бясно.",
+  "ipa": "/ˈtʃɜːnɪŋ/"
+ },
+ {
+  "id": 1019,
+  "word": "scarce-head patter",
+  "explanationBg": "Едва доловим ситен тропот — тихи леки стъпки, които почти не се чуват, сякаш някой се промъква.",
+  "explanationEn": "A very soft tapping sound of footsteps that you can barely hear.",
+  "exampleEn": "I woke to the scarce-heard patter of my cat's paws on the kitchen floor.",
+  "mnemonicBg": "„Патър“ е като „пат-пат-пат“ — ситни стъпчици, толкова тихи, че едва ги улавяш с ухо.",
+  "ipa": "/ˌskeəs hɜːd ˈpætə/"
+ },
+ {
+  "id": 1020,
+  "word": "loose",
+  "explanationBg": "Който не е закрепен здраво — хлабав, клатещ се или пуснат на свобода.",
+  "explanationEn": "Not fixed or held tightly; free to move.",
+  "exampleEn": "A screw on my skateboard came loose right in the middle of a trick.",
+  "mnemonicBg": "„Луус“ звучи почти като „люлее се“ — разхлабеното винтче се люлее насам-натам.",
+  "ipa": "/luːs/"
+ },
+ {
+  "id": 1021,
+  "word": "chip",
+  "explanationBg": "Малко парченце, отчупено от нещо, или белегът, който остава на мястото на отчупването.",
+  "explanationEn": "A small piece broken off something, or the mark it leaves.",
+  "exampleEn": "There's a chip in my phone screen from when it slipped off the desk.",
+  "mnemonicBg": "Помисли за чипс — всяко чипсче е тънко отчупено парченце картоф: chip = парченце.",
+  "ipa": "/tʃɪp/"
+ },
+ {
+  "id": 1022,
+  "word": "immense",
+  "explanationBg": "Невероятно голям — толкова огромен, че едва го обхващаш с поглед или ум.",
+  "explanationEn": "Extremely big or great in size or amount.",
+  "exampleEn": "The stadium felt immense when we walked in for our first big concert.",
+  "mnemonicBg": "„Именс“ звучи като „имение“ — богаташко имение с безкрайни стаи и коридори: огромно!",
+  "ipa": "/ɪˈmens/"
+ },
+ {
+  "id": 1023,
+  "word": "vastness",
+  "explanationBg": "Качеството нещо да е безкрайно голямо и широко — необятност като океан или нощно небе.",
+  "explanationEn": "The quality of being extremely large and wide.",
+  "exampleEn": "Lying on the beach at night, we stared up into the vastness of the sky.",
+  "mnemonicBg": "Кажи го разтегнато — „вааааст-нес“ — самото „а“ се разтяга като безкрайна шир.",
+  "ipa": "/ˈvɑːstnəs/"
+ },
+ {
+  "id": 1024,
+  "word": "branching",
+  "explanationBg": "Разделяне на клони или разклонения — както дърво пуска клони, така и път или тунел се дели на няколко посоки.",
+  "explanationEn": "Splitting into branches or smaller paths.",
+  "exampleEn": "The hiking trail kept branching, so we drew arrows in the dirt to find our way back.",
+  "mnemonicBg": "Звучи като „бранч“ (закуска) — представи си дърво, което сервира палачинки на всеки свой клон: клон след клон, посока след посока.",
+  "ipa": "/ˈbrɑːntʃɪŋ/"
+ },
+ {
+  "id": 1025,
+  "word": "dolven",
+  "explanationBg": "Старинна дума за „изкопан“ или „издълбан“ — изсечен дълбоко в скала или земя.",
+  "explanationEn": "An old word meaning dug or carved out of rock or earth.",
+  "exampleEn": "The old wine cellar was dolven deep into the hill behind my grandpa's house.",
+  "mnemonicBg": "Започва с „дол“ — каквото е dolven, е изкопано надолу, в дола, дълбоко в земята.",
+  "ipa": "/ˈdɒlvən/"
+ },
+ {
+  "id": 1026,
+  "word": "chant (verb)",
+  "explanationBg": "Да повтаряш дума или фраза ритмично, често на висок глас — както феновете скандират името на отбора си.",
+  "explanationEn": "To repeat words rhythmically, often loudly with a group.",
+  "exampleEn": "The whole stadium began to chant the striker's name after the winning goal.",
+  "mnemonicBg": "Звучи като „чанта“ — представи си фенове, които барабанят по чантите си в ритъм: чант-чант-чант!",
+  "ipa": "/tʃɑːnt/"
+ },
+ {
+  "id": 1027,
+  "word": "wells",
+  "explanationBg": "Дълбоки дупки, изкопани в земята, за да се вади вода — кладенци; преносно и извори на нещо.",
+  "explanationEn": "Deep holes dug in the ground to get water.",
+  "exampleEn": "The village still has two old wells where people draw icy water all summer.",
+  "mnemonicBg": "„Уелс“ — като страната Уелс: представи си, че там всяка къща си има кладенец в двора.",
+  "ipa": "/welz/"
+ },
+ {
+  "id": 1028,
+  "word": "undimmed",
+  "explanationBg": "Който не е изгубил блясъка или силата си — все така ярък, сякаш времето не го е докоснало.",
+  "explanationEn": "Still bright or strong; not made weaker or darker.",
+  "exampleEn": "Even after losing the final, her love for volleyball stayed undimmed.",
+  "mnemonicBg": "„Дим“ затъмнява, но „un-“ го отменя — пламък, който и димът не може да помрачи.",
+  "ipa": "/ʌnˈdɪmd/"
+ },
+ {
+  "id": 1029,
+  "word": "smote",
+  "explanationBg": "Старинна форма за „удари“ — стовари тежък удар върху някого или нещо, порази го с все сила.",
+  "explanationEn": "Hit something or someone very hard (an old past form of 'smite').",
+  "exampleEn": "With one swing she smote the piñata clean off its rope.",
+  "mnemonicBg": "„Смоут“ звучи като „с мотика“ — замахваш с мотиката и БАМ: поразяваш с един тежък удар.",
+  "ipa": "/sməʊt/"
+ },
+ {
+  "id": 1030,
+  "word": "beryl",
+  "explanationBg": "Прозрачен скъпоценен камък в бледозелено, синьо или жълто — от неговото семейство са изумрудът и аквамаринът.",
+  "explanationEn": "A clear gemstone that can be pale green, blue, or yellow.",
+  "exampleEn": "Her new earrings had tiny beryl stones that flashed pale green in the sun.",
+  "mnemonicBg": "Звучи като „бери!“ — представи си, че береш блестящи зелени камъчета от потока като горски плодове.",
+  "ipa": "/ˈberəl/"
+ },
+ {
+  "id": 1031,
+  "word": "opal pale",
+  "explanationBg": "Блед като опал — с мека, седефена белота, която нежно прелива в светли оттенъци.",
+  "explanationEn": "Pale and softly glowing, like the gemstone opal.",
+  "exampleEn": "Just before sunrise the sky turned opal pale over the sea.",
+  "mnemonicBg": "Казваш „Опа!“, щом видиш колко бледа и седефена е изгряващата луна — opal pale.",
+  "ipa": "/ˌəʊpəl ˈpeɪl/"
+ },
+ {
+  "id": 1032,
+  "word": "buckler",
+  "explanationBg": "Малък кръгъл щит с дръжка, носен в една ръка — с него се отбиват удари в близък бой.",
+  "explanationEn": "A small round shield held in one hand to block blows.",
+  "exampleEn": "At the medieval fair my brother bought a wooden buckler and challenged me to a duel.",
+  "mnemonicBg": "Звучи като „бъклица“ — кръгла дървена бъклица, която рицарят вдига пред гърдите си като малък щит.",
+  "ipa": "/ˈbʌklə/"
+ },
+ {
+  "id": 1033,
+  "word": "corslet",
+  "explanationBg": "Броня, която покрива тялото от раменете до кръста — плътно прилепнала защита за гърди и гръб.",
+  "explanationEn": "A piece of armour that fits closely and protects the upper body.",
+  "exampleEn": "For the school play I wore a cardboard corslet sprayed silver.",
+  "mnemonicBg": "В думата се чува „корсет“ — стегната около гърдите броня, само че от метал, а не от плат.",
+  "ipa": "/ˈkɔːslət/"
+ },
+ {
+  "id": 1034,
+  "word": "unwearied",
+  "explanationBg": "Който изобщо не се уморява — пълен с енергия и свеж дори след дълго усилие.",
+  "explanationEn": "Not tired at all; full of energy.",
+  "exampleEn": "After three hours of dancing she was still unwearied and begged for one more song.",
+  "mnemonicBg": "Представи си телефон, чиято батерия вечно стои на 100% — unwearied: умора нула.",
+  "ipa": "/ʌnˈwɪərid/"
+ },
+ {
+  "id": 1035,
+  "word": "plundered",
+  "explanationBg": "Разграбен — някой е отмъкнал насила всичко ценно, както пирати опразват пленен кораб.",
+  "explanationEn": "Robbed of everything valuable, usually by force.",
+  "exampleEn": "By the time I reached the kitchen, my brothers had plundered the entire snack drawer.",
+  "mnemonicBg": "„Плъндърд“ звучи като „плънка“ — разбойници изтърбушват сандъка и измъкват цялата му „плънка“.",
+  "ipa": "/ˈplʌndəd/"
+ },
+ {
+  "id": 1036,
+  "word": "traffic",
+  "explanationBg": "Движението на коли и хора по пътищата; на английски значи и търговия — пренасяне и размяна на стоки.",
+  "explanationEn": "The movement of vehicles or people; also trade in goods.",
+  "exampleEn": "We sat in traffic for an hour and missed the opening song of the concert.",
+  "mnemonicBg": "Нашият „трафик“ от колите — но запомни: стоките също „пътуват“, затова думата значи и търговия.",
+  "ipa": "/ˈtræfɪk/"
+ },
+ {
+  "id": 1037,
+  "word": "tarnish (verb)",
+  "explanationBg": "Да потъмнееш и да изгубиш блясъка си — както сребро, стояло дълго на въздух, става сиво и мътно.",
+  "explanationEn": "To lose shine and become dull, like old silver.",
+  "exampleEn": "Grandma's silver spoons tarnish quickly, so she polishes them before every holiday.",
+  "mnemonicBg": "Чуй го: „та-НИШ“ — почти като „потъмНИШ“: среброто tarnish-ва, тоест потъмнява.",
+  "ipa": "/ˈtɑːnɪʃ/"
+ },
+ {
+  "id": 1038,
+  "word": "starmoon",
+  "explanationBg": "Приказно вещество, което засиява само под лунна и звездна светлина — на дневна светлина е невидимо.",
+  "explanationEn": "An imaginary substance that shines only under moonlight or starlight.",
+  "exampleEn": "In my favourite RPG you mine starmoon ore to craft a blade that glows at night.",
+  "mnemonicBg": "„Стар“ + „муун“ = звезда + луна — металът светва само когато звездите и луната му намигнат.",
+  "ipa": "/ˈstɑːmuːn/"
+ },
+ {
+  "id": 1039,
+  "word": "mail-shirt",
+  "explanationBg": "Риза, изплетена от ситни метални халкички — ризница, която пази тялото от остриета.",
+  "explanationEn": "A protective shirt made of small linked metal rings.",
+  "exampleEn": "The museum let us try on a real mail-shirt, and it was heavier than my school bag.",
+  "mnemonicBg": "Рицарят отваря своя „mail“ — но това не е поща, а риза от метални халкички!",
+  "ipa": "/ˈmeɪl ʃɜːt/"
+ },
+ {
+  "id": 1040,
+  "word": "staggered",
+  "explanationBg": "Залиташе и едва се държеше на краката си, сякаш всеки миг ще падне; може да значи и „потресен от изненада“.",
+  "explanationEn": "Walked unsteadily as if about to fall; or deeply shocked.",
+  "exampleEn": "He staggered off the spinning ride, laughing and grabbing the railing.",
+  "mnemonicBg": "Чуй „ста-гъ-ста-гъ“ — точно така звучат стъпките на човек, който залита след въртележката.",
+  "ipa": "/ˈstæɡəd/"
+ },
+ {
+  "id": 1041,
+  "word": "pottering",
+  "explanationBg": "Приятно мотаене с дребни задачки, без бързане и без план — ту това пипнеш, ту онова.",
+  "explanationEn": "Spending time doing small, easy jobs in a relaxed way.",
+  "exampleEn": "Dad spends Sunday mornings pottering around the garage, fixing little things on his bike.",
+  "mnemonicBg": "Представи си Хари ПОТЪР в почивен ден — без магии, просто се мотае из стаята и подрежда дреболии.",
+  "ipa": "/ˈpɒtərɪŋ/"
+ },
+ {
+  "id": 1042,
+  "word": "shafts",
+  "explanationBg": "Дълги тесни отвори, спускащи се надолу като минни шахти; също и тънки снопове светлина, които пробиват мрака.",
+  "explanationEn": "Long narrow openings going down, or thin beams of light.",
+  "exampleEn": "Shafts of sunlight cut through the dusty gym windows during morning practice.",
+  "mnemonicBg": "„Шафтс“ е почти нашата „шахта“ — а лъчите са светлинни „шахти“, пробити през тъмното.",
+  "ipa": "/ʃɑːfts/"
+ },
+ {
+  "id": 1043,
+  "word": "hinges",
+  "explanationBg": "Металните „стави“, на които се въртят вратите и капаците — без тях вратата просто би паднала.",
+  "explanationEn": "The metal joints that let a door or lid swing open and shut.",
+  "exampleEn": "My locker's hinges squeak so loudly that the whole hallway turns around.",
+  "mnemonicBg": "Вратата се киска „хиндж-хиндж“ при всяко отваряне — смеят се пантите ѝ: hinges.",
+  "ipa": "/ˈhɪndʒɪz/"
+ },
+ {
+  "id": 1044,
+  "word": "dazzlingly",
+  "explanationBg": "Толкова ярко, красиво или майсторски, че чак ти взема дъха — ослепително.",
+  "explanationEn": "In an extremely bright, beautiful, or impressive way.",
+  "exampleEn": "The figure skater performed so dazzlingly that even the rival fans applauded.",
+  "mnemonicBg": "Прожекторът пита: „ДА ЗАслепя ЛИ?“ — и светва ослепително: dazzlingly.",
+  "ipa": "/ˈdæzlɪŋli/"
+ },
+ {
+  "id": 1045,
+  "word": "oblong",
+  "explanationBg": "С издължена форма — по-дълъг, отколкото широк, като разтеглен правоъгълник.",
+  "explanationEn": "Longer than it is wide, like a stretched rectangle.",
+  "exampleEn": "The new phone arrived in a slim oblong box.",
+  "mnemonicBg": "В думата се крие „лонг“ = дълъг — поглеждаш кутията и възкликваш: „О, че дълга!“",
+  "ipa": "/ˈɒblɒŋ/"
+ },
+ {
+  "id": 1046,
+  "word": "cast (verb)",
+  "explanationBg": "Да хвърлиш нещо със замах; използва се и за поглед — „хвърлям поглед“ към някого или нещо.",
+  "explanationEn": "To throw something with force, or to send a quick look somewhere.",
+  "exampleEn": "She cast a quick glance at the clock, hoping the lesson was almost over.",
+  "mnemonicBg": "Звучи като „кастинг“ — там актьорите „хвърлят“ реплики и погледи към журито.",
+  "ipa": "/kɑːst/"
+ },
+ {
+  "id": 1047,
+  "word": "orc-scimitars",
+  "explanationBg": "Извити саби с едно острие, каквито носят орките във фентъзи историите — ятагани за чудовища.",
+  "explanationEn": "Curved one-edged swords used by orcs in fantasy stories.",
+  "exampleEn": "In the new RPG the boss drops rare orc-scimitars that cut through any shield.",
+  "mnemonicBg": "Запомни „сцимитар“ като „сцепи-метър“ — кривата сабя цепи по метър въздух с един замах.",
+  "ipa": "/ˌɔːk ˈsɪmɪtəz/"
+ },
+ {
+  "id": 1048,
+  "word": "recesses",
+  "explanationBg": "Вдлъбнатини в стена — ниши, които се отдръпват навътре от основната повърхност.",
+  "explanationEn": "Small spaces set back into a wall, like niches.",
+  "exampleEn": "The library has cosy reading corners built into the recesses of the walls.",
+  "mnemonicBg": "Стената си взема „почивка“ (recess) и се дръпва крачка назад — така се ражда нишата.",
+  "ipa": "/rɪˈsesɪz/"
+ },
+ {
+  "id": 1049,
+  "word": "dale",
+  "explanationBg": "Широка долина между хълмове — мека зелена низина, през която често лъкатуши река.",
+  "explanationEn": "A wide valley between hills.",
+  "exampleEn": "Our bike route wound down into a green dale full of sheep.",
+  "mnemonicBg": "„Дейл“ звучи като нашето „дол“ — слез доле в дола: dale е долина.",
+  "ipa": "/deɪl/"
+ },
+ {
+  "id": 1050,
+  "word": "sorrow",
+  "explanationBg": "Дълбока тъга и мъка — тежкото чувство след загуба или голямо разочарование.",
+  "explanationEn": "A deep feeling of sadness after a loss or disappointment.",
+  "exampleEn": "She felt real sorrow when her childhood dog passed away.",
+  "mnemonicBg": "Произнеси го бавно — „со-о-роу“ — звучи като дълга тъжна въздишка, която сама разказва за мъката.",
+  "ipa": "/ˈsɒrəʊ/"
+ }
+]

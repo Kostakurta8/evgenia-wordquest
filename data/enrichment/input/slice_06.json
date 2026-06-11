@@ -1,0 +1,667 @@
+[
+ {
+  "id": 251,
+  "page": 78,
+  "word": "sloe",
+  "definition": "A small bluish-black fruit of the blackthorn bush, with a sharp sour taste.",
+  "synonyms": "blackthorn berry",
+  "antonyms": null,
+  "translation": "трънка, плод на трънка"
+ },
+ {
+  "id": 252,
+  "page": 78,
+  "word": "dell",
+  "definition": "A small, secluded hollow or valley, usually wooded.",
+  "synonyms": [
+   "hollow",
+   "glen",
+   "vale"
+  ],
+  "antonyms": [
+   "hill",
+   "ridge"
+  ],
+  "translation": "долчинка, малка долина"
+ },
+ {
+  "id": 253,
+  "page": 78,
+  "word": "thread",
+  "definition": "A long, thin strand of cotton, nylon, or other fibres.",
+  "synonyms": [
+   "string",
+   "yarn",
+   "filament"
+  ],
+  "antonyms": null,
+  "translation": "нишка, конец"
+ },
+ {
+  "id": 254,
+  "page": 78,
+  "word": "mingle (verb)",
+  "definition": "To mix or cause to mix together.",
+  "synonyms": [
+   "mix",
+   "blend",
+   "combine"
+  ],
+  "antonyms": [
+   "separate",
+   "divide"
+  ],
+  "translation": "смесвам се"
+ },
+ {
+  "id": 255,
+  "page": 80,
+  "word": "a shimmer",
+  "definition": "A light that shines with a soft tremulous gleam.",
+  "synonyms": [
+   "glimmer",
+   "gleam",
+   "glow"
+  ],
+  "antonyms": "darkness",
+  "translation": "трепкащ блясък"
+ },
+ {
+  "id": 256,
+  "page": 80,
+  "word": "rim",
+  "definition": "The upper or outer edge of an object, typically circular or curved.",
+  "synonyms": [
+   "edge",
+   "brim",
+   "border"
+  ],
+  "antonyms": [
+   "centre",
+   "middle"
+  ],
+  "translation": "ръб, край"
+ },
+ {
+  "id": 257,
+  "page": 81,
+  "word": "lodge",
+  "definition": "A small house at the gates of a park or in the grounds of a large house.",
+  "synonyms": [
+   "cottage",
+   "cabin",
+   "hut"
+  ],
+  "antonyms": null,
+  "translation": "малка къщичка, ложа"
+ },
+ {
+  "id": 258,
+  "page": 81,
+  "word": "hillock",
+  "definition": "A small hill or mound.",
+  "synonyms": [
+   "mound",
+   "knoll",
+   "hummock"
+  ],
+  "antonyms": [
+   "valley",
+   "hollow"
+  ],
+  "translation": "хълмче, могилка"
+ },
+ {
+  "id": 259,
+  "page": 82,
+  "word": "greensward",
+  "definition": "A grass-covered piece of ground; turf.",
+  "synonyms": [
+   "lawn",
+   "turf",
+   "grass"
+  ],
+  "antonyms": null,
+  "translation": "зелена морава"
+ },
+ {
+  "id": 260,
+  "page": 82,
+  "word": "bower",
+  "definition": "A pleasant shady place under trees or climbing plants; a leafy shelter.",
+  "synonyms": [
+   "arbour",
+   "retreat",
+   "shelter"
+  ],
+  "antonyms": null,
+  "translation": "беседка, сенчесто кътче"
+ },
+ {
+  "id": 261,
+  "page": 84,
+  "word": "counsel",
+  "definition": "Advice, especially that given formally; consultation.",
+  "synonyms": [
+   "advice",
+   "guidance",
+   "recommendation"
+  ],
+  "antonyms": null,
+  "translation": "съвет, наставление"
+ },
+ {
+  "id": 262,
+  "page": 84,
+  "word": "bode (verb)",
+  "definition": "To be a portent of a particular outcome; to foretell.",
+  "synonyms": [
+   "foretell",
+   "presage",
+   "augur"
+  ],
+  "antonyms": null,
+  "translation": "предвещавам, предсказвам"
+ },
+ {
+  "id": 263,
+  "page": 84,
+  "word": "subtle",
+  "definition": "So delicate or precise as to be difficult to analyse or describe.",
+  "synonyms": [
+   "delicate",
+   "nuanced",
+   "faint"
+  ],
+  "antonyms": [
+   "obvious",
+   "blatant"
+  ],
+  "translation": "фин, едва доловим"
+ },
+ {
+  "id": 264,
+  "page": 86,
+  "word": "fern",
+  "definition": "A flowerless plant with feathery fronds that reproduces by spores.",
+  "synonyms": [
+   "bracken",
+   "frond plant"
+  ],
+  "antonyms": null,
+  "translation": "папрат"
+ },
+ {
+  "id": 265,
+  "page": 86,
+  "word": "fragrant",
+  "definition": "Having a pleasant or sweet smell.",
+  "synonyms": [
+   "aromatic",
+   "sweet-smelling",
+   "perfumed"
+  ],
+  "antonyms": [
+   "foul",
+   "stinking"
+  ],
+  "translation": "ароматен, благоуханен"
+ },
+ {
+  "id": 266,
+  "page": 87,
+  "word": "ponder (verb)",
+  "definition": "To think about something carefully, especially before reaching a conclusion.",
+  "synonyms": [
+   "consider",
+   "contemplate",
+   "reflect"
+  ],
+  "antonyms": [
+   "ignore",
+   "dismiss"
+  ],
+  "translation": "размишлявам, обмислям"
+ },
+ {
+  "id": 267,
+  "page": 87,
+  "word": "reckon with",
+  "definition": "To take into account; to deal with or settle accounts with.",
+  "synonyms": [
+   "consider",
+   "deal with"
+  ],
+  "antonyms": "ignore",
+  "translation": "смятам се с, отчитам"
+ },
+ {
+  "id": 268,
+  "page": 87,
+  "word": "outward",
+  "definition": "Of, on, or from the outside; external.",
+  "synonyms": [
+   "external",
+   "exterior",
+   "outer"
+  ],
+  "antonyms": [
+   "inward",
+   "internal"
+  ],
+  "translation": "външен, навън"
+ },
+ {
+  "id": 269,
+  "page": 88,
+  "word": "causeway",
+  "definition": "A raised road or track across low or wet ground.",
+  "synonyms": [
+   "embankment",
+   "raised road"
+  ],
+  "antonyms": null,
+  "translation": "насипен път, дига"
+ },
+ {
+  "id": 270,
+  "page": 89,
+  "word": "toil",
+  "definition": "Exhausting physical labour; hard work.",
+  "synonyms": [
+   "labour",
+   "drudgery",
+   "slog"
+  ],
+  "antonyms": [
+   "rest",
+   "leisure"
+  ],
+  "translation": "тежък труд, тегло"
+ },
+ {
+  "id": 271,
+  "page": 89,
+  "word": "bog",
+  "definition": "An area of wet muddy ground that is too soft to support a heavy body.",
+  "synonyms": [
+   "marsh",
+   "swamp",
+   "mire"
+  ],
+  "antonyms": "dry land",
+  "translation": "блато, тресавище"
+ },
+ {
+  "id": 272,
+  "page": 89,
+  "word": "briar",
+  "definition": "A prickly shrub, especially a wild rose; a thorny stem.",
+  "synonyms": [
+   "thornbush",
+   "bramble"
+  ],
+  "antonyms": null,
+  "translation": "трън, бодлив храст"
+ },
+ {
+  "id": 273,
+  "page": 89,
+  "word": "ditches",
+  "definition": "Narrow channels dug to hold or carry water.",
+  "synonyms": [
+   "trenches",
+   "channels",
+   "gutters"
+  ],
+  "antonyms": null,
+  "translation": "канавки, ровове"
+ },
+ {
+  "id": 274,
+  "page": 89,
+  "word": "undergrowth",
+  "definition": "A dense growth of shrubs and other plants under the trees in a wood.",
+  "synonyms": [
+   "underbrush",
+   "scrub",
+   "thicket"
+  ],
+  "antonyms": null,
+  "translation": "храсталак, гъсталак"
+ },
+ {
+  "id": 275,
+  "page": 89,
+  "word": "brambles",
+  "definition": "Prickly scrambling shrubs, especially wild blackberry.",
+  "synonyms": [
+   "thorns",
+   "briars",
+   "blackberry bushes"
+  ],
+  "antonyms": null,
+  "translation": "къпини, тръни"
+ },
+ {
+  "id": 276,
+  "page": 90,
+  "word": "oaks",
+  "definition": "Large trees that produce small nuts called acorns; the timber of these trees.",
+  "synonyms": "oak-trees",
+  "antonyms": null,
+  "translation": "дъбове"
+ },
+ {
+  "id": 277,
+  "page": 90,
+  "word": "ash",
+  "definition": "A tall slender tree with silver-grey bark and compound leaves; its wood.",
+  "synonyms": "ash-tree",
+  "antonyms": null,
+  "translation": "ясен (дърво)"
+ },
+ {
+  "id": 278,
+  "page": 90,
+  "word": "belt of trees",
+  "definition": "A long, narrow strip or band of trees.",
+  "synonyms": [
+   "tree-line",
+   "row of trees"
+  ],
+  "antonyms": null,
+  "translation": "пояс от дървета"
+ },
+ {
+  "id": 279,
+  "page": 90,
+  "word": "trudge along (verb)",
+  "definition": "To walk slowly and with heavy steps, typically because of exhaustion.",
+  "synonyms": [
+   "plod",
+   "slog",
+   "tramp"
+  ],
+  "antonyms": [
+   "skip",
+   "bounce"
+  ],
+  "translation": "влача се, тътря се"
+ },
+ {
+  "id": 280,
+  "page": 90,
+  "word": "drifts",
+  "definition": "Masses of snow, leaves, etc. driven together by the wind.",
+  "synonyms": [
+   "piles",
+   "heaps",
+   "mounds"
+  ],
+  "antonyms": null,
+  "translation": "преспи, навеи"
+ },
+ {
+  "id": 281,
+  "page": 90,
+  "word": "trickle (verb)",
+  "definition": "To flow in a small stream; to come or go slowly or in small numbers.",
+  "synonyms": [
+   "dribble",
+   "drip",
+   "seep"
+  ],
+  "antonyms": [
+   "gush",
+   "pour"
+  ],
+  "translation": "тека на капки, ромоня"
+ },
+ {
+  "id": 282,
+  "page": 91,
+  "word": "dikes for drainage",
+  "definition": "Long ditches or embankments dug to remove water from low-lying land.",
+  "synonyms": [
+   "drainage ditches",
+   "channels"
+  ],
+  "antonyms": null,
+  "translation": "канавки за отводняване"
+ },
+ {
+  "id": 283,
+  "page": 91,
+  "word": "rutted",
+  "definition": "(Of a road) marked with deep furrows made by the wheels of vehicles.",
+  "synonyms": [
+   "grooved",
+   "furrowed",
+   "channelled"
+  ],
+  "antonyms": [
+   "smooth",
+   "even"
+  ],
+  "translation": "набразден от коловози"
+ },
+ {
+  "id": 284,
+  "page": 91,
+  "word": "clump",
+  "definition": "A small group of trees, shrubs, or plants growing together.",
+  "synonyms": [
+   "cluster",
+   "bunch",
+   "tuft"
+  ],
+  "antonyms": null,
+  "translation": "група, китка (растения)"
+ },
+ {
+  "id": 285,
+  "page": 92,
+  "word": "trespassers",
+  "definition": "People who enter someone’s land or property without permission.",
+  "synonyms": [
+   "intruders",
+   "encroachers"
+  ],
+  "antonyms": null,
+  "translation": "нарушители на чужда собственост"
+ },
+ {
+  "id": 286,
+  "page": 92,
+  "word": "shamefaced",
+  "definition": "Showing shame or embarrassment.",
+  "synonyms": [
+   "ashamed",
+   "embarrassed",
+   "sheepish"
+  ],
+  "antonyms": [
+   "proud",
+   "confident"
+  ],
+  "translation": "засрамен, смутен"
+ },
+ {
+  "id": 287,
+  "page": 92,
+  "word": "varmint",
+  "definition": "A troublesome wild animal; (informal) a troublesome person.",
+  "synonyms": [
+   "pest",
+   "rascal",
+   "scoundrel"
+  ],
+  "antonyms": null,
+  "translation": "вредител, негодник"
+ },
+ {
+  "id": 288,
+  "page": 92,
+  "word": "thatched",
+  "definition": "Covered with a roof of straw, reeds, or similar material.",
+  "synonyms": "straw-roofed",
+  "antonyms": [
+   "tiled",
+   "slated"
+  ],
+  "translation": "покрит със слама, сламен покрив"
+ },
+ {
+  "id": 289,
+  "page": 92,
+  "word": "bristling",
+  "definition": "Standing up stiffly like bristles; full of (something), often anger.",
+  "synonyms": [
+   "stiff",
+   "prickly; teeming"
+  ],
+  "antonyms": "smooth; empty",
+  "translation": "настръхнал, наежен"
+ },
+ {
+  "id": 290,
+  "page": 92,
+  "word": "pelt out (verb)",
+  "definition": "To run very fast; to rush out quickly.",
+  "synonyms": [
+   "dash",
+   "race",
+   "sprint"
+  ],
+  "antonyms": [
+   "amble",
+   "dawdle"
+  ],
+  "translation": "хуквам, тичам стремглаво"
+ },
+ {
+  "id": 291,
+  "page": 93,
+  "word": "ale",
+  "definition": "A type of beer with a bitter flavour and a higher alcoholic content than lager.",
+  "synonyms": [
+   "beer",
+   "brew"
+  ],
+  "antonyms": null,
+  "translation": "ел, тъмна бира"
+ },
+ {
+  "id": 292,
+  "page": 93,
+  "word": "jug",
+  "definition": "A cylindrical container with a handle and a lip, used for holding liquids.",
+  "synonyms": [
+   "pitcher",
+   "jar",
+   "ewer"
+  ],
+  "antonyms": null,
+  "translation": "кана, стомна"
+ },
+ {
+  "id": 293,
+  "page": 94,
+  "word": "relish",
+  "definition": "Great enjoyment or pleasure; also a savoury condiment.",
+  "synonyms": [
+   "enjoyment",
+   "gusto",
+   "zest"
+  ],
+  "antonyms": [
+   "distaste",
+   "dislike"
+  ],
+  "translation": "наслада, удоволствие; гарнитура"
+ },
+ {
+  "id": 294,
+  "page": 94,
+  "word": "yonder",
+  "definition": "At some distance in the direction indicated; over there.",
+  "synonyms": [
+   "over there",
+   "beyond"
+  ],
+  "antonyms": [
+   "here",
+   "nearby"
+  ],
+  "translation": "там, оттатък"
+ },
+ {
+  "id": 295,
+  "page": 96,
+  "word": "fare",
+  "definition": "The money a passenger pays for a journey; also food and drink provided.",
+  "synonyms": [
+   "food",
+   "provisions; cost"
+  ],
+  "antonyms": null,
+  "translation": "храна; такса за пътуване"
+ },
+ {
+  "id": 296,
+  "page": 96,
+  "word": "high-banked causeway",
+  "definition": "A raised road with high banks of earth or stone on either side.",
+  "synonyms": "embanked road",
+  "antonyms": null,
+  "translation": "насипен път с високи диги"
+ },
+ {
+  "id": 297,
+  "page": 97,
+  "word": "duck-pond",
+  "definition": "A small pond where ducks live or are kept.",
+  "synonyms": "duck-pool",
+  "antonyms": null,
+  "translation": "патешко езерце"
+ },
+ {
+  "id": 298,
+  "page": 98,
+  "word": "wooden landing-stage",
+  "definition": "A wooden platform for landing passengers and goods from a boat.",
+  "synonyms": [
+   "jetty",
+   "pier",
+   "wharf"
+  ],
+  "antonyms": null,
+  "translation": "дървен кей, дървена пристан"
+ },
+ {
+  "id": 299,
+  "page": 98,
+  "word": "moored",
+  "definition": "(Of a boat) made fast by securing with cables or ropes.",
+  "synonyms": [
+   "tied",
+   "anchored",
+   "secured"
+  ],
+  "antonyms": [
+   "cast off",
+   "adrift"
+  ],
+  "translation": "привързан, акостирал"
+ },
+ {
+  "id": 300,
+  "page": 98,
+  "word": "bollards",
+  "definition": "Short posts on a quay or ship to which a ship’s rope can be secured.",
+  "synonyms": "mooring posts",
+  "antonyms": null,
+  "translation": "кнехтове (за привързване на лодки)"
+ }
+]

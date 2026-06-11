@@ -1,0 +1,452 @@
+[
+ {
+  "id": 601,
+  "word": "plainly",
+  "explanationBg": "Когато нещо се вижда, чува или казва ясно и направо, без увъртания — толкова очевидно е, че няма как да го пропуснеш.",
+  "explanationEn": "In a clear and obvious way that is easy to see or understand.",
+  "exampleEn": "You could plainly see she wasn't happy with the test results.",
+  "mnemonicBg": "„Plain“ е равнина — на широко равно поле всичко се вижда ясно като на длан: plainly.",
+  "ipa": "/ˈpleɪnli/"
+ },
+ {
+  "id": 602,
+  "word": "hem",
+  "explanationBg": "Краят на дреха или плат, който е подгънат навътре и зашит, за да не се разнищва — подгъвът на пола, панталон или ръкав.",
+  "explanationEn": "The folded and sewn edge of a piece of clothing or cloth.",
+  "exampleEn": "Mum shortened my jeans by sewing a new hem the night before the school party.",
+  "mnemonicBg": "Шивачката оглежда ръба на роклята, мърмори „хм… хм…“ и го подгъва — hem!",
+  "ipa": "/hem/"
+ },
+ {
+  "id": 603,
+  "word": "pouch",
+  "explanationBg": "Малка мека торбичка или кесийка, в която носиш дребни неща — монети, слушалки, лакомства.",
+  "explanationEn": "A small soft bag for carrying little things.",
+  "exampleEn": "She keeps her earbuds and charger in a little pouch in her backpack.",
+  "mnemonicBg": "Сети се за „пауч“ с котешка храна — точно това е pouch: малка мека торбичка.",
+  "ipa": "/paʊtʃ/"
+ },
+ {
+  "id": 604,
+  "word": "wearily",
+  "explanationBg": "Когато правиш нещо уморено и без сили — по движенията ти личи, че си напълно капнал.",
+  "explanationEn": "In a tired way, with very little energy left.",
+  "exampleEn": "After double PE, he climbed the stairs wearily and dropped onto his bed.",
+  "mnemonicBg": "„УИЪ-ри-ли“ звучи почти като „умори ли се?“ — да, и затова всичко става едва-едва, уморено.",
+  "ipa": "/ˈwɪərɪli/"
+ },
+ {
+  "id": 605,
+  "word": "pungent",
+  "explanationBg": "За миризма или вкус, които са толкова силни и остри, че направо те удрят в носа — като лук, оцет или синьо сирене.",
+  "explanationEn": "Having a very strong, sharp smell or taste.",
+  "exampleEn": "The pungent smell of garlic filled the whole flat while dad cooked dinner.",
+  "mnemonicBg": "„ПЪН-джънт“ — миризма, която те фрасва в носа като пън: бам!",
+  "ipa": "/ˈpʌndʒənt/"
+ },
+ {
+  "id": 606,
+  "word": "sparsely",
+  "explanationBg": "Когато нещата са малко на брой и пръснати далеч едно от друго — тук-там по едно, с много празно пространство помежду им.",
+  "explanationEn": "With only a few things spread far apart from each other.",
+  "exampleEn": "The stadium was sparsely filled an hour before the match, with empty seats everywhere.",
+  "mnemonicBg": "Кажи го провлачено — „спааарс-ли“ — като последните три спаружени стафиди, пръснати в огромна кутия.",
+  "ipa": "/ˈspɑːsli/"
+ },
+ {
+  "id": 607,
+  "word": "bend",
+  "explanationBg": "Място, където път, река или пътека извива и сменя посоката си — с една дума, завой.",
+  "explanationEn": "A curve or turn in a road, river, or path.",
+  "exampleEn": "Slow down on your bike — there's a sharp bend in the path right after the bridge.",
+  "mnemonicBg": "Представи си музикална група („бенд“), която свири точно на завоя — всички коли намаляват да я погледат.",
+  "ipa": "/bend/"
+ },
+ {
+  "id": 608,
+  "word": "stunted",
+  "explanationBg": "Който не е могъл да порасне и да се развие нормално — останал е дребен и хилав, като дръвче на гола скала без вода.",
+  "explanationEn": "Not grown to full size because something stopped its development.",
+  "exampleEn": "The tomato plants on our balcony stayed stunted because they got almost no sun.",
+  "mnemonicBg": "„Stunted“ звучи почти като „спънато“ — растението се спънало в растежа си и си останало мъниче.",
+  "ipa": "/ˈstʌntɪd/"
+ },
+ {
+  "id": 609,
+  "word": "dense",
+  "explanationBg": "Гъст и плътен — частите му са натъпкани съвсем близо една до друга, като гъста гора или гъста мъгла.",
+  "explanationEn": "Very thick or tightly packed together.",
+  "exampleEn": "The fog was so dense this morning that we couldn't see the school gate from the street.",
+  "mnemonicBg": "„ДЕНС“ — на претъпкана дискотека всички денсят толкова нагъсто, че игла няма къде да падне.",
+  "ipa": "/dens/"
+ },
+ {
+  "id": 610,
+  "word": "scanty",
+  "explanationBg": "Твърде малко и недостатъчно — оскъдна порция, оскъдни записки, все не стига.",
+  "explanationEn": "Too small in amount; not enough.",
+  "exampleEn": "My notes from that class were so scanty that I had to borrow Maria's before the exam.",
+  "mnemonicBg": "„СКАН-ти“ — сканираш цялата чиния с поглед, а в нея само две хапки: оскъдно!",
+  "ipa": "/ˈskænti/"
+ },
+ {
+  "id": 611,
+  "word": "coarse",
+  "explanationBg": "Груб на пипане, с едра и неравна повърхност — като зебло или едра морска сол; обратното на фино и гладко.",
+  "explanationEn": "Rough to the touch; not smooth or fine.",
+  "exampleEn": "The coarse sand on that beach scratched our feet, so we kept our flip-flops on.",
+  "mnemonicBg": "„КОРС“ звучи като „кора“ — кората на дървото е точно такава: груба и грапава.",
+  "ipa": "/kɔːs/"
+ },
+ {
+  "id": 612,
+  "word": "cheerless",
+  "explanationBg": "Мрачен и без капка радост — място или ден, на които им липсват светлина, топлина и настроение.",
+  "explanationEn": "Sad and grey, without any warmth or joy.",
+  "exampleEn": "The empty classroom looked cheerless on the rainy Monday morning.",
+  "mnemonicBg": "Чийрлидърки без помпони, без усмивки и без викове — отбор без „cheer“ = безрадостен, cheerless.",
+  "ipa": "/ˈtʃɪələs/"
+ },
+ {
+  "id": 613,
+  "word": "trudge (verb)",
+  "explanationBg": "Да вървиш бавно и тежко, с влачещи се стъпки — когато си капнал или просто никак не ти се ходи.",
+  "explanationEn": "To walk slowly with heavy, tired steps.",
+  "exampleEn": "We trudged up the hill with our heavy backpacks after the camping trip.",
+  "mnemonicBg": "„ТРЪДЖ“ звучи като „труд“ — всяка крачка е цял труд и едва си влачиш краката.",
+  "ipa": "/trʌdʒ/"
+ },
+ {
+  "id": 614,
+  "word": "withered",
+  "explanationBg": "Повехнал и изсъхнал — като цвете, стояло седмица без вода, или лице, сбръчкано от годините.",
+  "explanationEn": "Dried up and wrinkled, like a plant left without water.",
+  "exampleEn": "I forgot to water the rose, and by Friday it was completely withered.",
+  "mnemonicBg": "„УИ-дърд“ звучи като „Уеър?“ (къде?) — цветето се чуди „къде е водата?“, не я намира и повяхва.",
+  "ipa": "/ˈwɪðəd/"
+ },
+ {
+  "id": 615,
+  "word": "dimly",
+  "explanationBg": "Със слаба, мъждукаща светлина — или смътно и неясно, когато едва виждаш или едва си спомняш нещо.",
+  "explanationEn": "With weak light, or in a way that is not clear.",
+  "exampleEn": "The corridor was dimly lit, so we used our phone flashlights to find the door.",
+  "mnemonicBg": "„ДИМ-ли“ — има ли дим в стаята, всичко се вижда мъждиво и смътно.",
+  "ipa": "/ˈdɪmli/"
+ },
+ {
+  "id": 616,
+  "word": "ravine",
+  "explanationBg": "Дълбоко и тясно дере със стръмни стени — като огромен процеп в земята, често издълбан от река.",
+  "explanationEn": "A deep, narrow valley with very steep sides.",
+  "exampleEn": "On the hike we stopped at the edge of a ravine and threw stones to hear how deep it was.",
+  "mnemonicBg": "„Ра-ВИЙН“ звучи като „равнина“, а е точно обратното — земята изведнъж се разцепва в дълбоко дере.",
+  "ipa": "/rəˈviːn/"
+ },
+ {
+  "id": 617,
+  "word": "arches",
+  "explanationBg": "Извити като дъга конструкции, които крепят мостове, врати и прозорци — каменни или метални дъги над главата ти.",
+  "explanationEn": "Curved structures that hold up bridges or doorways.",
+  "exampleEn": "We took photos under the stone arches of the old bridge in the park.",
+  "mnemonicBg": "Почти като нашите „арки“ — сети се за златните арки на Макдоналдс: две жълти дъги.",
+  "ipa": "/ˈɑːtʃɪz/"
+ },
+ {
+  "id": 618,
+  "word": "sullen",
+  "explanationBg": "Намусен и сърдит, без желание да говори с никого — човек с буреносен облак над главата.",
+  "explanationEn": "Silent and bad-tempered, looking annoyed at everything.",
+  "exampleEn": "He was sullen all afternoon because his team lost the final.",
+  "mnemonicBg": "„СЪ-лън“ звучи като „сОлен“ — физиономия кисело-солена като туршия, навъсена до уши.",
+  "ipa": "/ˈsʌlən/"
+ },
+ {
+  "id": 619,
+  "word": "lie",
+  "explanationBg": "Думата има две лица: начинът, по който нещо е разположено или „лежи“ на терена, и лъжа — нарочно невярно твърдение.",
+  "explanationEn": "The position of something on the ground, or a statement that is not true.",
+  "exampleEn": "Before building the treehouse, we checked the lie of the ground under the old oak.",
+  "mnemonicBg": "„ЛАЙ“ — кучето вдига лай, щом чуе лъжа, и после обикаля да огледа как „лежи“ дворът.",
+  "ipa": "/laɪ/"
+ },
+ {
+  "id": 620,
+  "word": "blunted saw",
+  "explanationBg": "Трион, чиито зъбци са се изтъпили от употреба и вече не режат, а само стържат.",
+  "explanationEn": "A saw that has become dull and no longer cuts well.",
+  "exampleEn": "Grandpa's blunted saw kept slipping on the branch instead of cutting through it.",
+  "mnemonicBg": "„БЛЪН-тид со“ — затъпелият трион не реже, а само се блъска („блънт!“) в дървото.",
+  "ipa": "/ˌblʌntɪd ˈsɔː/"
+ },
+ {
+  "id": 621,
+  "word": "gnarled",
+  "explanationBg": "Целият на възли, грапавини и извивки — като ствола на много старо дърво или ръцете на стар човек.",
+  "explanationEn": "Twisted, rough, and full of knots, usually from age.",
+  "exampleEn": "We sat on the gnarled roots of the old oak to eat our sandwiches.",
+  "mnemonicBg": "Пише се със скрито „g“ — gnarled — а старият дънер, цял на гънки и възли, ръмжи „гнаррр!“.",
+  "ipa": "/nɑːld/"
+ },
+ {
+  "id": 622,
+  "word": "quarried",
+  "explanationBg": "Изваден от каменоломна — мястото, където хората копаят и режат камък направо от скалите.",
+  "explanationEn": "Dug out of a place where stone is cut from the ground.",
+  "exampleEn": "The stone for the new school gym was quarried from the hills near our town.",
+  "mnemonicBg": "„Quarry“ звучи като нашата каменна „кариера“ — quarried значи изкопан точно оттам.",
+  "ipa": "/ˈkwɒrid/"
+ },
+ {
+  "id": 623,
+  "word": "huddled",
+  "explanationBg": "Сгушени плътно един до друг — както хора се скупчват, за да се стоплят или да се скрият от дъжда.",
+  "explanationEn": "Pressed close together in a small group.",
+  "exampleEn": "We huddled under one umbrella at the bus stop, laughing every time it dripped on us.",
+  "mnemonicBg": "„ХЪ-дълд“ звучи като „худи“ — всички се сгушват под едно гигантско худи като пингвини на студа.",
+  "ipa": "/ˈhʌdld/"
+ },
+ {
+  "id": 624,
+  "word": "survey",
+  "explanationBg": "Внимателен оглед на нещо отвисоко или отстрани — обхващаш с поглед цялата картина, за да я прецениш.",
+  "explanationEn": "A careful look at something to check or understand it.",
+  "exampleEn": "From the lifeguard tower she made a quick survey of the beach before the swimmers arrived.",
+  "mnemonicBg": "Представи си рицаря „сър Вей“, който от върха на кулата прави оглед на цялото кралство.",
+  "ipa": "/ˈsɜːveɪ/"
+ },
+ {
+  "id": 625,
+  "word": "beset",
+  "explanationBg": "Когато проблеми или опасности те връхлитат от всички страни и не те оставят на мира — все едно си обсаден от тях.",
+  "explanationEn": "Troubled or surrounded by problems from every side.",
+  "exampleEn": "Our school trip was beset by problems — rain, a late bus, and two forgotten lunches.",
+  "mnemonicBg": "„Би-СЕТ“ — цял „сет“ от беди те огражда отвсякъде, като мач, в който губиш сет след сет.",
+  "ipa": "/bɪˈset/"
+ },
+ {
+  "id": 626,
+  "word": "jolts",
+  "explanationBg": "Резки, груби разтърсвания — като друсането в стар автобус, който минава през всички дупки на пътя.",
+  "explanationEn": "Sudden rough shakes or bumps.",
+  "exampleEn": "The jolts of the old school bus made it impossible to type a message without typos.",
+  "mnemonicBg": "„ДЖОЛТС“ звучи почти като „жълт“ — жълтият автобус подскача по дупките: джолт, джолт!",
+  "ipa": "/dʒəʊlts/"
+ },
+ {
+  "id": 627,
+  "word": "obscure",
+  "explanationBg": "Неясен, малко известен или труден за разбиране — нещо, за което почти никой не знае или което трудно проумяваш.",
+  "explanationEn": "Not well known, or hard to understand.",
+  "exampleEn": "He always listens to obscure bands that none of us have ever heard of.",
+  "mnemonicBg": "В „обСКЮъР“ се чува „скри“ — нещо толкова скрито в тъмното, че никой не го знае.",
+  "ipa": "/əbˈskjʊə/"
+ },
+ {
+  "id": 628,
+  "word": "windings",
+  "explanationBg": "Многото завои и извивки на път, пътека или река — когато не вървят направо, а лъкатушат.",
+  "explanationEn": "The many turns and curves of a road, path, or river.",
+  "exampleEn": "The windings of the mountain road made half the class feel carsick on the way to ski camp.",
+  "mnemonicBg": "„УАЙН-дингс“ — на всеки завой от серпентините викаш „уааай!“, а пътят се вие ли, вие.",
+  "ipa": "/ˈwaɪndɪŋz/"
+ },
+ {
+  "id": 629,
+  "word": "plainer",
+  "explanationBg": "По-ясен и по-разбираем — или по-семпъл и изчистен, без излишни украси.",
+  "explanationEn": "More clear and simple; with less decoration.",
+  "exampleEn": "Could you explain it in plainer words? The textbook version makes no sense to me.",
+  "mnemonicBg": "Като „плейн“ кисело мляко — без захар, без плодове, чисто и просто; plainer = още по-изчистено.",
+  "ipa": "/ˈpleɪnə/"
+ },
+ {
+  "id": 630,
+  "word": "fir-trees",
+  "explanationBg": "Вечнозелени иглолистни дървета — ели, които и през зимата си стоят зелени, с иглички вместо листа.",
+  "explanationEn": "Evergreen trees with needles instead of leaves, like Christmas trees.",
+  "exampleEn": "The path to the hut went through tall fir-trees that smelled amazing after the rain.",
+  "mnemonicBg": "„ФЪР-триис“ — представи си елхата с пухкаво зелено „палто“ от иглички: на пипане „фъррр“.",
+  "ipa": "/ˈfɜː triːz/"
+ },
+ {
+  "id": 631,
+  "word": "crookedly",
+  "explanationBg": "Накриво и изкривено — не по права линия, а все килнато на една страна.",
+  "explanationEn": "In a bent or twisted way, not straight.",
+  "exampleEn": "I hung the poster crookedly, so one corner pointed at the ceiling.",
+  "mnemonicBg": "„КРУ-кид-ли“ — „crook“ е като крива кука: каквото окачиш на нея, виси накриво.",
+  "ipa": "/ˈkrʊkɪdli/"
+ },
+ {
+  "id": 632,
+  "word": "hinge",
+  "explanationBg": "Металната сглобка, на която се върти врата или капак — пантата, която скърца, когато отваряш бавно.",
+  "explanationEn": "The metal joint that lets a door or lid swing open and shut.",
+  "exampleEn": "The door of my locker squeaks because one hinge needs oiling.",
+  "mnemonicBg": "„ХИНДЖ“ — точно така скърца старата панта в страшните филми: „хииинджжж…“.",
+  "ipa": "/hɪndʒ/"
+ },
+ {
+  "id": 633,
+  "word": "stooping",
+  "explanationBg": "Навеждане на главата и тялото напред и надолу — както се привеждаш, за да минеш през ниска врата.",
+  "explanationEn": "Bending your head and body forward and down.",
+  "exampleEn": "Stooping under the low doorway, he still managed to bang his head.",
+  "mnemonicBg": "„СТУ-пинг“ звучи като „стъпвам“ — навеждаш се ниско, за да видиш къде стъпваш в тъмното.",
+  "ipa": "/ˈstuːpɪŋ/"
+ },
+ {
+  "id": 634,
+  "word": "unconcernedly",
+  "explanationBg": "Спокойно и безгрижно, все едно нищо на света не те тревожи — без следа от притеснение.",
+  "explanationEn": "In a calm way that shows no worry at all.",
+  "exampleEn": "She shrugged unconcernedly when the teacher announced a surprise test.",
+  "mnemonicBg": "Без „concern“ (грижа) — като котка, която се протяга и прозява, докато всички тичат в паника.",
+  "ipa": "/ˌʌnkənˈsɜːnɪdli/"
+ },
+ {
+  "id": 635,
+  "word": "glade",
+  "explanationBg": "Открито, светло местенце сред гората — полянка, където дърветата се разтварят и слънцето влиза.",
+  "explanationEn": "An open, sunny space inside a forest.",
+  "exampleEn": "We found a quiet glade in the woods, perfect for our picnic blanket.",
+  "mnemonicBg": "„ГЛЕЙД“ звучи като „Гледай!“ — излизаш от тъмната гора и викаш: „Гледай, слънчева поляна!“.",
+  "ipa": "/ɡleɪd/"
+ },
+ {
+  "id": 636,
+  "word": "munched",
+  "explanationBg": "Ядеше нещо равномерно и шумно — с апетитно хрускане и мляскане, хапка след хапка.",
+  "explanationEn": "Ate something steadily, often with a loud chewing sound.",
+  "exampleEn": "He munched popcorn so loudly that we missed half the movie's dialogue.",
+  "mnemonicBg": "„МЪНЧТ“ — хомяк с издути бузи: „мънч-мънч-мънч“, яде ли, яде, шумно и доволно.",
+  "ipa": "/mʌntʃt/"
+ },
+ {
+  "id": 637,
+  "word": "shinbone",
+  "explanationBg": "Костта отпред на подбедрицата, между коляното и глезена — онази, която ужасно боли, удариш ли я в ръба на масата.",
+  "explanationEn": "The big front bone of your lower leg, between the knee and the ankle.",
+  "exampleEn": "A football hit him right on the shinbone, and he hopped around the pitch for a minute.",
+  "mnemonicBg": "„ШИН-боун“ — счупиш ли „shin“-а, слагат ти шина: shin ~ шина, костта на пищяла.",
+  "ipa": "/ˈʃɪnbəʊn/"
+ },
+ {
+  "id": 638,
+  "word": "larn (verb)",
+  "explanationBg": "Диалектна, селска форма на „уча“ — често като закана: „ще те науча аз тебе!“, тоест ще ти дам урок.",
+  "explanationEn": "A dialect way of saying \"to learn\" or \"to teach someone a lesson\".",
+  "exampleEn": "\"That'll larn you to check the weather first!\" Grandpa laughed when I came home soaked.",
+  "mnemonicBg": "Това е „learn“, казано от дядо на село: „Ще те ларна аз тебе!“ — ще ти дам урок.",
+  "ipa": "/lɑːn/"
+ },
+ {
+  "id": 639,
+  "word": "inaudible",
+  "explanationBg": "Толкова тих, че не може да се чуе — звукът просто не стига до ушите ти.",
+  "explanationEn": "Too quiet to be heard.",
+  "exampleEn": "Her reply was almost inaudible over the noise of the cafeteria.",
+  "mnemonicBg": "„Ин-“ значи „не“ + „аудио“ — като клип с изключен звук: устните мърдат, нищо не се чува.",
+  "ipa": "/ɪnˈɔːdəbl/"
+ },
+ {
+  "id": 640,
+  "word": "jester",
+  "explanationBg": "Придворен шут — човек, чиято работа в двореца на краля е била да разсмива всички с шеги и номера.",
+  "explanationEn": "A funny entertainer who told jokes for a king in the Middle Ages.",
+  "exampleEn": "In the school play, Niko got the role of the jester and stole the show with his jokes.",
+  "mnemonicBg": "„ДЖЕС-тър“ звучи като „жест“ — шутът прави смешни жестове, докато кралят не се разсмее.",
+  "ipa": "/ˈdʒestə/"
+ },
+ {
+  "id": 641,
+  "word": "berry brushwood",
+  "explanationBg": "Ниски гъсти храсти, отрупани с горски плодове — като боровинковите туфи, през които газиш в планината.",
+  "explanationEn": "Low, thick bushes that grow berries.",
+  "exampleEn": "We picked blueberries from the berry brushwood along the trail until our fingers turned purple.",
+  "mnemonicBg": "„Brush“ е четка — храсталакът е като огромна рошава четка, окичена с плодчета.",
+  "ipa": "/ˌberi ˈbrʌʃwʊd/"
+ },
+ {
+  "id": 642,
+  "word": "clippery-clippery-clip",
+  "explanationBg": "Звукоподражание — така на английски звучи тропотът на конски копита: клип-клоп, клип-клоп.",
+  "explanationEn": "A playful phrase that imitates the sound of a horse's hooves.",
+  "exampleEn": "We heard a clippery-clippery-clip on the street and ran to the window to see the police horses.",
+  "mnemonicBg": "Цъкни с език „цък-цък-цък“ като копитца по паваж — точно това е clippery-clippery-clip.",
+  "ipa": "/ˌklɪpəri ˌklɪpəri ˈklɪp/"
+ },
+ {
+  "id": 643,
+  "word": "stoop (verb)",
+  "explanationBg": "Да се наведеш напред и надолу, със свити рамене и приведена глава — например за да минеш под нещо ниско.",
+  "explanationEn": "To bend your body forward and down.",
+  "exampleEn": "You'll have to stoop to get into the tent — the entrance is really low.",
+  "mnemonicBg": "Двете „oo“ в „stoop“ са като две приведени рамена — самата дума се навежда.",
+  "ipa": "/stuːp/"
+ },
+ {
+  "id": 644,
+  "word": "headstall",
+  "explanationBg": "Частта от конската юзда, която обхваща главата на коня — ремъците около муцуната и зад ушите.",
+  "explanationEn": "The straps of a bridle that go around a horse's head.",
+  "exampleEn": "At the riding club she learned to fit the headstall gently over the pony's ears.",
+  "mnemonicBg": "„Head“ = глава + „stall“ = бокс в конюшнята: „шапката“ от ремъци, с която водиш коня към бокса му.",
+  "ipa": "/ˈhedstɔːl/"
+ },
+ {
+  "id": 645,
+  "word": "beckon (verb)",
+  "explanationBg": "Да махнеш с ръка на някого в смисъл „ела насам“ — жест, с който го викаш да се приближи.",
+  "explanationEn": "To wave or signal with your hand so that someone comes closer.",
+  "exampleEn": "She beckoned me over to her table to show me the meme on her phone.",
+  "mnemonicBg": "„БЕ-кън“ звучи като „Бе, къмон!“ — махаш с ръка на приятел: „бе, ела насам!“.",
+  "ipa": "/ˈbekən/"
+ },
+ {
+  "id": 646,
+  "word": "amiss",
+  "explanationBg": "Когато нещо не е съвсем наред — усещаш, че има нещо нередно, макар да не знаеш точно какво.",
+  "explanationEn": "Not quite right; something seems wrong.",
+  "exampleEn": "The moment we walked in, we sensed something was amiss — the classroom was completely silent.",
+  "mnemonicBg": "Звучи като „А, мис?!“ — усещаш, че нещо не е наред, и веднага викаш учителката.",
+  "ipa": "/əˈmɪs/"
+ },
+ {
+  "id": 647,
+  "word": "astray",
+  "explanationBg": "Отклонил се от правилния път или посока — изгубен, тръгнал накъдето не трябва.",
+  "explanationEn": "Away from the right path or direction.",
+  "exampleEn": "Without GPS we went astray and ended up in a completely different neighbourhood.",
+  "mnemonicBg": "„Ъ-СТРЕЙ“ звучи като „встрани“ — тръгнеш ли встрани от пътеката, вече си се заблудил.",
+  "ipa": "/əˈstreɪ/"
+ },
+ {
+  "id": 648,
+  "word": "token",
+  "explanationBg": "Предмет или жест, който показва нещо — малък видим знак за чувство или събитие, например подарък в знак на благодарност.",
+  "explanationEn": "A small thing that shows or represents a feeling or fact.",
+  "exampleEn": "She gave her coach a bracelet as a token of thanks for the great season.",
+  "mnemonicBg": "„ТОУ-кън“ звучи почти като „жетон“ — мъничък предмет, който е знак, че нещо ти се полага.",
+  "ipa": "/ˈtəʊkən/"
+ },
+ {
+  "id": 649,
+  "word": "nigh",
+  "explanationBg": "Старинна дума за „близо“ — ще я срещнеш в приказки и стари книги, когато нещо е наблизо или наближава.",
+  "explanationEn": "An old-fashioned word for \"near\" or \"close\".",
+  "exampleEn": "\"Winter is nigh,\" Dad announced dramatically as he pulled out his giant scarf.",
+  "mnemonicBg": "„НАЙ“ — НАЙ-близкото нещо е nigh: чуеш ли „най“, мисли „близо“.",
+  "ipa": "/naɪ/"
+ },
+ {
+  "id": 650,
+  "word": "grave anxiety",
+  "explanationBg": "Много сериозна, дълбока тревога — когато притеснението е тежко и не те пуска нито за миг.",
+  "explanationEn": "Very serious and deep worry.",
+  "exampleEn": "She waited for her exam results with grave anxiety, refreshing the page every minute.",
+  "mnemonicBg": "„Grave“ значи и „гроб“ — тревога толкова тежка, че в стаята настава гробна тишина.",
+  "ipa": "/ˌɡreɪv æŋˈzaɪəti/"
+ }
+]

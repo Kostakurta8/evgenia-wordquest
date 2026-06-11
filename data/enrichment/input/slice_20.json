@@ -1,0 +1,665 @@
+[
+ {
+  "id": 951,
+  "page": 298,
+  "word": "snout",
+  "definition": "The projecting nose and mouth of an animal, especially a pig or wolf.",
+  "synonyms": [
+   "muzzle",
+   "nose",
+   "beak"
+  ],
+  "antonyms": null,
+  "translation": "муцуна, зурла"
+ },
+ {
+  "id": 952,
+  "page": 299,
+  "word": "twang",
+  "definition": "A strong vibrating sound made by a tense string or wire.",
+  "synonyms": [
+   "vibration",
+   "ping",
+   "plunk"
+  ],
+  "antonyms": null,
+  "translation": "звън на опъната струна"
+ },
+ {
+  "id": 953,
+  "page": 299,
+  "word": "sighing",
+  "definition": "The action of giving a long, deep audible breath, expressing sadness or relief.",
+  "synonyms": [
+   "breathing",
+   "exhaling",
+   "lamenting"
+  ],
+  "antonyms": null,
+  "translation": "въздишане"
+ },
+ {
+  "id": 954,
+  "page": 299,
+  "word": "radiance",
+  "definition": "Light or heat as emitted by something; bright happiness.",
+  "synonyms": [
+   "brilliance",
+   "brightness",
+   "glow"
+  ],
+  "antonyms": "dullness",
+  "translation": "сияние, блясък"
+ },
+ {
+  "id": 955,
+  "page": 299,
+  "word": "routed",
+  "definition": "Defeated and forced to retreat in disorder.",
+  "synonyms": [
+   "defeated",
+   "crushed",
+   "vanquished"
+  ],
+  "antonyms": "victorious",
+  "translation": "разгромен, разбит"
+ },
+ {
+  "id": 956,
+  "page": 299,
+  "word": "sheathing",
+  "definition": "Putting a sword or knife back into its sheath; covering or enclosing.",
+  "synonyms": [
+   "covering",
+   "encasing"
+  ],
+  "antonyms": "unsheathing",
+  "translation": "прибиране в ножницата"
+ },
+ {
+  "id": 957,
+  "page": 299,
+  "word": "singed",
+  "definition": "Burned superficially or lightly, especially the surface or edges.",
+  "synonyms": [
+   "scorched",
+   "charred",
+   "burnt"
+  ],
+  "antonyms": null,
+  "translation": "опърлен, обгорен"
+ },
+ {
+  "id": 958,
+  "page": 299,
+  "word": "in vain",
+  "definition": "Without success; uselessly.",
+  "synonyms": [
+   "fruitlessly",
+   "vainly",
+   "uselessly"
+  ],
+  "antonyms": "successfully",
+  "translation": "напразно, безуспешно"
+ },
+ {
+  "id": 959,
+  "page": 299,
+  "word": "charred",
+  "definition": "Partially burnt so as to blacken the surface.",
+  "synonyms": [
+   "blackened",
+   "scorched",
+   "burnt"
+  ],
+  "antonyms": null,
+  "translation": "овъглен, изгорен"
+ },
+ {
+  "id": 960,
+  "page": 300,
+  "word": "likeliest",
+  "definition": "Most probable or most apt.",
+  "synonyms": [
+   "most probable",
+   "most likely"
+  ],
+  "antonyms": "least likely",
+  "translation": "най-вероятен"
+ },
+ {
+  "id": 961,
+  "page": 301,
+  "word": "decayed",
+  "definition": "Rotted or decomposed; declined in quality or vigour.",
+  "synonyms": [
+   "rotten",
+   "decomposed",
+   "deteriorated"
+  ],
+  "antonyms": [
+   "fresh",
+   "sound"
+  ],
+  "translation": "разложен, развален"
+ },
+ {
+  "id": 962,
+  "page": 301,
+  "word": "footsore",
+  "definition": "Having sore feet, especially from much walking.",
+  "synonyms": [
+   "foot-weary",
+   "tired-footed"
+  ],
+  "antonyms": "fresh-footed",
+  "translation": "с уморени крака"
+ },
+ {
+  "id": 963,
+  "page": 301,
+  "word": "doggedly",
+  "definition": "In a manner that shows tenacity and determination.",
+  "synonyms": [
+   "persistently",
+   "determinedly",
+   "tenaciously"
+  ],
+  "antonyms": "half-heartedly",
+  "translation": "упорито, неотклонно"
+ },
+ {
+  "id": 964,
+  "page": 301,
+  "word": "veering",
+  "definition": "Changing direction suddenly.",
+  "synonyms": [
+   "swerving",
+   "turning",
+   "swinging"
+  ],
+  "antonyms": null,
+  "translation": "отклоняване, рязко завиване"
+ },
+ {
+  "id": 965,
+  "page": 301,
+  "word": "reared vast",
+  "definition": "Rose up to a great height; loomed enormously.",
+  "synonyms": [
+   "loomed huge",
+   "towered"
+  ],
+  "antonyms": null,
+  "translation": "извиси се огромно"
+ },
+ {
+  "id": 966,
+  "page": 301,
+  "word": "pallid",
+  "definition": "(Of a person’s face) pale, typically because of poor health.",
+  "synonyms": [
+   "pale",
+   "wan",
+   "ashen"
+  ],
+  "antonyms": [
+   "rosy",
+   "ruddy"
+  ],
+  "translation": "блед, бледен"
+ },
+ {
+  "id": 967,
+  "page": 301,
+  "word": "fissure",
+  "definition": "A long, narrow opening or line of breakage in a rock.",
+  "synonyms": [
+   "crack",
+   "crevice",
+   "split"
+  ],
+  "antonyms": null,
+  "translation": "пукнатина, цепнатина"
+ },
+ {
+  "id": 968,
+  "page": 301,
+  "word": "impassable",
+  "definition": "Impossible to travel along or over.",
+  "synonyms": [
+   "untraversable",
+   "blocked",
+   "closed"
+  ],
+  "antonyms": [
+   "passable",
+   "open"
+  ],
+  "translation": "непроходим"
+ },
+ {
+  "id": 969,
+  "page": 301,
+  "word": "frowning stone",
+  "definition": "A stone that looks threatening or grim.",
+  "synonyms": [
+   "menacing stone",
+   "scowling rock"
+  ],
+  "antonyms": null,
+  "translation": "мрачен камък"
+ },
+ {
+  "id": 970,
+  "page": 302,
+  "word": "unwholesome",
+  "definition": "Not conducive to health; morally harmful.",
+  "synonyms": [
+   "unhealthy",
+   "harmful",
+   "noxious"
+  ],
+  "antonyms": [
+   "wholesome",
+   "healthy"
+  ],
+  "translation": "нездравословен, вреден"
+ },
+ {
+  "id": 971,
+  "page": 302,
+  "word": "tread",
+  "definition": "A way of walking; to walk on or along.",
+  "synonyms": [
+   "step",
+   "walk",
+   "footstep"
+  ],
+  "antonyms": null,
+  "translation": "стъпка, походка; стъпвам"
+ },
+ {
+  "id": 972,
+  "page": 302,
+  "word": "obliged",
+  "definition": "Made indebted or thankful; legally or morally bound.",
+  "synonyms": [
+   "compelled",
+   "required",
+   "indebted"
+  ],
+  "antonyms": [
+   "free",
+   "unobliged"
+  ],
+  "translation": "задължен"
+ },
+ {
+  "id": 973,
+  "page": 302,
+  "word": "undeterred",
+  "definition": "Not discouraged or prevented from doing something.",
+  "synonyms": [
+   "unfazed",
+   "unrelenting",
+   "persistent"
+  ],
+  "antonyms": [
+   "deterred",
+   "discouraged"
+  ],
+  "translation": "неотстъпил, незасегнат"
+ },
+ {
+  "id": 974,
+  "page": 302,
+  "word": "ripples",
+  "definition": "Small waves or undulations in the surface of water.",
+  "synonyms": [
+   "waves",
+   "undulations",
+   "eddies"
+  ],
+  "antonyms": null,
+  "translation": "малки вълнички"
+ },
+ {
+  "id": 975,
+  "page": 303,
+  "word": "veiled",
+  "definition": "Covered or concealed with or as if with a veil.",
+  "synonyms": [
+   "concealed",
+   "hidden",
+   "masked"
+  ],
+  "antonyms": [
+   "revealed",
+   "exposed"
+  ],
+  "translation": "забулен, прикрит"
+ },
+ {
+  "id": 976,
+  "page": 303,
+  "word": "water-skins",
+  "definition": "Bags made from animal skin used for carrying water.",
+  "synonyms": "waterbags",
+  "antonyms": null,
+  "translation": "мехове за вода"
+ },
+ {
+  "id": 977,
+  "page": 304,
+  "word": "sullenly",
+  "definition": "In a sulky or resentful manner.",
+  "synonyms": [
+   "glumly",
+   "morosely",
+   "sulkily"
+  ],
+  "antonyms": "cheerfully",
+  "translation": "мрачно, навъсено"
+ },
+ {
+  "id": 978,
+  "page": 304,
+  "word": "fitfully",
+  "definition": "In an irregular, intermittent manner.",
+  "synonyms": [
+   "sporadically",
+   "intermittently",
+   "erratically"
+  ],
+  "antonyms": "steadily",
+  "translation": "на пресекулки, неравномерно"
+ },
+ {
+  "id": 979,
+  "page": 304,
+  "word": "anvil",
+  "definition": "A heavy iron block on which metal can be hammered and shaped.",
+  "synonyms": "forge-block",
+  "antonyms": null,
+  "translation": "наковалня"
+ },
+ {
+  "id": 980,
+  "page": 306,
+  "word": "crescent",
+  "definition": "The curved shape of the new or old moon; a curved or sickle-shaped object.",
+  "synonyms": [
+   "curve",
+   "sickle",
+   "arc"
+  ],
+  "antonyms": null,
+  "translation": "полумесец, дъга"
+ },
+ {
+  "id": 981,
+  "page": 306,
+  "word": "inscription",
+  "definition": "Words inscribed, as on a monument or in a book.",
+  "synonyms": [
+   "engraving",
+   "dedication",
+   "writing"
+  ],
+  "antonyms": null,
+  "translation": "надпис"
+ },
+ {
+  "id": 982,
+  "page": 306,
+  "word": "dismayed",
+  "definition": "Caused (someone) to feel concern and distress.",
+  "synonyms": [
+   "alarmed",
+   "distressed",
+   "troubled"
+  ],
+  "antonyms": "reassured",
+  "translation": "смутен, обезпокоен"
+ },
+ {
+  "id": 983,
+  "page": 306,
+  "word": "accursed",
+  "definition": "Under a curse; horrible.",
+  "synonyms": [
+   "cursed",
+   "doomed",
+   "damned"
+  ],
+  "antonyms": "blessed",
+  "translation": "проклет, отвратителен"
+ },
+ {
+  "id": 984,
+  "page": 306,
+  "word": "unmoved",
+  "definition": "Not affected by emotion or excitement.",
+  "synonyms": [
+   "unaffected",
+   "impassive",
+   "indifferent"
+  ],
+  "antonyms": [
+   "moved",
+   "affected"
+  ],
+  "translation": "непоколебим, недокоснат"
+ },
+ {
+  "id": 985,
+  "page": 307,
+  "word": "outwards",
+  "definition": "Away from the inside or centre.",
+  "synonyms": [
+   "outward",
+   "externally"
+  ],
+  "antonyms": "inwards",
+  "translation": "навън"
+ },
+ {
+  "id": 986,
+  "page": 307,
+  "word": "inwards",
+  "definition": "Towards the inside; into the interior.",
+  "synonyms": [
+   "inward",
+   "internally"
+  ],
+  "antonyms": "outwards",
+  "translation": "навътре"
+ },
+ {
+  "id": 987,
+  "page": 307,
+  "word": "undaunted",
+  "definition": "Not intimidated or discouraged by difficulty, danger, or disappointment.",
+  "synonyms": [
+   "fearless",
+   "resolute",
+   "undismayed"
+  ],
+  "antonyms": [
+   "fearful",
+   "daunted"
+  ],
+  "translation": "неустрашим, неотстъпил"
+ },
+ {
+  "id": 988,
+  "page": 307,
+  "word": "a swish",
+  "definition": "A hissing or rustling sound, as made by something moving rapidly through the air.",
+  "synonyms": [
+   "rustle",
+   "hiss",
+   "whoosh"
+  ],
+  "antonyms": null,
+  "translation": "свистене, шумолене"
+ },
+ {
+  "id": 989,
+  "page": 308,
+  "word": "archway",
+  "definition": "A passage or entrance with an arch over it.",
+  "synonyms": [
+   "arch",
+   "gateway",
+   "vault"
+  ],
+  "antonyms": null,
+  "translation": "свод, арков вход"
+ },
+ {
+  "id": 990,
+  "page": 308,
+  "word": "weeping",
+  "definition": "Shedding tears; crying.",
+  "synonyms": [
+   "crying",
+   "sobbing",
+   "lamenting"
+  ],
+  "antonyms": "laughing",
+  "translation": "плачещ"
+ },
+ {
+  "id": 991,
+  "page": 308,
+  "word": "seething",
+  "definition": "Boiling or churning, especially with foam or bubbles; (of emotion) intense.",
+  "synonyms": [
+   "boiling",
+   "churning",
+   "raging"
+  ],
+  "antonyms": "calm",
+  "translation": "кипящ, бушуващ"
+ },
+ {
+  "id": 992,
+  "page": 308,
+  "word": "host of snakes",
+  "definition": "A large number of snakes gathered together.",
+  "synonyms": [
+   "mass of snakes",
+   "swarm of snakes"
+  ],
+  "antonyms": null,
+  "translation": "множество змии"
+ },
+ {
+  "id": 993,
+  "page": 308,
+  "word": "sinuous",
+  "definition": "Having many curves and turns; lithe and supple.",
+  "synonyms": [
+   "winding",
+   "serpentine",
+   "curved"
+  ],
+  "antonyms": "straight",
+  "translation": "извит, лъкатушещ"
+ },
+ {
+  "id": 994,
+  "page": 308,
+  "word": "tantacle",
+  "definition": "A tentacle: a long, flexible limb of certain animals, used for grasping or moving.",
+  "synonyms": [
+   "feeler",
+   "appendage",
+   "arm"
+  ],
+  "antonyms": null,
+  "translation": "пипало"
+ },
+ {
+  "id": 995,
+  "page": 308,
+  "word": "luminous",
+  "definition": "Giving off light; shining; bright.",
+  "synonyms": [
+   "glowing",
+   "radiant",
+   "shining"
+  ],
+  "antonyms": [
+   "dark",
+   "dim"
+  ],
+  "translation": "светещ, сияещ"
+ },
+ {
+  "id": 996,
+  "page": 308,
+  "word": "slashing",
+  "definition": "Cutting with a sweeping stroke; striking violently.",
+  "synonyms": [
+   "cutting",
+   "slicing",
+   "striking"
+  ],
+  "antonyms": null,
+  "translation": "разсичащ, удрящ"
+ },
+ {
+  "id": 997,
+  "page": 309,
+  "word": "rippling out",
+  "definition": "Spreading outwards in small waves or ripples.",
+  "synonyms": [
+   "spreading",
+   "fanning out"
+  ],
+  "antonyms": null,
+  "translation": "разпространяващ се на вълни"
+ },
+ {
+  "id": 998,
+  "page": 309,
+  "word": "stench",
+  "definition": "A strong and very unpleasant smell.",
+  "synonyms": [
+   "reek",
+   "stink",
+   "odour"
+  ],
+  "antonyms": "fragrance",
+  "translation": "смрад, воня"
+ },
+ {
+  "id": 999,
+  "page": 309,
+  "word": "tentacles",
+  "definition": "Long, flexible limbs of certain animals (like an octopus) used for grasping.",
+  "synonyms": [
+   "feelers",
+   "appendages",
+   "arms"
+  ],
+  "antonyms": null,
+  "translation": "пипала"
+ },
+ {
+  "id": 1000,
+  "page": 309,
+  "word": "shattering",
+  "definition": "Breaking violently into many pieces; very disturbing.",
+  "synonyms": [
+   "smashing",
+   "breaking",
+   "devastating"
+  ],
+  "antonyms": null,
+  "translation": "разбиване, разтрошаване"
+ }
+]
