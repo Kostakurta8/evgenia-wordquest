@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Lora, Manrope } from "next/font/google";
+import CloudSync from "@/components/CloudSync";
 import "./globals.css";
 
 const lora = Lora({
@@ -48,6 +49,7 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{ __html: themeBootstrap }} />
       </head>
       <body className="min-h-full flex flex-col font-ui bg-page text-ink">
+        <CloudSync />
         {children}
       </body>
     </html>

@@ -28,9 +28,16 @@ interface RawWord {
   page: number;
   word: string;
   definition: string;
-  synonyms: string[];
-  antonyms: string[];
+  /** inconsistent in the source: array, "a; b" string, or null */
+  synonyms: string[] | string | null;
+  antonyms: string[] | string | null;
   translation: string;
+}
+
+/** Source lists arrive as arrays, "a; b" strings, or null — always emit string[]. */
+function toList(v: string[] | string | null): string[] {
+  const items = Array.isArray(v) ? v : typeof v === "string" ? v.split(/[;,]/) : [];
+  return items.map((s) => String(s).trim()).filter((s) => s.length > 0 && s !== "—");
 }
 
 interface GenFields {
@@ -41,7 +48,9 @@ interface GenFields {
   ipa: string;
 }
 
-interface EnrichedWord extends RawWord, GenFields {
+interface EnrichedWord extends Omit<RawWord, "synonyms" | "antonyms">, GenFields {
+  synonyms: string[];
+  antonyms: string[];
   bookSentenceEn: string | null;
   bookSentenceRef: number | null;
 }
@@ -517,6 +526,8 @@ for (const w of raw) {
   }
   enriched.push({
     ...w,
+    synonyms: toList(w.synonyms),
+    antonyms: toList(w.antonyms),
     ...g,
     bookSentenceEn: bs?.sentence ?? null,
     bookSentenceRef: bs?.ref ?? null,
