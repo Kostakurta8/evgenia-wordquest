@@ -114,6 +114,57 @@ export const STRINGS = {
   themeLight: { bg: "Светла", en: "Light" },
   themeDark: { bg: "Тъмна", en: "Dark" },
 
+  // P3 exercises
+  typePrompt: { bg: "Напиши думата на английски", en: "Type the word in English" },
+  typePlaceholder: { bg: "Напиши тук…", en: "Type here…" },
+  clozePrompt: { bg: "Попълни липсващата дума от книгата", en: "Fill in the missing word from the book" },
+  pairsPrompt: { bg: "Свържи двойките", en: "Match the pairs" },
+  synonymPrompt: { bg: "Кое е синоним на", en: "Which is a synonym of" },
+
+  // Review hub
+  reviewNow: { bg: "Преговори сега", en: "Review now" },
+  reviewEmpty: {
+    bg: "Нищо за преговор! Върни се по-късно или научи нови думи от картата. 🌿",
+    en: "Nothing to review! Come back later or learn new words from the map. 🌿",
+  },
+  reviewDone: { bg: "Преговорът е завършен!", en: "Review complete!" },
+  reviewedWords: { bg: "преговорени думи", en: "words reviewed" },
+
+  // Dopamine
+  combo: { bg: "серия", en: "combo" },
+  levelUp: { bg: "Ново ниво!", en: "Level up!" },
+  goalReached: { bg: "Дневна цел постигната! 🎯", en: "Daily goal reached! 🎯" },
+  chestTitle: { bg: "Съкровище!", en: "Treasure!" },
+  chestBody: {
+    bg: "Завърши цяла глава! Искра ти носи награда.",
+    en: "You finished a whole chapter! Iskra brings you a reward.",
+  },
+  chestOpen: { bg: "Отвори сандъка", en: "Open the chest" },
+  chestClaim: { bg: "Вземи", en: "Claim" },
+  share: { bg: "Сподели", en: "Share" },
+  shareText: {
+    bg: "Уча думите на „Задругата на пръстена“ с WordQuest! ✨",
+    en: "I'm learning the words of The Fellowship of the Ring with WordQuest! ✨",
+  },
+  achievements: { bg: "Постижения", en: "Achievements" },
+  achievementUnlocked: { bg: "Ново постижение!", en: "Achievement unlocked!" },
+
+  // Challenge mode
+  challenge: { bg: "Предизвикателство", en: "Challenge" },
+  challengeIntro: {
+    bg: "10 думи · 3 живота · часовник. Двойни точки!",
+    en: "10 words · 3 lives · the clock is ticking. Double XP!",
+  },
+  challengeStart: { bg: "Започни!", en: "Start!" },
+  challengeFailed: { bg: "Без живот! Опитай пак.", en: "Out of lives! Try again." },
+  challengeDone: { bg: "Предизвикателството е твое!", en: "Challenge conquered!" },
+  challengeLocked: {
+    bg: "Научи поне 10 думи, за да отключиш.",
+    en: "Learn at least 10 words to unlock.",
+  },
+  lives: { bg: "живота", en: "lives" },
+  tryAgain: { bg: "Опитай пак", en: "Try again" },
+
   // Mascot lines
   mascotIntro: {
     bg: "Аз съм Искра! Ще светя по пътя ти. ✨",

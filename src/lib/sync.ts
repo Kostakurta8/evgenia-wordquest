@@ -75,6 +75,13 @@ export async function pullAndMerge(userId: string): Promise<void> {
     .eq("user_id", userId)
     .maybeSingle();
   if (statsErr) throw statsErr;
+  const { data: achRows, error: achErr } = await supabase
+    .from("achievements")
+    .select("*")
+    .eq("user_id", userId);
+  if (achErr) throw achErr;
+  const cloudEarned: Record<string, string> = {};
+  for (const row of achRows ?? []) cloudEarned[row.key] = row.earned_at;
 
   const cloudStats: Partial<UserStats> | null = statsRow
     ? {
@@ -87,7 +94,9 @@ export async function pullAndMerge(userId: string): Promise<void> {
       }
     : null;
 
-  useApp.getState().mergeCloud(rows.map(fromRow), cloudStats, lessonsFromStats(statsRow));
+  useApp
+    .getState()
+    .mergeCloud(rows.map(fromRow), cloudStats, lessonsFromStats(statsRow), cloudEarned);
 }
 
 /** Push dirty local state to the cloud. Safe to call often. */
@@ -112,6 +121,17 @@ export async function pushDirty(): Promise<void> {
         const { error } = await supabase.from("progress").upsert(chunk);
         if (error) throw error;
       }
+    }
+    const earnedRows = Object.entries(s.earned).map(([key, earned_at]) => ({
+      user_id: userId,
+      key,
+      earned_at,
+    }));
+    if (earnedRows.length > 0) {
+      const { error: achError } = await supabase
+        .from("achievements")
+        .upsert(earnedRows, { onConflict: "user_id,key", ignoreDuplicates: true });
+      if (achError) throw achError;
     }
     const lessons = Object.entries(s.completedLessons).map(([id, at]) => ({ id, at }));
     const { error } = await supabase.from("stats").upsert({

@@ -16,6 +16,14 @@ export interface AppState {
   /** lessonId → ISO completedAt */
   completedLessons: Record<string, string>;
   stats: UserStats;
+  /** region slug → ISO openedAt for claimed region-completion chests */
+  chestsOpened: Record<string, string>;
+  /** achievement key → ISO earnedAt */
+  earned: Record<string, string>;
+  /** achievement keys earned but not yet shown as a toast */
+  pendingAchievements: string[];
+  /** local-only counters feeding achievements */
+  counters: { reviews: number; challenges: number };
   // auth/sync bookkeeping
   userId: string | null;
   userEmail: string | null;
@@ -30,11 +38,18 @@ export interface AppState {
   introduceWord: (wordId: number) => void;
   gradeWord: (wordId: number, quality: number) => void;
   completeLesson: (lessonId: string, opts: { taskXp: number; perfect: boolean }) => void;
+  /** XP outside lessons (review/challenge), optionally with gems. */
+  addBonusXp: (xp: number, gems?: number) => void;
+  openChest: (regionSlug: string, gems: number) => void;
+  awardAchievements: (keys: string[]) => void;
+  popPendingAchievement: () => string | null;
+  bumpCounter: (key: "reviews" | "challenges") => void;
   setDailyGoal: (xp: number) => void;
   mergeCloud: (
     rows: WordProgress[],
     cloudStats: Partial<UserStats> | null,
     cloudLessons: Record<string, string>,
+    cloudEarned?: Record<string, string>,
   ) => void;
   markSynced: (wordIds: number[]) => void;
 }
@@ -75,12 +90,16 @@ function applyXp(stats: UserStats, amount: number, now: Date): UserStats {
 
 export const useApp = create<AppState>()(
   persist(
-    (set) => ({
+    (set, get) => ({
       lang: "bg",
       sound: true,
       progress: {},
       completedLessons: {},
       stats: initialStats,
+      chestsOpened: {},
+      earned: {},
+      pendingAchievements: [],
+      counters: { reviews: 0, challenges: 0 },
       userId: null,
       userEmail: null,
       dirtyWords: [],
@@ -135,10 +154,47 @@ export const useApp = create<AppState>()(
           };
         }),
 
+      addBonusXp: (xp, gems = 0) =>
+        set((s) => ({
+          stats: { ...applyXp(s.stats, xp, new Date()), gems: s.stats.gems + gems },
+          statsDirty: true,
+        })),
+
+      openChest: (regionSlug, gems) =>
+        set((s) =>
+          s.chestsOpened[regionSlug]
+            ? s
+            : {
+                chestsOpened: { ...s.chestsOpened, [regionSlug]: new Date().toISOString() },
+                stats: { ...s.stats, gems: s.stats.gems + gems },
+                statsDirty: true,
+              },
+        ),
+
+      awardAchievements: (keys) =>
+        set((s) => {
+          const fresh = keys.filter((k) => !s.earned[k]);
+          if (fresh.length === 0) return s;
+          const now = new Date().toISOString();
+          const earned = { ...s.earned };
+          for (const k of fresh) earned[k] = now;
+          return { earned, pendingAchievements: [...s.pendingAchievements, ...fresh] };
+        }),
+
+      popPendingAchievement: () => {
+        const [head, ...rest] = get().pendingAchievements;
+        if (!head) return null;
+        set({ pendingAchievements: rest });
+        return head;
+      },
+
+      bumpCounter: (key) =>
+        set((s) => ({ counters: { ...s.counters, [key]: s.counters[key] + 1 } })),
+
       setDailyGoal: (xp) =>
         set((s) => ({ stats: { ...s.stats, dailyGoal: xp }, statsDirty: true })),
 
-      mergeCloud: (rows, cloudStats, cloudLessons) =>
+      mergeCloud: (rows, cloudStats, cloudLessons, cloudEarned) =>
         set((s) => {
           const progress = { ...s.progress };
           for (const cloud of rows) {
@@ -170,6 +226,8 @@ export const useApp = create<AppState>()(
             progress,
             stats,
             completedLessons: { ...cloudLessons, ...s.completedLessons },
+            // cloud achievements merge silently — no toast for old earnings
+            earned: { ...cloudEarned, ...s.earned },
             // everything local becomes a push candidate after a merge
             dirtyWords: Object.keys(progress).map(Number),
             statsDirty: true,
@@ -191,6 +249,10 @@ export const useApp = create<AppState>()(
         progress: s.progress,
         completedLessons: s.completedLessons,
         stats: s.stats,
+        chestsOpened: s.chestsOpened,
+        earned: s.earned,
+        pendingAchievements: s.pendingAchievements,
+        counters: s.counters,
         dirtyWords: s.dirtyWords,
         statsDirty: s.statsDirty,
       }),

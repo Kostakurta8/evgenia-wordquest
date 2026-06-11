@@ -131,11 +131,55 @@ function LessonNode({
   );
 }
 
+const CHEST_GEMS = 25;
+
+function ChestModal({ regionTitle, onClaim }: { regionTitle: string; onClaim: () => void }) {
+  const t = useT();
+  const [opened, setOpened] = useState(false);
+  return (
+    <div className="fixed inset-0 z-50 bg-black/55 flex items-center justify-center px-8">
+      <motion.div
+        initial={{ scale: 0.8, opacity: 0 }}
+        animate={{ scale: 1, opacity: 1 }}
+        className="rounded-3xl bg-surface p-6 w-full max-w-sm flex flex-col items-center gap-4 text-center"
+      >
+        <Mascot state="celebrate" size={80} />
+        <h2 className="font-heading text-2xl font-bold">{t("chestTitle")}</h2>
+        <p className="text-sm text-ink-muted">
+          {regionTitle} · {t("chestBody")}
+        </p>
+        <motion.span
+          className="text-6xl"
+          animate={opened ? { rotate: [0, -6, 6, 0], scale: [1, 1.25, 1.1] } : { y: [0, -4, 0] }}
+          transition={opened ? { duration: 0.5 } : { duration: 1.4, repeat: Infinity }}
+          aria-hidden
+        >
+          {opened ? "💎" : "🎁"}
+        </motion.span>
+        {opened && <p className="font-extrabold text-teal text-lg">+{CHEST_GEMS} 💎</p>}
+        <button
+          type="button"
+          onClick={() => {
+            if (!opened) setOpened(true);
+            else onClaim();
+          }}
+          className="w-full min-h-13 rounded-2xl bg-gold text-ink font-extrabold shadow-[0_4px_0_0_rgba(0,0,0,0.18)] active:translate-y-0.5 active:shadow-none transition-all"
+        >
+          {opened ? t("chestClaim") : t("chestOpen")}
+        </button>
+      </motion.div>
+    </div>
+  );
+}
+
 export default function MapTrail() {
   const t = useT();
   const [journey, setJourney] = useState<Journey | null>(null);
   const completed = useApp((s) => s.completedLessons);
+  const chestsOpened = useApp((s) => s.chestsOpened);
+  const openChest = useApp((s) => s.openChest);
   const hydrated = useApp((s) => s.hydrated);
+  const [chestFor, setChestFor] = useState<string | null>(null);
   const currentAnchor = useRef<HTMLDivElement | null>(null);
   const scrolled = useRef(false);
 
@@ -168,6 +212,8 @@ export default function MapTrail() {
         {journey.regions.map((region) => {
           const regionRefs = refs.filter((r) => r.region.index === region.index);
           const doneInRegion = regionRefs.filter((r) => completed[r.lesson.id]).length;
+          const regionDone = doneInRegion === region.lessons.length;
+          const chestReady = regionDone && !chestsOpened[region.slug];
           return (
             <section key={region.slug} aria-label={region.titleBg}>
               {/* region banner */}
@@ -217,10 +263,33 @@ export default function MapTrail() {
                     />
                   );
                 })}
+                {chestReady && (
+                  <div className="flex justify-center py-2">
+                    <motion.button
+                      type="button"
+                      onClick={() => setChestFor(region.slug)}
+                      animate={{ scale: [1, 1.12, 1] }}
+                      transition={{ duration: 1.4, repeat: Infinity }}
+                      className="text-5xl drop-shadow"
+                      aria-label={`${t("chestTitle")} — ${region.titleBg}`}
+                    >
+                      🎁
+                    </motion.button>
+                  </div>
+                )}
               </div>
             </section>
           );
         })}
+        {chestFor && (
+          <ChestModal
+            regionTitle={journey.regions.find((r) => r.slug === chestFor)?.titleBg ?? ""}
+            onClaim={() => {
+              openChest(chestFor, CHEST_GEMS);
+              setChestFor(null);
+            }}
+          />
+        )}
         <div className="flex flex-col items-center gap-2 py-8 text-center">
           <Mascot state="happy" size={72} />
           <p className="text-sm text-ink-muted max-w-[260px]">{t("mascotIntro")}</p>

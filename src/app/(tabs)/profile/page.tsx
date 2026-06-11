@@ -7,6 +7,7 @@ import { useApp, useT } from "@/lib/store/app";
 import { levelForXp, levelProgress } from "@/lib/xp";
 import { pushDirty } from "@/lib/sync";
 import Mascot from "@/components/Mascot";
+import { ACHIEVEMENTS } from "@/lib/achievements";
 import type { Lang } from "@/lib/types";
 
 type Theme = "light" | "dark";
@@ -63,7 +64,7 @@ function Segment<T extends string>({
 
 export default function ProfilePage() {
   const t = useT();
-  const { stats, lang, sound, userId, userEmail, setLang, setSound } = useApp();
+  const { stats, lang, sound, userId, userEmail, earned, setLang, setSound } = useApp();
   const [email, setEmail] = useState("");
   const [linkState, setLinkState] = useState<"idle" | "sending" | "sent" | "error">("idle");
   const theme = useSyncExternalStore(subscribeTheme, readTheme, () => "light" as Theme);
@@ -134,6 +135,32 @@ export default function ProfilePage() {
             {t("dailyGoal")} {goalPct >= 1 ? "✅" : ""}
           </p>
         </div>
+      </section>
+
+      {/* achievements gallery */}
+      <section className="rounded-3xl bg-surface border border-line p-5">
+        <h2 className="font-bold text-sm mb-3">
+          🏅 {t("achievements")} ({Object.keys(earned).length}/{ACHIEVEMENTS.length})
+        </h2>
+        <ul className="grid grid-cols-5 gap-2">
+          {ACHIEVEMENTS.map((a) => {
+            const has = Boolean(earned[a.key]);
+            return (
+              <li
+                key={a.key}
+                title={`${a.title[lang]} — ${a.desc[lang]}`}
+                className={`aspect-square rounded-2xl flex flex-col items-center justify-center gap-0.5 border ${
+                  has ? "bg-gold-soft border-gold/40" : "bg-surface-2 border-line opacity-45"
+                }`}
+              >
+                <span className="text-2xl" aria-hidden>
+                  {has ? a.emoji : "🔒"}
+                </span>
+                <span className="sr-only">{a.title[lang]}</span>
+              </li>
+            );
+          })}
+        </ul>
       </section>
 
       {/* cloud account */}

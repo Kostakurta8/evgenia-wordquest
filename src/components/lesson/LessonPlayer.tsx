@@ -4,49 +4,129 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { motion, useReducedMotion } from "framer-motion";
-import type { Word } from "@/lib/types";
+import type { Journey, Word } from "@/lib/types";
 import { findLesson, loadJourney, loadWordMap, type LessonRef } from "@/lib/data";
 import { useApp, useT } from "@/lib/store/app";
 import { pushDirty } from "@/lib/sync";
-import { XP } from "@/lib/xp";
+import { XP, levelForXp } from "@/lib/xp";
+import { checkAchievements } from "@/lib/achievements";
 import { playSfx, speak } from "@/lib/audio";
 import { pick, shuffle } from "@/lib/shuffle";
 import Mascot from "@/components/Mascot";
 import WordCard from "@/components/WordCard";
 import Exercise, { type Option } from "@/components/lesson/Exercise";
+import TypeIt from "@/components/lesson/TypeIt";
+import Cloze from "@/components/lesson/Cloze";
+import Pairs from "@/components/lesson/Pairs";
 
-type TaskKind = "intro" | "meaning" | "reverse" | "listening";
+type TaskKind =
+  | "intro"
+  | "meaning"
+  | "reverse"
+  | "listening"
+  | "synonym"
+  | "typeit"
+  | "cloze"
+  | "pairs";
+
+interface ChoiceSet {
+  list: Option[];
+  correctId: number;
+  correctLabel: string;
+}
+
 interface Task {
   kind: TaskKind;
-  wordId: number;
+  wordId: number; // -1 for pairs
   attempt: number;
+  /** pre-rolled options for choice tasks (built outside render — shuffling is impure) */
+  choices?: ChoiceSet;
+}
+
+/** Build the shuffled 4-option set for a choice task. Impure — call from effects/handlers only. */
+function rollChoices(kind: TaskKind, word: Word, pool: Word[]): ChoiceSet | undefined {
+  if (kind === "meaning" || kind === "reverse" || kind === "listening") {
+    const labelOf = (w: Word) => (kind === "meaning" ? w.translation : w.word);
+    const taken = new Set([labelOf(word).toLowerCase()]);
+    const distractors: Word[] = [];
+    for (const cand of pick(pool, pool.length, (x) => x.id === word.id)) {
+      const label = labelOf(cand).toLowerCase();
+      if (taken.has(label)) continue;
+      taken.add(label);
+      distractors.push(cand);
+      if (distractors.length === 3) break;
+    }
+    const list = shuffle([word, ...distractors]).map<Option>((w) => ({
+      id: w.id,
+      label: labelOf(w),
+    }));
+    return { list, correctId: word.id, correctLabel: labelOf(word) };
+  }
+  if (kind === "synonym") {
+    const truth = word.synonyms[Math.floor(Math.random() * word.synonyms.length)];
+    const taken = new Set([truth.toLowerCase(), word.word.toLowerCase()]);
+    const distractors: string[] = [];
+    for (const cand of shuffle(pool)) {
+      if (cand.id === word.id) continue;
+      const syn = cand.synonyms[0];
+      if (!syn || taken.has(syn.toLowerCase())) continue;
+      taken.add(syn.toLowerCase());
+      distractors.push(syn);
+      if (distractors.length === 3) break;
+    }
+    const labels = shuffle([truth, ...distractors]);
+    return {
+      list: labels.map((label, i) => ({ id: i, label })),
+      correctId: labels.indexOf(truth),
+      correctLabel: truth,
+    };
+  }
+  return undefined;
+}
+
+/** Attach pre-rolled choices to every choice task. Impure; effect/handler use only. */
+function withChoices(tasks: Task[], words: Word[], pool: Word[]): Task[] {
+  return tasks.map((task) => {
+    const word = words.find((w) => w.id === task.wordId);
+    return word ? { ...task, choices: rollChoices(task.kind, word, pool) } : task;
+  });
 }
 
 interface Loaded {
   ref: LessonRef;
+  journey: Journey;
   words: Word[]; // lesson words, book order
   pool: Word[]; // distractor pool (region words)
 }
 
+/**
+ * Lesson mix: intro (new words) → recognition (meaning / listening / synonym
+ * rotation) → production (cloze on the real book sentence, else type-it),
+ * production round shuffled, tap-the-pairs consolidation at the end.
+ */
 function buildTasks(words: Word[], seenBefore: Set<number>): Task[] {
   const tasks: Task[] = [];
-  for (const w of words) {
+  words.forEach((w, i) => {
     if (!seenBefore.has(w.id)) tasks.push({ kind: "intro", wordId: w.id, attempt: 0 });
-    tasks.push({ kind: "meaning", wordId: w.id, attempt: 0 });
-  }
-  const second = words.map<Task>((w, i) => ({
-    kind: i % 2 === 0 ? "listening" : "reverse",
+    const recognition: TaskKind =
+      i % 3 === 1 ? "listening" : i % 3 === 2 && w.synonyms.length > 0 ? "synonym" : "meaning";
+    tasks.push({ kind: recognition, wordId: w.id, attempt: 0 });
+  });
+  const production = words.map<Task>((w) => ({
+    kind: w.bookSentenceEn ? "cloze" : "typeit",
     wordId: w.id,
     attempt: 0,
   }));
-  return [...tasks, ...shuffle(second)];
+  const out = [...tasks, ...shuffle(production)];
+  if (words.length >= 4) out.push({ kind: "pairs", wordId: -1, attempt: 0 });
+  return out;
 }
 
 export default function LessonPlayer({ lessonId }: { lessonId: string }) {
   const t = useT();
   const router = useRouter();
   const reduced = useReducedMotion();
-  const { sound, introduceWord, gradeWord, completeLesson, stats } = useApp();
+  const { sound, introduceWord, gradeWord, completeLesson, awardAchievements, stats } = useApp();
 
   const [loaded, setLoaded] = useState<Loaded | null>(null);
   const [queue, setQueue] = useState<Task[]>([]);
@@ -54,15 +134,21 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
   const [doneCount, setDoneCount] = useState(0);
   const [totalCount, setTotalCount] = useState(1);
   const [taskXp, setTaskXp] = useState(0);
+  const [combo, setCombo] = useState(0);
+  const [bestCombo, setBestCombo] = useState(0);
   const [firstTryCorrect, setFirstTryCorrect] = useState(0);
   const [exerciseCount, setExerciseCount] = useState(0);
   const [phase, setPhase] = useState<"loading" | "playing" | "summary">("loading");
-  const [summaryPerfect, setSummaryPerfect] = useState(false);
+  const [summary, setSummary] = useState<{
+    perfect: boolean;
+    levelUp: number | null;
+    goalHit: boolean;
+    newAchievement: string | null;
+  } | null>(null);
   const [quitAsk, setQuitAsk] = useState(false);
   const wrongs = useRef(new Map<number, number>());
   const finished = useRef(false);
 
-  // load data once
   useEffect(() => {
     let alive = true;
     void (async () => {
@@ -77,10 +163,15 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
         .map((id) => wordMap.get(id))
         .filter((w): w is Word => Boolean(w));
       const seen = new Set(
-        words.filter((w) => (useApp.getState().progress[w.id]?.timesSeen ?? 0) > 0).map((w) => w.id),
+        words
+          .filter((w) => {
+            const p = useApp.getState().progress[w.id];
+            return p ? p.timesSeen > 0 || p.status !== "new" : false;
+          })
+          .map((w) => w.id),
       );
-      const tasks = buildTasks(words, seen);
-      setLoaded({ ref, words, pool });
+      const tasks = withChoices(buildTasks(words, seen), words, pool);
+      setLoaded({ ref, journey, words, pool });
       setQueue(tasks);
       setTotalCount(tasks.length);
       setPhase("playing");
@@ -93,29 +184,16 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
 
   const task = queue[pos];
   const word = useMemo(
-    () => (loaded && task ? loaded.words.find((w) => w.id === task.wordId) ?? null : null),
+    () =>
+      loaded && task && task.wordId !== -1
+        ? (loaded.words.find((w) => w.id === task.wordId) ?? null)
+        : null,
     [loaded, task],
   );
 
-  // 4 options: target + 3 distractors from the region pool, always shuffled
-  const options = useMemo(() => {
-    if (!loaded || !task || !word || task.kind === "intro") return [];
-    const labelOf = (w: Word) => (task.kind === "meaning" ? w.translation : w.word);
-    const taken = new Set([labelOf(word).toLowerCase()]);
-    const distractors: Word[] = [];
-    for (const cand of pick(loaded.pool, loaded.pool.length, (x) => x.id === word.id)) {
-      const label = labelOf(cand).toLowerCase();
-      if (taken.has(label)) continue;
-      taken.add(label);
-      distractors.push(cand);
-      if (distractors.length === 3) break;
-    }
-    return shuffle([word, ...distractors]).map<Option>((w) => ({ id: w.id, label: labelOf(w) }));
-    // re-roll options for retries of the same task
-     
-  }, [loaded, task, word]);
+  const options: ChoiceSet = task?.choices ?? { list: [], correctId: -1, correctLabel: "" };
 
-  if (phase === "loading" || !loaded || !task || !word) {
+  if (phase === "loading" || !loaded || !task) {
     return (
       <main className="min-h-dvh flex items-center justify-center">
         <Mascot state="idle" size={80} />
@@ -123,19 +201,34 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
     );
   }
 
-  function advance(correct: boolean, isIntro = false) {
-    if (!isIntro) {
+  function advance(correct: boolean, opts: { isIntro?: boolean; isPairs?: boolean } = {}) {
+    const { isIntro = false, isPairs = false } = opts;
+    if (!isIntro && !isPairs) {
       setExerciseCount((n) => n + 1);
       if (correct) {
         const first = task.attempt === 0;
-        setTaskXp((x) => x + (first ? XP.firstTryCorrect : XP.retryCorrect));
-        if (first) setFirstTryCorrect((n) => n + 1);
+        const comboBonus = first && combo + 1 >= 3 ? 1 : 0;
+        setTaskXp((x) => x + (first ? XP.firstTryCorrect : XP.retryCorrect) + comboBonus);
+        if (first) {
+          setFirstTryCorrect((n) => n + 1);
+          setCombo((c) => {
+            const next = c + 1;
+            setBestCombo((b) => Math.max(b, next));
+            return next;
+          });
+        } else {
+          setCombo(0);
+        }
       } else {
+        setCombo(0);
         wrongs.current.set(task.wordId, (wrongs.current.get(task.wordId) ?? 0) + 1);
       }
     }
+    if (isPairs) {
+      setTaskXp((x) => x + (correct ? XP.firstTryCorrect : XP.retryCorrect));
+    }
 
-    if (correct || isIntro) {
+    if (correct || isIntro || isPairs) {
       setDoneCount((n) => n + 1);
       if (pos + 1 >= queue.length) {
         finish();
@@ -143,11 +236,16 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
       }
       setPos((p) => p + 1);
     } else {
-      // re-queue the same task a few steps later
       setQueue((q) => {
         const next = [...q];
-        const retry: Task = { ...task, attempt: task.attempt + 1 };
-        next.splice(Math.min(pos + 3, next.length), 0, retry);
+        const retryWord = loaded?.words.find((w) => w.id === task.wordId);
+        next.splice(Math.min(pos + 3, next.length), 0, {
+          ...task,
+          attempt: task.attempt + 1,
+          // fresh shuffle so the retry tests meaning, not option position
+          choices:
+            retryWord && loaded ? rollChoices(task.kind, retryWord, loaded.pool) : task.choices,
+        });
         return next;
       });
       setPos((p) => p + 1);
@@ -162,20 +260,52 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
       const misses = wrongs.current.get(w.id) ?? 0;
       gradeWord(w.id, misses === 0 ? 5 : 3);
     }
+    const levelBefore = levelForXp(useApp.getState().stats.xp);
+    const goalBefore =
+      useApp.getState().stats.todayXp >= useApp.getState().stats.dailyGoal;
     completeLesson(lessonId, { taskXp, perfect });
+
+    const after = useApp.getState();
+    const levelAfter = levelForXp(after.stats.xp);
+    const goalAfter = after.stats.todayXp >= after.stats.dailyGoal;
+
+    // achievements
+    const learnedWords = Object.values(after.progress).filter(
+      (p) => p.timesSeen > 0 || p.status !== "new",
+    ).length;
+    const regionsCompleted = loaded.journey.regions.filter((r) =>
+      r.lessons.every((l) => after.completedLessons[l.id]),
+    ).length;
+    awardAchievements(
+      checkAchievements({
+        lessonsCompleted: Object.keys(after.completedLessons).length,
+        perfectJustNow: perfect,
+        streak: after.stats.streak,
+        learnedWords,
+        level: levelAfter,
+        regionsCompleted,
+        reviews: after.counters.reviews,
+        challengesWon: after.counters.challenges,
+      }),
+    );
+
     playSfx("fanfare", !sound);
-    setSummaryPerfect(perfect);
+    setSummary({
+      perfect,
+      levelUp: levelAfter > levelBefore ? levelAfter : null,
+      goalHit: goalAfter && !goalBefore,
+      newAchievement: useApp.getState().popPendingAchievement(),
+    });
     setPhase("summary");
     void pushDirty();
   }
 
-  if (phase === "summary") {
-    const perfect = summaryPerfect;
-    const gained = taskXp + XP.lessonComplete + (perfect ? XP.perfectBonus : 0);
+  if (phase === "summary" && summary) {
+    const gained = taskXp + XP.lessonComplete + (summary.perfect ? XP.perfectBonus : 0);
     const accuracy =
       exerciseCount > 0 ? Math.round((firstTryCorrect / exerciseCount) * 100) : 100;
     return (
-      <main className="min-h-dvh flex flex-col items-center justify-center px-6 gap-5 relative overflow-hidden">
+      <main className="min-h-dvh flex flex-col items-center justify-center px-6 gap-4 relative overflow-hidden">
         {!reduced && (
           <div className="pointer-events-none absolute inset-0" aria-hidden>
             {Array.from({ length: 26 }, (_, i) => (
@@ -192,11 +322,31 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
             ))}
           </div>
         )}
-        <Mascot state="celebrate" size={110} />
+        <Mascot state="celebrate" size={104} />
         <h1 className="font-heading text-3xl font-bold text-center">
-          {perfect ? t("perfectLesson") : t("lessonComplete")}
+          {summary.perfect ? t("perfectLesson") : t("lessonComplete")}
         </h1>
         <p className="text-ink-muted text-center -mt-2">{t("mascotLessonDone")}</p>
+
+        {summary.levelUp && (
+          <motion.p
+            initial={{ scale: 0.6, opacity: 0 }}
+            animate={{ scale: 1, opacity: 1 }}
+            className="rounded-full bg-gold text-ink font-extrabold px-5 py-2"
+          >
+            ⬆ {t("levelUp")} {summary.levelUp}
+          </motion.p>
+        )}
+        {summary.goalHit && (
+          <p className="rounded-full bg-emerald-soft text-emerald font-extrabold px-5 py-2">
+            {t("goalReached")}
+          </p>
+        )}
+        {summary.newAchievement && (
+          <p className="rounded-full bg-accent-soft text-accent font-extrabold px-5 py-2">
+            🏅 {t("achievementUnlocked")}
+          </p>
+        )}
 
         <div className="grid grid-cols-3 gap-3 w-full max-w-sm">
           <div className="rounded-2xl bg-gold-soft border border-gold/40 p-3 text-center">
@@ -213,12 +363,33 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
           </div>
         </div>
 
-        <Link
-          href="/"
-          className="w-full max-w-sm min-h-14 rounded-2xl bg-emerald text-emerald-fg text-lg font-extrabold flex items-center justify-center shadow-[0_4px_0_0_rgba(0,0,0,0.18)] active:translate-y-0.5 active:shadow-none transition-all"
-        >
-          {t("backToMap")}
-        </Link>
+        {bestCombo >= 3 && (
+          <p className="text-sm font-bold text-ink-muted">
+            ⚡ {t("combo")} ×{bestCombo}
+          </p>
+        )}
+
+        <div className="flex flex-col gap-2.5 w-full max-w-sm">
+          <Link
+            href="/"
+            className="min-h-14 rounded-2xl bg-emerald text-emerald-fg text-lg font-extrabold flex items-center justify-center shadow-[0_4px_0_0_rgba(0,0,0,0.18)] active:translate-y-0.5 active:shadow-none transition-all"
+          >
+            {t("backToMap")}
+          </Link>
+          {typeof navigator !== "undefined" && "share" in navigator && (
+            <button
+              type="button"
+              onClick={() =>
+                void navigator
+                  .share({ text: `${t("shareText")} +${gained} XP 🔥${stats.streak}` })
+                  .catch(() => undefined)
+              }
+              className="min-h-12 rounded-2xl border-2 border-line font-bold text-ink-muted"
+            >
+              {t("share")} 💌
+            </button>
+          )}
+        </div>
       </main>
     );
   }
@@ -227,7 +398,6 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
 
   return (
     <main className="min-h-dvh flex flex-col px-5 pt-safe max-w-md mx-auto w-full">
-      {/* header: quit + mastery bar */}
       <header className="flex items-center gap-3 py-3">
         <button
           type="button"
@@ -250,19 +420,50 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
             transition={{ duration: 0.35 }}
           />
         </div>
+        {combo >= 2 && (
+          <motion.span
+            key={combo}
+            initial={{ scale: 1.5 }}
+            animate={{ scale: 1 }}
+            className="text-sm font-extrabold text-accent"
+          >
+            ⚡×{combo}
+          </motion.span>
+        )}
       </header>
 
-      {task.kind === "intro" ? (
+      {task.kind === "intro" && word ? (
         <div className="flex-1 flex flex-col justify-center pb-6">
           <p className="text-sm font-bold uppercase tracking-wide text-emerald mb-2">
             ✨ {t("newWord")}
           </p>
-          <WordCard word={word} onGotIt={() => {
-            introduceWord(word.id);
-            advance(true, true);
-          }} />
+          <WordCard
+            word={word}
+            onGotIt={() => {
+              introduceWord(word.id);
+              advance(true, { isIntro: true });
+            }}
+          />
         </div>
-      ) : (
+      ) : task.kind === "pairs" ? (
+        <Pairs
+          key={`pairs-${pos}`}
+          words={pick(loaded.words, 5, () => false)}
+          onContinue={(correct) => advance(correct, { isPairs: true })}
+        />
+      ) : task.kind === "typeit" && word ? (
+        <TypeIt
+          key={`typeit-${task.wordId}-${task.attempt}-${pos}`}
+          word={word}
+          onContinue={(c) => advance(c)}
+        />
+      ) : task.kind === "cloze" && word ? (
+        <Cloze
+          key={`cloze-${task.wordId}-${task.attempt}-${pos}`}
+          word={word}
+          onContinue={(c) => advance(c)}
+        />
+      ) : word ? (
         <Exercise
           key={`${task.kind}-${task.wordId}-${task.attempt}-${pos}`}
           prompt={
@@ -274,7 +475,10 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
                   onClick={() => speak(word.word)}
                   className="font-heading text-4xl font-bold inline-flex items-center gap-2 active:scale-95 transition-transform"
                 >
-                  {word.word} <span className="text-xl" aria-hidden>🔊</span>
+                  {word.word}{" "}
+                  <span className="text-xl" aria-hidden>
+                    🔊
+                  </span>
                 </button>
                 <p className="text-ink-muted text-sm mt-1">{word.ipa}</p>
               </div>
@@ -282,6 +486,13 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
               <div className="text-center">
                 <p className="text-sm font-bold text-ink-muted mb-2">{t("reversePrompt")}</p>
                 <p className="font-heading text-3xl font-bold">„{word.translation}“</p>
+              </div>
+            ) : task.kind === "synonym" ? (
+              <div className="text-center">
+                <p className="text-sm font-bold text-ink-muted mb-2">
+                  {t("synonymPrompt")} <strong className="text-ink">{word.word}</strong>?
+                </p>
+                <p className="text-sm text-emerald font-semibold">{word.translation}</p>
               </div>
             ) : (
               <div className="text-center">
@@ -297,15 +508,14 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
               </div>
             )
           }
-          options={options}
-          correctId={word.id}
-          correctLabel={task.kind === "meaning" ? word.translation : word.word}
+          options={options.list}
+          correctId={options.correctId}
+          correctLabel={options.correctLabel}
           speakOnMount={task.kind === "listening" ? word.word : undefined}
           onContinue={(correct) => advance(correct)}
         />
-      )}
+      ) : null}
 
-      {/* quit confirmation */}
       {quitAsk && (
         <div className="fixed inset-0 z-50 bg-black/50 flex items-center justify-center px-8">
           <div className="rounded-3xl bg-surface p-6 w-full max-w-sm flex flex-col gap-4">
