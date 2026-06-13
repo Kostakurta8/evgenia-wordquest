@@ -35,6 +35,10 @@ function fromRow(row: ProgressRow): WordProgress {
     reps: row.reps,
     timesSeen: row.times_seen,
     timesCorrect: row.times_correct,
+    // `misses` is a local-first column; the cloud table may not have it yet
+    // (see supabase/migrations/0002_add_misses.sql). Read it gracefully so a
+    // cloud pull never wipes a freshly-strike-tracked word back to 0.
+    misses: (row as { misses?: number }).misses ?? 0,
     lastSeen: row.last_seen,
   };
 }

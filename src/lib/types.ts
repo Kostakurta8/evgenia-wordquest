@@ -75,6 +75,12 @@ export interface WordProgress {
   reps: number;
   timesSeen: number;
   timesCorrect: number;
+  /**
+   * Strike counter: number of distinct sittings the word was answered wrong in
+   * (at most +1 per session). 1 → "за преговор" (review), 2 → "трудни" (hard).
+   * Reset to 0 only when the word reaches "mastered".
+   */
+  misses: number;
   /** ISO timestamp or null */
   lastSeen: string | null;
 }

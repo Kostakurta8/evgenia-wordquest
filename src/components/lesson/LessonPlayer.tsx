@@ -25,6 +25,7 @@ type TaskKind =
   | "reverse"
   | "listening"
   | "synonym"
+  | "antonym"
   | "typeit"
   | "cloze"
   | "pairs";
@@ -62,16 +63,25 @@ function rollChoices(kind: TaskKind, word: Word, pool: Word[]): ChoiceSet | unde
     }));
     return { list, correctId: word.id, correctLabel: labelOf(word) };
   }
-  if (kind === "synonym") {
-    const truth = word.synonyms[Math.floor(Math.random() * word.synonyms.length)];
-    const taken = new Set([truth.toLowerCase(), word.word.toLowerCase()]);
+  if (kind === "synonym" || kind === "antonym") {
+    // Pick the right relation per kind: a synonym (same meaning) or an antonym
+    // (opposite). Distractors are *other words'* matching relation so a wrong
+    // tap is plausible but unrelated to the prompt word.
+    const relOf = (w: Word) => (kind === "synonym" ? w.synonyms : w.antonyms);
+    const own = relOf(word);
+    if (own.length === 0) return undefined;
+    const truth = own[Math.floor(Math.random() * own.length)];
+    // Exclude EVERY relation of the prompt word (not just `truth`) so a
+    // distractor pulled from another word can never itself be a valid answer
+    // here — e.g. dwindle→grow must not show "increase" as a wrong option.
+    const taken = new Set([word.word.toLowerCase(), ...own.map((s) => s.toLowerCase())]);
     const distractors: string[] = [];
     for (const cand of shuffle(pool)) {
       if (cand.id === word.id) continue;
-      const syn = cand.synonyms[0];
-      if (!syn || taken.has(syn.toLowerCase())) continue;
-      taken.add(syn.toLowerCase());
-      distractors.push(syn);
+      const rel = relOf(cand)[0];
+      if (!rel || taken.has(rel.toLowerCase())) continue;
+      taken.add(rel.toLowerCase());
+      distractors.push(rel);
       if (distractors.length === 3) break;
     }
     const labels = shuffle([truth, ...distractors]);
@@ -142,17 +152,19 @@ interface Loaded {
 }
 
 /**
- * Lesson mix: intro (new words) → recognition (meaning / listening / synonym
- * rotation) → production (cloze on the real book sentence, else type-it),
- * production round shuffled, tap-the-pairs consolidation at the end.
+ * Lesson mix: intro (new words) → recognition (meaning / listening, alternating)
+ * → a synonym AND an antonym question per word whenever the dictionary has them
+ * → production (cloze on the real book sentence, else type-it), production round
+ * shuffled, tap-the-pairs consolidation at the end.
  */
 function buildTasks(words: Word[], seenBefore: Set<number>): Task[] {
   const tasks: Task[] = [];
   words.forEach((w, i) => {
     if (!seenBefore.has(w.id)) tasks.push({ kind: "intro", wordId: w.id, attempt: 0 });
-    const recognition: TaskKind =
-      i % 3 === 1 ? "listening" : i % 3 === 2 && w.synonyms.length > 0 ? "synonym" : "meaning";
-    tasks.push({ kind: recognition, wordId: w.id, attempt: 0 });
+    const base: TaskKind = i % 2 === 0 ? "meaning" : "listening";
+    tasks.push({ kind: base, wordId: w.id, attempt: 0 });
+    if (w.synonyms.length > 0) tasks.push({ kind: "synonym", wordId: w.id, attempt: 0 });
+    if (w.antonyms.length > 0) tasks.push({ kind: "antonym", wordId: w.id, attempt: 0 });
   });
   const production = words.map<Task>((w) => ({
     kind: w.bookSentenceEn ? "cloze" : "typeit",
@@ -168,7 +180,8 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
   const t = useT();
   const router = useRouter();
   const reduced = useReducedMotion();
-  const { sound, introduceWord, gradeWord, completeLesson, awardAchievements, stats } = useApp();
+  const { sound, introduceWord, gradeWord, recordMisses, completeLesson, awardAchievements, stats } =
+    useApp();
 
   const [loaded, setLoaded] = useState<Loaded | null>(null);
   const [queue, setQueue] = useState<Task[]>([]);
@@ -302,6 +315,9 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
       const misses = wrongs.current.get(w.id) ?? 0;
       gradeWord(w.id, misses === 0 ? 5 : 3);
     }
+    // One strike per sitting for every word she got wrong → routes it to
+    // за преговор (1st miss) or трудни (2nd miss). See lib/strikes.ts.
+    recordMisses([...wrongs.current.keys()]);
     const levelBefore = levelForXp(useApp.getState().stats.xp);
     const goalBefore =
       useApp.getState().stats.todayXp >= useApp.getState().stats.dailyGoal;
@@ -532,10 +548,11 @@ export default function LessonPlayer({ lessonId }: { lessonId: string }) {
                 <p className="text-sm font-bold text-ink-muted mb-2">{t("reversePrompt")}</p>
                 <p className="font-heading text-3xl font-bold">„{word.translation}“</p>
               </div>
-            ) : task.kind === "synonym" ? (
+            ) : task.kind === "synonym" || task.kind === "antonym" ? (
               <div className="text-center">
                 <p className="text-sm font-bold text-ink-muted mb-2">
-                  {t("synonymPrompt")} <strong className="text-ink">{word.word}</strong>?
+                  {t(task.kind === "synonym" ? "synonymPrompt" : "antonymPrompt")}{" "}
+                  <strong className="text-ink">{word.word}</strong>?
                 </p>
                 <p className="text-sm text-emerald font-semibold">{word.translation}</p>
               </div>

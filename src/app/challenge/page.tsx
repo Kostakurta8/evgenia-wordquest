@@ -94,7 +94,7 @@ function roll(kind: Task["kind"], word: Word, pool: Word[]): Task["choices"] {
 
 export default function ChallengePage() {
   const t = useT();
-  const { sound, gradeWord, addBonusXp, bumpCounter, awardAchievements } = useApp();
+  const { sound, gradeWord, recordMisses, addBonusXp, bumpCounter, awardAchievements } = useApp();
 
   const [tasks, setTasks] = useState<Task[] | null>(null);
   const [phase, setPhase] = useState<"intro" | "playing" | "won" | "lost" | "locked">("intro");
@@ -103,6 +103,7 @@ export default function ChallengePage() {
   const [xp, setXp] = useState(0);
   const answered = useRef(false);
   const ended = useRef(false);
+  const missed = useRef(new Set<number>());
 
   // build the round set once
   useEffect(() => {
@@ -138,6 +139,7 @@ export default function ChallengePage() {
     if (ended.current || !tasks) return;
     const task = tasks[pos];
     gradeWord(task.word.id, correct ? 4 : 1);
+    if (!correct) missed.current.add(task.word.id);
     if (correct) setXp((x) => x + XP_PER_CORRECT);
 
     const nextLives = correct ? lives : lives - 1;
@@ -160,6 +162,8 @@ export default function ChallengePage() {
     if (ended.current) return;
     ended.current = true;
     const finalXp = won ? xp : Math.floor(xp / 2);
+    // One strike per challenge sitting for each word missed → за преговор/трудни.
+    recordMisses([...missed.current]);
     addBonusXp(finalXp, won ? WIN_GEMS : 0);
     if (won) {
       bumpCounter("challenges");

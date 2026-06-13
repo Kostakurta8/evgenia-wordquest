@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import type { Word } from "@/lib/types";
 import { loadWords } from "@/lib/data";
 import { useApp, useT } from "@/lib/store/app";
-import { hardness } from "@/lib/hardWords";
+import { isHard, needsReview } from "@/lib/strikes";
 import { isDue } from "@/lib/srs";
 import Mascot from "@/components/Mascot";
 import WordCard from "@/components/WordCard";
@@ -67,9 +67,12 @@ export default function LexiconPage() {
     if (!words) return [];
     let list = words;
     if (filter === "learned") list = list.filter((w) => isLearned(progress[w.id]));
-    else if (filter === "hard")
-      list = list.filter((w) => progress[w.id] && hardness(progress[w.id]) >= 0.34);
-    else if (filter === "due") list = list.filter((w) => progress[w.id] && isDue(progress[w.id]));
+    else if (filter === "hard") list = list.filter((w) => Boolean(progress[w.id]) && isHard(progress[w.id]));
+    else if (filter === "due")
+      list = list.filter((w) => {
+        const p = progress[w.id];
+        return Boolean(p) && (needsReview(p) || isDue(p));
+      });
     const q = fold(query.trim());
     if (!q) return list;
     return list

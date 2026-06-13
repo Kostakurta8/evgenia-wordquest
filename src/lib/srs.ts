@@ -23,6 +23,7 @@ export function freshProgress(wordId: number): WordProgress {
     reps: 0,
     timesSeen: 0,
     timesCorrect: 0,
+    misses: 0,
     lastSeen: null,
   };
 }
@@ -65,6 +66,8 @@ export function grade(prev: WordProgress, quality: number, now: Date = new Date(
 
   p.mastery = masteryFor(p);
   p.status = statusFor(p);
+  // Graduation: a mastered word leaves the review/hard decks — clear its strikes.
+  if (p.status === "mastered") p.misses = 0;
   return p;
 }
 

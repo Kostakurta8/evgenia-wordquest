@@ -18,7 +18,7 @@ import Cloze from "@/components/lesson/Cloze";
 
 const SESSION_CAP = 20;
 
-type Kind = "meaning" | "reverse" | "listening" | "cloze" | "typeit";
+type Kind = "meaning" | "reverse" | "listening" | "cloze" | "typeit" | "synonym" | "antonym";
 
 interface Task {
   kind: Kind;
@@ -29,6 +29,30 @@ interface Task {
 
 function rollChoices(kind: Kind, word: Word, pool: Word[]) {
   if (kind === "cloze" || kind === "typeit") return undefined;
+  if (kind === "synonym" || kind === "antonym") {
+    const relOf = (w: Word) => (kind === "synonym" ? w.synonyms : w.antonyms);
+    const own = relOf(word);
+    if (own.length === 0) return undefined;
+    const truth = own[Math.floor(Math.random() * own.length)];
+    // Exclude EVERY relation of the prompt word so no distractor is itself a
+    // valid answer (see LessonPlayer.rollChoices).
+    const taken = new Set([word.word.toLowerCase(), ...own.map((s) => s.toLowerCase())]);
+    const distractors: string[] = [];
+    for (const cand of shuffle(pool)) {
+      if (cand.id === word.id) continue;
+      const rel = relOf(cand)[0];
+      if (!rel || taken.has(rel.toLowerCase())) continue;
+      taken.add(rel.toLowerCase());
+      distractors.push(rel);
+      if (distractors.length === 3) break;
+    }
+    const labels = shuffle([truth, ...distractors]);
+    return {
+      list: labels.map((label, i) => ({ id: i, label })),
+      correctId: labels.indexOf(truth),
+      correctLabel: truth,
+    };
+  }
   const labelOf = (w: Word) => (kind === "meaning" ? w.translation : w.word);
   const taken = new Set([labelOf(word).toLowerCase()]);
   const distractors: Word[] = [];
@@ -60,7 +84,7 @@ export default function ReviewPlayer({
 }) {
   const t = useT();
   const reduced = useReducedMotion();
-  const { sound, gradeWord, addBonusXp, bumpCounter, awardAchievements } = useApp();
+  const { sound, gradeWord, recordMisses, addBonusXp, bumpCounter, awardAchievements } = useApp();
 
   const [words, setWords] = useState<Word[] | null>(null);
   const [pool, setPool] = useState<Word[]>([]);
@@ -95,16 +119,12 @@ export default function ReviewPlayer({
       }
       const all = [...wordMap.values()];
       const tasks = shuffle(due).map<Task>((w, i) => {
-        const kind: Kind =
-          i % 4 === 0
-            ? w.bookSentenceEn
-              ? "cloze"
-              : "typeit"
-            : i % 4 === 1
-              ? "listening"
-              : i % 4 === 2
-                ? "reverse"
-                : "meaning";
+        // One rotating recall task per word; synonym/antonym join the rotation
+        // only when the dictionary has that relation for the word.
+        const kinds: Kind[] = [w.bookSentenceEn ? "cloze" : "typeit", "listening", "reverse", "meaning"];
+        if (w.synonyms.length > 0) kinds.push("synonym");
+        if (w.antonyms.length > 0) kinds.push("antonym");
+        const kind = kinds[i % kinds.length];
         return { kind, wordId: w.id, attempt: 0, choices: rollChoices(kind, w, all) };
       });
       setWords(due);
@@ -155,6 +175,8 @@ export default function ReviewPlayer({
       const misses = wrongs.current.get(w.id) ?? 0;
       gradeWord(w.id, misses === 0 ? 5 : 3);
     }
+    // Strike words missed this sitting → 1st miss = за преговор, 2nd = трудни.
+    recordMisses([...wrongs.current.keys()]);
     addBonusXp(taskXp);
     bumpCounter("reviews");
     const s = useApp.getState();
@@ -276,6 +298,14 @@ export default function ReviewPlayer({
               <div className="text-center">
                 <p className="text-sm font-bold text-ink-muted mb-2">{t("reversePrompt")}</p>
                 <p className="font-heading text-3xl font-bold">„{word.translation}“</p>
+              </div>
+            ) : task.kind === "synonym" || task.kind === "antonym" ? (
+              <div className="text-center">
+                <p className="text-sm font-bold text-ink-muted mb-2">
+                  {t(task.kind === "synonym" ? "synonymPrompt" : "antonymPrompt")}{" "}
+                  <strong className="text-ink">{word.word}</strong>?
+                </p>
+                <p className="text-sm text-emerald font-semibold">{word.translation}</p>
               </div>
             ) : (
               <div className="text-center">

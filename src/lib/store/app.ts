@@ -5,6 +5,7 @@ import { createJSONStorage, persist } from "zustand/middleware";
 import type { Lang, UserStats, WordProgress } from "@/lib/types";
 import { freshProgress, grade, markIntroduced } from "@/lib/srs";
 import { DEFAULT_DAILY_GOAL, GEMS, XP, levelForXp, localDate, nextStreak } from "@/lib/xp";
+import { safeMisses } from "@/lib/strikes";
 import { t, type StringKey } from "@/lib/i18n";
 
 export interface AppState {
@@ -37,6 +38,8 @@ export interface AppState {
   setUser: (id: string | null, email: string | null) => void;
   introduceWord: (wordId: number) => void;
   gradeWord: (wordId: number, quality: number) => void;
+  /** Bump the per-sitting strike counter once for each word missed this session. */
+  recordMisses: (wordIds: number[]) => void;
   completeLesson: (lessonId: string, opts: { taskXp: number; perfect: boolean }) => void;
   /** XP outside lessons (review/challenge), optionally with gems. */
   addBonusXp: (xp: number, gems?: number) => void;
@@ -130,6 +133,23 @@ export const useApp = create<AppState>()(
           dirtyWords: addDirty(s.dirtyWords, wordId),
         })),
 
+      recordMisses: (wordIds) =>
+        set((s) => {
+          const ids = [...new Set(wordIds)].filter((id) => id >= 0);
+          if (ids.length === 0) return s;
+          const progress = { ...s.progress };
+          let dirtyWords = s.dirtyWords;
+          for (const id of ids) {
+            const prev = progress[id] ?? freshProgress(id);
+            // +1 per sitting, capped so it can't run away; a freshly-missed
+            // word is never "mastered", so this immediately routes it to
+            // за преговор (1) or трудни (2). See lib/strikes.ts.
+            progress[id] = { ...prev, misses: Math.min(safeMisses(prev.misses) + 1, 9) };
+            dirtyWords = addDirty(dirtyWords, id);
+          }
+          return { progress, dirtyWords };
+        }),
+
       completeLesson: (lessonId, { taskXp, perfect }) =>
         set((s) => {
           const now = new Date();
@@ -204,7 +224,14 @@ export const useApp = create<AppState>()(
               cloud.timesSeen > local.timesSeen ||
               (cloud.timesSeen === local.timesSeen &&
                 (cloud.lastSeen ?? "") > (local.lastSeen ?? ""));
-            if (cloudWins) progress[cloud.wordId] = cloud;
+            if (cloudWins) {
+              // `misses` is local-first (cloud may lack the column → 0). Keep the
+              // higher strike count so a sync never silently empties Трудни.
+              progress[cloud.wordId] = {
+                ...cloud,
+                misses: Math.max(safeMisses(cloud.misses), safeMisses(local?.misses)),
+              };
+            }
           }
           let stats = s.stats;
           if (cloudStats) {
@@ -242,6 +269,18 @@ export const useApp = create<AppState>()(
     }),
     {
       name: "wq-app-v1",
+      // v1 adds WordProgress.misses. Existing devices have progress saved
+      // without it → backfill 0 so strike routing works for current users.
+      version: 1,
+      migrate: (persisted, version) => {
+        const s = persisted as { progress?: Record<number, WordProgress> } | undefined;
+        if (version < 1 && s?.progress) {
+          for (const p of Object.values(s.progress)) {
+            if (p) p.misses = safeMisses(p.misses);
+          }
+        }
+        return s as AppState;
+      },
       storage: createJSONStorage(() => localStorage),
       partialize: (s) => ({
         lang: s.lang,

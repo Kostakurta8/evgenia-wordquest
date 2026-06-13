@@ -120,6 +120,7 @@ export const STRINGS = {
   clozePrompt: { bg: "Попълни липсващата дума от книгата", en: "Fill in the missing word from the book" },
   pairsPrompt: { bg: "Свържи двойките", en: "Match the pairs" },
   synonymPrompt: { bg: "Кое е синоним на", en: "Which is a synonym of" },
+  antonymPrompt: { bg: "Кое е антоним (противоположно) на", en: "Which is an antonym of" },
 
   // Review hub
   reviewNow: { bg: "Преговори сега", en: "Review now" },
