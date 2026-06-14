@@ -153,18 +153,32 @@ interface Loaded {
 
 /**
  * Lesson mix: intro (new words) → recognition (meaning / listening, alternating)
- * → a synonym AND an antonym question per word whenever the dictionary has them
- * → production (cloze on the real book sentence, else type-it), production round
- * shuffled, tap-the-pairs consolidation at the end.
+ * → ONE relation question per word — synonym OR antonym, alternating across the
+ *   words that have BOTH (a word is never quizzed on both); a word with only one
+ *   relation gets that one → production (cloze on the real book sentence, else
+ *   type-it), production round shuffled, tap-the-pairs consolidation at the end.
  */
 function buildTasks(words: Word[], seenBefore: Set<number>): Task[] {
   const tasks: Task[] = [];
+  // Flips only for words that carry both relations: 1st such word → antonym,
+  // next → synonym, and so on.
+  let relToggle = 0;
   words.forEach((w, i) => {
     if (!seenBefore.has(w.id)) tasks.push({ kind: "intro", wordId: w.id, attempt: 0 });
     const base: TaskKind = i % 2 === 0 ? "meaning" : "listening";
     tasks.push({ kind: base, wordId: w.id, attempt: 0 });
-    if (w.synonyms.length > 0) tasks.push({ kind: "synonym", wordId: w.id, attempt: 0 });
-    if (w.antonyms.length > 0) tasks.push({ kind: "antonym", wordId: w.id, attempt: 0 });
+    const hasSyn = w.synonyms.length > 0;
+    const hasAnt = w.antonyms.length > 0;
+    let rel: TaskKind | null = null;
+    if (hasSyn && hasAnt) {
+      rel = relToggle % 2 === 0 ? "antonym" : "synonym";
+      relToggle += 1;
+    } else if (hasSyn) {
+      rel = "synonym";
+    } else if (hasAnt) {
+      rel = "antonym";
+    }
+    if (rel) tasks.push({ kind: rel, wordId: w.id, attempt: 0 });
   });
   const production = words.map<Task>((w) => ({
     kind: w.bookSentenceEn ? "cloze" : "typeit",
